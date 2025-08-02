@@ -1,0 +1,26 @@
+var classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests =
+[
+    [ "CanCallTypeInfoOnAllPlatforms", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a66d76cabad23848321c8d2b70fe88b0a", null ],
+    [ "CanGetGenericArguments", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#afb3026718ec6ab23d35673b8f7b5133d", null ],
+    [ "CanGetConstructors", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a1af84f8733453151ce690ebc25338ad2", null ],
+    [ "CanGetContructorWithParams", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a53d0bdfdd45da02871e15c446c982150", null ],
+    [ "CanGetGenericConstructor", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#ae7e7b0c69f8a015ecd11187649295991", null ],
+    [ "IsAssignableFromTest", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a810abb39e0732a454931a2067a07693d", null ],
+    [ "IsInstanceOfTypeTest", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a8bdaa39704469e23d269296eacce742b", null ],
+    [ "CanGetInterfaces", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a53b0ef175519a18c16c1df6ee90b553d", null ],
+    [ "CanGetMember", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a7ff70f0ff0fb2ecec3abd0305e9418fa", null ],
+    [ "DoesNotGetStaticMemberOnBaseClass", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a7be20355475082f6f193ad198d3ccd28", null ],
+    [ "DoesNotGetPrivateMemberOnBaseClass", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a8ed2f2f00a3543477a5f45f2034a5dec", null ],
+    [ "CanGetPublicField", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a749b16e44608b46d5fa9e87db24fbd08", null ],
+    [ "DoesNotGetPrivateField", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a6013964d249182792fc99a4b4a91be39", null ],
+    [ "CanGetProperty", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a1b33fb07e4fb82eba11a7059777ba85c", null ],
+    [ "DoesNotGetStaticPropertyOnBase", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#aed6249776f009734501e0004962ab0a1", null ],
+    [ "CanGetPropertyWithBindingFlags", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a52dd7a5ab01c474c3fab6abe6fe7a0a7", null ],
+    [ "CanGetMethodByName", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a67f0b0066a727a71a3d0cb891d8f81af", null ],
+    [ "CanGetMethodByNameAndArgs", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a61dd374586e81081530ea61b02faa761", null ],
+    [ "CanGetMethodByNameAndBindingFlags", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a57140398ea92b2ffcf86fd273da1781f", null ],
+    [ "CanGetStaticMethodsOnBase", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#adcc2730da317dd05125549769eaa989c", null ],
+    [ "DoesNotFindStaticMethodsOnBase", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#abd0160e364b65dca0e2669fcf089ce20", null ],
+    [ "CanGetGetMethod", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#a1a87981b9ecd72f27edb6ec93c65f8c0", null ],
+    [ "ONLY_ON_CF", "db/db2/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1ReflectionExtensionsTests.html#ac6506bfbb62be95235dfb0d4196a6c68", null ]
+];

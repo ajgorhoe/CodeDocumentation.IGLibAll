@@ -1,0 +1,15 @@
+<map id="IG.Neural.INeuralModelContainer" name="IG.Neural.INeuralModelContainer">
+<area shape="rect" id="node1" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="5,333,216,359"/>
+<area shape="rect" id="node2" href="$df/df0/classIG_1_1Neural_1_1Applications_1_1AnnAppDemo.html" title="Form for parametric tests and other viewing operations performed on ANN models." alt="" coords="298,5,477,47"/>
+<area shape="rect" id="node4" href="$d9/d22/classIG_1_1Neural_1_1Applications_1_1NeuralPredictionWindow.html" title="Window for making predictions of output values based on ANN model." alt="" coords="291,71,483,112"/>
+<area shape="rect" id="node5" href="$df/dcb/classIG_1_1Neural_1_1Forms_1_1NeuralAboutControlToDelete.html" title="Control for making predictions of output values based on ANN model." alt="" coords="291,136,483,177"/>
+<area shape="rect" id="node6" href="$d0/d8e/classIG_1_1Neural_1_1Forms_1_1NeuralDataControl.html" title="Control for manipulating neural approximation data (import/export)." alt="" coords="295,201,480,243"/>
+<area shape="rect" id="node7" href="$d8/daf/classIG_1_1Neural_1_1Forms_1_1NeuralInputControl.html" title="Control for editing input parameter values." alt="" coords="294,267,481,308"/>
+<area shape="rect" id="node8" href="$dc/d6f/classIG_1_1Neural_1_1Forms_1_1NeuralParametricTest.html" title="Form for training artificial neural networks." alt="" coords="264,333,511,359"/>
+<area shape="rect" id="node9" href="$de/d18/classIG_1_1Neural_1_1Forms_1_1NeuralParametricTest2d.html" title="Form for simple parametric tests (variation of selected parameter) performed on ANN models." alt="" coords="277,384,498,425"/>
+<area shape="rect" id="node10" href="$da/d2f/classIG_1_1Neural_1_1Forms_1_1NeuralPredictionControl.html" title="Control for making predictions of output values based on ANN model." alt="" coords="279,449,495,491"/>
+<area shape="rect" id="node11" href="$d0/d66/classIG_1_1Neural_1_1Forms_1_1NeuralSamplingControl.html" title="Control for defininng scalar functions and sampling them in order to create neural approximation data..." alt="" coords="281,515,493,556"/>
+<area shape="rect" id="node12" href="$da/d74/classIG_1_1Neural_1_1Forms_1_1NeuralSamplingInputControl.html" title="Control for editing input parameter data necessary for sampling scalar functions." alt="" coords="281,580,493,621"/>
+<area shape="rect" id="node13" href="$d1/d29/classIG_1_1Neural_1_1Forms_1_1NeuralTrainingControl.html" title="A 2D neural network approximation demo control." alt="" coords="286,645,489,687"/>
+<area shape="rect" id="node3" href="$d0/d52/classIG_1_1Neural_1_1Applications_1_1AnnAppDemoExperimental.html" title="Experimental class for neural parametric demos." alt="" coords="559,5,737,47"/>
+</map>

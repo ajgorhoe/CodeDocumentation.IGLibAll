@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d72/interfaceAForge_1_1Fuzzy_1_1IMembershipFunction.html" title="Interface which specifies set of methods required to be implemented by all membership functions." alt="" coords="5,35,188,76"/>
+<area shape="rect" id="node2" href="$d8/d8e/classAForge_1_1Fuzzy_1_1PiecewiseLinearFunction.html" title="Membership function composed by several connected linear functions." alt="" coords="241,5,443,47"/>
+<area shape="rect" id="node4" href="$db/d46/classAForge_1_1Fuzzy_1_1SingletonFunction.html" title="Membership function used in fuzzy singletons: fuzzy sets that have just one point with membership val..." alt="" coords="236,71,448,98"/>
+<area shape="rect" id="node3" href="$d7/d18/classAForge_1_1Fuzzy_1_1TrapezoidalFunction.html" title="Membership function in the shape of a trapezoid. Can be a half trapzoid if the left or the right side..." alt="" coords="496,5,671,47"/>
+</map>

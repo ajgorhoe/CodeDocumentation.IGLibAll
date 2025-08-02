@@ -1,0 +1,26 @@
+var classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject =
+[
+    [ "ProjectConfig", "d5/d2a/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject_1_1ProjectConfig.html", "d5/d2a/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject_1_1ProjectConfig" ],
+    [ "VSProject", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#ad3ea1272762fc95b2db5acab8cb1ba9c", null ],
+    [ "GetTestPackage", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#adb1def77e55407dcc6dc9b398c8aa3d9", null ],
+    [ "GetTestPackage", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#a230cdcab647c06a788c23cfcc8616e61", null ],
+    [ "IsProjectFile", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#a8e83bcc339b169d7b5cf85071af792e6", null ],
+    [ "IsSolutionFile", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#ac8ed16c9656b5aec90861ea82ac2ece6", null ],
+    [ "Load", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#a281081724966ed79b9afa47ba3d01437", null ],
+    [ "TryLoadLegacyProject", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#a062fad27213004c2d70ea739a5bc59ae", null ],
+    [ "LoadMSBuildProject", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#a8df6960b62ecf99d62c4e5ed00ebbd4d", null ],
+    [ "LoadLegacyCppProject", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#aca266b184700a80c6bc8dd45f37cc714", null ],
+    [ "ThrowInvalidFileType", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#aa85af9ecee9d1a4ba6ab0eeb31e53d73", null ],
+    [ "ThrowInvalidFormat", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#acca092d20d165a5e179e6e3c3b75efa5", null ],
+    [ "SafeAttributeValue", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#a82d434c2d250f865df78b11c29a7f925", null ],
+    [ "RequiredAttributeValue", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#a0eb8aaaf9aa025a1e47e7577ea5a12b2", null ],
+    [ "GetConfigNameFromCondition", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#a4e02f8c097fbfc7777501f6dc3e7b524", null ],
+    [ "PROJECT_EXTENSIONS", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#ad7302ccf4fc6ca36c77d20364393c059", null ],
+    [ "SOLUTION_EXTENSION", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#ae48cc33aefc91b118f18cac4559078fc", null ],
+    [ "_doc", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#a1f5ad495689fd20805260c8468945c78", null ],
+    [ "_configs", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#aa350c345479ec85b80501ac3347c1dc5", null ],
+    [ "ProjectPath", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#af4b8fa8e2048b648247058b89844935a", null ],
+    [ "ActiveConfigName", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#ac19f2e4a71c1c3cafa9f55449906dca5", null ],
+    [ "ConfigNames", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#ac161813d27242af9334bb96fc52cd8b5", null ],
+    [ "Name", "d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html#aa28e8f340237bf4bb39417d3263534c7", null ]
+];

@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Internal.PlatformHelper" name="NUnit.Framework.Internal.PlatformHelper">
+<area shape="rect" id="node1" title="PlatformHelper class is used by the PlatformAttribute class to determine whether a platform is suppor..." alt="" coords="493,65,665,106"/>
+<area shape="rect" id="node2" href="$d5/d54/classNUnit_1_1Framework_1_1Internal_1_1RuntimeFramework.html" title="RuntimeFramework represents a particular version of a common language runtime implementation." alt="" coords="255,65,427,106"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,52,60,79"/>
+<area shape="rect" id="node4" href="$d8/df4/classNUnit_1_1Framework_1_1Internal_1_1OSPlatform.html" title="OSPlatform represents a particular operating system platform" alt="" coords="255,139,427,181"/>
+</map>

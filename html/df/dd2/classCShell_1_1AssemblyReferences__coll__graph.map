@@ -1,0 +1,8 @@
+<map id="CShell.AssemblyReferences" name="CShell.AssemblyReferences">
+<area shape="rect" id="node1" title=" " alt="" coords="635,71,821,98"/>
+<area shape="rect" id="node2" href="$de/d8d/classCShell_1_1Util_1_1ObservableKeyedCollection.html" title=" " alt="" coords="341,5,544,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="56,79,145,106"/>
+<area shape="rect" id="node4" href="$dc/d7b/classCShell_1_1ScriptingEngine.html" title=" " alt="" coords="365,130,520,157"/>
+<area shape="rect" id="node5" href="$d0/dc3/interfaceCShellCore_1_1CodeCompletion_1_1ICSharpScriptProvider.html" title="This interface allows to provide more information for scripts such as using statements,..." alt="" coords="27,138,175,165"/>
+<area shape="rect" id="node6" href="$da/dc3/classCShellCore_1_1CodeCompletion_1_1CSharpCompletion.html" title=" " alt="" coords="5,189,196,231"/>
+</map>

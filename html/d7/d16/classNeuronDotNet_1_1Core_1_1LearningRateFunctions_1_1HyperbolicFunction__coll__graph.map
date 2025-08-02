@@ -1,0 +1,6 @@
+<map id="NeuronDotNet.Core.LearningRateFunctions.HyperbolicFunction" name="NeuronDotNet.Core.LearningRateFunctions.HyperbolicFunction">
+<area shape="rect" id="node1" title="Hyperbolic Learning Rate Function. As training progresses, The learning rate hyperbolically changes f..." alt="" coords="5,229,227,271"/>
+<area shape="rect" id="node2" href="$da/d79/classNeuronDotNet_1_1Core_1_1LearningRateFunctions_1_1AbstractFunction.html" title="An abstract base class for a learning rate function." alt="" coords="55,155,177,181"/>
+<area shape="rect" id="node3" href="$d9/d85/interfaceNeuronDotNet_1_1Core_1_1ILearningRateFunction.html" title="Learning Rate Function interface. This interface defines the way in which learning rate changes from ..." alt="" coords="41,80,191,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="70,5,162,32"/>
+</map>

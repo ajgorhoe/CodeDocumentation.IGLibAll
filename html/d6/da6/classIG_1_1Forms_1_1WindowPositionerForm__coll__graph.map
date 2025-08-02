@@ -1,0 +1,15 @@
+<map id="IG.Forms.WindowPositionerForm" name="IG.Forms.WindowPositionerForm">
+<area shape="rect" id="node1" title="Windows form for testing window positioning./summary&gt; $A Igor xx Oct09;" alt="" coords="1143,249,1357,276"/>
+<area shape="rect" id="node2" title=" " alt="" coords="823,161,875,188"/>
+<area shape="rect" id="node3" href="$d3/d68/interfaceIG_1_1Forms_1_1IClosableFromContainedForm.html" title="Marker interface indicating that a form can be closed from the contained control." alt="" coords="764,213,935,254"/>
+<area shape="rect" id="node4" title=" " alt="" coords="31,465,98,492"/>
+<area shape="rect" id="node5" href="$d0/de6/classIG_1_1Forms_1_1WindowPositionerControl.html" title="Control for testing window positioning." alt="" coords="757,521,941,562"/>
+<area shape="rect" id="node7" href="$df/d0e/classIG_1_1Forms_1_1WindowPositioner.html" title="Takes care of windows positioning, relative of absolute to the screen and/or other windows." alt="" coords="387,175,571,201"/>
+<area shape="rect" id="node11" href="$d8/dfa/classIG_1_1Forms_1_1WindowShiftControlText.html" title="Control for setting window positions, relative positions, sizes, positions, shifts,..." alt="" coords="369,607,588,633"/>
+<area shape="rect" id="node12" href="$d2/d08/classIG_1_1Forms_1_1AlignmentControl.html" title="Control for setting horizontal and vertical alignment of items." alt="" coords="389,765,568,792"/>
+<area shape="rect" id="node6" title=" " alt="" coords="19,843,110,869"/>
+<area shape="rect" id="node8" href="$d4/da1/structIG_1_1Lib_1_1Alignment.html" title="Defines alignment (vertical and horizontal) of some object." alt="" coords="5,37,124,64"/>
+<area shape="rect" id="node9" href="$dc/daf/structIG_1_1Num_1_1vec2.html" title="Struct representing a 3D vector." alt="" coords="17,125,113,152"/>
+<area shape="rect" id="node10" title=" " alt="" coords="37,176,92,203"/>
+<area shape="rect" id="node13" title=" " alt="" coords="459,329,498,356"/>
+</map>

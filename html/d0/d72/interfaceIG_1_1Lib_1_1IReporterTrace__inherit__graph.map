@@ -1,0 +1,10 @@
+<map id="IG.Lib.IReporterTrace" name="IG.Lib.IReporterTrace">
+<area shape="rect" id="node1" title="Reporters that utilize system&#39;s trace utility." alt="" coords="99,80,243,107"/>
+<area shape="rect" id="node3" href="$db/db1/interfaceIG_1_1Lib_1_1IReporter.html" title="Interface from which majority of reporters inherit. Includes generic reporting functionality plus tra..." alt="" coords="115,155,227,181"/>
+<area shape="rect" id="node2" href="$de/d0d/interfaceIG_1_1Lib_1_1IReporterBase.html" title="Interface from which all reporters inherit." alt="" coords="119,5,223,32"/>
+<area shape="rect" id="node4" href="$dd/d3c/interfaceIG_1_1Lib_1_1IReporterConsole.html" title=" " alt="" coords="5,229,164,256"/>
+<area shape="rect" id="node7" href="$d4/de2/classIG_1_1Lib_1_1ReporterBase.html" title="Base IGlib class for reporting, tracing and logging; provides a global reporter and a basis for creat..." alt="" coords="189,229,327,256"/>
+<area shape="rect" id="node5" href="$de/df1/classIG_1_1Lib_1_1ReporterConsole.html" title=" " alt="" coords="7,379,163,405"/>
+<area shape="rect" id="node6" href="$da/df9/classIG_1_1Lib_1_1ReporterConsole__Base.html" title="Base class for reporter classes that contain either reporting via system console, reporting via messa..." alt="" coords="56,304,249,331"/>
+<area shape="rect" id="node8" href="$d0/d73/classIG_1_1Forms_1_1ReporterForms.html" title="Reporting system that in particular utilizes forms. Beside the main delegates for assembling location..." alt="" coords="273,304,440,331"/>
+</map>

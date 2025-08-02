@@ -1,0 +1,5 @@
+<map id="IGLib.Core.ReadonlyArrayAccessor&lt; ElementType &gt;" name="IGLib.Core.ReadonlyArrayAccessor&lt; ElementType &gt;">
+<area shape="rect" id="node1" title="Provides readonly access to elements of a fixed array. This is typically used to access array&#45;like in..." alt="" coords="7,95,185,136"/>
+<area shape="rect" id="node3" href="$d3/daf/classIGLib_1_1Core_1_1ArrayAccessor.html" title="Provides read/write access to elements of a fixed array. This is typically used to access array&#45;like ..." alt="" coords="5,184,187,225"/>
+<area shape="rect" id="node2" href="$d4/d68/interfaceIGLib_1_1Core_1_1IReadonlyArrayAccessor.html" title="Provides read only access to elements of an underlying onedimensional array&#45;like structure." alt="" coords="13,5,179,47"/>
+</map>

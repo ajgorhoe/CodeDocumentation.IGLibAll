@@ -1,0 +1,8 @@
+<map id="IG.Web.IWsDevelop1" name="IG.Web.IWsDevelop1">
+<area shape="rect" id="node1" title="Interface for higher level development web services." alt="" coords="190,155,335,181"/>
+<area shape="rect" id="node4" href="$da/dbe/classIG_1_1Web_1_1WSDevelop1.html" title="Web service class." alt="" coords="5,229,149,256"/>
+<area shape="rect" id="node5" href="$d4/d76/classIG_1_1Web_1_1WSDevelop1Class.html" title="Web service class." alt="" coords="174,229,351,256"/>
+<area shape="rect" id="node6" href="$d6/d6f/classIG_1_1Web_1_1WSDevelop1Ref.html" title="Class for referencing a web service based on the WSDevelopClass." alt="" coords="376,229,539,256"/>
+<area shape="rect" id="node2" href="$d3/d6b/interfaceIG_1_1Web_1_1IWsDevelop.html" title="Interface for development web services." alt="" coords="259,80,349,107"/>
+<area shape="rect" id="node3" href="$d3/d45/interfaceIG_1_1Web_1_1IWSBase.html" title="Interface for basic web service." alt="" coords="224,5,301,32"/>
+</map>

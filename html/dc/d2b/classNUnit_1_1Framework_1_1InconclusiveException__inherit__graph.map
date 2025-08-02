@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.InconclusiveException" name="NUnit.Framework.InconclusiveException">
+<area shape="rect" id="node1" title="Thrown when a test executes inconclusively." alt="" coords="5,155,201,196"/>
+<area shape="rect" id="node2" href="$dc/d3c/classNUnit_1_1Framework_1_1ResultStateException.html" title="Abstract base for Exceptions that terminate a test and provide a ResultState." alt="" coords="29,80,177,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="63,5,143,32"/>
+</map>

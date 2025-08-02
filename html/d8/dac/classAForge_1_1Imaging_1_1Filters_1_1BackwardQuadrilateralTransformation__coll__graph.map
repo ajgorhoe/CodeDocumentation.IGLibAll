@@ -1,0 +1,9 @@
+<map id="AForge.Imaging.Filters.BackwardQuadrilateralTransformation" name="AForge.Imaging.Filters.BackwardQuadrilateralTransformation">
+<area shape="rect" id="node1" title="Performs backward quadrilateral transformation into an area in destination image." alt="" coords="208,185,423,227"/>
+<area shape="rect" id="node2" href="$d6/d11/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlaceFilter.html" title="Base class for filters, which may be applied directly to the source image." alt="" coords="97,89,221,115"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="84,5,181,32"/>
+<area shape="rect" id="node5" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="206,5,323,32"/>
+<area shape="rect" id="node6" href="$d0/d77/classAForge_1_1Imaging_1_1UnmanagedImage.html" title="Image in unmanaged memory." alt="" coords="286,81,473,123"/>
+<area shape="rect" id="node7" title=" " alt="" coords="348,5,437,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="CShell.Framework.IModule" name="CShell.Framework.IModule">
+<area shape="rect" id="node1" title=" " alt="" coords="196,107,373,133"/>
+<area shape="rect" id="node3" href="$d2/df0/classCShell_1_1Framework_1_1ModuleBase.html" title=" " alt="" coords="421,107,625,133"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,107,148,133"/>
+<area shape="rect" id="node4" href="$d9/d4f/classCShell_1_1Modules_1_1Editors_1_1Module.html" title=" " alt="" coords="673,5,877,32"/>
+<area shape="rect" id="node5" href="$d0/dd7/classCShell_1_1Modules_1_1Help_1_1Module.html" title=" " alt="" coords="681,56,870,83"/>
+<area shape="rect" id="node6" href="$df/df5/classCShell_1_1Modules_1_1Repl_1_1Module.html" title=" " alt="" coords="681,107,870,133"/>
+<area shape="rect" id="node7" href="$d6/dec/classCShell_1_1Modules_1_1Shell_1_1Module.html" title=" " alt="" coords="679,157,871,184"/>
+<area shape="rect" id="node8" href="$d0/de5/classCShell_1_1Modules_1_1Workspace_1_1Module.html" title=" " alt="" coords="682,209,869,250"/>
+</map>

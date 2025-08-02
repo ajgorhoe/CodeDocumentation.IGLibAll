@@ -1,0 +1,11 @@
+<map id="PoseEstimation.MainForm" name="PoseEstimation.MainForm">
+<area shape="rect" id="node1" title=" " alt="" coords="725,171,901,197"/>
+<area shape="rect" id="node2" title=" " alt="" coords="371,5,423,32"/>
+<area shape="rect" id="node3" href="$dc/dea/structPoseEstimation_1_1MainForm_1_1Sample.html" title=" " alt="" coords="307,57,487,98"/>
+<area shape="rect" id="node4" href="$d7/de2/structAForge_1_1Math_1_1Vector3.html" title="3D Vector structure with X, Y and Z coordinates." alt="" coords="5,64,152,91"/>
+<area shape="rect" id="node5" title=" " alt="" coords="47,153,111,180"/>
+<area shape="rect" id="node6" href="$d7/db4/classPoseEstimation_1_1WorldRendererControl.html" title=" " alt="" coords="295,219,499,261"/>
+<area shape="rect" id="node7" title=" " alt="" coords="33,249,124,276"/>
+<area shape="rect" id="node9" href="$d7/daf/classPoseEstimation_1_1MatrixControl.html" title=" " alt="" coords="299,307,494,333"/>
+<area shape="rect" id="node8" title=" " alt="" coords="45,492,112,519"/>
+</map>

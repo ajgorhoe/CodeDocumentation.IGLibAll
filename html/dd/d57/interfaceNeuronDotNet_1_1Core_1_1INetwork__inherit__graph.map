@@ -1,0 +1,9 @@
+<map id="NeuronDotNet.Core.INetwork" name="NeuronDotNet.Core.INetwork">
+<area shape="rect" id="node1" title=" " alt="" coords="145,78,333,105"/>
+<area shape="rect" id="node3" href="$d0/d7c/classNeuronDotNet_1_1Core_1_1Network.html" title=" " alt="" coords="381,78,567,105"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,78,97,105"/>
+<area shape="rect" id="node4" href="$de/d87/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1BackpropagationNetwork.html" title="This class extends a Network and represents a Backpropagation neural network." alt="" coords="615,37,853,79"/>
+<area shape="rect" id="node7" href="$d9/dec/classNeuronDotNet_1_1Core_1_1SOM_1_1KohonenNetwork.html" title="This class extends a Network and represents a Kohonen Self&#45;Organizing Map." alt="" coords="623,103,845,144"/>
+<area shape="rect" id="node5" href="$db/d6e/classIG_1_1Neural_1_1NeuralApproximatorNeuron_1_1MyNeuronBackPropagation.html" title="Replacement for BackpropagationNetwork from NeuronDotNet, adapts some functionality to the needs of e..." alt="" coords="901,5,1127,47"/>
+<area shape="rect" id="node6" href="$d4/db8/classIG_1_1Neural_1_1NeuronBackPropagationLEarning.html" title=" " alt="" coords="904,71,1124,112"/>
+</map>

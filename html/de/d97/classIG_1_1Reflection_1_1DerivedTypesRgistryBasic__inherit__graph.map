@@ -1,0 +1,5 @@
+<map id="IG.Reflection.DerivedTypesRgistryBasic&lt; BaseType &gt;" name="IG.Reflection.DerivedTypesRgistryBasic&lt; BaseType &gt;">
+<area shape="rect" id="node1" title="Registry of types with a common base type, similar to DerivedTypesRegistry&lt;BaseType,..." alt="" coords="90,95,269,136"/>
+<area shape="rect" id="node2" href="$da/dad/classIG_1_1Reflection_1_1DerivedTypesRegistry.html" title=" " alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node3" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="221,13,298,39"/>
+</map>

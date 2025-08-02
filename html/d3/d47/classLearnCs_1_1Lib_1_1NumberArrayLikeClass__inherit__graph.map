@@ -1,0 +1,5 @@
+<map id="LearnCs.Lib.NumberArrayLikeClass&lt; ElementType &gt;" name="LearnCs.Lib.NumberArrayLikeClass&lt; ElementType &gt;">
+<area shape="rect" id="node1" title="Abstract base class for an array&#45;like structures (potentially multidimensional) of number elements (w..." alt="" coords="5,95,200,136"/>
+<area shape="rect" id="node3" href="$d1/df7/classLearnCs_1_1Lib_1_1VectorBase.html" title="Abstract base class for vectors of different element types (with element types being number types lik..." alt="" coords="17,184,188,225"/>
+<area shape="rect" id="node2" href="$de/df6/interfaceLearnCs_1_1Lib_1_1INumberArrayLikeClass.html" title="Interface for an array&#45;like structures (potentially multidimensional) of number elements (with elemen..." alt="" coords="23,5,182,47"/>
+</map>

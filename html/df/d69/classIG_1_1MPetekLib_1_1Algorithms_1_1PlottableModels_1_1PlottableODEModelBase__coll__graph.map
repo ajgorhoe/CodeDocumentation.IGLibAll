@@ -1,0 +1,6 @@
+<map id="IG.MPetekLib.Algorithms.PlottableModels.PlottableODEModelBase" name="IG.MPetekLib.Algorithms.PlottableModels.PlottableODEModelBase">
+<area shape="rect" id="node1" title="A template class for physical models, which are described by ordinary differential equations (ODEs)...." alt="" coords="509,23,772,65"/>
+<area shape="rect" id="node2" href="$d2/d4f/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableModelBase.html" title="A template class for physical models. Each child should define its own plottable curves)." alt="" coords="249,5,387,32"/>
+<area shape="rect" id="node3" href="$de/d6b/classIG_1_1MPetekLib_1_1Algorithms_1_1Solvers_1_1InitialProblemODE__RK4_1_1InitialProblemSolverRK4.html" title="A fourth order Runge&#45;Kutta ODE solver." alt="" coords="220,56,416,112"/>
+<area shape="rect" id="node4" href="$d1/dfd/classIG_1_1MPetekLib_1_1Algorithms_1_1Solvers_1_1InitialProblemODE__RK4_1_1InitialProblemSolverBase.html" title="A template ODE solver without an actual implementation of the solving method (e.g...." alt="" coords="5,71,171,97"/>
+</map>

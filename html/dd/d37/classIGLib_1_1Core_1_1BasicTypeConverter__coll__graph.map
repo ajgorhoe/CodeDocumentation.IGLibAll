@@ -1,0 +1,4 @@
+<map id="IGLib.Core.BasicTypeConverter" name="IGLib.Core.BasicTypeConverter">
+<area shape="rect" id="node1" title="Provides basic type conversion functionality using IConvertible and nullable handling." alt="" coords="5,80,208,107"/>
+<area shape="rect" id="node2" href="$de/d63/interfaceIGLib_1_1Core_1_1ITypeConverter.html" title="Defines methods for converting objects to a specified type." alt="" coords="53,5,160,32"/>
+</map>

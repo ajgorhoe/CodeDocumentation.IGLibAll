@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.IRuntimeFrameworkService" name="NUnit.Engine.IRuntimeFrameworkService">
+<area shape="rect" id="node1" title="Implemented by a type that provides information about the current and other available runtimes." alt="" coords="5,39,223,80"/>
+<area shape="rect" id="node2" href="$da/d5b/classNUnit_1_1Engine_1_1Services_1_1RuntimeFrameworkService.html" title=" " alt="" coords="271,5,473,47"/>
+<area shape="rect" id="node3" href="$df/df4/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeRuntimeService.html" title=" " alt="" coords="277,71,467,112"/>
+</map>

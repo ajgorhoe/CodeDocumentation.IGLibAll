@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.Builders.ParameterDataProvider" name="NUnit.Framework.Internal.Builders.ParameterDataProvider">
+<area shape="rect" id="node1" title="The ParameterDataProvider class implements IParameterDataProvider and hosts one or more individual pr..." alt="" coords="5,80,212,121"/>
+<area shape="rect" id="node2" href="$dd/d8f/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IParameterDataProvider.html" title="The IDataPointProvider interface is used by extensions that provide data for a single test parameter." alt="" coords="29,5,188,32"/>
+</map>

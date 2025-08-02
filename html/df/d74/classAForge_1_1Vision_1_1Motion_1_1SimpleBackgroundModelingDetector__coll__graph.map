@@ -1,0 +1,13 @@
+<map id="AForge.Vision.Motion.SimpleBackgroundModelingDetector" name="AForge.Vision.Motion.SimpleBackgroundModelingDetector">
+<area shape="rect" id="node1" title="Motion detector based on simple background modeling." alt="" coords="768,94,960,135"/>
+<area shape="rect" id="node2" href="$d2/d43/interfaceAForge_1_1Vision_1_1Motion_1_1IMotionDetector.html" title="Interface of motion detector algorithm." alt="" coords="461,5,574,32"/>
+<area shape="rect" id="node3" href="$d0/d77/classAForge_1_1Imaging_1_1UnmanagedImage.html" title="Image in unmanaged memory." alt="" coords="424,57,611,98"/>
+<area shape="rect" id="node4" title=" " alt="" coords="235,64,325,91"/>
+<area shape="rect" id="node5" href="$d1/d37/classAForge_1_1Imaging_1_1Filters_1_1BinaryDilatation3x3.html" title="Binary dilatation operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="420,122,615,163"/>
+<area shape="rect" id="node6" href="$d8/ddf/classAForge_1_1Imaging_1_1Filters_1_1BaseUsingCopyPartialFilter.html" title="Base class for filters, which require source image backup to make them applicable to source image (or..." alt="" coords="189,155,371,181"/>
+<area shape="rect" id="node11" href="$dd/de9/classAForge_1_1Imaging_1_1Filters_1_1BinaryErosion3x3.html" title="Binary erosion operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="420,187,615,229"/>
+<area shape="rect" id="node7" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="45,79,100,105"/>
+<area shape="rect" id="node8" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="24,129,121,156"/>
+<area shape="rect" id="node9" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="5,180,140,207"/>
+<area shape="rect" id="node10" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="14,231,131,257"/>
+</map>

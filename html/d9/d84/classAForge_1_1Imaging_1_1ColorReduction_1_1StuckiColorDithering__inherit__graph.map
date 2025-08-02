@@ -1,0 +1,5 @@
+<map id="AForge.Imaging.ColorReduction.StuckiColorDithering" name="AForge.Imaging.ColorReduction.StuckiColorDithering">
+<area shape="rect" id="node1" title="Color dithering using Stucki error diffusion." alt="" coords="5,169,215,211"/>
+<area shape="rect" id="node2" href="$df/d7b/classAForge_1_1Imaging_1_1ColorReduction_1_1ColorErrorDiffusionToAdjacentNeighbors.html" title="Base class for error diffusion color dithering, where error is diffused to adjacent neighbor pixels." alt="" coords="13,80,207,121"/>
+<area shape="rect" id="node3" href="$d4/dc5/classAForge_1_1Imaging_1_1ColorReduction_1_1ErrorDiffusionColorDithering.html" title="Base class for error diffusion color dithering." alt="" coords="20,5,200,32"/>
+</map>

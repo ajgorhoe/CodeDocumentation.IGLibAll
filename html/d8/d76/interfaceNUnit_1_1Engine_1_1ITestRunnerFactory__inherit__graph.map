@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.ITestRunnerFactory" name="NUnit.Engine.ITestRunnerFactory">
+<area shape="rect" id="node1" title="A Test Runner factory can supply a suitable test runner for a given package" alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node2" href="$d1/d7b/classNUnit_1_1Engine_1_1Services_1_1DefaultTestRunnerFactory.html" title="DefaultTestRunnerFactory handles creation of a suitable test runner for a given package to be loaded ..." alt="" coords="452,5,647,47"/>
+<area shape="rect" id="node3" href="$db/df5/classNUnit_1_1Engine_1_1Services_1_1InProcessTestRunnerFactory.html" title="InProcessTestRunnerFactory handles creation of a suitable test runner for a given package to be loade..." alt="" coords="224,35,404,76"/>
+</map>

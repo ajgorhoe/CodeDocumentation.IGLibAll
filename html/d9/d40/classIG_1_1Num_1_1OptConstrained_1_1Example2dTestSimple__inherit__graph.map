@@ -1,0 +1,6 @@
+<map id="IG.Num.OptConstrained.Example2dTestSimple" name="IG.Num.OptConstrained.Example2dTestSimple">
+<area shape="rect" id="node1" title="A simple test optimization problem (quadratic constrained, 2 parameters, 2 linear constraints)." alt="" coords="5,155,235,196"/>
+<area shape="rect" id="node2" href="$dd/d1e/classIG_1_1Num_1_1AnalysisBase.html" title="Base class for direct analysis classes that define optimization problems. Represent the complete defi..." alt="" coords="114,80,217,107"/>
+<area shape="rect" id="node3" href="$d5/d59/interfaceIG_1_1Num_1_1IAnalysis.html" title="Interface for direct analysis classes used in optimization problems." alt="" coords="39,5,113,32"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="137,5,215,32"/>
+</map>

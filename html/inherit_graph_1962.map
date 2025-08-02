@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d3/dbe/classNUnit_1_1TestData_1_1TestFixtureTests_1_1AbstractBaseFixtureWithAttribute.html" title=" " alt="" coords="5,13,259,54"/>
+<area shape="rect" id="node2" href="$dd/dac/classNUnit_1_1TestData_1_1TestFixtureTests_1_1AbstractDerivedFixtureWithSecondAttribute.html" title=" " alt="" coords="307,5,523,61"/>
+<area shape="rect" id="node3" href="$d9/d52/classNUnit_1_1TestData_1_1TestFixtureTests_1_1DoubleDerivedClassWithTwoInheritedAttributes.html" title=" " alt="" coords="571,5,793,61"/>
+</map>

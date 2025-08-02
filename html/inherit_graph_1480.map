@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d4/d8e/interfaceNeuronDotNet_1_1Core_1_1INeuron.html" title="Interface representing a neuron. A neuron is a basic building block of a neural network." alt="" coords="5,46,188,73"/>
+<area shape="rect" id="node2" href="$da/dc8/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1ActivationNeuron.html" title="Activation Neuron is a buiding block of a back&#45;propagation neural network." alt="" coords="236,5,475,47"/>
+<area shape="rect" id="node3" href="$dc/d62/classNeuronDotNet_1_1Core_1_1SOM_1_1PositionNeuron.html" title="Position Neuron is a neuron in a two&#45;dimensional space used in Kohonen networks." alt="" coords="246,71,465,112"/>
+</map>

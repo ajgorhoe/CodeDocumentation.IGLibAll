@@ -1,0 +1,10 @@
+<map id="NeuronDotNet.Core.Backpropagation.BackpropagationSynapse" name="NeuronDotNet.Core.Backpropagation.BackpropagationSynapse">
+<area shape="rect" id="node1" title="Backpropagation synapse connects two activation neurons. A typical backpropagation network contains t..." alt="" coords="929,57,1168,98"/>
+<area shape="rect" id="node2" href="$d2/d8d/interfaceNeuronDotNet_1_1Core_1_1ISynapse.html" title="This interface represents a synapse in a network. A Synapse is responsible for communication between ..." alt="" coords="639,5,715,32"/>
+<area shape="rect" id="node3" href="$da/dc8/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1ActivationNeuron.html" title="Activation Neuron is a buiding block of a back&#45;propagation neural network." alt="" coords="557,57,796,98"/>
+<area shape="rect" id="node4" href="$d4/d8e/interfaceNeuronDotNet_1_1Core_1_1INeuron.html" title="Interface representing a neuron. A neuron is a basic building block of a neural network." alt="" coords="315,5,382,32"/>
+<area shape="rect" id="node5" href="$df/d8a/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1ActivationLayer.html" title="Activation Layer is a layer of activation neurons." alt="" coords="229,57,468,98"/>
+<area shape="rect" id="node6" href="$db/d81/classNeuronDotNet_1_1Core_1_1Layer.html" title=" " alt="" coords="5,64,180,91"/>
+<area shape="rect" id="node7" href="$d6/de0/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1BackpropagationConnector.html" title="A Backpropagation Connector is an IConnector which consists of a collection of backpropagation synaps..." alt="" coords="557,126,796,167"/>
+<area shape="rect" id="node8" href="$d0/d97/classNeuronDotNet_1_1Core_1_1Connector.html" title=" " alt="" coords="239,123,458,179"/>
+</map>

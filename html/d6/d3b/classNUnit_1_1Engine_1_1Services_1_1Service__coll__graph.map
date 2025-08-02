@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.Services.Service" name="NUnit.Engine.Services.Service">
+<area shape="rect" id="node1" title="Abstract base class for services that can use it. Some Services already inherit from a different clas..." alt="" coords="5,80,203,107"/>
+<area shape="rect" id="node2" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="20,5,87,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="111,5,201,32"/>
+</map>

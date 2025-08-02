@@ -1,0 +1,7 @@
+<map id="IG.Num.SamplerCubeRandomUniform" name="IG.Num.SamplerCubeRandomUniform">
+<area shape="rect" id="node1" title="Uniformly distributed random sampling within the coordinate origin&#45;centered cube." alt="" coords="5,229,201,271"/>
+<area shape="rect" id="node2" href="$d8/d19/classIG_1_1Num_1_1SamplerBaseRandom.html" title="Base class for sampling classes that produce a desired number of sampling points with a particular ar..." alt="" coords="85,155,233,181"/>
+<area shape="rect" id="node3" href="$db/d96/classIG_1_1Num_1_1SamplerBase.html" title="Base class for sampling classes that produce a desired number of sampling points with a particular ar..." alt="" coords="136,80,236,107"/>
+<area shape="rect" id="node4" href="$dc/d12/interfaceIG_1_1Num_1_1ISampler.html" title="Interface representing sampling objects that produce a desired number of sampling points with a parti..." alt="" coords="55,5,128,32"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="153,5,230,32"/>
+</map>

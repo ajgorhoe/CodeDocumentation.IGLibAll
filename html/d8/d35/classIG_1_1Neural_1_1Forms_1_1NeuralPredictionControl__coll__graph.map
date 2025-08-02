@@ -1,0 +1,11 @@
+<map id="IG.Neural.Forms.NeuralPredictionControl" name="IG.Neural.Forms.NeuralPredictionControl">
+<area shape="rect" id="node1" title="Control for making predictions of output values based on ANN model." alt="" coords="817,480,1033,521"/>
+<area shape="rect" id="node2" title=" " alt="" coords="65,20,156,47"/>
+<area shape="rect" id="node4" href="$d9/da9/classIG_1_1Neural_1_1Forms_1_1NeuralOutputControl.html" title="Control for editing output values of an approximative model." alt="" coords="445,445,643,486"/>
+<area shape="rect" id="node8" href="$d8/daf/classIG_1_1Neural_1_1Forms_1_1NeuralInputControl.html" title="Control for editing input parameter values." alt="" coords="451,510,637,552"/>
+<area shape="rect" id="node3" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="35,726,187,752"/>
+<area shape="rect" id="node5" title=" " alt="" coords="77,210,144,236"/>
+<area shape="rect" id="node6" title=" " alt="" coords="91,480,130,507"/>
+<area shape="rect" id="node7" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="5,631,216,658"/>
+<area shape="rect" id="node9" title=" " alt="" coords="62,551,159,578"/>
+</map>

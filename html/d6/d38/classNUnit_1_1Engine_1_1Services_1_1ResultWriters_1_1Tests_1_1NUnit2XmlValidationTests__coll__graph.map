@@ -1,0 +1,9 @@
+<map id="NUnit.Engine.Services.ResultWriters.Tests.NUnit2XmlValidationTests" name="NUnit.Engine.Services.ResultWriters.Tests.NUnit2XmlValidationTests">
+<area shape="rect" id="node1" title=" " alt="" coords="145,289,399,331"/>
+<area shape="rect" id="node2" href="$d0/db0/classNUnit_1_1Engine_1_1Services_1_1ResultWriters_1_1Tests_1_1XmlOutputTest.html" title="This is the abstract base for all XML output tests, which need to work on a TestEngineResult...." alt="" coords="39,193,145,219"/>
+<area shape="rect" id="node3" href="$d7/dfc/interfaceNUnit_1_1Engine_1_1ITestEngine.html" title="ITestEngine represents an instance of the test engine. Clients wanting to discover,..." alt="" coords="5,89,176,115"/>
+<area shape="rect" id="node4" title=" " alt="" coords="46,5,135,32"/>
+<area shape="rect" id="node5" href="$d1/d0d/classNUnit_1_1Engine_1_1Services_1_1ResultWriters_1_1Tests_1_1SchemaValidator.html" title=" " alt="" coords="171,185,373,227"/>
+<area shape="rect" id="node6" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="200,81,347,123"/>
+<area shape="rect" id="node7" title=" " alt="" coords="398,193,453,219"/>
+</map>

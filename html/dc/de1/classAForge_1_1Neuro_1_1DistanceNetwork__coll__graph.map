@@ -1,0 +1,7 @@
+<map id="AForge.Neuro.DistanceNetwork" name="AForge.Neuro.DistanceNetwork">
+<area shape="rect" id="node1" title="Distance network" alt="" coords="5,364,209,391"/>
+<area shape="rect" id="node2" href="$d3/db3/classAForge_1_1Neuro_1_1Network.html" title="Base neural network class" alt="" coords="73,288,142,315"/>
+<area shape="rect" id="node3" href="$d1/d23/classAForge_1_1Neuro_1_1Layer.html" title="Base neural layer class" alt="" coords="38,199,177,225"/>
+<area shape="rect" id="node4" href="$d9/d64/classAForge_1_1Neuro_1_1Neuron.html" title="Base neuron class" alt="" coords="34,109,181,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="80,5,135,32"/>
+</map>

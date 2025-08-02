@@ -1,0 +1,6 @@
+<map id="IGLib.Core.Tests.IntArrayToStringConverter_Testing" name="IGLib.Core.Tests.IntArrayToStringConverter_Testing">
+<area shape="rect" id="node1" title="Sample implementation of ISingleTypeConverter&lt;SourceType, TargetType&gt; for testing." alt="" coords="224,71,397,112"/>
+<area shape="rect" id="node2" href="$df/d21/classIGLib_1_1Core_1_1SingleTypeConverterBase.html" title=" " alt="" coords="5,5,176,47"/>
+<area shape="rect" id="node3" href="$d6/d04/interfaceIGLib_1_1Core_1_1ISingleTypeConverter.html" title=" " alt="" coords="19,71,162,112"/>
+<area shape="rect" id="node4" href="$d6/d04/interfaceIGLib_1_1Core_1_1ISingleTypeConverter.html" title="Converts values from a single specific source type (SourceType ) to a single specific target type (Ta..." alt="" coords="19,161,162,187"/>
+</map>

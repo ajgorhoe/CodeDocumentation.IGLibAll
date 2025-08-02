@@ -1,0 +1,25 @@
+var classAForge_1_1Video_1_1Ximea_1_1XimeaCamera =
+[
+    [ "Open", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a355d2ad176df2c4a7da48240eb1120c0", null ],
+    [ "Close", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a33623ebab4db5198653dcd982bab6cbd", null ],
+    [ "StartAcquisition", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a381a4e416418aa10dfd10cde85818907", null ],
+    [ "StopAcquisition", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a9201bfee806f2a4d26cef31638de8ede", null ],
+    [ "SetParam", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a441d41d5caeae4a4477213e3d7ce1e4e", null ],
+    [ "SetParam", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#ae3c34214b1208fb879656168d1267b32", null ],
+    [ "GetParamInt", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a73946936a9ad79e748ca742766e1acff", null ],
+    [ "GetParamFloat", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#aba50af6f85bb2778958a16b1dfbb2e7c", null ],
+    [ "GetParamString", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a3dc9b459cedb437ea88e6700079e6d70", null ],
+    [ "GetImage", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a5becac5eeca28bbac0d7f59109707162", null ],
+    [ "GetImage", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#af3f5526efa27b620c3c468b3e04bfdcc", null ],
+    [ "GetImage", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a89afdab0634a3b153997b68cb79587b1", null ],
+    [ "HandleError", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a6a5a750b8a4048727c5686fe53688a82", null ],
+    [ "CheckConnection", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a6424ba322e7bd269cf335c23a2241fa6", null ],
+    [ "deviceHandle", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a3e93af049dbcabdff5e963d5d2ba4bd5", null ],
+    [ "isAcquisitionStarted", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a4157ba4d549cfa517f53df4ad550ec18", null ],
+    [ "deviceID", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a80736cc4ef47418717a06803d109d2c3", null ],
+    [ "sync", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a4e8f8a94e56acc6b63999b761c1deb3e", null ],
+    [ "CamerasCount", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#ac6d472a09fd3e540390a0b09d76c6095", null ],
+    [ "IsAcquisitionStarted", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a918ee8bbc629d74d92f7ee6ea49076dc", null ],
+    [ "IsDeviceOpen", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#a77f441591352f90c7c24284591b4ba69", null ],
+    [ "DeviceID", "d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html#aa5ac7d4e16fcc8f9eda24c090e3acade", null ]
+];

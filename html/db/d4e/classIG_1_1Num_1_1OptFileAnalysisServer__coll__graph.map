@@ -1,0 +1,11 @@
+<map id="IG.Num.OptFileAnalysisServer" name="IG.Num.OptFileAnalysisServer">
+<area shape="rect" id="node1" title="File analysis server. Performs direct analyses by request." alt="" coords="941,135,1140,161"/>
+<area shape="rect" id="node2" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="394,120,471,147"/>
+<area shape="rect" id="node8" href="$d2/d92/classIG_1_1Num_1_1OptFileManager.html" title="Performs elementary operations for optimization and analysis servers and clients that exchange data a..." alt="" coords="653,164,816,191"/>
+<area shape="rect" id="node3" href="$d5/d4e/classIG_1_1Num_1_1AnalysisResults.html" title="Single objective optimization analysis results. Used to transfer parameters input (e...." alt="" coords="351,64,515,91"/>
+<area shape="rect" id="node4" href="$d4/d34/interfaceIG_1_1Num_1_1IAnalysisResults.html" title="Single objective optimization analysis results. Used to transfer parameters input (e...." alt="" coords="39,5,158,32"/>
+<area shape="rect" id="node5" href="$d8/d86/interfaceIG_1_1Num_1_1IMatrix.html" title="Generic Matrix interface." alt="" coords="5,57,192,98"/>
+<area shape="rect" id="node6" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="27,124,170,151"/>
+<area shape="rect" id="node7" href="$d5/d59/interfaceIG_1_1Num_1_1IAnalysis.html" title="Interface for direct analysis classes used in optimization problems." alt="" coords="371,252,494,279"/>
+<area shape="rect" id="node9" href="$d1/d02/interfaceIG_1_1Lib_1_1ISerializer.html" title="Interface for helper classes that perform serialization/deserialization of objects." alt="" coords="374,181,491,208"/>
+</map>

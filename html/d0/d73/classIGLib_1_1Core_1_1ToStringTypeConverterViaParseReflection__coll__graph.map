@@ -1,0 +1,4 @@
+<map id="IGLib.Core.ToStringTypeConverterViaParseReflection" name="IGLib.Core.ToStringTypeConverterViaParseReflection">
+<area shape="rect" id="node1" title="Converts a value to its string representation using invariant culture, only if it can be parsed back ..." alt="" coords="5,95,223,136"/>
+<area shape="rect" id="node2" href="$d0/d65/interfaceIGLib_1_1Core_1_1ISingleTargetTypeConverter.html" title=" " alt="" coords="25,5,203,47"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="NUnit.Framework.Interfaces.ITestData" name="NUnit.Framework.Interfaces.ITestData">
+<area shape="rect" id="node1" title="The ITestData interface is implemented by a class that represents a single instance of a parameterize..." alt="" coords="5,104,192,145"/>
+<area shape="rect" id="node2" href="$d8/dd6/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestCaseData.html" title="The ITestCaseData interface is implemented by a class that is able to return complete testcases for u..." alt="" coords="240,39,427,80"/>
+<area shape="rect" id="node6" href="$d2/d9e/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestFixtureData.html" title="The ITestCaseData interface is implemented by a class that is able to return the data required to cre..." alt="" coords="240,169,427,211"/>
+<area shape="rect" id="node11" href="$d5/d50/classNUnit_1_1Framework_1_1Internal_1_1TestParameters.html" title="TestParameters is the abstract base class for all classes that know how to provide data for construct..." alt="" coords="247,104,419,145"/>
+<area shape="rect" id="node3" href="$d2/d44/classNUnit_1_1Framework_1_1Internal_1_1TestCaseParameters.html" title="The TestCaseParameters class encapsulates method arguments and other selected parameters needed for c..." alt="" coords="484,71,656,112"/>
+<area shape="rect" id="node5" href="$d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html" title="TestCaseAttribute is used to mark parameterized test cases and provide them with their arguments." alt="" coords="479,5,661,47"/>
+<area shape="rect" id="node4" href="$d0/ddc/classNUnit_1_1Framework_1_1TestCaseData.html" title="The TestCaseData class represents a set of arguments and other parameter info to be used for a parame..." alt="" coords="719,78,927,105"/>
+<area shape="rect" id="node7" href="$d4/d1a/classNUnit_1_1Framework_1_1Internal_1_1TestFixtureParameters.html" title="The TestCaseParameters class encapsulates method arguments and other selected parameters needed for c..." alt="" coords="484,136,656,177"/>
+<area shape="rect" id="node9" href="$d8/dee/classNUnit_1_1Framework_1_1TestFixtureAttribute.html" title="TestFixtureAttribute is used to mark a class that represents a TestFixture." alt="" coords="475,201,665,243"/>
+<area shape="rect" id="node8" href="$df/d73/classNUnit_1_1Framework_1_1TestFixtureData.html" title="The TestFixtureData class represents a set of arguments and other parameter info to be used for a par..." alt="" coords="713,143,932,170"/>
+<area shape="rect" id="node10" href="$dc/d20/classNUnit_1_1TestData_1_1AttributeInheritanceData_1_1ConcernAttribute.html" title=" " alt="" coords="716,201,929,243"/>
+</map>

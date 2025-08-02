@@ -1,0 +1,25 @@
+var interfaceIG_1_1Num_1_1IDistanceComparer =
+[
+    [ "GetPointCoordinates", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a6502f5100dd33168491d21c11ec582e4", null ],
+    [ "SetCoordinateScales", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a53b193a7691a20101b16914ed9b1ee75", null ],
+    [ "GetRelativeCoordinates", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#aedbc272bfcfc3e9fe27ed00373254d34", null ],
+    [ "SetOutputScales", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a6cf426405722b2c7ab68f6f96e396931", null ],
+    [ "GetOutputRelativeCoordinates", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a2d04049fcdba3a2cd0ea1b202171c0a3", null ],
+    [ "OutputDistance", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a1887007bdf0a7e00e747ead742aaabb0", null ],
+    [ "Distance", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a128cc85797e7d508cfaf599d05c2e8df", null ],
+    [ "Distance", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a81686c65b3dbb01d37b14abb5987fba6", null ],
+    [ "Distance", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#aa366d5116bc297f496216da48d3bea98", null ],
+    [ "Distance", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a8697adea7ae2d61c5c55e8baf7675b58", null ],
+    [ "Distance", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a3752e731114f7308e1a7504d01b504a5", null ],
+    [ "Distance", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a5502d44cb19fdaf34433b0ffdc42e68f", null ],
+    [ "Sort", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#abb5faaf893163f1c5e9d3ebc4ce8022c", null ],
+    [ "SortUsingStoredDistance", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a4d759c8417a99bf1257d00bb0b5f931e", null ],
+    [ "ReferencePoint", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#ac85fa01fc24161143d98bc0724ec589f", null ],
+    [ "LengthScales", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a23812d926089ce9993154b1d091911fa", null ],
+    [ "Min", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#acf77a897f61abf3910a71f1ced4e2a42", null ],
+    [ "Max", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a49ce31c5064f6eb7305f3302bd6f2fd2", null ],
+    [ "OutputLengthScales", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a1bc6146874c7cce779324270995718e9", null ],
+    [ "OutputMin", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#ae024d489db1df530e25e3f3c5d73bd4b", null ],
+    [ "OutputMax", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#abcdf0eca588e08a0596881a657f0ff4c", null ],
+    [ "StoredDistanceComparer", "d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html#a543e614fa7743f0bfa74e61e434ec6a0", null ]
+];

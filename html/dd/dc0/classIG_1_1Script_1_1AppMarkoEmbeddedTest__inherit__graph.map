@@ -1,0 +1,8 @@
+<map id="IG.Script.AppMarkoEmbeddedTest" name="IG.Script.AppMarkoEmbeddedTest">
+<area shape="rect" id="node1" title="Test embedded script class, used to demonstrate how nested embedded scripts can be run by the main sc..." alt="" coords="5,304,228,331"/>
+<area shape="rect" id="node2" href="$d9/d4e/classIG_1_1Script_1_1AppIgorGresovnik.html" title="Internal script for running embedded applications." alt="" coords="105,229,227,256"/>
+<area shape="rect" id="node3" href="$d0/dec/classIG_1_1Script_1_1AppExtBase.html" title="Internal script for running embedded applications." alt="" coords="156,155,251,181"/>
+<area shape="rect" id="node4" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="206,80,281,107"/>
+<area shape="rect" id="node5" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities." alt="" coords="198,5,307,32"/>
+<area shape="rect" id="node6" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="63,5,173,32"/>
+</map>

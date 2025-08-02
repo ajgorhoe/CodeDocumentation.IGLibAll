@@ -1,0 +1,26 @@
+var classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest =
+[
+    [ "SimpleShapeCheckerTest", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#af2639edf206adabf6706b5efa91d5d98", null ],
+    [ "IsCircleTest", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#aa429940b44519520f6f87417a33b8500", null ],
+    [ "IsQuadrilateralTest", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#af639ef2c55dce83d2bdb5527470e6cfb", null ],
+    [ "CheckQuadrilateralCornersTest", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a2cd33a902b7be6b0e1f672d87c0b42d3", null ],
+    [ "IsTriangleTest", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#ab9fc1465463745c5386a4bb969328c58", null ],
+    [ "IsConvexPolygon", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a92ccbe1ebf4eaefbb560017035d7ebbd", null ],
+    [ "CheckShapeTypeTest", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a3b1b42daceab3de5f1b62aa8d81335fc", null ],
+    [ "CompareShape", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a8b22053e437defa19ecdddd34416eba4", null ],
+    [ "CheckPolygonSubTypeTest", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a0c5958c7fca7465283a856458acfd13d", null ],
+    [ "GetListOfPointFromArray", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a0e46691466d02750fc043e726d71b418", null ],
+    [ "shapeChecker", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#ad319a179354c454d7ad0bae415419661", null ],
+    [ "idealCicle", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a24fb160aee958e73df1a6ea04fc78072", null ],
+    [ "distorredCircle", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#ab5638b6c47ef868d457037cb5d33cbb0", null ],
+    [ "square1", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#aae0a61eeee67135832b012e9afc2bda2", null ],
+    [ "square1Test", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a551ccf719b7e3ef52ce1a735c97c1131", null ],
+    [ "square2", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a581bfc0066a0c4568c161b0742618ba6", null ],
+    [ "square2Test", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a1f9650a73d60ec37e74ac9f29758c81f", null ],
+    [ "square3", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a0e79b9f7e3456fa59f7723efac698e93", null ],
+    [ "rectangle", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#ae09796f5581825ff8e9f4750e1d3d17e", null ],
+    [ "triangle1", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a0ce7203a45aa426662e65746a203398f", null ],
+    [ "isoscelesTriangle", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#aec88520874ea28eb4f126a4e00343028", null ],
+    [ "equilateralTriangle", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#ac6cef1155209741152097509e548bff9", null ],
+    [ "rectangledTriangle", "d1/d6c/classAForge_1_1Math_1_1Geometry_1_1Tests_1_1SimpleShapeCheckerTest.html#a49fd1caaef96b85ea72c9a936dab4645", null ]
+];

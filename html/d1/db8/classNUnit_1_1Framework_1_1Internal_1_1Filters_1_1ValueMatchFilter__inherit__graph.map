@@ -1,0 +1,13 @@
+<map id="NUnit.Framework.Internal.Filters.ValueMatchFilter" name="NUnit.Framework.Internal.Filters.ValueMatchFilter">
+<area shape="rect" id="node1" title="ValueMatchFilter selects tests based on some value, which is expected to be contained in the test." alt="" coords="420,201,592,243"/>
+<area shape="rect" id="node5" href="$de/dda/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1CategoryFilter.html" title="CategoryFilter is able to select or exclude tests based on their categories." alt="" coords="640,5,812,47"/>
+<area shape="rect" id="node6" href="$d5/da8/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1ClassNameFilter.html" title="ClassName filter selects tests based on the class FullName" alt="" coords="640,71,812,112"/>
+<area shape="rect" id="node7" href="$d1/d93/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1FullNameFilter.html" title="FullName filter selects tests based on their FullName" alt="" coords="640,136,812,177"/>
+<area shape="rect" id="node8" href="$db/d7c/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1IdFilter.html" title="IdFilter selects tests based on their id" alt="" coords="640,201,812,243"/>
+<area shape="rect" id="node9" href="$d9/da9/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1MethodNameFilter.html" title="FullName filter selects tests based on their FullName" alt="" coords="640,267,812,308"/>
+<area shape="rect" id="node10" href="$d4/d54/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1PropertyFilter.html" title="PropertyFilter is able to select or exclude tests based on their properties." alt="" coords="640,332,812,373"/>
+<area shape="rect" id="node11" href="$d6/df5/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1TestNameFilter.html" title="TestName filter selects tests based on their Name" alt="" coords="640,397,812,439"/>
+<area shape="rect" id="node2" href="$da/dc4/classNUnit_1_1Framework_1_1Internal_1_1TestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="296,209,372,235"/>
+<area shape="rect" id="node3" href="$d2/df0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="169,209,248,235"/>
+<area shape="rect" id="node4" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,209,121,235"/>
+</map>

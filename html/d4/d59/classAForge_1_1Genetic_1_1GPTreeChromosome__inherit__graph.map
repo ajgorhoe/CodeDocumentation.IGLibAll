@@ -1,0 +1,6 @@
+<map id="AForge.Genetic.GPTreeChromosome" name="AForge.Genetic.GPTreeChromosome">
+<area shape="rect" id="node1" title="Tree chromosome represents a tree of genes, which is is used for different tasks of Genetic Programmi..." alt="" coords="5,229,244,256"/>
+<area shape="rect" id="node2" href="$df/da8/classAForge_1_1Genetic_1_1ChromosomeBase.html" title="Chromosomes&#39; base class." alt="" coords="60,155,189,181"/>
+<area shape="rect" id="node3" href="$d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome.html" title="Chromosome interface." alt="" coords="73,80,176,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="77,5,172,32"/>
+</map>

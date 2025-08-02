@@ -1,0 +1,14 @@
+<map id="Meta.Numerics.Statistics.Distributions.DiscreteDistribution" name="Meta.Numerics.Statistics.Distributions.DiscreteDistribution">
+<area shape="rect" id="node1" title="Represents all discrete, univariate probability distrubtions." alt="" coords="196,304,407,345"/>
+<area shape="rect" id="node3" href="$de/d24/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1BernoulliDistribution.html" title="Represents a Bernoulli distribution." alt="" coords="476,5,689,47"/>
+<area shape="rect" id="node4" href="$d5/dd8/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1BinomialDistribution.html" title="Represents a discrete binomial distribution." alt="" coords="476,71,689,112"/>
+<area shape="rect" id="node5" href="$dd/dd6/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1DiscreteUniformDistribution.html" title="Describes a discrete uniform distribution." alt="" coords="455,136,710,177"/>
+<area shape="rect" id="node6" href="$d1/dde/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GeometricDistribution.html" title="Represents a geometric distribution." alt="" coords="471,201,694,243"/>
+<area shape="rect" id="node7" title=" " alt="" coords="463,267,703,308"/>
+<area shape="rect" id="node8" href="$d3/d20/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1KolmogorovTwoSampleExactDistribution.html" title=" " alt="" coords="467,333,699,389"/>
+<area shape="rect" id="node9" title="Represents the distribution of the Mann&#45;Whitney test statistic." alt="" coords="477,413,689,469"/>
+<area shape="rect" id="node10" href="$d4/d92/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1PoissonDistribution.html" title="Represented a Poisson distribution." alt="" coords="477,493,688,535"/>
+<area shape="rect" id="node11" title=" " alt="" coords="455,559,711,600"/>
+<area shape="rect" id="node12" href="$d3/dd6/classTest_1_1DiscreteTestDistribution.html" title=" " alt="" coords="488,625,677,651"/>
+<area shape="rect" id="node2" href="$da/d1a/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1UnivariateDistribution.html" title="Represents a probability distribution over a single variable." alt="" coords="5,311,148,338"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="IG.Num.VectorFunctionResultsDto" name="IG.Num.VectorFunctionResultsDto">
+<area shape="rect" id="node1" title="DTO (Data Transfer Objects) for storing contents of vector function results." alt="" coords="797,99,1020,125"/>
+<area shape="rect" id="node2" href="$d6/d7d/classIG_1_1Num_1_1VectorFunctionRequestDTO.html" title="DTO (Data Transfer Objects) for storing contents of vector function evaluation request." alt="" coords="507,47,691,73"/>
+<area shape="rect" id="node3" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="216,5,387,61"/>
+<area shape="rect" id="node4" href="$dc/dec/classIG_1_1Lib_1_1VectorDtoBase.html" title="Base class for various vector DTO (Data Transfer Objects) for vectors. Used to store a state of a vec..." alt="" coords="227,89,375,130"/>
+<area shape="rect" id="node5" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="5,89,167,130"/>
+<area shape="rect" id="node6" href="$d1/d42/classIG_1_1Lib_1_1MatrixDtoBase.html" title="Base class for various matrix DTO (Data Transfer Objects) for matrixs. Used to store a state of a mat..." alt="" coords="525,161,672,202"/>
+<area shape="rect" id="node7" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="223,161,380,202"/>
+</map>

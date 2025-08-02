@@ -1,0 +1,25 @@
+var classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning =
+[
+    [ "ResilientBackpropagationLearning", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a2ff3962dd090d42e4702ccc5c26d6d25", null ],
+    [ "Run", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#aafe7a83506287bc4eb10bb00b4f524a5", null ],
+    [ "RunEpoch", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a99a953fb1c716b9e6247b1c001d9ce4b", null ],
+    [ "ResetGradient", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#ab74e2bfcb12f587bb0f57c4f350a59a8", null ],
+    [ "ResetUpdates", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#ab11a997f57ab0085a95ad42d1fb3b6e0", null ],
+    [ "UpdateNetwork", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#ab45a86654676333c5a5f38d0c73d7fe3", null ],
+    [ "CalculateError", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a7226cea6514255df3e04eb573e5f17d8", null ],
+    [ "CalculateGradient", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a915d0550c38fdf00ad783e7a0bdccc1a", null ],
+    [ "network", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a61bc8156212fc62106267008dee09a78", null ],
+    [ "learningRate", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a4085126d35e0ce8fab7e0a1349269455", null ],
+    [ "deltaMax", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#af3e0144bf342f240ae72d75572a961d7", null ],
+    [ "deltaMin", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#aea7c8baed496e8f3302d3f7ce417ce6c", null ],
+    [ "etaMinus", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#aea7994b33275315568c4a4bba88b57d9", null ],
+    [ "etaPlus", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a45e89bd0593c386bda814767c2a18d20", null ],
+    [ "neuronErrors", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a8c04c8b2394ef7fa4886b6cf8332995f", null ],
+    [ "weightsUpdates", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a331a47346f79584372d06a164a707785", null ],
+    [ "thresholdsUpdates", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a6e8325548ad8e09fff1f1912bf4b5897", null ],
+    [ "weightsDerivatives", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a972f24f13b34657e1541a16c25b437c6", null ],
+    [ "thresholdsDerivatives", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#abf447e294e0c3caaa9f7a8d1db76f592", null ],
+    [ "weightsPreviousDerivatives", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a66079e402efad91f2ecf5805eb6cd90f", null ],
+    [ "thresholdsPreviousDerivatives", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#a7ddc850c42005ab0240b2da1d77ea02f", null ],
+    [ "LearningRate", "d3/dc4/classAForge_1_1Neuro_1_1Learning_1_1ResilientBackpropagationLearning.html#ade694a1d527c008c05a960797cb3e136", null ]
+];

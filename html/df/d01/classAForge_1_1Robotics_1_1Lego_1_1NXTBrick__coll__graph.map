@@ -1,0 +1,4 @@
+<map id="AForge.Robotics.Lego.NXTBrick" name="AForge.Robotics.Lego.NXTBrick">
+<area shape="rect" id="node1" title="Manipulation of Lego Mindstorms NXT device." alt="" coords="5,109,213,136"/>
+<area shape="rect" id="node2" title="Interface, which wraps communication functions with Lego Mindstorms NXT brick." alt="" coords="5,5,213,47"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="IG.Sim.SimScalarFieldElementDto&lt; FieldType &gt;" name="IG.Sim.SimScalarFieldElementDto&lt; FieldType &gt;">
+<area shape="rect" id="node1" title="Base class for a DTO that holds node values of a single element (component) of a specific scalar fiel..." alt="" coords="487,49,689,90"/>
+<area shape="rect" id="node2" href="$de/d1a/classIG_1_1Sim_1_1SimFieldElemetDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific simulation ..." alt="" coords="296,19,439,61"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,248,61"/>
+<area shape="rect" id="node4" href="$d9/d17/interfaceIG_1_1Sim_1_1ISimulationComponentDto.html" title="Interface for all components of simulation DTOs." alt="" coords="41,85,213,112"/>
+</map>

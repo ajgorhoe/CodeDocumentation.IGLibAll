@@ -1,0 +1,6 @@
+<map id="IG.Lib.AppTest" name="IG.Lib.AppTest">
+<area shape="rect" id="node1" title=" " alt="" coords="9,229,117,256"/>
+<area shape="rect" id="node2" href="$d1/d77/classIG_1_1Lib_1_1ApplicationBase.html" title="Base class for all application classes. Provides some basic functionality such as keeping information..." alt="" coords="5,155,121,181"/>
+<area shape="rect" id="node3" href="$db/dc7/classIG_1_1Lib_1_1Module.html" title="General module (or library) management class, a base class for specific module classes...." alt="" coords="66,80,130,107"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="25,5,102,32"/>
+</map>

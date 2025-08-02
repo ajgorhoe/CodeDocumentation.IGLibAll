@@ -1,0 +1,7 @@
+<map id="IG.Reflection.SerializationBinderElementary" name="IG.Reflection.SerializationBinderElementary">
+<area shape="rect" id="node1" title="A SerializationBinder, defines a single mapping from the original assembly and type name to a target ..." alt="" coords="111,229,281,271"/>
+<area shape="rect" id="node2" href="$da/daa/classIG_1_1Reflection_1_1SerializationBinderSimple.html" title="A simple SerializationBinder, defines a single mapping from the original assembly and type name to a ..." alt="" coords="49,155,220,181"/>
+<area shape="rect" id="node3" href="$db/dfd/classIG_1_1Reflection_1_1SerializationBinderBase.html" title="Enables to reference classes that both inherit from the framework&#39;s SerializationBinder (necessary fo..." alt="" coords="9,80,169,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node5" href="$d6/dde/interfaceIG_1_1Reflection_1_1ISerializationBinder.html" title="Interface implemented by IGLib&#39;s classes based on the framework&#39;s SerializationBinder class." alt="" coords="160,5,293,32"/>
+</map>

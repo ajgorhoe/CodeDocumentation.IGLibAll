@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.Interfaces.IParameterDataSource" name="NUnit.Framework.Interfaces.IParameterDataSource">
+<area shape="rect" id="node1" title="The IParameterDataSource interface is implemented by types that can provide data for a test method pa..." alt="" coords="5,86,192,127"/>
+<area shape="rect" id="node2" href="$de/db2/classNUnit_1_1Framework_1_1RandomAttribute.html" title="RandomAttribute is used to supply a set of random _values to a single parameter of a parameterized te..." alt="" coords="242,5,465,32"/>
+<area shape="rect" id="node3" href="$d8/d93/classNUnit_1_1Framework_1_1RandomAttribute_1_1RandomDataSource.html" title=" " alt="" coords="240,57,467,98"/>
+<area shape="rect" id="node4" href="$da/db5/classNUnit_1_1Framework_1_1ValuesAttribute.html" title="ValuesAttribute is used to provide literal arguments for an individual parameter of a test." alt="" coords="246,123,461,149"/>
+<area shape="rect" id="node6" href="$da/d49/classNUnit_1_1Framework_1_1ValueSourceAttribute.html" title="ValueSourceAttribute indicates the source to be used to provide data for one parameter of a test meth..." alt="" coords="253,174,453,215"/>
+<area shape="rect" id="node5" href="$d8/d73/classNUnit_1_1Framework_1_1RangeAttribute.html" title="RangeAttribute is used to supply a range of _values to an individual parameter of a parameterized tes..." alt="" coords="515,123,727,149"/>
+</map>

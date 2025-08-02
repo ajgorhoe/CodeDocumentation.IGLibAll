@@ -1,0 +1,25 @@
+var classHoughTransform_1_1MainForm =
+[
+    [ "MainForm", "d5/dfd/classHoughTransform_1_1MainForm.html#a0ad654d9a9404543c6f8b3e7559657a6", null ],
+    [ "exitToolStripMenuItem_Click", "d5/dfd/classHoughTransform_1_1MainForm.html#a2c5a4dacfa47b09a2f1c2436f4b5cd41", null ],
+    [ "openToolStripMenuItem_Click", "d5/dfd/classHoughTransform_1_1MainForm.html#abb203eea96d8b590a448352402084e4e", null ],
+    [ "Dispose", "d5/dfd/classHoughTransform_1_1MainForm.html#a8375ae53cd22fc0589f3de93266c4a3b", null ],
+    [ "InitializeComponent", "d5/dfd/classHoughTransform_1_1MainForm.html#a00b3b0bd07251bd7e4b80df0daccb890", null ],
+    [ "filter", "d5/dfd/classHoughTransform_1_1MainForm.html#a9893f447e01e5b677b07fa05bae0049f", null ],
+    [ "lineTransform", "d5/dfd/classHoughTransform_1_1MainForm.html#a2effb84ef4810489ecd3c6b75d3eb694", null ],
+    [ "circleTransform", "d5/dfd/classHoughTransform_1_1MainForm.html#ab55808dc95944b8829f75a3ba01ff3d9", null ],
+    [ "components", "d5/dfd/classHoughTransform_1_1MainForm.html#a55618a886cc247ea431e56433881e86a", null ],
+    [ "menuStrip1", "d5/dfd/classHoughTransform_1_1MainForm.html#a13241a984aaa532727cd9f3da4b7fc9c", null ],
+    [ "fileToolStripMenuItem", "d5/dfd/classHoughTransform_1_1MainForm.html#a279531cf9fc434e213b2e16c345bcafd", null ],
+    [ "openToolStripMenuItem", "d5/dfd/classHoughTransform_1_1MainForm.html#aa1aad7daf99686063d151940a9cf6380", null ],
+    [ "toolStripMenuItem1", "d5/dfd/classHoughTransform_1_1MainForm.html#a1fc931b59a18e254ba2e3c04190511a0", null ],
+    [ "exitToolStripMenuItem", "d5/dfd/classHoughTransform_1_1MainForm.html#af78a3fedee26faacfd86d47301d207ed", null ],
+    [ "openFileDialog", "d5/dfd/classHoughTransform_1_1MainForm.html#a17e593673fb65c105ff33e0f7d593044", null ],
+    [ "tabControl", "d5/dfd/classHoughTransform_1_1MainForm.html#a08bf4d1f4bd8727504192a85ccc18acd", null ],
+    [ "tabPage1", "d5/dfd/classHoughTransform_1_1MainForm.html#a47785eca348c2450bf47c74a1b723bfa", null ],
+    [ "sourcePictureBox", "d5/dfd/classHoughTransform_1_1MainForm.html#a87346be1121e002c7de4f4e54c387a0d", null ],
+    [ "tabPage2", "d5/dfd/classHoughTransform_1_1MainForm.html#a512132734130544f5a3fefbeab25ecc8", null ],
+    [ "houghLinePictureBox", "d5/dfd/classHoughTransform_1_1MainForm.html#a8bcbe4f21b6d29236dd09a2c2d85c213", null ],
+    [ "tabPage3", "d5/dfd/classHoughTransform_1_1MainForm.html#a034bba7f69c7da3b8f40205dec544a14", null ],
+    [ "houghCirclePictureBox", "d5/dfd/classHoughTransform_1_1MainForm.html#ab57518e6506d0975f81497dca403bc51", null ]
+];

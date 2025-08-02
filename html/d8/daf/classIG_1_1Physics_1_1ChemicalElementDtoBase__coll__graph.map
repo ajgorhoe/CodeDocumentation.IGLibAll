@@ -1,0 +1,6 @@
+<map id="IG.Physics.ChemicalElementDtoBase&lt; ChemicalElementType &gt;" name="IG.Physics.ChemicalElementDtoBase&lt; ChemicalElementType &gt;">
+<area shape="rect" id="node1" title="Base class for various DTOs (Data Transfer Objects) for chemical elements and derived classes." alt="" coords="568,38,795,79"/>
+<area shape="rect" id="node2" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="271,5,439,61"/>
+<area shape="rect" id="node3" href="$dd/dc9/classChemicalElementPropertiesDto.html" title="DTO (Data Transfer Objects) for chemical element properties (the ChemicalElementProperties class)...." alt="" coords="253,85,456,112"/>
+<area shape="rect" id="node4" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="5,71,204,127"/>
+</map>

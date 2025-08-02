@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.TestOfAttribute" name="NUnit.Framework.TestOfAttribute">
+<area shape="rect" id="node1" title="Indicates which class the test or test fixture is testing" alt="" coords="11,229,225,256"/>
+<area shape="rect" id="node2" href="$d6/d1b/classNUnit_1_1Framework_1_1PropertyAttribute.html" title="PropertyAttribute is used to attach information to a test as a name/value pair.." alt="" coords="58,155,178,181"/>
+<area shape="rect" id="node3" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="21,5,92,32"/>
+<area shape="rect" id="node5" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="132,80,229,107"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Meta.Numerics.Matrices.AnySquareMatrix" name="Meta.Numerics.Matrices.AnySquareMatrix">
+<area shape="rect" id="node1" title="Describes the form of all real, square matrices." alt="" coords="439,104,629,145"/>
+<area shape="rect" id="node5" href="$d5/d2a/classMeta_1_1Numerics_1_1Matrices_1_1SparseSquareMatrix.html" title="Represents a sparse, square matrix." alt="" coords="688,5,897,47"/>
+<area shape="rect" id="node6" href="$d2/d0f/classMeta_1_1Numerics_1_1Matrices_1_1SquareMatrix.html" title="Represents a square matrix." alt="" coords="688,71,897,112"/>
+<area shape="rect" id="node7" href="$d3/d15/classMeta_1_1Numerics_1_1Matrices_1_1SymmetricMatrix.html" title="Represents a symmetric matrix." alt="" coords="677,136,908,177"/>
+<area shape="rect" id="node8" href="$d9/d78/classMeta_1_1Numerics_1_1Matrices_1_1TridiagonalMatrix.html" title="Represents a tridiagonal matrix." alt="" coords="677,201,908,243"/>
+<area shape="rect" id="node2" href="$d9/d5b/classMeta_1_1Numerics_1_1Matrices_1_1AnyRectangularMatrix.html" title="Describes the form of all real matrices." alt="" coords="240,111,391,138"/>
+<area shape="rect" id="node3" href="$df/de5/classMeta_1_1Numerics_1_1Matrices_1_1AnyMatrix.html" title=" " alt="" coords="27,82,170,109"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,133,192,175"/>
+</map>

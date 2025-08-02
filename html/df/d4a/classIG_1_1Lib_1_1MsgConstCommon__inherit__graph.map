@@ -1,0 +1,8 @@
+<map id="IG.Lib.MsgConstCommon" name="IG.Lib.MsgConstCommon">
+<area shape="rect" id="node1" title="Common Constants related to messages sent with BIS. Remark: class MsgConst is composed of different p..." alt="" coords="13,5,184,32"/>
+<area shape="rect" id="node2" href="$db/db8/classIG_1_1Lib_1_1MsgConstObservationOrder.html" title="Constants related to the ObservationOrder msg. Remark: class MsgConst was composed of different parts..." alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node3" href="$da/da0/classIG_1_1Lib_1_1MsgConstObservationEvent.html" title="Constants related to the ObservationEvent msg. Remark: class MsgConst was composed of different parts..." alt="" coords="5,169,192,211"/>
+<area shape="rect" id="node4" href="$de/da7/classIG_1_1Lib_1_1MsgConstFinancialTransaction.html" title="Constants related to the ObservationEvent msg. Remark: class MsgConst was composed of different parts..." alt="" coords="13,259,184,300"/>
+<area shape="rect" id="node5" href="$df/dd1/classIG_1_1Lib_1_1MsgConst.html" title="Constants related to msg for communication with BIS, conversion utilities from and to formats used in..." alt="" coords="39,348,158,375"/>
+<area shape="rect" id="node6" href="$de/dda/classIG_1_1Lib_1_1MsgConstGolnik.html" title="Here one can handle specifics with respect to different versions of the program for different custome..." alt="" coords="21,423,177,449"/>
+</map>

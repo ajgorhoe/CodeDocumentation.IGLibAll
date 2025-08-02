@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Attributes.Tests.CommandWrapperTests.ExpectedExceptionAttribute.ExpectedExceptionCommand" name="NUnit.Framework.Attributes.Tests.CommandWrapperTests.ExpectedExceptionAttribute.ExpectedExceptionCommand">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,311,211"/>
+<area shape="rect" id="node2" href="$d7/dcf/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1DelegatingTestCommand.html" title="TODO: Documentation needed for class" alt="" coords="75,80,241,107"/>
+<area shape="rect" id="node3" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="105,5,211,32"/>
+</map>

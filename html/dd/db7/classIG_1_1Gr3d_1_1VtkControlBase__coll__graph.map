@@ -1,0 +1,10 @@
+<map id="IG.Gr3d.VtkControlBase" name="IG.Gr3d.VtkControlBase">
+<area shape="rect" id="node1" title="Basic control encapsulating the VTK&#39;s render control of type Kitware.VTK.RenderWindowControl." alt="" coords="281,215,444,241"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,96,96,123"/>
+<area shape="rect" id="node3" href="$dc/d11/interfaceIG_1_1Gr3d_1_1IVtkFormContainer.html" title="This interface is implemented by the forms that contain the VTK control that can render VTK graphics." alt="" coords="120,96,251,123"/>
+<area shape="rect" id="node4" href="$d3/d6e/interfaceIG_1_1Gr3d_1_1IVtkFormContainerGen.html" title=" " alt="" coords="60,5,311,47"/>
+<area shape="rect" id="node5" href="$d5/def/interfaceIG_1_1Gr3d_1_1I3dGraphicsControl.html" title="Interface for 3D graphics controls that can be manipulated via a standard set of commands for rotatio..." alt="" coords="275,96,407,123"/>
+<area shape="rect" id="node6" title=" " alt="" coords="431,96,478,123"/>
+<area shape="rect" id="node7" title=" " alt="" coords="524,96,591,123"/>
+<area shape="rect" id="node8" title=" " alt="" coords="721,96,775,123"/>
+</map>

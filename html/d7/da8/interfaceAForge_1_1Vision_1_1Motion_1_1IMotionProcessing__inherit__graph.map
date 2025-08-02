@@ -1,0 +1,7 @@
+<map id="AForge.Vision.Motion.IMotionProcessing" name="AForge.Vision.Motion.IMotionProcessing">
+<area shape="rect" id="node1" title="Interface of motion processing algorithm." alt="" coords="5,104,199,145"/>
+<area shape="rect" id="node2" href="$de/d81/classAForge_1_1Vision_1_1Motion_1_1BlobCountingObjectsProcessing.html" title="Motion processing algorithm, which counts separate moving objects and highlights them." alt="" coords="251,5,433,47"/>
+<area shape="rect" id="node3" href="$d7/d68/classAForge_1_1Vision_1_1Motion_1_1GridMotionAreaProcessing.html" title="Motion processing algorithm, which performs grid processing of motion frame." alt="" coords="255,71,429,112"/>
+<area shape="rect" id="node4" href="$d6/d6e/classAForge_1_1Vision_1_1Motion_1_1MotionAreaHighlighting.html" title="Motion processing algorithm, which highlights motion areas." alt="" coords="247,136,437,177"/>
+<area shape="rect" id="node5" href="$d6/d0c/classAForge_1_1Vision_1_1Motion_1_1MotionBorderHighlighting.html" title="Motion processing algorithm, which highlights border of motion areas." alt="" coords="247,201,437,243"/>
+</map>

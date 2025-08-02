@@ -1,0 +1,5 @@
+<map id="IG.NumExperimental.ResponseEvaluatorWithStorageAnalysisDto" name="IG.NumExperimental.ResponseEvaluatorWithStorageAnalysisDto">
+<area shape="rect" id="node1" title="DTO (data transfer object) for response evaluators with storage where response is evaluated by an (op..." alt="" coords="617,13,835,54"/>
+<area shape="rect" id="node2" href="$db/d9a/classIG_1_1NumExperimental_1_1ResponseEvaluatorWithStorageAnalysisDtoBase.html" title="Base class for DTOs (Data Transfer Objects) for response evaluators with storage where response is ev..." alt="" coords="324,5,569,61"/>
+<area shape="rect" id="node3" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="5,5,276,61"/>
+</map>

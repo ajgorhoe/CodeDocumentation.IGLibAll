@@ -1,0 +1,6 @@
+<map id="IG.Neural.Applications.NeuralPredictionWindow" name="IG.Neural.Applications.NeuralPredictionWindow">
+<area shape="rect" id="node1" title="Window for making predictions of output values based on ANN model." alt="" coords="62,80,254,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,57,32"/>
+<area shape="rect" id="node3" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="82,5,234,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="259,5,356,32"/>
+</map>

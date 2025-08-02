@@ -1,0 +1,12 @@
+<map id="IG.NumExperimental.ResponseEvaluatorWithStorageAnalysisDto" name="IG.NumExperimental.ResponseEvaluatorWithStorageAnalysisDto">
+<area shape="rect" id="node1" title="DTO (data transfer object) for response evaluators with storage where response is evaluated by an (op..." alt="" coords="1508,51,1725,93"/>
+<area shape="rect" id="node2" href="$db/d9a/classIG_1_1NumExperimental_1_1ResponseEvaluatorWithStorageAnalysisDtoBase.html" title="Base class for DTOs (Data Transfer Objects) for response evaluators with storage where response is ev..." alt="" coords="1213,44,1459,100"/>
+<area shape="rect" id="node3" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="845,19,1116,75"/>
+<area shape="rect" id="node4" href="$d1/d22/classIG_1_1Num_1_1AnalysisResultsDto.html" title="DTO (Data Transfer Objects) for storing contents of direct analysis request (in optimization problems..." alt="" coords="889,99,1073,125"/>
+<area shape="rect" id="node5" href="$dc/ddd/classIG_1_1Num_1_1AnalysisRequestDto.html" title="DTO (Data Transfer Objects) for storing contents of direct analysis request (in optimization problems..." alt="" coords="531,32,671,59"/>
+<area shape="rect" id="node6" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="216,5,403,61"/>
+<area shape="rect" id="node7" href="$dc/dec/classIG_1_1Lib_1_1VectorDtoBase.html" title="Base class for various vector DTO (Data Transfer Objects) for vectors. Used to store a state of a vec..." alt="" coords="235,89,383,130"/>
+<area shape="rect" id="node8" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="5,89,167,130"/>
+<area shape="rect" id="node9" href="$d1/d42/classIG_1_1Lib_1_1MatrixDtoBase.html" title="Base class for various matrix DTO (Data Transfer Objects) for matrixs. Used to store a state of a mat..." alt="" coords="528,161,675,202"/>
+<area shape="rect" id="node10" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="231,161,388,202"/>
+</map>

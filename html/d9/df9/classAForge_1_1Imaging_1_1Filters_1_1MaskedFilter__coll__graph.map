@@ -1,0 +1,11 @@
+<map id="AForge.Imaging.Filters.MaskedFilter" name="AForge.Imaging.Filters.MaskedFilter">
+<area shape="rect" id="node1" title="Apply filter according to the specified mask." alt="" coords="565,179,768,221"/>
+<area shape="rect" id="node2" href="$db/dc9/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlacePartialFilter.html" title="Base class for filters, which may be applied directly to the source image or its part." alt="" coords="203,107,365,133"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="45,5,100,32"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="24,56,121,83"/>
+<area shape="rect" id="node5" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="5,107,140,133"/>
+<area shape="rect" id="node6" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="14,157,131,184"/>
+<area shape="rect" id="node7" href="$d0/d77/classAForge_1_1Imaging_1_1UnmanagedImage.html" title="Image in unmanaged memory." alt="" coords="191,179,377,221"/>
+<area shape="rect" id="node8" title=" " alt="" coords="28,208,117,235"/>
+<area shape="rect" id="node9" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="189,245,379,272"/>
+</map>

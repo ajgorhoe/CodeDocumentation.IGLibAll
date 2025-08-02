@@ -1,0 +1,9 @@
+<map id="IG.App.AppHashShell" name="IG.App.AppHashShell">
+<area shape="rect" id="node1" title="Internal script for running embedded applications." alt="" coords="169,185,317,212"/>
+<area shape="rect" id="node2" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="23,96,97,123"/>
+<area shape="rect" id="node3" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities." alt="" coords="5,13,115,39"/>
+<area shape="rect" id="node5" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="121,96,252,123"/>
+<area shape="rect" id="node4" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="139,13,250,39"/>
+<area shape="rect" id="node6" href="$d1/d73/classIG_1_1App_1_1ShellHash.html" title="Shell application to be installed in script application." alt="" coords="327,96,452,123"/>
+<area shape="rect" id="node7" href="$d4/d93/classIG_1_1Lib_1_1ShellApplication.html" title=" " alt="" coords="296,5,483,47"/>
+</map>

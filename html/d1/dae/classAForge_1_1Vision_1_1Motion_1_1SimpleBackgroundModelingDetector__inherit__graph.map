@@ -1,0 +1,4 @@
+<map id="AForge.Vision.Motion.SimpleBackgroundModelingDetector" name="AForge.Vision.Motion.SimpleBackgroundModelingDetector">
+<area shape="rect" id="node1" title="Motion detector based on simple background modeling." alt="" coords="5,80,197,121"/>
+<area shape="rect" id="node2" href="$d2/d43/interfaceAForge_1_1Vision_1_1Motion_1_1IMotionDetector.html" title="Interface of motion detector algorithm." alt="" coords="45,5,158,32"/>
+</map>

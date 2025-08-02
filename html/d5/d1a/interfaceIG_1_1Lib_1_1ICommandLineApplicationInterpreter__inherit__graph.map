@@ -1,0 +1,10 @@
+<map id="IG.Lib.ICommandLineApplicationInterpreter" name="IG.Lib.ICommandLineApplicationInterpreter">
+<area shape="rect" id="node1" title="Interface for simple command&#45;line applicatino interpreters." alt="" coords="5,38,216,79"/>
+<area shape="rect" id="node2" href="$de/dcf/classIG_1_1Lib_1_1CommandLineApplicationInterpreter.html" title="Simple command&#45;line application interpreters, holds a set of commands that can be executed by name...." alt="" coords="264,67,471,109"/>
+<area shape="rect" id="node3" href="$d2/d86/classIG_1_1Lib_1_1CommandLineApplicationScriptInterpreter.html" title="Command&#45;line interpreters adapted for executing script commands." alt="" coords="519,9,725,50"/>
+<area shape="rect" id="node4" href="$d6/d30/classIG_1_1Lib_1_1NeuralApplicationInterpreter.html" title="Command line application interpreter that contains some neural networks &#45; related commands." alt="" coords="541,74,703,115"/>
+<area shape="rect" id="node5" href="$de/de7/classIG_1_1Lib_1_1AppExtendedShell.html" title=" " alt="" coords="773,5,940,32"/>
+<area shape="rect" id="node6" href="$d7/d4a/classIG_1_1Lib_1_1AppTestOpt.html" title=" " alt="" coords="792,56,921,83"/>
+<area shape="rect" id="node7" href="$da/dbd/classIG_1_1Lib_1_1MessyApplication.html" title=" " alt="" coords="775,107,938,133"/>
+<area shape="rect" id="node8" href="$d2/d0e/classIG_1_1Lib_1_1NeuralApplicationInterpreterNeuronDotNet.html" title=" " alt="" coords="776,158,937,199"/>
+</map>

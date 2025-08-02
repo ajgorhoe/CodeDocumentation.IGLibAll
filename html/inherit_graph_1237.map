@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/d17/interfaceIG_1_1Sim_1_1ISimulationComponentDto.html" title="Interface for all components of simulation DTOs." alt="" coords="19,173,235,200"/>
+<area shape="rect" id="node2" href="$df/d02/classIG_1_1Sim_1_1SimDomainDto.html" title="Base class for simulation domains." alt="" coords="309,31,462,57"/>
+<area shape="rect" id="node3" href="$d9/da7/classIG_1_1Sim_1_1SimFieldBaseDto.html" title="Base class for simulation field DTOs (data transfer objects)." alt="" coords="302,87,469,129"/>
+<area shape="rect" id="node4" href="$de/d1a/classIG_1_1Sim_1_1SimFieldElemetDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific simulation ..." alt="" coords="296,255,475,297"/>
+<area shape="rect" id="node5" href="$dc/da2/classIG_1_1Sim_1_1SimScalarFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific scalar fiel..." alt="" coords="523,151,726,193"/>
+<area shape="rect" id="node6" href="$dd/db9/classIG_1_1Sim_1_1SimTensorFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific tensor fiel..." alt="" coords="523,221,727,262"/>
+<area shape="rect" id="node7" href="$d2/d9b/classIG_1_1Sim_1_1SimVectorFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific vector fiel..." alt="" coords="523,295,726,337"/>
+<area shape="rect" id="node8" href="$db/df8/classIG_1_1Sim_1_1SimulationComponentDtoBase.html" title=" " alt="" coords="30,5,223,61"/>
+<area shape="rect" id="node9" title=" " alt="" coords="11,85,242,141"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,248,248,304"/>
+</map>

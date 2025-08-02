@@ -1,0 +1,11 @@
+<map id="CShell.Modules.Workspace.Results.AddReferencesResult" name="CShell.Modules.Workspace.Results.AddReferencesResult">
+<area shape="rect" id="node1" title=" " alt="" coords="935,53,1129,94"/>
+<area shape="rect" id="node2" href="$d6/dae/classCShell_1_1Framework_1_1Results_1_1ResultBase.html" title=" " alt="" coords="683,23,773,49"/>
+<area shape="rect" id="node3" title=" " alt="" coords="411,5,474,32"/>
+<area shape="rect" id="node4" href="$d6/dc3/classCShell_1_1AssemblyReferences.html" title=" " alt="" coords="635,107,821,133"/>
+<area shape="rect" id="node5" href="$de/d8d/classCShell_1_1Util_1_1ObservableKeyedCollection.html" title=" " alt="" coords="341,57,544,98"/>
+<area shape="rect" id="node6" title=" " alt="" coords="56,131,145,157"/>
+<area shape="rect" id="node7" href="$dc/d7b/classCShell_1_1ScriptingEngine.html" title=" " alt="" coords="365,181,520,208"/>
+<area shape="rect" id="node8" href="$d0/dc3/interfaceCShellCore_1_1CodeCompletion_1_1ICSharpScriptProvider.html" title="This interface allows to provide more information for scripts such as using statements,..." alt="" coords="27,189,175,216"/>
+<area shape="rect" id="node9" href="$da/dc3/classCShellCore_1_1CodeCompletion_1_1CSharpCompletion.html" title=" " alt="" coords="5,241,196,282"/>
+</map>

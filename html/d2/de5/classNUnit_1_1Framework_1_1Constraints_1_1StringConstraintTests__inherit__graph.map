@@ -1,0 +1,16 @@
+<map id="NUnit.Framework.Constraints.StringConstraintTests" name="NUnit.Framework.Constraints.StringConstraintTests">
+<area shape="rect" id="node1" title=" " alt="" coords="416,332,612,373"/>
+<area shape="rect" id="node4" href="$db/ddd/classNUnit_1_1Framework_1_1Constraints_1_1EmptyStringConstraintTest.html" title=" " alt="" coords="687,5,883,47"/>
+<area shape="rect" id="node5" href="$dc/df4/classNUnit_1_1Framework_1_1Constraints_1_1EndsWithConstraintTests.html" title=" " alt="" coords="687,71,883,112"/>
+<area shape="rect" id="node6" href="$dc/d9b/classNUnit_1_1Framework_1_1Constraints_1_1EndsWithConstraintTestsIgnoringCase.html" title=" " alt="" coords="663,136,908,177"/>
+<area shape="rect" id="node7" href="$dd/dd5/classNUnit_1_1Framework_1_1Constraints_1_1SamePathOrUnderTest__Linux.html" title=" " alt="" coords="687,201,883,243"/>
+<area shape="rect" id="node8" href="$df/d95/classNUnit_1_1Framework_1_1Constraints_1_1SamePathOrUnderTest__Windows.html" title=" " alt="" coords="677,267,893,308"/>
+<area shape="rect" id="node9" href="$d2/d85/classNUnit_1_1Framework_1_1Constraints_1_1SamePathTest__Linux.html" title=" " alt="" coords="687,332,883,373"/>
+<area shape="rect" id="node10" href="$db/df9/classNUnit_1_1Framework_1_1Constraints_1_1SamePathTest__Windows.html" title="Summary description for PathConstraintTests." alt="" coords="687,397,883,439"/>
+<area shape="rect" id="node11" href="$db/d94/classNUnit_1_1Framework_1_1Constraints_1_1StartsWithConstraintTests.html" title=" " alt="" coords="687,463,883,504"/>
+<area shape="rect" id="node12" href="$d7/db3/classNUnit_1_1Framework_1_1Constraints_1_1StartsWithConstraintTestsIgnoringCase.html" title=" " alt="" coords="660,528,911,569"/>
+<area shape="rect" id="node13" href="$de/d55/classNUnit_1_1Framework_1_1Constraints_1_1SubstringConstraintTests.html" title=" " alt="" coords="687,593,883,635"/>
+<area shape="rect" id="node14" href="$dc/de0/classNUnit_1_1Framework_1_1Constraints_1_1SubstringConstraintTestsIgnoringCase.html" title=" " alt="" coords="664,659,907,700"/>
+<area shape="rect" id="node2" href="$d5/d7a/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintTestBase.html" title=" " alt="" coords="232,339,368,366"/>
+<area shape="rect" id="node3" href="$dc/d5c/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintTestBaseNoData.html" title=" " alt="" coords="5,339,184,366"/>
+</map>

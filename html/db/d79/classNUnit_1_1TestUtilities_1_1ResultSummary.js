@@ -1,0 +1,26 @@
+var classNUnit_1_1TestUtilities_1_1ResultSummary =
+[
+    [ "ResultSummary", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a4f3cfab9af80d480ff351c2be0eef30f", null ],
+    [ "ResultSummary", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a0a050ccb9c604fcf4d4b5ba905db9e8f", null ],
+    [ "Summarize", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a9acce697447c79dfed82fe6a60064640", null ],
+    [ "resultCount", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#abd020827a09188231bae884941b2239a", null ],
+    [ "failureCount", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a2cb58e07f5bc4fd53bdaa9a68ec3bda9", null ],
+    [ "successCount", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a9cf50d9e2af79d84494b4f3b18e0fe85", null ],
+    [ "inconclusiveCount", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#af54e23ec9f7105cdf9727b91d2824b05", null ],
+    [ "skipCount", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a0b0d37bcb85a8f3d0799038df922fd13", null ],
+    [ "startTime", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a3df4f76f54a291a69285402e56d5dd95", null ],
+    [ "endTime", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a919a39347a49ccbe78223227154af5f1", null ],
+    [ "duration", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a23ab3241e7ecc5d6090828def29d1c88", null ],
+    [ "name", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#aa4aaa4e5a02ba23758380aaa107d75a5", null ],
+    [ "Name", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#aab6b4d15e03be44224d6814a7fc6f053", null ],
+    [ "Success", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a3b918e7379f7b298832b3108133bf2dc", null ],
+    [ "ResultCount", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a1a3477194cc8e65da3c0c5a0f5da1a62", null ],
+    [ "TestsRun", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a0a0622a7967d4b4bb25c15743b5044e4", null ],
+    [ "Passed", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#ae669b0260f876997cecff671b8a047d8", null ],
+    [ "Failed", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a156609b99b87ca4f150f5ce1eb24fb03", null ],
+    [ "Inconclusive", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a5e4a779808e434ffe5acae1938871dd7", null ],
+    [ "Skipped", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#ac15a15f2fa7e462bed07097510067684", null ],
+    [ "StartTime", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#ae4c89cba1ac0ca134f552303f4589cac", null ],
+    [ "EndTime", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a9d1e3a99b2a0e488c3e3f096055ea645", null ],
+    [ "Duration", "db/d79/classNUnit_1_1TestUtilities_1_1ResultSummary.html#a621aa3f02fa30d42f4771b6ebe1a73f6", null ]
+];

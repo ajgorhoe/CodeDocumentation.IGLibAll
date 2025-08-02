@@ -1,0 +1,7 @@
+<map id="NUnit.Engine.Runners.LocalTestRunner" name="NUnit.Engine.Runners.LocalTestRunner">
+<area shape="rect" id="node1" title="LocalTestRunner runs tests in the current AppDomain." alt="" coords="5,304,191,345"/>
+<area shape="rect" id="node2" href="$d0/d25/classNUnit_1_1Engine_1_1Runners_1_1DirectTestRunner.html" title="DirectTestRunner is the abstract base for runners that deal directly with a framework driver." alt="" coords="37,229,159,256"/>
+<area shape="rect" id="node3" href="$d6/dfe/classNUnit_1_1Engine_1_1Runners_1_1AbstractTestRunner.html" title="AbstractTestRunner is the base class for all runners within the NUnit Engine. It implements the ITest..." alt="" coords="29,155,167,181"/>
+<area shape="rect" id="node4" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="33,80,163,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="53,5,143,32"/>
+</map>

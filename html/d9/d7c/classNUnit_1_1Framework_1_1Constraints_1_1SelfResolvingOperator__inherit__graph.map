@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Constraints.SelfResolvingOperator" name="NUnit.Framework.Constraints.SelfResolvingOperator">
+<area shape="rect" id="node1" title="Abstract base class for operators that are able to reduce to a constraint whether or not another synt..." alt="" coords="184,71,380,112"/>
+<area shape="rect" id="node3" href="$dc/dfc/classNUnit_1_1Framework_1_1Constraints_1_1AttributeOperator.html" title="Operator that tests for the presence of a particular attribute on a type and optionally applies furth..." alt="" coords="428,5,624,47"/>
+<area shape="rect" id="node4" href="$d6/d77/classNUnit_1_1Framework_1_1Constraints_1_1PropOperator.html" title="Operator used to test for the presence of a named Property on an object and optionally apply further ..." alt="" coords="428,71,624,112"/>
+<area shape="rect" id="node5" href="$d1/de1/classNUnit_1_1Framework_1_1Constraints_1_1ThrowsOperator.html" title="Operator that tests that an exception is thrown and optionally applies further tests to the exception..." alt="" coords="428,136,624,177"/>
+<area shape="rect" id="node2" href="$df/d41/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintOperator.html" title="The ConstraintOperator class is used internally by a ConstraintBuilder to represent an operator that ..." alt="" coords="5,78,136,105"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AForge.Fuzzy.ProductNorm" name="AForge.Fuzzy.ProductNorm">
+<area shape="rect" id="node1" title="Product Norm, used to calculate the linguistic value of a AND operation." alt="" coords="5,80,189,107"/>
+<area shape="rect" id="node2" href="$d1/dff/interfaceAForge_1_1Fuzzy_1_1INorm.html" title="Interface with the common methods of a Fuzzy Norm." alt="" coords="69,5,125,32"/>
+</map>

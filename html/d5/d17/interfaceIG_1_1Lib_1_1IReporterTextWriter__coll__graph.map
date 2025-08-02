@@ -1,0 +1,4 @@
+<map id="IG.Lib.IReporterTextWriter" name="IG.Lib.IReporterTextWriter">
+<area shape="rect" id="node1" title="Reporters that utilize writing messages to files. Messages are typically formatted as multi&#45;line mess..." alt="" coords="5,80,177,107"/>
+<area shape="rect" id="node2" href="$de/d0d/interfaceIG_1_1Lib_1_1IReporterBase.html" title="Interface from which all reporters inherit." alt="" coords="39,5,143,32"/>
+</map>

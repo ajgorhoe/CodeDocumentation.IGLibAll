@@ -1,0 +1,7 @@
+<map id="NumLib.MinimizerLbfgs" name="NumLib.MinimizerLbfgs">
+<area shape="rect" id="node1" title="Performs minimization of multivariate functions by the LBFGS method." alt="" coords="318,272,475,299"/>
+<area shape="rect" id="node2" href="$d5/dae/classNumLib_1_1MinimizerBase.html" title=" " alt="" coords="137,168,245,195"/>
+<area shape="rect" id="node3" href="$d9/d48/classNumLib_1_1FunctionWithGradient.html" title="Base class for implementation of various functions with gradients." alt="" coords="5,5,201,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="297,5,352,32"/>
+<area shape="rect" id="node5" href="$da/d47/classAlgLib_1_1lbfgs.html" title=" " alt="" coords="580,168,669,195"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="AForge.Vision.Motion.BlobCountingObjectsProcessing" name="AForge.Vision.Motion.BlobCountingObjectsProcessing">
+<area shape="rect" id="node1" title="Motion processing algorithm, which counts separate moving objects and highlights them." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$d2/d4b/interfaceAForge_1_1Vision_1_1Motion_1_1IMotionProcessing.html" title="Interface of motion processing algorithm." alt="" coords="32,5,161,32"/>
+</map>

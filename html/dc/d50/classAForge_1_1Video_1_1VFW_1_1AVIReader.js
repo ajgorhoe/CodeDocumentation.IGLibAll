@@ -1,0 +1,28 @@
+var classAForge_1_1Video_1_1VFW_1_1AVIReader =
+[
+    [ "AVIReader", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a7760df51c2c0ac448eb380beddf570a4", null ],
+    [ "~AVIReader", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a7cb6be6c11b4977e0adad07b38389c2a", null ],
+    [ "Dispose", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a46fe1e2d21840f77c237dc883ca53a99", null ],
+    [ "Dispose", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#aec3f941ef1479143223e070652e8ff44", null ],
+    [ "Open", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#ae28efa14e3f49749d03fe517a5c096ca", null ],
+    [ "Close", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a1a2ef8d23e79d7adecb83a8973b3db70", null ],
+    [ "GetNextFrame", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a0acea9eee3a03cdeaf7b12e64659e368", null ],
+    [ "file", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#ab265efb5458b8a7d991059de019a1f55", null ],
+    [ "stream", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a8be4c0ac1586554745e8e43be03d8c3d", null ],
+    [ "getFrame", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a9cd21ef6445bb611eaf084b95df128e0", null ],
+    [ "width", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#ac256ebfac0fe6785b3376613e7f832a0", null ],
+    [ "height", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a3ebcbc1994898da00625b50756c4da19", null ],
+    [ "position", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a0e96963bf7378c59f7ef4f3ff28bc73d", null ],
+    [ "start", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#abc719f997882a02cf23d001d594830b7", null ],
+    [ "length", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a8a38c57dd31e3f1f7e8f880ed49d6d1b", null ],
+    [ "rate", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a0d2660ef77870c67161b4d03566927ea", null ],
+    [ "codec", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a42976aaf21e7f69e3d3ced7560e32144", null ],
+    [ "sync", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a157436d283882dbf8c2e54b13490adb3", null ],
+    [ "Width", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a0ef51e83e13f96ab467e7fb84a28ab19", null ],
+    [ "Height", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#af915818da24eb6df6d1ba9e4d1711add", null ],
+    [ "Position", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a4f0cff793f98c591cc187066a74c8d0c", null ],
+    [ "Start", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a2e04f9eaf8307808f3b860b4d2617abf", null ],
+    [ "Length", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#aae30f622a09df9b74190e0441e4fad15", null ],
+    [ "FrameRate", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#ab91fb025a02844045d9cd284d4aa1962", null ],
+    [ "Codec", "dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#af8ef8feb726faa003731b7d96173d4ca", null ]
+];

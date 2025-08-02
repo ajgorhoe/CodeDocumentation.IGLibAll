@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Tests.AssertSyntaxTests" name="NUnit.Framework.Tests.AssertSyntaxTests">
+<area shape="rect" id="node1" title="This test fixture attempts to exercise all the syntactic variations of Assert without getting into fa..." alt="" coords="5,155,205,196"/>
+<area shape="rect" id="node2" href="$d2/dbf/classNUnit_1_1Framework_1_1AssertionHelper.html" title="AssertionHelper is an optional base class for user tests, allowing the use of shorter ids for constra..." alt="" coords="48,80,163,107"/>
+<area shape="rect" id="node3" href="$d2/dab/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintFactory.html" title="Helper class with properties and methods that supply a number of constraints used in Asserts." alt="" coords="43,5,168,32"/>
+</map>

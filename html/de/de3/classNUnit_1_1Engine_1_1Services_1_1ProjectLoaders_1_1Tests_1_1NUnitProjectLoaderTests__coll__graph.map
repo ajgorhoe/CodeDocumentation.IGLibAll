@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.Services.ProjectLoaders.Tests.NUnitProjectLoaderTests" name="NUnit.Engine.Services.ProjectLoaders.Tests.NUnitProjectLoaderTests">
+<area shape="rect" id="node1" title=" " alt="" coords="5,185,257,227"/>
+<area shape="rect" id="node2" href="$d6/d42/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1NUnitProjectLoader.html" title=" " alt="" coords="33,81,229,123"/>
+<area shape="rect" id="node3" href="$d8/d8b/interfaceNUnit_1_1Engine_1_1Extensibility_1_1IProjectLoader.html" title="The IProjectLoader interface is implemented by any class that knows how to load projects in a specifi..." alt="" coords="79,5,184,32"/>
+</map>

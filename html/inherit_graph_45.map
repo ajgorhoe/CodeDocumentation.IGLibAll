@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d04/interfaceAForge_1_1Imaging_1_1ComplexFilters_1_1IComplexFilter.html" title="Image processing filter, which operates with Fourier transformed complex image." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$d7/de9/classAForge_1_1Imaging_1_1ComplexFilters_1_1FrequencyFilter.html" title="Filtering of frequencies outside of specified range in complex Fourier transformed image." alt="" coords="261,5,469,47"/>
+</map>

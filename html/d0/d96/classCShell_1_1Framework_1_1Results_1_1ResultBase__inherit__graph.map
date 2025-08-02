@@ -1,0 +1,12 @@
+<map id="CShell.Framework.Results.ResultBase" name="CShell.Framework.Results.ResultBase">
+<area shape="rect" id="node1" title=" " alt="" coords="116,235,296,276"/>
+<area shape="rect" id="node3" href="$dd/d6d/classCShell_1_1Framework_1_1Results_1_1CloseWorkspaceResult.html" title=" " alt="" coords="351,5,531,47"/>
+<area shape="rect" id="node4" href="$df/de8/classCShell_1_1Framework_1_1Results_1_1OpenWorkspaceResult.html" title=" " alt="" coords="351,71,531,112"/>
+<area shape="rect" id="node5" href="$d5/dd0/classCShell_1_1Framework_1_1Results_1_1RunCodeResult.html" title=" " alt="" coords="351,136,531,177"/>
+<area shape="rect" id="node6" href="$d6/dc4/classCShell_1_1Framework_1_1Results_1_1SaveDocumentResult.html" title=" " alt="" coords="351,201,531,243"/>
+<area shape="rect" id="node7" href="$dc/dd0/classCShell_1_1Framework_1_1Results_1_1ShowDialogResult.html" title=" " alt="" coords="351,267,531,308"/>
+<area shape="rect" id="node8" href="$dc/da8/classCShell_1_1Modules_1_1Workspace_1_1Results_1_1AddFilesResult.html" title=" " alt="" coords="348,332,535,373"/>
+<area shape="rect" id="node9" href="$d5/dbd/classCShell_1_1Modules_1_1Workspace_1_1Results_1_1AddFolderResult.html" title=" " alt="" coords="348,397,535,439"/>
+<area shape="rect" id="node10" href="$d9/d50/classCShell_1_1Modules_1_1Workspace_1_1Results_1_1AddReferencesResult.html" title=" " alt="" coords="344,463,539,504"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,242,68,269"/>
+</map>

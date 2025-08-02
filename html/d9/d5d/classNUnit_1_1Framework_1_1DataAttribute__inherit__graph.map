@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.DataAttribute" name="NUnit.Framework.DataAttribute">
+<area shape="rect" id="node1" title="The abstract base class for all data&#45;providing attributes defined by NUnit. Used to select all data s..." alt="" coords="275,56,477,83"/>
+<area shape="rect" id="node4" href="$de/db2/classNUnit_1_1Framework_1_1RandomAttribute.html" title="RandomAttribute is used to supply a set of random _values to a single parameter of a parameterized te..." alt="" coords="525,5,748,32"/>
+<area shape="rect" id="node5" href="$da/db5/classNUnit_1_1Framework_1_1ValuesAttribute.html" title="ValuesAttribute is used to provide literal arguments for an individual parameter of a test." alt="" coords="529,56,744,83"/>
+<area shape="rect" id="node7" href="$da/d49/classNUnit_1_1Framework_1_1ValueSourceAttribute.html" title="ValueSourceAttribute indicates the source to be used to provide data for one parameter of a test meth..." alt="" coords="537,107,737,149"/>
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="124,56,227,83"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,56,76,83"/>
+<area shape="rect" id="node6" href="$d8/d73/classNUnit_1_1Framework_1_1RangeAttribute.html" title="RangeAttribute is used to supply a range of _values to an individual parameter of a parameterized tes..." alt="" coords="796,56,1008,83"/>
+</map>

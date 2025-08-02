@@ -1,0 +1,26 @@
+var classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests =
+[
+    [ "CollectionTypeConverterTests", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#adb7b38f3ab6adca4955402fc07ea7b79", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntIListToIntIEnumerableObjectToIntArray", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#af1727e00b5ada762ebeca78123b63bc3", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArrayToIntIEnumerableObjectToIntIList", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a8065c517f4a90f6073d77d8c65b3d06c", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntIListToIntArrayObjectToIntIList", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a084db4f832c8a541501b9679c40e0532", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntIEnumerableToIntListObjectToIntArray", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a7a6fc358ccbd605acf5edf120676db10", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntIEnumerableToIntArrayObjectToIntList", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#ad52d64dbf1baf7456fc376387461ed1b", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntIListToIntArrayObjectToIntList", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a37023d98e2b06b22711b48b611906377", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArrayToIntListObjectToIntArray", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a756bd32e77512a277db77673cca25f4b", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArrayToIntIListObjectToIntArray", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a6a83e943aae94a3c5327cc4c7ef42929", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArray2DToIntArrayObjectToIntList", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a49293a51ff2b2303a25a60d322a9631b", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArray3DToIntIListObjectToIntArray", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a1a0c4d05ef796a421cf394deb8afb5df", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArray3DToIntListObjectToIntArray", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a83520fea0b10ec4a2127ce5531173957", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArray3DToIntIEnumerableObjectToIntArray", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#af2844d1e79647461221530e243758e51", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArray2DToIntArray2DObjectToIntArray2D", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a1c4d8f9c50223b5df3221d1829653c10", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArray3DToIntArray3DObjectToIntArray3D", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a9b7b14e9e4c8e2f45c01ec05764a4250", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntJaggedArrayNonrectangular2DToIntArrayObjectToIntList", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#aecc09f27a1c76be27eef629a671095d1", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntJaggedArrayNonrectangular3DToIntIListObjectToIntArray", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#abb838e9d8f7883a4b291dcd49be0314d", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntJaggedArrayNonrectangular3DToIntIEnumerableObjectToIntArray", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#ac0d948a64acea7b84fc4d49a2fe68e6e", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntJaggedArray2DToIntJaggedArray2DObjectToIntJaggedArray2D", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a079fb4f0125956bcfabc200818360dcc", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntJaggedArray3DToIntJaggedArray3DObjectToIntJaggedArray3D", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#ac32b02ba62505e330ed3b1bbe88160c9", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntJaggedArray3DToIntArray3DObjectToIntJaggedArray3D", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a4b85eed774301bc51041911bcfe014ac", null ],
+    [ "SpecificTypeConverter_CollectionRoundTripConversion_IntArray3DToIntJaggedArray3DObjectToIntArray3D", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a47f8256c130ba6ebcd4cc41ae7bcc4ca", null ],
+    [ "TypeConverter", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html#a2ced8f7634ba2e6f5efa46f85c96f858", null ]
+];

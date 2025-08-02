@@ -1,0 +1,26 @@
+var classAForge_1_1Imaging_1_1HoughCircleTransformation =
+[
+    [ "HoughCircleTransformation", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a0fea58737fca441f73fa01bf0b9deafe", null ],
+    [ "ProcessImage", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a65b73e5b948b8dfa19ab22c21c1e6c97", null ],
+    [ "ProcessImage", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a33fd182d5bd6b74fae202960e4464150", null ],
+    [ "ProcessImage", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a25223cc2c2ac48bfdb999640384ff6df", null ],
+    [ "ToBitmap", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#ad2a3495fe23b2a8f2b21cdc2791f4eba", null ],
+    [ "GetMostIntensiveCircles", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a5a3e9ccb3ac53ff66a2bdf37de29514e", null ],
+    [ "GetCirclesByRelativeIntensity", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a024820aae060d312ddbb562f777adbc8", null ],
+    [ "CollectCircles", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#ace28edf748ef27578421e8f1c4a6b179", null ],
+    [ "DrawHoughCircle", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#accb47bc5e701eb637174d6feb855d583", null ],
+    [ "SetHoughCirclePoints", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a526a75d57cc742adb29567436de514f5", null ],
+    [ "SetHoughPoint", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#af5cd2a2f1fb83fae22db81a43b453f27", null ],
+    [ "radiusToDetect", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a252ccdfce6c64d813a3276bc14b5aa12", null ],
+    [ "houghMap", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a6d197ab51c930ce76e70ca4768c2b4f9", null ],
+    [ "maxMapIntensity", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#aac957aef0f71abc348f5df5747f77243", null ],
+    [ "width", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#add4c7bd454ba394125b1b0c829ce4901", null ],
+    [ "height", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#ac12fa5c700d287834970c7a418366c0f", null ],
+    [ "localPeakRadius", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a6deed7e60c9f2094ad05f96f097ab0e2", null ],
+    [ "minCircleIntensity", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#aef477a301ec35c89061becc5e0fa6340", null ],
+    [ "circles", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a9e762dccca513d37cd22d48612f18ed7", null ],
+    [ "MinCircleIntensity", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#ab4d2392fdc69ca31447586341e810eb0", null ],
+    [ "LocalPeakRadius", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a5ecdd872d87afee80e523c0142bee779", null ],
+    [ "MaxIntensity", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#a7c9ab8e87f501301681491e784017a5c", null ],
+    [ "CirclesCount", "df/d33/classAForge_1_1Imaging_1_1HoughCircleTransformation.html#aa7489fcfceb34e70c920d049672ba7a1", null ]
+];

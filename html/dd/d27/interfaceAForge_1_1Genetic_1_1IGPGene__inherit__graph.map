@@ -1,0 +1,5 @@
+<map id="AForge.Genetic.IGPGene" name="AForge.Genetic.IGPGene">
+<area shape="rect" id="node1" title="Genetic Programming&#39;s gene interface." alt="" coords="131,5,301,32"/>
+<area shape="rect" id="node2" href="$da/d88/classAForge_1_1Genetic_1_1ExtendedGeneFunction.html" title="Genetic programming gene, which represents arithmetic functions, common mathematical functions and ar..." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node3" href="$df/d26/classAForge_1_1Genetic_1_1SimpleGeneFunction.html" title="Genetic programming gene, which represents simple arithmetic functions and arguments." alt="" coords="233,80,421,121"/>
+</map>

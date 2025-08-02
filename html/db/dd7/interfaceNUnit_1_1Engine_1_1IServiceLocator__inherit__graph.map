@@ -1,0 +1,4 @@
+<map id="NUnit.Engine.IServiceLocator" name="NUnit.Engine.IServiceLocator">
+<area shape="rect" id="node1" title="IServiceLocator allows clients to locate any NUnit services for which the interface is referenced...." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$d3/dfe/classNUnit_1_1Engine_1_1ServiceContext.html" title="The ServiceContext is used by services, runners and external clients to locate the services they need..." alt="" coords="6,80,195,107"/>
+</map>

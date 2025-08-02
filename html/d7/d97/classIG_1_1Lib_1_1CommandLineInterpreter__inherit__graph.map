@@ -1,0 +1,8 @@
+<map id="IG.Lib.CommandLineInterpreter" name="IG.Lib.CommandLineInterpreter">
+<area shape="rect" id="node1" title="Base class for all command line interpreters." alt="" coords="245,137,447,163"/>
+<area shape="rect" id="node2" href="$d9/d4e/classIG_1_1Lib_1_1InterpreterBase.html" title=" " alt="" coords="11,5,192,47"/>
+<area shape="rect" id="node3" href="$d4/d11/interfaceIG_1_1Lib_1_1IInterpreter.html" title=" " alt="" coords="10,71,193,112"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="63,137,140,163"/>
+<area shape="rect" id="node5" title=" " alt="" coords="57,187,146,214"/>
+<area shape="rect" id="node6" href="$d5/d7a/interfaceIG_1_1Lib_1_1IRegisterable.html" title=" " alt="" coords="5,239,197,280"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d86/interfaceAForge_1_1Neuro_1_1IActivationFunction.html" title="Activation function interface" alt="" coords="5,64,171,105"/>
+<area shape="rect" id="node2" href="$d6/d13/classAForge_1_1Neuro_1_1BipolarSigmoidFunction.html" title="Bipolar sigmoid activation function" alt="" coords="228,5,421,47"/>
+<area shape="rect" id="node3" href="$d1/df0/classAForge_1_1Neuro_1_1SigmoidFunction.html" title="Sigmoid activation function" alt="" coords="223,71,426,98"/>
+<area shape="rect" id="node4" href="$d1/deb/classAForge_1_1Neuro_1_1ThresholdFunction.html" title="Threshold activation function" alt="" coords="219,122,431,149"/>
+</map>

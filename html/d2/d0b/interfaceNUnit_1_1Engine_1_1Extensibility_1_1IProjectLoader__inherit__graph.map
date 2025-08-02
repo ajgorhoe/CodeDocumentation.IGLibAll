@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.Extensibility.IProjectLoader" name="NUnit.Engine.Extensibility.IProjectLoader">
+<area shape="rect" id="node1" title="The IProjectLoader interface is implemented by any class that knows how to load projects in a specifi..." alt="" coords="5,39,183,80"/>
+<area shape="rect" id="node2" href="$d6/d42/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1NUnitProjectLoader.html" title=" " alt="" coords="245,5,441,47"/>
+<area shape="rect" id="node3" href="$d8/d25/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VisualStudioProjectLoader.html" title="Summary description for VSProjectLoader." alt="" coords="231,71,456,112"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="NUnit.Framework.PlatformAttribute" name="NUnit.Framework.PlatformAttribute">
+<area shape="rect" id="node1" title="PlatformAttribute is used to mark a test fixture or an individual method as applying to a particular ..." alt="" coords="817,54,992,95"/>
+<area shape="rect" id="node2" href="$df/d2f/classNUnit_1_1Framework_1_1IncludeExcludeAttribute.html" title="Abstract base for Attributes that are used to include tests in the test run based on environmental se..." alt="" coords="516,9,675,36"/>
+<area shape="rect" id="node3" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="305,5,408,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node5" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="547,61,644,88"/>
+<area shape="rect" id="node6" href="$d1/da2/classNUnit_1_1Framework_1_1Internal_1_1PlatformHelper.html" title="PlatformHelper class is used by the PlatformAttribute class to determine whether a platform is suppor..." alt="" coords="509,114,681,155"/>
+<area shape="rect" id="node7" href="$d5/d54/classNUnit_1_1Framework_1_1Internal_1_1RuntimeFramework.html" title="RuntimeFramework represents a particular version of a common language runtime implementation." alt="" coords="271,119,443,161"/>
+<area shape="rect" id="node8" title=" " alt="" coords="13,107,68,133"/>
+<area shape="rect" id="node9" href="$d8/df4/classNUnit_1_1Framework_1_1Internal_1_1OSPlatform.html" title="OSPlatform represents a particular operating system platform" alt="" coords="271,194,443,235"/>
+</map>

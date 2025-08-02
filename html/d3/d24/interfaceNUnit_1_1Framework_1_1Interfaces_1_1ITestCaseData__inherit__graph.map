@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Interfaces.ITestCaseData" name="NUnit.Framework.Interfaces.ITestCaseData">
+<area shape="rect" id="node1" title="The ITestCaseData interface is implemented by a class that is able to return complete testcases for u..." alt="" coords="116,80,303,121"/>
+<area shape="rect" id="node3" href="$d2/d44/classNUnit_1_1Framework_1_1Internal_1_1TestCaseParameters.html" title="The TestCaseParameters class encapsulates method arguments and other selected parameters needed for c..." alt="" coords="23,169,195,211"/>
+<area shape="rect" id="node5" href="$d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html" title="TestCaseAttribute is used to mark parameterized test cases and provide them with their arguments." alt="" coords="220,169,401,211"/>
+<area shape="rect" id="node2" href="$dc/d63/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestData.html" title="The ITestData interface is implemented by a class that represents a single instance of a parameterize..." alt="" coords="171,5,248,32"/>
+<area shape="rect" id="node4" href="$d0/ddc/classNUnit_1_1Framework_1_1TestCaseData.html" title="The TestCaseData class represents a set of arguments and other parameter info to be used for a parame..." alt="" coords="5,259,213,285"/>
+</map>

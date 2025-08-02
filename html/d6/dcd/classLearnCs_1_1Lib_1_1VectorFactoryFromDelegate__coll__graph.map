@@ -1,0 +1,5 @@
+<map id="LearnCs.Lib.VectorFactoryFromDelegate&lt; VectorType &gt;" name="LearnCs.Lib.VectorFactoryFromDelegate&lt; VectorType &gt;">
+<area shape="rect" id="node1" title="A generic vector factory that creates vectors of type VectorType , based on a delegate that is inject..." alt="" coords="77,95,271,136"/>
+<area shape="rect" id="node2" href="$d9/d07/classLearnCs_1_1Lib_1_1VectorFactoryBase.html" title=" " alt="" coords="5,5,148,47"/>
+<area shape="rect" id="node3" href="$da/d36/interfaceLearnCs_1_1Lib_1_1IVectorFactory.html" title=" " alt="" coords="173,13,370,39"/>
+</map>

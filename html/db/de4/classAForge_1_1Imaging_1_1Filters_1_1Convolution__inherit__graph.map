@@ -1,0 +1,14 @@
+<map id="AForge.Imaging.Filters.Convolution" name="AForge.Imaging.Filters.Convolution">
+<area shape="rect" id="node1" title="Convolution filter." alt="" coords="417,136,640,163"/>
+<area shape="rect" id="node7" href="$de/d07/classAForge_1_1Imaging_1_1Filters_1_1Blur.html" title="Blur filter." alt="" coords="715,5,895,32"/>
+<area shape="rect" id="node8" href="$d2/da1/classAForge_1_1Imaging_1_1Filters_1_1Edges.html" title="Simple edge detector." alt="" coords="708,56,903,83"/>
+<area shape="rect" id="node9" href="$d2/d3a/classAForge_1_1Imaging_1_1Filters_1_1GaussianBlur.html" title="Gaussian blur filter." alt="" coords="688,107,923,133"/>
+<area shape="rect" id="node10" href="$d9/d00/classAForge_1_1Imaging_1_1Filters_1_1GaussianSharpen.html" title="Gaussian sharpen filter." alt="" coords="699,158,911,199"/>
+<area shape="rect" id="node11" href="$d5/dc7/classAForge_1_1Imaging_1_1Filters_1_1Mean.html" title="Mean filter." alt="" coords="711,224,900,251"/>
+<area shape="rect" id="node12" href="$dc/d8f/classAForge_1_1Imaging_1_1Filters_1_1Sharpen.html" title="Sharpen filter" alt="" coords="703,275,908,301"/>
+<area shape="rect" id="node2" href="$d8/ddf/classAForge_1_1Imaging_1_1Filters_1_1BaseUsingCopyPartialFilter.html" title="Base class for filters, which require source image backup to make them applicable to source image (or..." alt="" coords="188,136,369,163"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="45,60,100,87"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="24,111,121,137"/>
+<area shape="rect" id="node5" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="5,161,140,188"/>
+<area shape="rect" id="node6" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="14,212,131,239"/>
+</map>

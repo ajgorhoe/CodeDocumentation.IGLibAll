@@ -1,0 +1,13 @@
+<map id="NUnit.Engine.Agents.RemoteTestAgent" name="NUnit.Engine.Agents.RemoteTestAgent">
+<area shape="rect" id="node1" title="RemoteTestAgent represents a remote agent executing in another process and communicating with NUnit b..." alt="" coords="584,243,776,285"/>
+<area shape="rect" id="node2" href="$de/d9a/classNUnit_1_1Engine_1_1Agents_1_1TestAgent.html" title="Abstract base for all types of TestAgents. A TestAgent provides services of locating,..." alt="" coords="345,124,426,151"/>
+<area shape="rect" id="node3" title=" " alt="" coords="30,157,171,184"/>
+<area shape="rect" id="node4" href="$d7/dbf/interfaceNUnit_1_1Engine_1_1ITestAgent.html" title="The ITestAgent interface is implemented by remote test agents." alt="" coords="59,5,143,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="56,217,145,244"/>
+<area shape="rect" id="node8" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="320,192,451,219"/>
+<area shape="rect" id="node11" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="300,243,471,285"/>
+<area shape="rect" id="node6" href="$d1/d4f/interfaceNUnit_1_1Engine_1_1ITestAgency.html" title="The ITestAgency interface is implemented by a TestAgency in order to allow TestAgents to register wit..." alt="" coords="13,56,188,83"/>
+<area shape="rect" id="node7" href="$d9/d51/interfaceNUnit_1_1Engine_1_1IServiceLocator.html" title="IServiceLocator allows clients to locate any NUnit services for which the interface is referenced...." alt="" coords="5,107,196,133"/>
+<area shape="rect" id="node9" href="$d8/d32/classNUnit_1_1Engine_1_1TestPackage.html" title="TestPackage holds information about a set of test files to be loaded by a TestRunner...." alt="" coords="296,309,475,336"/>
+<area shape="rect" id="node10" title=" " alt="" coords="73,337,128,364"/>
+</map>

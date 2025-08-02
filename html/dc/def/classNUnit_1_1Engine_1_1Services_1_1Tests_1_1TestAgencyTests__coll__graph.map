@@ -1,0 +1,12 @@
+<map id="NUnit.Engine.Services.Tests.TestAgencyTests" name="NUnit.Engine.Services.Tests.TestAgencyTests">
+<area shape="rect" id="node1" title=" " alt="" coords="864,154,1055,195"/>
+<area shape="rect" id="node2" href="$db/d77/classNUnit_1_1Engine_1_1Services_1_1TestAgency.html" title="The TestAgency class provides RemoteTestAgents on request and tracks their status...." alt="" coords="559,154,739,195"/>
+<area shape="rect" id="node3" href="$da/dc2/classNUnit_1_1Engine_1_1Internal_1_1ServerBase.html" title="Summary description for ServerBase." alt="" coords="261,31,349,57"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="31,56,121,83"/>
+<area shape="rect" id="node6" href="$d1/d4f/interfaceNUnit_1_1Engine_1_1ITestAgency.html" title="The ITestAgency interface is implemented by a TestAgency in order to allow TestAgents to register wit..." alt="" coords="257,81,352,108"/>
+<area shape="rect" id="node7" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="271,132,338,159"/>
+<area shape="rect" id="node8" href="$d0/d64/classNUnit_1_1Engine_1_1Services_1_1TestAgency_1_1AgentDataBase.html" title="A simple class that tracks data about this agencies active and available agents" alt="" coords="215,183,395,225"/>
+<area shape="rect" id="node9" href="$d9/dc9/interfaceNUnit_1_1Engine_1_1IRuntimeFrameworkService.html" title="Implemented by a type that provides information about the current and other available runtimes." alt="" coords="196,249,413,290"/>
+<area shape="rect" id="node10" title=" " alt="" coords="277,315,332,341"/>
+</map>

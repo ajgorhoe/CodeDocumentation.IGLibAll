@@ -1,0 +1,6 @@
+<map id="ChemicalCompoundDto" name="ChemicalCompoundDto">
+<area shape="rect" id="node1" title="DTO (Data Transfer Objects) for chemical element properties (the ChemicalCompound class)...." alt="" coords="572,47,731,73"/>
+<area shape="rect" id="node2" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="252,5,464,61"/>
+<area shape="rect" id="node3" href="$d3/dd1/classIG_1_1Physics_1_1ChemicalElementQuantityDto.html" title="DTO (data transfer object) for chemical element (ChemicalElement class)." alt="" coords="262,86,454,127"/>
+<area shape="rect" id="node4" href="$de/dab/classIG_1_1Physics_1_1ChemicalElementDtoBase.html" title=" " alt="" coords="5,86,203,127"/>
+</map>

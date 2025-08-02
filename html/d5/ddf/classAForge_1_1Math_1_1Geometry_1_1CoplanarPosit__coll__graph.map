@@ -1,0 +1,5 @@
+<map id="AForge.Math.Geometry.CoplanarPosit" name="AForge.Math.Geometry.CoplanarPosit">
+<area shape="rect" id="node1" title="3D pose estimation algorithm (coplanar case)." alt="" coords="60,139,273,180"/>
+<area shape="rect" id="node2" href="$d7/de2/structAForge_1_1Math_1_1Vector3.html" title="3D Vector structure with X, Y and Z coordinates." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node3" href="$d9/d61/structAForge_1_1Math_1_1Matrix3x3.html" title="A structure representing 3x3 matrix." alt="" coords="177,5,335,32"/>
+</map>

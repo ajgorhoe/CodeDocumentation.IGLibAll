@@ -1,0 +1,16 @@
+<map id="IG.MPetekLib.Algorithms.Plotting.PlotHQ" name="IG.MPetekLib.Algorithms.Plotting.PlotHQ">
+<area shape="rect" id="node1" title="A pack of 2 class object that are used for plotting: ZedGraphWindow and PlotterZedGraph...." alt="" coords="295,511,466,552"/>
+<area shape="rect" id="node2" href="$d0/d64/classIG_1_1Gr_1_1ZedGraphWindow.html" title="Window form containing a Zedgraph control for plotting graphs." alt="" coords="77,421,236,448"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,185,57,212"/>
+<area shape="rect" id="node4" title=" " alt="" coords="81,185,160,212"/>
+<area shape="rect" id="node5" title=" " alt="" coords="203,185,270,212"/>
+<area shape="rect" id="node6" href="$d9/dcf/classIG_1_1Gr_1_1PlotterZedGraph.html" title="Plotter class that uses a ZedGraphControl object for plotting ordinary 2D graphs." alt="" coords="421,421,572,448"/>
+<area shape="rect" id="node7" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="294,185,371,212"/>
+<area shape="rect" id="node8" title=" " alt="" coords="396,185,485,212"/>
+<area shape="rect" id="node9" href="$dd/d52/structIG_1_1Lib_1_1color.html" title="Extended color representation. Stores RGB components and opacity as double numbers ranging fom 0 to 1..." alt="" coords="510,185,598,212"/>
+<area shape="rect" id="node10" href="$dd/dcf/classIG_1_1Num_1_1BoundingBox2d.html" title="A 2D bounding box." alt="" coords="623,185,784,212"/>
+<area shape="rect" id="node11" href="$df/d61/classIG_1_1Num_1_1BoundingBoxBase.html" title="Base class for bounding boxes that define minimal and maximal co&#45;ordinates of objects,..." alt="" coords="689,109,819,136"/>
+<area shape="rect" id="node12" href="$db/d5e/interfaceIG_1_1Num_1_1IBoundingBox.html" title="Bounding box, defines minimum and maximum co&#45;ordinates of domains, geometric objects and their groups..." alt="" coords="600,5,703,32"/>
+<area shape="rect" id="node13" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="727,5,869,32"/>
+<area shape="rect" id="node14" title=" " alt="" coords="808,185,863,212"/>
+</map>

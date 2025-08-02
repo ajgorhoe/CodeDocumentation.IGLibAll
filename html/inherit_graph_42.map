@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d4/dc5/classAForge_1_1Imaging_1_1ColorReduction_1_1ErrorDiffusionColorDithering.html" title="Base class for error diffusion color dithering." alt="" coords="5,136,215,177"/>
+<area shape="rect" id="node2" href="$df/d7b/classAForge_1_1Imaging_1_1ColorReduction_1_1ColorErrorDiffusionToAdjacentNeighbors.html" title="Base class for error diffusion color dithering, where error is diffused to adjacent neighbor pixels." alt="" coords="263,136,515,177"/>
+<area shape="rect" id="node3" href="$d5/d51/classAForge_1_1Imaging_1_1ColorReduction_1_1BurkesColorDithering.html" title="Color dithering using Burkes error diffusion." alt="" coords="563,5,772,47"/>
+<area shape="rect" id="node4" href="$d6/da3/classAForge_1_1Imaging_1_1ColorReduction_1_1FloydSteinbergColorDithering.html" title="Color dithering using Floyd&#45;Steinberg error diffusion." alt="" coords="563,71,772,112"/>
+<area shape="rect" id="node5" href="$d2/d32/classAForge_1_1Imaging_1_1ColorReduction_1_1JarvisJudiceNinkeColorDithering.html" title="Color dithering using Jarvis, Judice and Ninke error diffusion." alt="" coords="563,136,772,177"/>
+<area shape="rect" id="node6" href="$d5/d10/classAForge_1_1Imaging_1_1ColorReduction_1_1SierraColorDithering.html" title="Color dithering using Sierra error diffusion." alt="" coords="563,201,772,243"/>
+<area shape="rect" id="node7" href="$d4/d8d/classAForge_1_1Imaging_1_1ColorReduction_1_1StuckiColorDithering.html" title="Color dithering using Stucki error diffusion." alt="" coords="563,267,772,308"/>
+</map>

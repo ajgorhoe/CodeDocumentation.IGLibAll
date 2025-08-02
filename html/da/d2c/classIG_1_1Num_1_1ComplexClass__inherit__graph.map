@@ -1,0 +1,5 @@
+<map id="IG.Num.ComplexClass" name="IG.Num.ComplexClass">
+<area shape="rect" id="node1" title="Class representing general complex numbers." alt="" coords="18,80,173,107"/>
+<area shape="rect" id="node3" href="$d6/d4a/classIG_1_1Num_1_1ComplexRealClass.html" title="Complex class that can only represent real numbers (imaginary part is always 0). Attempt to set an im..." alt="" coords="5,155,185,181"/>
+<area shape="rect" id="node2" href="$dd/d3e/interfaceIG_1_1Num_1_1IComplex.html" title="Interface that must be implemented by all complex numbers. $A Igor Oct09;" alt="" coords="57,5,133,32"/>
+</map>

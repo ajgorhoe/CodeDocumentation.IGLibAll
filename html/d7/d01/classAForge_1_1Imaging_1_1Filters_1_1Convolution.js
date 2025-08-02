@@ -1,0 +1,26 @@
+var classAForge_1_1Imaging_1_1Filters_1_1Convolution =
+[
+    [ "Convolution", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a166d2067dd588aba7858fefd0562c9b4", null ],
+    [ "Convolution", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#aec55bcb9b5a508b382ae69a573993606", null ],
+    [ "Convolution", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a88fd1da4965f769fcb8b6d443a771540", null ],
+    [ "ProcessFilter", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#aafa78699e4a73417788010b45c1a7517", null ],
+    [ "Process8bppImage", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#aa4960247659c9057c1d4c4556676c271", null ],
+    [ "Process24bppImage", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a451e4a69224ca51161378f6735d55337", null ],
+    [ "Process32bppImage", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#ac15a4b0611d0c6fe0e0053e0ad8d99eb", null ],
+    [ "Process16bppImage", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#aa3fe4e1f07c376f280427b5ccf8af6ac", null ],
+    [ "Process48bppImage", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a7e8a1f3e0ee2a38ab9a7f23ebb48a8b6", null ],
+    [ "Process64bppImage", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a83cf519ac17c91ed06e7034102c5daaa", null ],
+    [ "kernel", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#ac306e2913af977b379bccfb5c81ad830", null ],
+    [ "divisor", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a73b4873994a589dadd004ff2a2500411", null ],
+    [ "threshold", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a8a3a3ba1f0802836686a5dba9eeddcca", null ],
+    [ "size", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#aa301ebe5786d61396b528cf37a7c1d0f", null ],
+    [ "dynamicDivisorForEdges", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a59b5461f143e4b4bde73d740d816a902", null ],
+    [ "processAlpha", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#af83366f71cd608244f08b2c39b23651b", null ],
+    [ "formatTranslations", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#ac3cda4035e22121775937eade4a393c9", null ],
+    [ "FormatTranslations", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a64225ac05407ed1102e3319ecf496e8d", null ],
+    [ "Kernel", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a237117a87f905241a448d50864398c2b", null ],
+    [ "Divisor", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a6d3f4c89a0d70d1e4eb755f8e633f225", null ],
+    [ "Threshold", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a1abe37439541caf8bfcb9c39fd469e5d", null ],
+    [ "DynamicDivisorForEdges", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#ad0d35dad176b63f6679ab858c034aeed", null ],
+    [ "ProcessAlpha", "d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html#a96c9051613886f3f1d8dd076ed2be48a", null ]
+];

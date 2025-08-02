@@ -1,0 +1,26 @@
+var classIG_1_1Lib_1_1DynamicWrapperBase =
+[
+    [ "CreateArrayWrapperS< WrapperType >", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#ab1e8365267603c6644df082b0399b54e", null ],
+    [ "CreateStructWrapperS< WrapperType >", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#afff63455ec98ce9ae21b6d96e162554c", null ],
+    [ "CreateArrayObjectS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#afb416b417815760ca78f9ac99a297d23", null ],
+    [ "CreateStructObjectS< WrapperType >", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a0b6769192eb362a2816c9192b8f09819", null ],
+    [ "UnwrapObjectS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a672a13891880844e678be9db5ed00916", null ],
+    [ "UnwrapObjectIfWrappedS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a2f84fde3b224e08ec27c3920322af44c", null ],
+    [ "WrapObjectS< WrapperType >", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a7213e1cfae4325c72f1dec191eef1517", null ],
+    [ "IsStructS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a373928029e4eee61df37743f5d84f2e6", null ],
+    [ "IsArrayS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a30f4b97d5e32ff0731e40bdd6136dfad", null ],
+    [ "IsLeafS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#abf6cdf00247fe3a068959c766d9b4b70", null ],
+    [ "NumStructFieldsS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a6577fe02ac35a044a858e23e963841cb", null ],
+    [ "NumArrayElementsS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a4e02f529eb78e7ed2572100330a80838", null ],
+    [ "GetStructElementsS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#afedcd39d4bc145349d506f4f16ec90d1", null ],
+    [ "GetStructKeysS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a5eec14f4533c57aa5d69449e5ec1e71e", null ],
+    [ "GetStrucKeysAsListS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a79721efdb2b7db4ccbb0c3f42ee5397f", null ],
+    [ "GetArrayElementsS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a3329026340d18a5235962184e88686a9", null ],
+    [ "GetStructElemetS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#acbdeca9adde81d874094d8a3c90968f6", null ],
+    [ "GetArrayElementS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a738d05a4ec031cbc79c814e06c4903be", null ],
+    [ "GetReadableJsonStringS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a63c91ad5d0615c2cc8ed76babfeccc0f", null ],
+    [ "SerializeJsonS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a239ab75d394df81c26191c5c554318fa", null ],
+    [ "DeserializeJsonPlainS", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#a3814d7ca86ac7af5f51c7edf1241e530", null ],
+    [ "DeserializeJsonS< WrapperType >", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#aefcf7352b1591d3604098a0bd25a4c3b", null ],
+    [ "MaxJsonLength", "d6/dfa/classIG_1_1Lib_1_1DynamicWrapperBase.html#ac1178b3fdf243fc570d8266de4576f33", null ]
+];

@@ -1,0 +1,7 @@
+<map id="IG.Num.OptUnconstrained.ExampleRosenbrockGeneralizedExhaustive" name="IG.Num.OptUnconstrained.ExampleRosenbrockGeneralizedExhaustive">
+<area shape="rect" id="node1" title="The generalized Rosenbrock&#39;s unconstrained optimization problem in arbitrary dimensions Dim &gt;= 2." alt="" coords="30,244,241,300"/>
+<area shape="rect" id="node2" href="$d4/d0a/classIG_1_1Num_1_1OptUnconstrained_1_1ExampleRosenbrockGeneralizedAdjacent.html" title="The generalized Rosenbrock&#39;s unconstrained optimization problem in arbitrary dimensions Dim &gt;= 2." alt="" coords="30,155,241,196"/>
+<area shape="rect" id="node3" href="$dd/d1e/classIG_1_1Num_1_1AnalysisBase.html" title="Base class for direct analysis classes that define optimization problems. Represent the complete defi..." alt="" coords="84,80,187,107"/>
+<area shape="rect" id="node4" href="$d5/d59/interfaceIG_1_1Num_1_1IAnalysis.html" title="Interface for direct analysis classes used in optimization problems." alt="" coords="9,5,83,32"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="186,5,263,32"/>
+</map>

@@ -1,0 +1,4 @@
+var classNUnit_1_1TestData_1_1TestFixtureTests_1_1OuterClass_1_1NestedTestFixture_1_1DoublyNestedTestFixture =
+[
+    [ "Test", "d4/d78/classNUnit_1_1TestData_1_1TestFixtureTests_1_1OuterClass_1_1NestedTestFixture_1_1DoublyNestedTestFixture.html#a4a532bc66aa2290c7f20b1df67caadd4", null ]
+];

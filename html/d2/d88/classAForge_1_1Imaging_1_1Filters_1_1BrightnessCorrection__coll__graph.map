@@ -1,0 +1,10 @@
+<map id="AForge.Imaging.Filters.BrightnessCorrection" name="AForge.Imaging.Filters.BrightnessCorrection">
+<area shape="rect" id="node1" title="Brightness adjusting in RGB color space." alt="" coords="73,348,291,389"/>
+<area shape="rect" id="node2" href="$db/dc9/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlacePartialFilter.html" title="Base class for filters, which may be applied directly to the source image or its part." alt="" coords="156,81,317,108"/>
+<area shape="rect" id="node7" href="$da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html" title="Linear correction of RGB channels." alt="" coords="5,244,199,285"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="39,5,93,32"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="117,5,215,32"/>
+<area shape="rect" id="node5" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="239,5,373,32"/>
+<area shape="rect" id="node6" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="398,5,515,32"/>
+<area shape="rect" id="node8" href="$d9/d09/classAForge_1_1IntRange.html" title="Represents an integer range with minimum and maximum values" alt="" coords="13,81,132,108"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Color.BufferedPanel" name="Color.BufferedPanel">
+<area shape="rect" id="node1" title="Dummy class to enable doble buffering in Panel" alt="" coords="24,95,160,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,179,47"/>
+</map>

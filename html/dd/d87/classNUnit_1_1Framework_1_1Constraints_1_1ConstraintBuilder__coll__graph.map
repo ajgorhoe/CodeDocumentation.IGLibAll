@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Constraints.ConstraintBuilder" name="NUnit.Framework.Constraints.ConstraintBuilder">
+<area shape="rect" id="node1" title="ConstraintBuilder maintains the stacks that are used in processing a ConstraintExpression...." alt="" coords="288,27,484,69"/>
+<area shape="rect" id="node4" href="$d9/d60/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintBuilder_1_1ConstraintStack.html" title="ConstraintStack is a type&#45;safe stack for holding Constraints" alt="" coords="601,27,820,69"/>
+<area shape="rect" id="node2" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="45,5,175,32"/>
+<area shape="rect" id="node3" href="$d1/d3e/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintBuilder_1_1OperatorStack.html" title="OperatorStack is a type&#45;safe stack for holding ConstraintOperators" alt="" coords="5,57,215,98"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Internal.TestResult" name="NUnit.Framework.Internal.TestResult">
+<area shape="rect" id="node1" title="The TestResult class represents the result of a test." alt="" coords="103,155,275,196"/>
+<area shape="rect" id="node4" href="$d3/d1f/classNUnit_1_1Framework_1_1Internal_1_1TestCaseResult.html" title="Represents the result of running a single test case." alt="" coords="5,244,177,285"/>
+<area shape="rect" id="node5" href="$d5/d04/classNUnit_1_1Framework_1_1Internal_1_1TestSuiteResult.html" title="Represents the result of running a test suite" alt="" coords="201,244,373,285"/>
+<area shape="rect" id="node2" href="$d2/df9/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestResult.html" title="The ITestResult interface represents the result of a test." alt="" coords="145,80,232,107"/>
+<area shape="rect" id="node3" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="131,5,247,32"/>
+</map>

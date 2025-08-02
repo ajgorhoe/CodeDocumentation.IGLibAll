@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.RandomAttribute.RandomDataSource&lt; T &gt;" name="NUnit.Framework.RandomAttribute.RandomDataSource&lt; T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="139,213,366,255"/>
+<area shape="rect" id="node2" href="$da/dd6/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IParameterDataSource.html" title="The IParameterDataSource interface is implemented by types that can provide data for a test method pa..." alt="" coords="5,117,159,143"/>
+<area shape="rect" id="node3" href="$d8/d93/classNUnit_1_1Framework_1_1RandomAttribute_1_1RandomDataSource.html" title=" " alt="" coords="183,117,322,143"/>
+<area shape="rect" id="node4" href="$d3/d0a/classNUnit_1_1Framework_1_1Internal_1_1Randomizer.html" title="Randomizer returns a set of random _values in a repeatable way, to allow re&#45;running of tests if neces..." alt="" coords="347,109,519,151"/>
+<area shape="rect" id="node5" title=" " alt="" coords="353,5,424,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="448,5,503,32"/>
+</map>

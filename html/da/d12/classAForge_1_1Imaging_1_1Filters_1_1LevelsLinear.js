@@ -1,0 +1,27 @@
+var classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear =
+[
+    [ "LevelsLinear", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a06400d000d6407edf8a3605ebcdf576b", null ],
+    [ "ProcessFilter", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#af0423b2402d2bac0c5cc60659784ea8a", null ],
+    [ "CalculateMap", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a183bc66964fb3d25cdead1cd900f43ad", null ],
+    [ "inRed", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#ad72eb8f83895159e045489b3f678629c", null ],
+    [ "inGreen", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a8d349efcc501dffc5efcca0af3f9dea9", null ],
+    [ "inBlue", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#aa2c9e1962324e989bdcd069e9446ac4f", null ],
+    [ "outRed", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a182e99094342e0ca0085a7cbf28d62ed", null ],
+    [ "outGreen", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a251d8bb312370e293633c4df7ddbbe38", null ],
+    [ "outBlue", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#acdd06c5e4a132d964d3208e585df3160", null ],
+    [ "mapRed", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#aa0e33144db0c6588416d51647e497a2a", null ],
+    [ "mapGreen", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a3cb995fa64638158517d2ed9c3b439ba", null ],
+    [ "mapBlue", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a784bf75cbc0d0c9d9427b09aa7f648b9", null ],
+    [ "formatTranslations", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a19dca25559687da87baffc9c024d92f9", null ],
+    [ "FormatTranslations", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#ad1123f67e7881220ea59ab56d0e06bff", null ],
+    [ "InRed", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a921c1d1d1b52dcec67d406c379fdb3f0", null ],
+    [ "InGreen", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#aba15e7709e6819de7995cad0fb1349d4", null ],
+    [ "InBlue", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#ad2afadfc587449f44cb6de02eeb8d8c9", null ],
+    [ "InGray", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a8d85859a79a190b2b824d90b26cc6fc2", null ],
+    [ "Input", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a7d3e6821c675536de64ecd769c1703fa", null ],
+    [ "OutRed", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a45eedddd759af15a6564ed4f99b3d77a", null ],
+    [ "OutGreen", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#ad9f4fbbcdeec6425a5c666f4b4b6250b", null ],
+    [ "OutBlue", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a9319d61075d9067f84a8fb9c02ab2436", null ],
+    [ "OutGray", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a24faa27386e65681d42ef60c21273ae5", null ],
+    [ "Output", "da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html#a89b9e475bc6df47fe71326315bb74cf0", null ]
+];

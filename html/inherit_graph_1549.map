@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/ddc/interfaceNUnit_1_1Engine_1_1Extensibility_1_1IResultWriter.html" title="Common interface for objects that process and write out test results" alt="" coords="5,104,183,145"/>
+<area shape="rect" id="node2" href="$d5/d3f/classNUnit_1_1Engine_1_1Addins_1_1NUnit2XmlResultWriter.html" title=" " alt="" coords="235,5,421,47"/>
+<area shape="rect" id="node3" href="$db/d85/classNUnit_1_1Engine_1_1Services_1_1NUnit3XmlResultWriter.html" title="NUnit3XmlResultWriter is responsible for writing the results of a test to a file in NUnit 3...." alt="" coords="231,71,425,112"/>
+<area shape="rect" id="node4" href="$d8/dd9/classNUnit_1_1Engine_1_1Services_1_1TestCaseResultWriter.html" title=" " alt="" coords="238,136,418,177"/>
+<area shape="rect" id="node5" href="$d0/d1e/classNUnit_1_1Engine_1_1Services_1_1XmlTransformResultWriter.html" title=" " alt="" coords="240,201,416,243"/>
+</map>

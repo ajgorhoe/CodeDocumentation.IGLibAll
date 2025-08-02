@@ -1,0 +1,5 @@
+<map id="AForge.Imaging.RecursiveBlobCounter" name="AForge.Imaging.RecursiveBlobCounter">
+<area shape="rect" id="node1" title="Blob counter based on recursion." alt="" coords="10,171,183,212"/>
+<area shape="rect" id="node2" href="$d7/d79/classAForge_1_1Imaging_1_1BlobCounterBase.html" title="Base class for different blob counting algorithms." alt="" coords="35,95,158,121"/>
+<area shape="rect" id="node3" href="$d6/dc7/interfaceAForge_1_1Imaging_1_1IBlobsFilter.html" title="Interface for custom blobs&#39; filters used for filtering blobs after blob counting." alt="" coords="5,5,188,32"/>
+</map>

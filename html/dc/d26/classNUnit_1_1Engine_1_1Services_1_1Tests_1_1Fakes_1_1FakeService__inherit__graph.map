@@ -1,0 +1,6 @@
+<map id="NUnit.Engine.Services.Tests.Fakes.FakeService" name="NUnit.Engine.Services.Tests.Fakes.FakeService">
+<area shape="rect" id="node1" title=" " alt="" coords="120,39,311,80"/>
+<area shape="rect" id="node3" href="$de/d66/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeProjectService.html" title=" " alt="" coords="359,5,549,47"/>
+<area shape="rect" id="node4" href="$df/df4/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeRuntimeService.html" title=" " alt="" coords="359,71,549,112"/>
+<area shape="rect" id="node2" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="5,46,72,73"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Internal.MethodWrapper" name="NUnit.Framework.Internal.MethodWrapper">
+<area shape="rect" id="node1" title="The MethodWrapper class wraps a MethodInfo so that it may be used in a platform&#45;independent manner." alt="" coords="5,155,177,196"/>
+<area shape="rect" id="node2" href="$d0/de8/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IMethodInfo.html" title="The IMethodInfo class is used to encapsulate information about a method in a platform&#45;independent man..." alt="" coords="47,80,135,107"/>
+<area shape="rect" id="node3" href="$d5/dfa/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IReflectionInfo.html" title="The IReflectionInfo interface is implemented by NUnit wrapper objects that perform reflection." alt="" coords="40,5,143,32"/>
+</map>

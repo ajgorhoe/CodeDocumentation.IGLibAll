@@ -1,0 +1,13 @@
+<map id="IG.Num.AffineTransformationSquare" name="IG.Num.AffineTransformationSquare">
+<area shape="rect" id="node1" title="Invertible Affine transformation with square transformation matrix." alt="" coords="788,133,975,174"/>
+<area shape="rect" id="node2" href="$d5/d50/interfaceIG_1_1Num_1_1IAffineTransformation.html" title="Affine Transformation." alt="" coords="495,5,638,32"/>
+<area shape="rect" id="node3" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="528,56,605,83"/>
+<area shape="rect" id="node4" href="$d4/d1d/classIG_1_1Num_1_1Matrix.html" title="Real matrix class. Some operations are performed by the MathNet.Numerics.LinearAlgebra...." alt="" coords="513,107,620,133"/>
+<area shape="rect" id="node5" href="$d9/db9/classIG_1_1Num_1_1MatrixBase.html" title="Base class for matrices." alt="" coords="193,107,281,133"/>
+<area shape="rect" id="node6" href="$d8/d86/interfaceIG_1_1Num_1_1IMatrix.html" title="Generic Matrix interface." alt="" coords="5,65,67,92"/>
+<area shape="rect" id="node7" title=" " alt="" coords="9,124,63,151"/>
+<area shape="rect" id="node8" title=" " alt="" coords="199,157,276,184"/>
+<area shape="rect" id="node9" href="$d8/d86/interfaceIG_1_1Num_1_1IMatrix.html" title="Generic Matrix interface." alt="" coords="473,158,660,199"/>
+<area shape="rect" id="node10" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="495,224,638,251"/>
+<area shape="rect" id="node11" title=" " alt="" coords="547,275,586,301"/>
+</map>

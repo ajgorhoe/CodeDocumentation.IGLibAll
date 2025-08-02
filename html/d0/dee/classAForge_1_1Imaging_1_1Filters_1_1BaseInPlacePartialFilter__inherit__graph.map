@@ -1,0 +1,51 @@
+<map id="AForge.Imaging.Filters.BaseInPlacePartialFilter" name="AForge.Imaging.Filters.BaseInPlacePartialFilter">
+<area shape="rect" id="node1" title="Base class for filters, which may be applied directly to the source image or its part." alt="" coords="188,1221,375,1263"/>
+<area shape="rect" id="node6" href="$d0/dd7/classAForge_1_1Imaging_1_1Filters_1_1AdditiveNoise.html" title="Additive noise filter." alt="" coords="439,5,641,47"/>
+<area shape="rect" id="node7" href="$dd/d82/classAForge_1_1Imaging_1_1Filters_1_1ApplyMask.html" title="Apply mask to the specified image." alt="" coords="429,71,651,98"/>
+<area shape="rect" id="node8" href="$de/de3/classAForge_1_1Imaging_1_1Filters_1_1BrightnessCorrection.html" title="Brightness adjusting in RGB color space." alt="" coords="431,123,649,164"/>
+<area shape="rect" id="node9" href="$d2/d53/classAForge_1_1Imaging_1_1Filters_1_1ChannelFiltering.html" title="Channels filters." alt="" coords="438,188,642,229"/>
+<area shape="rect" id="node10" href="$da/d2b/classAForge_1_1Imaging_1_1Filters_1_1ColorFiltering.html" title="Color filtering." alt="" coords="447,253,633,295"/>
+<area shape="rect" id="node11" href="$d9/d13/classAForge_1_1Imaging_1_1Filters_1_1ColorRemapping.html" title="Color remapping." alt="" coords="447,319,633,360"/>
+<area shape="rect" id="node12" href="$de/db8/classAForge_1_1Imaging_1_1Filters_1_1ContrastCorrection.html" title="Contrast adjusting in RGB color space." alt="" coords="437,384,643,425"/>
+<area shape="rect" id="node13" href="$d9/def/classAForge_1_1Imaging_1_1Filters_1_1ContrastStretch.html" title="Contrast stretching filter." alt="" coords="437,449,643,491"/>
+<area shape="rect" id="node14" href="$d2/db9/classAForge_1_1Imaging_1_1Filters_1_1ErrorDiffusionDithering.html" title="Base class for error diffusion dithering." alt="" coords="447,515,633,556"/>
+<area shape="rect" id="node17" href="$d0/de5/classAForge_1_1Imaging_1_1Filters_1_1EuclideanColorFiltering.html" title="Euclidean color filtering." alt="" coords="433,580,647,621"/>
+<area shape="rect" id="node18" href="$df/d34/classAForge_1_1Imaging_1_1Filters_1_1GammaCorrection.html" title="Gamma correction filter." alt="" coords="439,645,641,687"/>
+<area shape="rect" id="node19" href="$df/ded/classAForge_1_1Imaging_1_1Filters_1_1HistogramEqualization.html" title="Histogram equalization filter." alt="" coords="432,711,648,752"/>
+<area shape="rect" id="node20" href="$d5/d0c/classAForge_1_1Imaging_1_1Filters_1_1HorizontalRunLengthSmoothing.html" title="Horizontal run length smoothing algorithm." alt="" coords="433,776,647,817"/>
+<area shape="rect" id="node21" href="$d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html" title="Color filtering in HSL color space." alt="" coords="426,842,654,869"/>
+<area shape="rect" id="node22" href="$de/d0e/classAForge_1_1Imaging_1_1Filters_1_1HSLLinear.html" title="Luminance and saturation linear correction." alt="" coords="431,893,649,919"/>
+<area shape="rect" id="node23" href="$d5/dbc/classAForge_1_1Imaging_1_1Filters_1_1HueModifier.html" title="Hue modifier." alt="" coords="450,944,630,985"/>
+<area shape="rect" id="node24" href="$df/d32/classAForge_1_1Imaging_1_1Filters_1_1Invert.html" title="Invert image." alt="" coords="447,1010,633,1037"/>
+<area shape="rect" id="node25" href="$da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html" title="Linear correction of RGB channels." alt="" coords="443,1061,637,1103"/>
+<area shape="rect" id="node26" href="$d6/dfe/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear16bpp.html" title="Linear correction of RGB channels for images, which have 16 bpp planes (16 bit gray images or 48/64 b..." alt="" coords="443,1127,637,1168"/>
+<area shape="rect" id="node27" href="$d7/d5c/classAForge_1_1Imaging_1_1Filters_1_1MaskedFilter.html" title="Apply filter according to the specified mask." alt="" coords="439,1192,641,1233"/>
+<area shape="rect" id="node28" href="$df/d3c/classAForge_1_1Imaging_1_1Filters_1_1Mirror.html" title="Mirroring filter." alt="" coords="445,1258,635,1285"/>
+<area shape="rect" id="node29" href="$d2/d46/classAForge_1_1Imaging_1_1Filters_1_1OrderedDithering.html" title="Binarization with thresholds matrix." alt="" coords="439,1309,641,1351"/>
+<area shape="rect" id="node31" href="$d0/ded/classAForge_1_1Imaging_1_1Filters_1_1OtsuThreshold.html" title="Otsu thresholding." alt="" coords="447,1375,633,1416"/>
+<area shape="rect" id="node32" href="$dc/d76/classAForge_1_1Imaging_1_1Filters_1_1Pixellate.html" title="Pixellate filter." alt="" coords="437,1441,643,1467"/>
+<area shape="rect" id="node33" href="$dd/d84/classAForge_1_1Imaging_1_1Filters_1_1PointedColorFloodFill.html" title="Flood filling with specified color starting from specified point." alt="" coords="439,1492,641,1533"/>
+<area shape="rect" id="node34" href="$d7/de4/classAForge_1_1Imaging_1_1Filters_1_1PointedMeanFloodFill.html" title="Flood filling with mean color starting from specified point." alt="" coords="439,1557,641,1599"/>
+<area shape="rect" id="node35" href="$de/d0a/classAForge_1_1Imaging_1_1Filters_1_1ReplaceChannel.html" title="Replace RGB channel of color imgae." alt="" coords="438,1623,642,1664"/>
+<area shape="rect" id="node36" href="$d2/df7/classAForge_1_1Imaging_1_1Filters_1_1RotateChannels.html" title="Rotate RGB channels." alt="" coords="443,1688,637,1729"/>
+<area shape="rect" id="node37" href="$dc/d1b/classAForge_1_1Imaging_1_1Filters_1_1SaltAndPepperNoise.html" title="Salt and pepper noise." alt="" coords="450,1753,630,1795"/>
+<area shape="rect" id="node38" href="$d8/d9e/classAForge_1_1Imaging_1_1Filters_1_1SaturationCorrection.html" title="Saturation adjusting in HSL color space." alt="" coords="432,1819,648,1860"/>
+<area shape="rect" id="node39" href="$de/dba/classAForge_1_1Imaging_1_1Filters_1_1Sepia.html" title="Sepia filter &#45; old brown photo." alt="" coords="445,1885,635,1911"/>
+<area shape="rect" id="node40" href="$d4/d24/classAForge_1_1Imaging_1_1Filters_1_1SimplePosterization.html" title="Simple posterization of an image." alt="" coords="441,1936,639,1977"/>
+<area shape="rect" id="node41" href="$d2/dc1/classAForge_1_1Imaging_1_1Filters_1_1SISThreshold.html" title="Threshold using Simple Image Statistics (SIS)." alt="" coords="423,2002,657,2029"/>
+<area shape="rect" id="node42" href="$d7/d6c/classAForge_1_1Imaging_1_1Filters_1_1Texturer.html" title="Texturer filter." alt="" coords="438,2053,642,2079"/>
+<area shape="rect" id="node43" href="$d4/dff/classAForge_1_1Imaging_1_1Filters_1_1Threshold.html" title="Threshold binarization." alt="" coords="433,2103,647,2130"/>
+<area shape="rect" id="node45" href="$d8/d6b/classAForge_1_1Imaging_1_1Filters_1_1ThresholdWithCarry.html" title="Threshold binarization with error carry." alt="" coords="433,2155,647,2196"/>
+<area shape="rect" id="node46" href="$db/d99/classAForge_1_1Imaging_1_1Filters_1_1VerticalRunLengthSmoothing.html" title="Vertical run length smoothing algorithm." alt="" coords="439,2220,641,2261"/>
+<area shape="rect" id="node47" href="$d0/d94/classAForge_1_1Imaging_1_1Filters_1_1YCbCrFiltering.html" title="Color filtering in YCbCr color space." alt="" coords="449,2285,631,2327"/>
+<area shape="rect" id="node48" href="$d1/d9e/classAForge_1_1Imaging_1_1Filters_1_1YCbCrLinear.html" title="Linear correction of YCbCr channels." alt="" coords="449,2351,631,2392"/>
+<area shape="rect" id="node49" href="$d4/d32/classAForge_1_1Imaging_1_1Filters_1_1YCbCrReplaceChannel.html" title="Replace channel of YCbCr color space." alt="" coords="449,2416,631,2457"/>
+<area shape="rect" id="node2" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="45,1153,100,1179"/>
+<area shape="rect" id="node3" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="24,1203,121,1230"/>
+<area shape="rect" id="node4" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="5,1254,140,1281"/>
+<area shape="rect" id="node5" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="14,1305,131,1331"/>
+<area shape="rect" id="node15" href="$d6/d91/classAForge_1_1Imaging_1_1Filters_1_1ErrorDiffusionToAdjacentNeighbors.html" title="Base class for error diffusion dithering, where error is diffused to adjacent neighbor pixels." alt="" coords="709,515,903,556"/>
+<area shape="rect" id="node16" href="$d2/d1c/classAForge_1_1Imaging_1_1Filters_1_1BurkesDithering.html" title="Dithering using Burkes error diffusion." alt="" coords="955,515,1153,556"/>
+<area shape="rect" id="node30" href="$d1/de1/classAForge_1_1Imaging_1_1Filters_1_1BayerDithering.html" title="Ordered dithering using Bayer matrix." alt="" coords="711,1309,901,1351"/>
+<area shape="rect" id="node44" href="$dc/da3/classAForge_1_1Imaging_1_1Filters_1_1IterativeThreshold.html" title="Iterative threshold search and binarization." alt="" coords="705,2096,907,2137"/>
+</map>

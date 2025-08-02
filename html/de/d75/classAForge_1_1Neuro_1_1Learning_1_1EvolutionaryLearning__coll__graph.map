@@ -1,0 +1,15 @@
+<map id="AForge.Neuro.Learning.EvolutionaryLearning" name="AForge.Neuro.Learning.EvolutionaryLearning">
+<area shape="rect" id="node1" title="Neural networks&#39; evolutionary learning algorithm, which is based on Genetic Algorithms." alt="" coords="1428,127,1657,169"/>
+<area shape="rect" id="node2" href="$d6/d52/interfaceAForge_1_1Neuro_1_1Learning_1_1ISupervisedLearning.html" title="Supervised learning interface" alt="" coords="1047,5,1184,32"/>
+<area shape="rect" id="node3" href="$d8/df7/interfaceAForge_1_1Genetic_1_1ISelectionMethod.html" title="Genetic selection method interface." alt="" coords="662,58,837,99"/>
+<area shape="rect" id="node4" href="$db/df4/classAForge_1_1Genetic_1_1Population.html" title="Population of chromosomes." alt="" coords="1026,137,1205,164"/>
+<area shape="rect" id="node5" href="$d3/d4c/interfaceAForge_1_1Genetic_1_1IFitnessFunction.html" title="Fitness function interface." alt="" coords="643,132,856,159"/>
+<area shape="rect" id="node6" href="$d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome.html" title="Chromosome interface." alt="" coords="651,183,848,209"/>
+<area shape="rect" id="node7" title=" " alt="" coords="438,181,533,208"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,259,60,285"/>
+<area shape="rect" id="node12" href="$d9/d64/classAForge_1_1Neuro_1_1Neuron.html" title="Base neuron class" alt="" coords="171,287,317,313"/>
+<area shape="rect" id="node9" href="$d5/dd8/classAForge_1_1Neuro_1_1ActivationNetwork.html" title="Activation network" alt="" coords="1011,191,1220,217"/>
+<area shape="rect" id="node10" href="$d3/db3/classAForge_1_1Neuro_1_1Network.html" title="Base neural network class" alt="" coords="715,287,784,313"/>
+<area shape="rect" id="node11" href="$d1/d23/classAForge_1_1Neuro_1_1Layer.html" title="Base neural layer class" alt="" coords="416,295,555,321"/>
+<area shape="rect" id="node13" href="$db/d07/interfaceAForge_1_1Math_1_1Random_1_1IRandomNumberGenerator.html" title="Interface for random numbers generators." alt="" coords="1013,247,1217,289"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="NUnit.Engine.Runners.ProcessRunner" name="NUnit.Engine.Runners.ProcessRunner">
+<area shape="rect" id="node1" title="Summary description for ProcessRunner." alt="" coords="913,233,1116,275"/>
+<area shape="rect" id="node2" href="$d6/dfe/classNUnit_1_1Engine_1_1Runners_1_1AbstractTestRunner.html" title="AbstractTestRunner is the base class for all runners within the NUnit Engine. It implements the ITest..." alt="" coords="653,139,791,166"/>
+<area shape="rect" id="node3" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="239,51,370,78"/>
+<area shape="rect" id="node4" title=" " alt="" coords="31,43,121,70"/>
+<area shape="rect" id="node7" href="$da/dc2/classNUnit_1_1Engine_1_1Internal_1_1ServerBase.html" title="Summary description for ServerBase." alt="" coords="261,102,349,129"/>
+<area shape="rect" id="node14" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="437,5,608,47"/>
+<area shape="rect" id="node5" href="$d7/dbf/interfaceNUnit_1_1Engine_1_1ITestAgent.html" title="The ITestAgent interface is implemented by remote test agents." alt="" coords="640,447,804,474"/>
+<area shape="rect" id="node6" href="$db/d77/classNUnit_1_1Engine_1_1Services_1_1TestAgency.html" title="The TestAgency class provides RemoteTestAgents on request and tracks their status...." alt="" coords="632,233,812,275"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,110,147,137"/>
+<area shape="rect" id="node9" href="$d1/d4f/interfaceNUnit_1_1Engine_1_1ITestAgency.html" title="The ITestAgency interface is implemented by a TestAgency in order to allow TestAgents to register wit..." alt="" coords="257,153,352,179"/>
+<area shape="rect" id="node10" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="271,203,338,230"/>
+<area shape="rect" id="node11" href="$d0/d64/classNUnit_1_1Engine_1_1Services_1_1TestAgency_1_1AgentDataBase.html" title="A simple class that tracks data about this agencies active and available agents" alt="" coords="215,255,395,296"/>
+<area shape="rect" id="node12" href="$d9/dc9/interfaceNUnit_1_1Engine_1_1IRuntimeFrameworkService.html" title="Implemented by a type that provides information about the current and other available runtimes." alt="" coords="196,320,413,361"/>
+<area shape="rect" id="node13" title=" " alt="" coords="277,386,332,413"/>
+</map>

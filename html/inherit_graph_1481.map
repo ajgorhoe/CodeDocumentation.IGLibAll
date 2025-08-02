@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d2/d8d/interfaceNeuronDotNet_1_1Core_1_1ISynapse.html" title="This interface represents a synapse in a network. A Synapse is responsible for communication between ..." alt="" coords="5,46,197,73"/>
+<area shape="rect" id="node2" href="$d8/d75/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1BackpropagationSynapse.html" title="Backpropagation synapse connects two activation neurons. A typical backpropagation network contains t..." alt="" coords="245,5,484,47"/>
+<area shape="rect" id="node3" href="$d7/dd1/classNeuronDotNet_1_1Core_1_1SOM_1_1KohonenSynapse.html" title="A Kohonen Synapse is used to connect a neuron to a Position Neuron. It propagates the data from input..." alt="" coords="253,71,476,112"/>
+</map>

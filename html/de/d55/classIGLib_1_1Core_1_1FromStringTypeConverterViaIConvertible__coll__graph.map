@@ -1,0 +1,4 @@
+<map id="IGLib.Core.FromStringTypeConverterViaIConvertible" name="IGLib.Core.FromStringTypeConverterViaIConvertible">
+<area shape="rect" id="node1" title="Converts a string to a specific type using IConvertible and invariant culture. Only works with types ..." alt="" coords="8,95,187,136"/>
+<area shape="rect" id="node2" href="$dd/d09/interfaceIGLib_1_1Core_1_1ISingleSourceTypeConverter.html" title=" " alt="" coords="5,5,189,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AForge.Video.AsyncVideoSource" name="AForge.Video.AsyncVideoSource">
+<area shape="rect" id="node1" title="Proxy video source for asynchronous processing of another nested video source." alt="" coords="29,95,245,121"/>
+<area shape="rect" id="node2" href="$d3/d61/interfaceAForge_1_1Video_1_1IVideoSource.html" title="Video source interface." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node3" href="$d3/d61/interfaceAForge_1_1Video_1_1IVideoSource.html" title="Video source interface." alt="" coords="129,5,311,32"/>
+</map>

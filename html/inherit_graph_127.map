@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d3/db3/classAForge_1_1Neuro_1_1Network.html" title="Base neural network class" alt="" coords="5,31,159,57"/>
+<area shape="rect" id="node2" href="$d5/dd8/classAForge_1_1Neuro_1_1ActivationNetwork.html" title="Activation network" alt="" coords="207,5,416,32"/>
+<area shape="rect" id="node3" href="$df/d38/classAForge_1_1Neuro_1_1DistanceNetwork.html" title="Distance network" alt="" coords="209,56,413,83"/>
+</map>

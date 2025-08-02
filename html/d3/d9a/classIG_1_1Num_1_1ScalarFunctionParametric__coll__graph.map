@@ -1,0 +1,12 @@
+<map id="IG.Num.ScalarFunctionParametric" name="IG.Num.ScalarFunctionParametric">
+<area shape="rect" id="node1" title="Base class for parameterized scalar functions with affine transformation of co&#45;ordinates...." alt="" coords="1137,39,1357,65"/>
+<area shape="rect" id="node2" href="$d3/dbb/classIG_1_1Num_1_1ScalarFunctionParametricBase.html" title="Base class for parameterized scalar functions with affine transformation of co&#45;ordinates...." alt="" coords="885,73,1088,100"/>
+<area shape="rect" id="node3" href="$d2/d85/classIG_1_1Num_1_1ScalarFunctionBase.html" title="Base class for scalar functions with affine transformation of co&#45;ordinates. The reference function is..." alt="" coords="603,167,742,193"/>
+<area shape="rect" id="node4" href="$d2/d9e/classIG_1_1Num_1_1ScalarFunctionUntransformedBase.html" title="Base class for defining scalar functions without possibility of affine transformation of parameters." alt="" coords="251,188,473,215"/>
+<area shape="rect" id="node5" href="$d8/d56/interfaceIG_1_1Num_1_1IScalarFunctionUntransformed.html" title="Scalar functions of vector arguments." alt="" coords="5,120,201,147"/>
+<area shape="rect" id="node6" href="$dd/d1e/interfaceIG_1_1Num_1_1IScalarFunction.html" title="Scalar functions of vector arguments, with eventual affine transformation of parameters...." alt="" coords="306,71,418,97"/>
+<area shape="rect" id="node10" href="$d4/d4e/interfaceIG_1_1Num_1_1IScalarFunctionParametric.html" title="Parameterized scalar functions with affine transformation of coordinates." alt="" coords="585,31,760,57"/>
+<area shape="rect" id="node7" href="$d8/d86/interfaceIG_1_1Num_1_1IMatrix.html" title="Generic Matrix interface." alt="" coords="269,122,455,163"/>
+<area shape="rect" id="node8" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="291,308,433,335"/>
+<area shape="rect" id="node9" href="$d5/d50/interfaceIG_1_1Num_1_1IAffineTransformation.html" title="Affine Transformation." alt="" coords="267,239,457,265"/>
+</map>

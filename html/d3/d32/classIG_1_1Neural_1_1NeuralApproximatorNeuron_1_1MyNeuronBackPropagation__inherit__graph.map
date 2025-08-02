@@ -1,0 +1,7 @@
+<map id="IG.Neural.NeuralApproximatorNeuron.MyNeuronBackPropagation" name="IG.Neural.NeuralApproximatorNeuron.MyNeuronBackPropagation">
+<area shape="rect" id="node1" title="Replacement for BackpropagationNetwork from NeuronDotNet, adapts some functionality to the needs of e..." alt="" coords="5,304,231,345"/>
+<area shape="rect" id="node2" href="$de/d87/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1BackpropagationNetwork.html" title="This class extends a Network and represents a Backpropagation neural network." alt="" coords="35,229,201,256"/>
+<area shape="rect" id="node3" href="$d0/d7c/classNeuronDotNet_1_1Core_1_1Network.html" title=" " alt="" coords="83,155,153,181"/>
+<area shape="rect" id="node4" href="$d5/da3/interfaceNeuronDotNet_1_1Core_1_1INetwork.html" title=" " alt="" coords="82,80,154,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="72,5,164,32"/>
+</map>

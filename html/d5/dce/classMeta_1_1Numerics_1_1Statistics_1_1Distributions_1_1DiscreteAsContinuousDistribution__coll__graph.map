@@ -1,0 +1,7 @@
+<map id="Meta.Numerics.Statistics.Distributions.DiscreteAsContinuousDistribution" name="Meta.Numerics.Statistics.Distributions.DiscreteAsContinuousDistribution">
+<area shape="rect" id="node1" title="Represents a discrete distribution as a continous distribution." alt="" coords="513,49,740,105"/>
+<area shape="rect" id="node2" href="$dc/d69/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1Distribution.html" title="Represents all continuous, univariate probability distribution." alt="" coords="259,5,346,32"/>
+<area shape="rect" id="node3" href="$da/d1a/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1UnivariateDistribution.html" title="Represents a probability distribution over a single variable." alt="" coords="5,32,148,59"/>
+<area shape="rect" id="node4" href="$db/d83/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1DiscreteDistribution.html" title="Represents all discrete, univariate probability distrubtions." alt="" coords="197,57,408,98"/>
+<area shape="rect" id="node5" href="$df/d89/structMeta_1_1Numerics_1_1Interval.html" title="Represents an interval on the real number line." alt="" coords="225,123,380,149"/>
+</map>

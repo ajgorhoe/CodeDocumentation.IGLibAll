@@ -1,0 +1,7 @@
+<map id="AForge.Robotics.Surveyor.SVS" name="AForge.Robotics.Surveyor.SVS">
+<area shape="rect" id="node1" title="Manipulation of Surveyor SVS (Stereo Vision System) board." alt="" coords="281,292,485,319"/>
+<area shape="rect" id="node2" href="$de/d17/classAForge_1_1Robotics_1_1Surveyor_1_1SRV1Camera.html" title="Provides access to video stream from Surveyor SRV&#45;1 Blackfin camera." alt="" coords="259,81,436,123"/>
+<area shape="rect" id="node4" href="$d7/d88/classAForge_1_1Robotics_1_1Surveyor_1_1SRV1.html" title="Manipulation of Surveyor SRV&#45;1 Blackfin robot/camera." alt="" coords="179,187,390,213"/>
+<area shape="rect" id="node3" href="$d3/d61/interfaceAForge_1_1Video_1_1IVideoSource.html" title="Video source interface." alt="" coords="298,5,397,32"/>
+<area shape="rect" id="node5" href="$df/dce/classAForge_1_1Robotics_1_1Surveyor_1_1SRV1_1_1CommunicationRequest.html" title=" " alt="" coords="5,81,204,123"/>
+</map>

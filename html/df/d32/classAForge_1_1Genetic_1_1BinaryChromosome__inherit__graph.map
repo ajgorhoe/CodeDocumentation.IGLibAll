@@ -1,0 +1,6 @@
+<map id="AForge.Genetic.BinaryChromosome" name="AForge.Genetic.BinaryChromosome">
+<area shape="rect" id="node1" title="Binary chromosome, which supports length from 2 till 64." alt="" coords="5,229,236,256"/>
+<area shape="rect" id="node2" href="$df/da8/classAForge_1_1Genetic_1_1ChromosomeBase.html" title="Chromosomes&#39; base class." alt="" coords="56,155,185,181"/>
+<area shape="rect" id="node3" href="$d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome.html" title="Chromosome interface." alt="" coords="69,80,172,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="73,5,168,32"/>
+</map>

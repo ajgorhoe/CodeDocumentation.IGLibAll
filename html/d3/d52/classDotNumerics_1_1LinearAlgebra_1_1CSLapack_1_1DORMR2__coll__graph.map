@@ -1,0 +1,8 @@
+<map id="DotNumerics.LinearAlgebra.CSLapack.DORMR2" name="DotNumerics.LinearAlgebra.CSLapack.DORMR2">
+<area shape="rect" id="node1" title="– LAPACK routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG Ltd...." alt="" coords="833,94,1017,135"/>
+<area shape="rect" id="node2" href="$db/d6a/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1XERBLA.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="5,19,189,61"/>
+<area shape="rect" id="node4" href="$df/dc3/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DGER.html" title=" " alt="" coords="284,29,468,70"/>
+<area shape="rect" id="node6" href="$d7/d97/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DGEMV.html" title=" " alt="" coords="284,94,468,135"/>
+<area shape="rect" id="node3" href="$d9/dd6/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DLARF.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="565,94,749,135"/>
+<area shape="rect" id="node5" href="$dd/dac/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1LSAME.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="5,154,189,195"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="IG.Neural.Forms.NeuralDataControl" name="IG.Neural.Forms.NeuralDataControl">
+<area shape="rect" id="node1" title="Control for manipulating neural approximation data (import/export)." alt="" coords="170,109,355,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node3" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="120,5,272,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="296,5,363,32"/>
+<area shape="rect" id="node5" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="387,5,597,32"/>
+</map>

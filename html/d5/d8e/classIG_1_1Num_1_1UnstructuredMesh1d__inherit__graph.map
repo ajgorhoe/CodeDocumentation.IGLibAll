@@ -1,0 +1,5 @@
+<map id="IG.Num.UnstructuredMesh1d&lt; TCoord, TIndexField, TIndex, TScalarField, TScalar, TVectorField, TVector, TTensorField, TTensor &gt;" name="IG.Num.UnstructuredMesh1d&lt; TCoord, TIndexField, TIndex, TScalarField, TScalar, TVectorField, TVector, TTensorField, TTensor &gt;">
+<area shape="rect" id="node1" title="Generic 1D unstructured mesh with collections of named scalar, vector, tensor and index fields." alt="" coords="5,169,244,255"/>
+<area shape="rect" id="node2" href="$d3/d28/classIG_1_1Num_1_1UnstructuredMeshGeometry1d.html" title="Geometry and topology of an unstructured 1D mesh. Presents both connected meshes and unconnected sets..." alt="" coords="25,80,224,121"/>
+<area shape="rect" id="node3" href="$d3/df2/classIG_1_1Num_1_1Field.html" title=" " alt="" coords="67,5,182,32"/>
+</map>

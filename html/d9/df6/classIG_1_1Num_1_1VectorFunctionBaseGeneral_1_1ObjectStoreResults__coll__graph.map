@@ -1,0 +1,7 @@
+<map id="IG.Num.VectorFunctionBaseGeneral.ObjectStoreResults" name="IG.Num.VectorFunctionBaseGeneral.ObjectStoreResults">
+<area shape="rect" id="node1" title="Storage for IVectorFunctionResults objects." alt="" coords="432,71,620,112"/>
+<area shape="rect" id="node2" href="$d7/d24/classIG_1_1Lib_1_1ObjectStore.html" title=" " alt="" coords="133,5,328,47"/>
+<area shape="rect" id="node3" href="$d5/dd6/interfaceIG_1_1Lib_1_1IObjectStore.html" title=" " alt="" coords="132,71,329,112"/>
+<area shape="rect" id="node4" href="$da/d06/interfaceIG_1_1Num_1_1IVectorFunction.html" title="Vector function of a vector argument." alt="" coords="150,137,311,163"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="5,137,83,163"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.Execution.SimpleWorkItemDispatcher" name="NUnit.Framework.Internal.Execution.SimpleWorkItemDispatcher">
+<area shape="rect" id="node1" title="SimpleWorkItemDispatcher handles execution of WorkItems by directly executing them...." alt="" coords="5,80,248,121"/>
+<area shape="rect" id="node2" href="$d0/d90/interfaceNUnit_1_1Framework_1_1Internal_1_1Execution_1_1IWorkItemDispatcher.html" title="An IWorkItemDispatcher handles execution of work items." alt="" coords="55,5,198,32"/>
+</map>

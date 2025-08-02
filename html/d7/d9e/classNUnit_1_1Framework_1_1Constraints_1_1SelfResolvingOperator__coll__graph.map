@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Constraints.SelfResolvingOperator" name="NUnit.Framework.Constraints.SelfResolvingOperator">
+<area shape="rect" id="node1" title="Abstract base class for operators that are able to reduce to a constraint whether or not another synt..." alt="" coords="5,80,201,121"/>
+<area shape="rect" id="node2" href="$df/d41/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintOperator.html" title="The ConstraintOperator class is used internally by a ConstraintBuilder to represent an operator that ..." alt="" coords="38,5,169,32"/>
+</map>

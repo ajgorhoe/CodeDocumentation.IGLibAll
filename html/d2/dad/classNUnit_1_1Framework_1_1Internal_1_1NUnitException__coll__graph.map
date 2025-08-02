@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.NUnitException" name="NUnit.Framework.Internal.NUnitException">
+<area shape="rect" id="node1" title="Thrown when an assertion failed. Here to preserve the inner exception and hence its stack trace." alt="" coords="5,80,177,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="51,5,131,32"/>
+</map>

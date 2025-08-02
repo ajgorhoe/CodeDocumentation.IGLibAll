@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Interfaces.IWrapSetUpTearDown" name="NUnit.Framework.Interfaces.IWrapSetUpTearDown">
+<area shape="rect" id="node1" title="Objects implementing this interface are used to wrap the entire test, including SetUp and TearDown." alt="" coords="187,49,373,90"/>
+<area shape="rect" id="node3" href="$dc/d1e/classNUnit_1_1Framework_1_1MaxTimeAttribute.html" title="Summary description for MaxTimeAttribute." alt="" coords="421,5,649,32"/>
+<area shape="rect" id="node4" href="$dc/d63/classNUnit_1_1Framework_1_1RepeatAttribute.html" title="RepeatAttribute may be applied to test case in order to run it multiple times." alt="" coords="427,56,643,83"/>
+<area shape="rect" id="node5" href="$d2/d57/classNUnit_1_1Framework_1_1RetryAttribute.html" title="RepeatAttribute may be applied to test case in order to run it multiple times." alt="" coords="432,107,639,133"/>
+<area shape="rect" id="node2" href="$da/d8c/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ICommandWrapper.html" title="ICommandWrapper is implemented by attributes and other objects able to wrap a TestCommand with anothe..." alt="" coords="5,56,139,83"/>
+</map>

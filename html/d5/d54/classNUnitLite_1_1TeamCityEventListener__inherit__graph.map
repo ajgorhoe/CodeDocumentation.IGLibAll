@@ -1,0 +1,4 @@
+<map id="NUnitLite.TeamCityEventListener" name="NUnitLite.TeamCityEventListener">
+<area shape="rect" id="node1" title="TeamCityEventListener class handles ITestListener events by issuing TeamCity service messages on the ..." alt="" coords="5,80,217,107"/>
+<area shape="rect" id="node2" href="$de/d53/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestListener.html" title="The ITestListener interface is used internally to receive notifications of significant events while a..." alt="" coords="63,5,159,32"/>
+</map>

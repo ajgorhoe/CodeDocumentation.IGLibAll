@@ -1,0 +1,4 @@
+<map id="AForge.Imaging.ColorReduction.ColorErrorDiffusionToAdjacentNeighbors" name="AForge.Imaging.ColorReduction.ColorErrorDiffusionToAdjacentNeighbors">
+<area shape="rect" id="node1" title="Base class for error diffusion color dithering, where error is diffused to adjacent neighbor pixels." alt="" coords="5,80,257,121"/>
+<area shape="rect" id="node2" href="$d4/dc5/classAForge_1_1Imaging_1_1ColorReduction_1_1ErrorDiffusionColorDithering.html" title="Base class for error diffusion color dithering." alt="" coords="41,5,221,32"/>
+</map>

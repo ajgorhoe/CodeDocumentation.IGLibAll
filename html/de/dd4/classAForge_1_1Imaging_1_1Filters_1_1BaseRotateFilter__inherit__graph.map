@@ -1,0 +1,9 @@
+<map id="AForge.Imaging.Filters.BaseRotateFilter" name="AForge.Imaging.Filters.BaseRotateFilter">
+<area shape="rect" id="node1" title="Base class for image rotation filters." alt="" coords="385,71,572,112"/>
+<area shape="rect" id="node5" href="$d2/d15/classAForge_1_1Imaging_1_1Filters_1_1RotateBicubic.html" title="Rotate image using bicubic interpolation." alt="" coords="620,5,815,47"/>
+<area shape="rect" id="node6" href="$d7/df8/classAForge_1_1Imaging_1_1Filters_1_1RotateBilinear.html" title="Rotate image using bilinear interpolation." alt="" coords="620,71,815,112"/>
+<area shape="rect" id="node7" href="$da/d34/classAForge_1_1Imaging_1_1Filters_1_1RotateNearestNeighbor.html" title="Rotate image using nearest neighbor algorithm." alt="" coords="620,136,815,177"/>
+<area shape="rect" id="node2" href="$dc/d45/classAForge_1_1Imaging_1_1Filters_1_1BaseTransformationFilter.html" title="Base class for filters, which may produce new image of different size as a result of image processing..." alt="" coords="171,78,337,105"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="37,53,91,79"/>
+<area shape="rect" id="node4" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="5,103,123,130"/>
+</map>

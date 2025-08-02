@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Interfaces.IFixtureBuilder" name="NUnit.Framework.Interfaces.IFixtureBuilder">
+<area shape="rect" id="node1" title="The IFixtureBuilder interface is exposed by a class that knows how to build a TestFixture from one or..." alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$da/deb/classNUnit_1_1Framework_1_1SetUpFixtureAttribute.html" title="SetUpFixtureAttribute is used to identify a SetUpFixture" alt="" coords="240,5,443,47"/>
+<area shape="rect" id="node3" href="$d8/dee/classNUnit_1_1Framework_1_1TestFixtureAttribute.html" title="TestFixtureAttribute is used to mark a class that represents a TestFixture." alt="" coords="246,71,437,112"/>
+<area shape="rect" id="node5" href="$df/d28/classNUnit_1_1Framework_1_1TestFixtureSourceAttribute.html" title="TestCaseSourceAttribute indicates the source to be used to provide test fixture instances for a test ..." alt="" coords="246,136,437,177"/>
+<area shape="rect" id="node4" href="$dc/d20/classNUnit_1_1TestData_1_1AttributeInheritanceData_1_1ConcernAttribute.html" title=" " alt="" coords="491,71,704,112"/>
+</map>

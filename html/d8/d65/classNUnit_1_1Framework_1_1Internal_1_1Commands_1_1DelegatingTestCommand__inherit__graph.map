@@ -1,0 +1,12 @@
+<map id="NUnit.Framework.Internal.Commands.DelegatingTestCommand" name="NUnit.Framework.Internal.Commands.DelegatingTestCommand">
+<area shape="rect" id="node1" title="TODO: Documentation needed for class" alt="" coords="160,265,397,306"/>
+<area shape="rect" id="node3" href="$db/d1d/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute_1_1ExpectedExceptionCommand.html" title=" " alt="" coords="445,5,751,61"/>
+<area shape="rect" id="node4" href="$d5/d0f/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1ApplyChangesToContextCommand.html" title="ContextSettingsCommand applies specified changes to the TestExecutionContext prior to running a test...." alt="" coords="481,85,715,141"/>
+<area shape="rect" id="node5" href="$de/d18/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1MaxTimeCommand.html" title="TODO: Documentation needed for class" alt="" coords="496,166,700,207"/>
+<area shape="rect" id="node6" href="$df/d1f/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1SetUpTearDownCommand.html" title="SetUpTearDownCommand runs any SetUp methods for a suite, runs the test and then runs any TearDown met..." alt="" coords="476,231,720,273"/>
+<area shape="rect" id="node7" href="$df/d5e/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestActionCommand.html" title="TestActionCommand runs the BeforeTest actions for a test, then runs the test and finally runs the Aft..." alt="" coords="491,297,705,338"/>
+<area shape="rect" id="node8" href="$d7/d06/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TheoryResultCommand.html" title="TheoryResultCommand adjusts the result of a Theory so that it fails if all the results were inconclus..." alt="" coords="485,362,711,403"/>
+<area shape="rect" id="node9" href="$df/da2/classNUnit_1_1Framework_1_1RepeatAttribute_1_1RepeatedTestCommand.html" title="The test command for the RepeatAttribute" alt="" coords="488,427,708,469"/>
+<area shape="rect" id="node10" href="$de/d29/classNUnit_1_1Framework_1_1RetryAttribute_1_1RetryCommand.html" title="The test command for the RetryAttribute" alt="" coords="493,493,703,534"/>
+<area shape="rect" id="node2" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="5,272,112,299"/>
+</map>

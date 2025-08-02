@@ -1,0 +1,6 @@
+<map id="AForge.Imaging.Filters.BayerFilterOptimized" name="AForge.Imaging.Filters.BayerFilterOptimized">
+<area shape="rect" id="node1" title="Optimized Bayer fileter image processing routine." alt="" coords="5,155,196,196"/>
+<area shape="rect" id="node2" href="$d0/d25/classAForge_1_1Imaging_1_1Filters_1_1BaseFilter.html" title="Base class for filters, which produce new image of the same size as a result of image processing." alt="" coords="60,80,141,107"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="19,5,73,32"/>
+<area shape="rect" id="node4" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="98,5,215,32"/>
+</map>

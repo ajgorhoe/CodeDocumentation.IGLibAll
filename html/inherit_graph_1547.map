@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/d4d/interfaceNUnit_1_1Engine_1_1Extensibility_1_1IProject.html" title="Interface for the various project types that the engine can load." alt="" coords="5,71,183,112"/>
+<area shape="rect" id="node2" href="$d2/d4a/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1NUnitProject.html" title=" " alt="" coords="231,5,427,47"/>
+<area shape="rect" id="node3" href="$d7/d21/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSProject.html" title="This class allows loading information about configurations and assemblies in a Visual Studio project ..." alt="" coords="231,71,427,112"/>
+<area shape="rect" id="node4" href="$d6/d5b/classNUnit_1_1Engine_1_1Services_1_1ProjectLoaders_1_1VSSolution.html" title=" " alt="" coords="231,136,427,177"/>
+</map>

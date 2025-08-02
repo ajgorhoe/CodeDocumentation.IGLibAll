@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Internal.TestParameters" name="NUnit.Framework.Internal.TestParameters">
+<area shape="rect" id="node1" title="TestParameters is the abstract base class for all classes that know how to provide data for construct..." alt="" coords="14,80,186,121"/>
+<area shape="rect" id="node2" href="$dc/d63/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestData.html" title="The ITestData interface is implemented by a class that represents a single instance of a parameterize..." alt="" coords="5,5,83,32"/>
+<area shape="rect" id="node3" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="107,5,205,32"/>
+</map>

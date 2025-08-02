@@ -1,0 +1,4 @@
+var classNUnit_1_1Framework_1_1Constraints_1_1CollectionEquivalentConstraintTests_1_1IgnoreCaseDataProvider =
+[
+    [ "TestCases", "db/d43/classNUnit_1_1Framework_1_1Constraints_1_1CollectionEquivalentConstraintTests_1_1IgnoreCaseDataProvider.html#aaa3e03989f7fac42cb785c16c817d421", null ]
+];

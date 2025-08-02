@@ -1,0 +1,6 @@
+<map id="AForge.Math.Metrics.ISimilarity" name="AForge.Math.Metrics.ISimilarity">
+<area shape="rect" id="node1" title="Interface for similarity algorithms." alt="" coords="5,78,211,105"/>
+<area shape="rect" id="node2" href="$d6/d81/classAForge_1_1Math_1_1Metrics_1_1CosineSimilarity.html" title="Cosine similarity metric." alt="" coords="267,5,455,47"/>
+<area shape="rect" id="node3" href="$de/d39/classAForge_1_1Math_1_1Metrics_1_1EuclideanSimilarity.html" title="Euclidean similarity metric." alt="" coords="259,71,464,112"/>
+<area shape="rect" id="node4" href="$d2/db2/classAForge_1_1Math_1_1Metrics_1_1PearsonCorrelation.html" title="Pearson correlation metric." alt="" coords="263,136,459,177"/>
+</map>

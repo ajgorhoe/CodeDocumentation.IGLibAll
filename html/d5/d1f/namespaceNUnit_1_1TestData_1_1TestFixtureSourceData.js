@@ -1,0 +1,23 @@
+var namespaceNUnit_1_1TestData_1_1TestFixtureSourceData =
+[
+    [ "ExtraTestFixtureAttributeIsIgnored", "d2/d0a/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1ExtraTestFixtureAttributeIsIgnored.html", "d2/d0a/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1ExtraTestFixtureAttributeIsIgnored" ],
+    [ "IEnumerableSource", "d3/daf/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1IEnumerableSource.html", "d3/daf/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1IEnumerableSource" ],
+    [ "IndividualInstancesMayBeExplicit", "d6/def/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1IndividualInstancesMayBeExplicit.html", "d6/def/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1IndividualInstancesMayBeExplicit" ],
+    [ "IndividualInstancesMayBeIgnored", "dc/dbb/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1IndividualInstancesMayBeIgnored.html", "dc/dbb/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1IndividualInstancesMayBeIgnored" ],
+    [ "InstanceField_SameClass", "d2/db8/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1InstanceField__SameClass.html", "d2/db8/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1InstanceField__SameClass" ],
+    [ "InstanceMethod_SameClass", "d4/d91/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1InstanceMethod__SameClass.html", "d4/d91/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1InstanceMethod__SameClass" ],
+    [ "InstanceProperty_SameClass", "da/d45/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1InstanceProperty__SameClass.html", "da/d45/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1InstanceProperty__SameClass" ],
+    [ "SourceData", "d9/de9/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1SourceData.html", "d9/de9/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1SourceData" ],
+    [ "SourceData_IEnumerable", "dd/d5f/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1SourceData__IEnumerable.html", "dd/d5f/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1SourceData__IEnumerable" ],
+    [ "SourceReturnsFixtureParameters", "d6/d6f/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1SourceReturnsFixtureParameters.html", "d6/d6f/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1SourceReturnsFixtureParameters" ],
+    [ "SourceReturnsObjectArray", "d7/d23/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1SourceReturnsObjectArray.html", "d7/d23/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1SourceReturnsObjectArray" ],
+    [ "StaticField_DifferentClass", "d0/ddd/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticField__DifferentClass.html", "d0/ddd/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticField__DifferentClass" ],
+    [ "StaticField_SameClass", "d2/d43/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticField__SameClass.html", "d2/d43/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticField__SameClass" ],
+    [ "StaticMethod_DifferentClass", "d2/dc9/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticMethod__DifferentClass.html", "d2/dc9/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticMethod__DifferentClass" ],
+    [ "StaticMethod_SameClass", "d1/d1d/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticMethod__SameClass.html", "d1/d1d/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticMethod__SameClass" ],
+    [ "StaticProperty_DifferentClass", "de/d28/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticProperty__DifferentClass.html", "de/d28/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticProperty__DifferentClass" ],
+    [ "StaticProperty_SameClass", "df/d59/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticProperty__SameClass.html", "df/d59/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticProperty__SameClass" ],
+    [ "TestFixtureMayUseMultipleSourceAttributes", "d0/d5a/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1TestFixtureMayUseMultipleSourceAttributes.html", "d0/d5a/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1TestFixtureMayUseMultipleSourceAttributes" ],
+    [ "TestFixtureSourceDivideTest", "d8/d01/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1TestFixtureSourceDivideTest.html", "d8/d01/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1TestFixtureSourceDivideTest" ],
+    [ "TestFixtureSourceTest", "df/d4f/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1TestFixtureSourceTest.html", "df/d4f/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1TestFixtureSourceTest" ]
+];

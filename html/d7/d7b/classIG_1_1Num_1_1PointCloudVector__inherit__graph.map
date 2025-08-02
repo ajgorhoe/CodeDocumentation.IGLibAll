@@ -1,0 +1,5 @@
+<map id="IG.Num.PointCloudVector" name="IG.Num.PointCloudVector">
+<area shape="rect" id="node1" title="Cloud of points where each poinr is represented by the IVector object, contains a list of containers ..." alt="" coords="89,95,259,121"/>
+<area shape="rect" id="node2" href="$db/d30/classIG_1_1Num_1_1PointCloud.html" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node3" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="213,13,290,39"/>
+</map>

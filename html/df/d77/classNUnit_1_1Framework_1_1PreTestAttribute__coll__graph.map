@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.PreTestAttribute" name="NUnit.Framework.PreTestAttribute">
+<area shape="rect" id="node1" title="Attribute used to mark a class that contains one&#45;time SetUp and/or TearDown methods that apply to all..." alt="" coords="5,155,225,181"/>
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="64,80,167,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="80,5,151,32"/>
+</map>

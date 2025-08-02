@@ -1,0 +1,10 @@
+<map id="AForge.Imaging.Filters.Opening" name="AForge.Imaging.Filters.Opening">
+<area shape="rect" id="node1" title="Opening operator from Mathematical Morphology." alt="" coords="736,129,941,156"/>
+<area shape="rect" id="node2" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="45,76,100,103"/>
+<area shape="rect" id="node7" href="$d8/ddf/classAForge_1_1Imaging_1_1Filters_1_1BaseUsingCopyPartialFilter.html" title="Base class for filters, which require source image backup to make them applicable to source image (or..." alt="" coords="189,117,371,144"/>
+<area shape="rect" id="node3" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="24,5,121,32"/>
+<area shape="rect" id="node4" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="5,253,140,280"/>
+<area shape="rect" id="node5" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="14,195,131,221"/>
+<area shape="rect" id="node6" href="$da/dce/classAForge_1_1Imaging_1_1Filters_1_1Erosion.html" title="Erosion operator from Mathematical Morphology." alt="" coords="425,105,626,132"/>
+<area shape="rect" id="node8" href="$db/de4/classAForge_1_1Imaging_1_1Filters_1_1Dilatation.html" title="Dilatation operator from Mathematical Morphology." alt="" coords="420,156,631,183"/>
+</map>

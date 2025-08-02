@@ -1,0 +1,13 @@
+<map id="IG.Neural.Forms.NeuralParametricTest" name="IG.Neural.Forms.NeuralParametricTest">
+<area shape="rect" id="node1" title="Form for training artificial neural networks." alt="" coords="859,504,1105,531"/>
+<area shape="rect" id="node2" title=" " alt="" coords="65,63,156,90"/>
+<area shape="rect" id="node5" href="$d1/d0d/classIG_1_1Neural_1_1Forms_1_1NeuralInputParameterSelectorMinMax.html" title="Selection of parameter to be varied, together with bounds &#45; for parametric tests." alt="" coords="441,108,628,149"/>
+<area shape="rect" id="node9" href="$d8/daf/classIG_1_1Neural_1_1Forms_1_1NeuralInputControl.html" title="Control for editing input parameter values." alt="" coords="441,634,628,676"/>
+<area shape="rect" id="node3" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="35,790,187,816"/>
+<area shape="rect" id="node4" title=" " alt="" coords="505,848,564,875"/>
+<area shape="rect" id="node6" title=" " alt="" coords="77,446,144,472"/>
+<area shape="rect" id="node7" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="5,175,216,202"/>
+<area shape="rect" id="node8" title=" " alt="" coords="495,899,574,926"/>
+<area shape="rect" id="node10" title=" " alt="" coords="62,735,159,762"/>
+<area shape="rect" id="node11" title=" " alt="" coords="91,684,130,711"/>
+</map>

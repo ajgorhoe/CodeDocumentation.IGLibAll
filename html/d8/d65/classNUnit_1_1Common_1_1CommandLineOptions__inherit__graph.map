@@ -1,0 +1,6 @@
+<map id="NUnit.Common.CommandLineOptions" name="NUnit.Common.CommandLineOptions">
+<area shape="rect" id="node1" title="CommandLineOptions is the base class the specific option classes used for nunit3&#45;console and nunitlit..." alt="" coords="118,80,315,121"/>
+<area shape="rect" id="node3" href="$d4/d86/classNUnit_1_1Common_1_1ConsoleOptions.html" title="ConsoleOptions encapsulates the option settings for the nunit3&#45;console program." alt="" coords="5,169,212,196"/>
+<area shape="rect" id="node4" href="$d1/d00/classNUnitLite_1_1NUnitLiteOptions.html" title="NUnitLiteOptions encapsulates the option settings for NUnitLite. Currently, there are no additional o..." alt="" coords="236,169,413,196"/>
+<area shape="rect" id="node2" title=" " alt="" coords="177,5,257,32"/>
+</map>

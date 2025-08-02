@@ -1,0 +1,11 @@
+<map id="IG.Sim.SimDomainDto" name="IG.Sim.SimDomainDto">
+<area shape="rect" id="node1" title="Base class for simulation domains." alt="" coords="607,122,760,149"/>
+<area shape="rect" id="node2" href="$db/df8/classIG_1_1Sim_1_1SimulationComponentDtoBase.html" title=" " alt="" coords="252,5,480,47"/>
+<area shape="rect" id="node3" href="$d9/d17/interfaceIG_1_1Sim_1_1ISimulationComponentDto.html" title="Interface for all components of simulation DTOs." alt="" coords="280,71,452,98"/>
+<area shape="rect" id="node4" href="$d2/d71/classIG_1_1Sim_1_1SimScalarFieldDto.html" title="Scalar field." alt="" coords="279,122,453,149"/>
+<area shape="rect" id="node5" href="$d9/da7/classIG_1_1Sim_1_1SimFieldBaseDto.html" title=" " alt="" coords="7,100,201,141"/>
+<area shape="rect" id="node6" href="$de/df0/classIG_1_1Sim_1_1SimTensorFieldDto.html" title="Tensor field." alt="" coords="278,173,454,199"/>
+<area shape="rect" id="node7" href="$d9/da7/classIG_1_1Sim_1_1SimFieldBaseDto.html" title=" " alt="" coords="5,165,203,207"/>
+<area shape="rect" id="node8" href="$d9/db7/classIG_1_1Sim_1_1SimVectorFieldDto.html" title="Vector field." alt="" coords="279,230,453,257"/>
+<area shape="rect" id="node9" href="$d9/da7/classIG_1_1Sim_1_1SimFieldBaseDto.html" title=" " alt="" coords="6,231,202,272"/>
+</map>

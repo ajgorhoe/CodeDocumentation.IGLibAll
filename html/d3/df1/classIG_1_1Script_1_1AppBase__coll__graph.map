@@ -1,0 +1,5 @@
+<map id="IG.Script.AppBase" name="IG.Script.AppBase">
+<area shape="rect" id="node1" title="Base cls. for application scripts that can also be used on its own." alt="" coords="61,80,192,107"/>
+<area shape="rect" id="node2" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node3" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="139,5,250,32"/>
+</map>

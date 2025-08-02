@@ -1,0 +1,7 @@
+var classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute =
+[
+    [ "ExpectedExceptionCommand", "db/d1d/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute_1_1ExpectedExceptionCommand.html", "db/d1d/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute_1_1ExpectedExceptionCommand" ],
+    [ "ExpectedExceptionAttribute", "df/d09/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute.html#a46b73aabdbc21bd9660127173055e053", null ],
+    [ "Wrap", "df/d09/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute.html#a36593703a65ee7cdb573ce8ffe60d262", null ],
+    [ "_expectedExceptionType", "df/d09/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute.html#a63403ec8fd67a8d2407cad7437c8a22a", null ]
+];

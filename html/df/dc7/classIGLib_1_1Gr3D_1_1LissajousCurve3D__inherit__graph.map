@@ -1,0 +1,4 @@
+<map id="IGLib.Gr3D.LissajousCurve3D" name="IGLib.Gr3D.LissajousCurve3D">
+<area shape="rect" id="node1" title="Lissajous curves in 3D are trajectories of a point in space whose rectangular components have a sinus..." alt="" coords="5,95,199,121"/>
+<area shape="rect" id="node2" href="$d3/d54/interfaceIGLib_1_1Gr3D_1_1ICurve3DParameterizationWithBounds.html" title="Cartesion parameterization of a curve in 3D. Beside the Curve and (optional) CurveDerivative,..." alt="" coords="17,5,187,47"/>
+</map>

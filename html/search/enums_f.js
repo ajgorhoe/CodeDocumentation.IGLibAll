@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['sensor_68492',['Sensor',['../d2/d80/classAForge_1_1Robotics_1_1Lego_1_1NXTBrick.html#aea323a00c4a26400af223f718630a866',1,'AForge.Robotics.Lego.NXTBrick.Sensor()'],['../de/d5f/classAForge_1_1Robotics_1_1Lego_1_1RCXBrick.html#a8b02e6810c7f3a0bdf0ddc234f682ae6',1,'AForge.Robotics.Lego.RCXBrick.Sensor()']]],
+  ['sensormode_68493',['SensorMode',['../d2/d80/classAForge_1_1Robotics_1_1Lego_1_1NXTBrick.html#a660500a1b1d734555d4edc9e5cfd0128',1,'AForge.Robotics.Lego.NXTBrick.SensorMode()'],['../de/d5f/classAForge_1_1Robotics_1_1Lego_1_1RCXBrick.html#a5f00840819bbe9a6bfce7af5be6f34c4',1,'AForge.Robotics.Lego.RCXBrick.SensorMode()']]],
+  ['sensortype_68494',['SensorType',['../d2/d80/classAForge_1_1Robotics_1_1Lego_1_1NXTBrick.html#a73b117d771611b666cea7e026c5e5969',1,'AForge.Robotics.Lego.NXTBrick.SensorType()'],['../de/d5f/classAForge_1_1Robotics_1_1Lego_1_1RCXBrick.html#acae587b60ee7601cffdf4d03baa6c015',1,'AForge.Robotics.Lego.RCXBrick.SensorType()']]],
+  ['seriestype_68495',['SeriesType',['../df/d2d/classAForge_1_1Controls_1_1Chart.html#a1f30c2e84661b8e5755f4b5c15a5a33c',1,'AForge.Controls.Chart.SeriesType()'],['../df/d2d/classAForge_1_1Controls_1_1Chart.html#a1f30c2e84661b8e5755f4b5c15a5a33c',1,'AForge.Controls.Chart.SeriesType()'],['../df/d2d/classAForge_1_1Controls_1_1Chart.html#a1f30c2e84661b8e5755f4b5c15a5a33c',1,'AForge.Controls.Chart.SeriesType()']]],
+  ['servicestatus_68496',['ServiceStatus',['../d7/de7/namespaceNUnit_1_1Engine.html#a4f17b497c5aee7f1e8e503c4316722a5',1,'NUnit::Engine']]],
+  ['servosbank_68497',['ServosBank',['../d3/d76/classAForge_1_1Robotics_1_1Surveyor_1_1SVS.html#a927c4d7f3c51f7964f3b871a1e9cd659',1,'AForge::Robotics::Surveyor::SVS']]],
+  ['settingsource_68498',['SettingSource',['../dc/de0/classLabexUtilities_1_1SettingsReader.html#ada2e217afd48c898bfdb69b1393f9633',1,'LabexUtilities.SettingsReader.SettingSource()'],['../de/d07/namespaceLabexBis.html#a2d016f390c57603ba387a286a4b77f63',1,'LabexBis.SettingSource()']]],
+  ['shapetype_68499',['ShapeType',['../df/d27/namespaceAForge_1_1Math_1_1Geometry.html#acfb9d0648ee1f7ccf574b364f8194d81',1,'AForge::Math::Geometry']]],
+  ['si_68500',['SI',['../d9/ded/namespaceIG_1_1Num.html#ac8b8a2ae82e9538a3a3bb3a1bf4bfbe9',1,'IG::Num']]],
+  ['siprefixes_68501',['SIPrefixes',['../d4/d28/namespaceIG_1_1Physics.html#a3270353ed233d32eabed63421c1114a8',1,'IG::Physics']]],
+  ['siunits_68502',['SIUnits',['../d4/d28/namespaceIG_1_1Physics.html#a3bbc0ae839acbb5c8dd975dad0bb4017',1,'IG::Physics']]],
+  ['siunitsall_68503',['SIUnitsAll',['../d4/d28/namespaceIG_1_1Physics.html#a207cfc589af247c6f8e8e3947d6f6bc7',1,'IG::Physics']]],
+  ['smode_68504',['SMODE',['../d8/d3e/classalglib_1_1serializer.html#aeb9e6915ef02486f72a4881dbe3c5fd1',1,'alglib.serializer.SMODE()'],['../d8/d3e/classalglib_1_1serializer.html#aeb9e6915ef02486f72a4881dbe3c5fd1',1,'alglib.serializer.SMODE()']]],
+  ['soundtype_68505',['SoundType',['../de/d5f/classAForge_1_1Robotics_1_1Lego_1_1RCXBrick.html#ac78af4b9480b55972639e5a20a007fd8',1,'AForge::Robotics::Lego::RCXBrick']]],
+  ['specialvalue_68506',['SpecialValue',['../dc/de3/namespaceNUnit_1_1Framework.html#a8f096d9c66f5e0c50c72703b8c10a172',1,'NUnit::Framework']]],
+  ['styles_68507',['Styles',['../d8/d91/classIG_1_1Forms_1_1ConsoleForm.html#a1e389e2971ef2fdb3bdc5492a0fd2681',1,'IG::Forms::ConsoleForm']]],
+  ['symmetricalgorithmtype_68508',['SymmetricAlgorithmType',['../dc/dba/namespaceIG_1_1Crypto.html#ad282ef2bf79adcdff4a072c50796d886',1,'IG::Crypto']]]
+];

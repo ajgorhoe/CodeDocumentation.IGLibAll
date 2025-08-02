@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.TestCaseAttribute" name="NUnit.Framework.TestCaseAttribute">
+<area shape="rect" id="node1" title="TestCaseAttribute is used to mark parameterized test cases and provide them with their arguments." alt="" coords="149,155,330,196"/>
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="21,5,92,32"/>
+<area shape="rect" id="node4" href="$d9/d9f/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestBuilder.html" title="The ITestBuilder interface is exposed by a class that knows how to build one or more TestMethods from..." alt="" coords="133,80,223,107"/>
+<area shape="rect" id="node5" href="$d8/dd6/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestCaseData.html" title="The ITestCaseData interface is implemented by a class that is able to return complete testcases for u..." alt="" coords="247,80,354,107"/>
+<area shape="rect" id="node6" href="$dc/d63/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestData.html" title="The ITestData interface is implemented by a class that represents a single instance of a parameterize..." alt="" coords="262,5,339,32"/>
+<area shape="rect" id="node7" href="$d3/d21/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IImplyFixture.html" title="IImplyFixture is an empty marker interface used by attributes like TestAttribute that cause the class..." alt="" coords="378,80,474,107"/>
+</map>

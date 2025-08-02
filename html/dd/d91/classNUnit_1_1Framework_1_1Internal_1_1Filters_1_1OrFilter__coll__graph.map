@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.Internal.Filters.OrFilter" name="NUnit.Framework.Internal.Filters.OrFilter">
+<area shape="rect" id="node1" title="Combines multiple filters so that a test must pass one of them in order to pass this filter." alt="" coords="45,337,217,379"/>
+<area shape="rect" id="node2" href="$d3/dde/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1CompositeFilter.html" title="A base class for multi&#45;part filters" alt="" coords="75,261,188,288"/>
+<area shape="rect" id="node3" href="$da/dc4/classNUnit_1_1Framework_1_1Internal_1_1TestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="93,185,169,212"/>
+<area shape="rect" id="node4" href="$d2/df0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="24,81,103,108"/>
+<area shape="rect" id="node5" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="127,81,181,108"/>
+</map>

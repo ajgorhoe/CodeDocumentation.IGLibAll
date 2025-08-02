@@ -1,0 +1,6 @@
+var classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute_1_1ExpectedExceptionCommand =
+[
+    [ "ExpectedExceptionCommand", "db/d1d/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute_1_1ExpectedExceptionCommand.html#aa7a9c4cfe3ab03ec68a10496b6c0441e", null ],
+    [ "Execute", "db/d1d/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute_1_1ExpectedExceptionCommand.html#aecf239b1d5fa66ef0971b584a2aff034", null ],
+    [ "_expectedType", "db/d1d/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute_1_1ExpectedExceptionCommand.html#a4dd957be1a15e99df9a51c67f5811757", null ]
+];

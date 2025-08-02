@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.Constraints.SamePathConstraint" name="NUnit.Framework.Constraints.SamePathConstraint">
+<area shape="rect" id="node1" title="Summary description for SamePathConstraint." alt="" coords="53,399,249,440"/>
+<area shape="rect" id="node2" href="$dc/d67/classNUnit_1_1Framework_1_1Constraints_1_1PathConstraint.html" title="PathConstraint serves as the abstract base of constraints that operate on paths and provides several ..." alt="" coords="97,323,205,349"/>
+<area shape="rect" id="node3" href="$d6/de7/classNUnit_1_1Framework_1_1Constraints_1_1StringConstraint.html" title="StringConstraint is the abstract base for constraints that operate on strings. It supports the Ignore..." alt="" coords="13,233,127,260"/>
+<area shape="rect" id="node4" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="29,157,111,184"/>
+<area shape="rect" id="node5" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="28,81,112,108"/>
+<area shape="rect" id="node6" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="5,5,135,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="152,233,207,260"/>
+</map>

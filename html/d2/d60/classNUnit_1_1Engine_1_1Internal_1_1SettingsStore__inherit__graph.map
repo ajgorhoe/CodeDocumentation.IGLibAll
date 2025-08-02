@@ -1,0 +1,7 @@
+<map id="NUnit.Engine.Internal.SettingsStore" name="NUnit.Engine.Internal.SettingsStore">
+<area shape="rect" id="node1" title="SettingsStore extends SettingsGroup to provide for loading and saving the settings from an XML file." alt="" coords="280,39,476,80"/>
+<area shape="rect" id="node4" href="$dc/d00/classNUnit_1_1Engine_1_1Services_1_1SettingsService.html" title="Summary description for UserSettingsService." alt="" coords="524,5,727,47"/>
+<area shape="rect" id="node5" href="$df/deb/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeSettingsService.html" title=" " alt="" coords="530,71,721,112"/>
+<area shape="rect" id="node2" href="$db/d74/classNUnit_1_1Engine_1_1Internal_1_1SettingsGroup.html" title="SettingsGroup is the base class representing a group of user or system settings." alt="" coords="127,46,232,73"/>
+<area shape="rect" id="node3" href="$d5/d1d/interfaceNUnit_1_1Engine_1_1ISettings.html" title="The ISettings interface is used to access all user settings and options." alt="" coords="5,46,79,73"/>
+</map>

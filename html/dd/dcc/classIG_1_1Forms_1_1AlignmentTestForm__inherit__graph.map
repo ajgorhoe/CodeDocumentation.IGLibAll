@@ -1,0 +1,6 @@
+<map id="IG.Forms.AlignmentTestForm" name="IG.Forms.AlignmentTestForm">
+<area shape="rect" id="node1" title="Test form, used only to test if control can be inclded in the form.." alt="" coords="28,95,221,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,57,39"/>
+<area shape="rect" id="node3" title=" " alt="" coords="81,13,168,39"/>
+<area shape="rect" id="node4" href="$d3/d68/interfaceIG_1_1Forms_1_1IClosableFromContainedForm.html" title="Marker interface indicating that a form can be closed from the contained control." alt="" coords="193,5,363,47"/>
+</map>

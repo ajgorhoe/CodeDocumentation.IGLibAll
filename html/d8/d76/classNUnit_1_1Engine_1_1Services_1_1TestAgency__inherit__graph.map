@@ -1,0 +1,8 @@
+<map id="NUnit.Engine.Services.TestAgency" name="NUnit.Engine.Services.TestAgency">
+<area shape="rect" id="node1" title="The TestAgency class provides RemoteTestAgents on request and tracks their status...." alt="" coords="171,155,351,196"/>
+<area shape="rect" id="node2" href="$da/dc2/classNUnit_1_1Engine_1_1Internal_1_1ServerBase.html" title="Summary description for ServerBase." alt="" coords="101,80,189,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="171,5,261,32"/>
+<area shape="rect" id="node5" href="$d1/d4f/interfaceNUnit_1_1Engine_1_1ITestAgency.html" title="The ITestAgency interface is implemented by a TestAgency in order to allow TestAgents to register wit..." alt="" coords="214,80,309,107"/>
+<area shape="rect" id="node6" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="333,80,400,107"/>
+</map>

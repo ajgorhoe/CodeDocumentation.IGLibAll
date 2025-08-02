@@ -1,0 +1,27 @@
+var classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests =
+[
+    [ "RunMockAssemblyTests", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#aec046b496a05bec4ca7ad07feeb4e4a5", null ],
+    [ "Document_HasThreeChildren", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#ae155a9816b5c29b5e717176dd71e71f9", null ],
+    [ "Document_FirstChildIsXmlDeclaration", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a1e95fcdfea15b085229d06880619ce8b", null ],
+    [ "Document_SecondChildIsComment", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a61748ce1423b0b7349bfc2eba7a9b0b2", null ],
+    [ "Document_ThirdChildIsTestResults", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#ad0df53b02e86f98865317719b4c004bb", null ],
+    [ "Document_HasTestResults", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#afa4b57e1a94b3f3b1d98e52eaa8e8fe1", null ],
+    [ "TestResults_AssemblyPathIsCorrect", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a092487ab63230a4cead35c0ab2cd8664", null ],
+    [ "TestResults_CounterIsCorrect", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a49fca3b8363bc3478e9cce64a1bdd98e", null ],
+    [ "TestResults_HasValidDateAttribute", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a1a7b52c3d2c17be314bc7ffa09f6f1f8", null ],
+    [ "TestResults_HasValidTimeAttribute", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#ae7210d8b1f32e637cfb31a9f5dca5b1a", null ],
+    [ "Environment_HasEnvironmentElement", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#aef65603962870219e6d057f8bd969a9b", null ],
+    [ "Environment_HasRequiredAttribute", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a873796a58723081a98d0f75b6c2b5680", null ],
+    [ "CultureInfo_HasCultureInfoElement", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a80cb9ac8fd560f67cb4917674badf4ab", null ],
+    [ "CultureInfo_HasRequiredAttribute", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a36c4b880564e0e70e549c8fa421e7d61", null ],
+    [ "TestSuite_HasTestSuiteElement", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a6d45d3e804f6e9de799d7178dce5c57e", null ],
+    [ "TestSuite_ExpectedAttribute", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a73dd53de7a3dfb042610f21d4b589402", null ],
+    [ "TestSuite_HasValidTimeAttribute", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a6002937893f2a43024ddccf6c8148c3f", null ],
+    [ "TestSuite_ResultIsFailure", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#acc34af76d6f18321d0aaae98ed39abf9", null ],
+    [ "RequiredAttribute", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a15e598843b63718bd9d597f0baa0f482", null ],
+    [ "doc", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a85ecbd42942338d329c591a756f91638", null ],
+    [ "topNode", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a0734be9753393b070e654e31ff416b20", null ],
+    [ "envNode", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a139b1cb4737b8a923613ea2b02605fcb", null ],
+    [ "cultureNode", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a3bbb50afa698a54fd11e4f1f916ae47d", null ],
+    [ "suiteNode", "d5/d35/classNUnitLite_1_1Tests_1_1NUnit2XmlOutputWriterTests.html#a6b0327dbd388d0b64b1e866833f5bf3a", null ]
+];

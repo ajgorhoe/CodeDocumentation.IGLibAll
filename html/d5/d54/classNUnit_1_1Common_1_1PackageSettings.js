@@ -1,0 +1,27 @@
+var classNUnit_1_1Common_1_1PackageSettings =
+[
+    [ "DebugTests", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a90d79055b1c008cc8164074ffa9490cb", null ],
+    [ "PauseBeforeRun", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#acd7c58bcc797995c10e61a452a4a0862", null ],
+    [ "InternalTraceLevel", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a2aed50f84a0367c83300b3792bcbad1d", null ],
+    [ "WorkDirectory", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a0d8795875508e5f77ae697e44202d28b", null ],
+    [ "ActiveConfig", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a7ec48af6bb077721412e19852a1acc8b", null ],
+    [ "AutoBinPath", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a965ebf7ceba318a0804759f0b0bd9e4d", null ],
+    [ "BasePath", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a994a69fdb7a79a3a27bb75a3e1d074b4", null ],
+    [ "ConfigurationFile", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#ab52151ec91fd8c84fa76ed2afd0e336e", null ],
+    [ "DebugAgent", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#aa74e4e0f1b2b4b28c57e0fcc0614c7ee", null ],
+    [ "DomainUsage", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a60fd5510f49ca7b67d58e931765a4c78", null ],
+    [ "PrivateBinPath", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#af11e9d053bc949ade5f5c69142f742e4", null ],
+    [ "MaxAgents", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#ae81a24fa1c5b09195fead11893ed3a49", null ],
+    [ "ProcessModel", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a42db3da6b678a55de806d043b772448f", null ],
+    [ "RuntimeFramework", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a508e54d303dd75445da1ace30f735669", null ],
+    [ "RunAsX86", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a5317907a101b840939704a04e1d2126d", null ],
+    [ "DisposeRunners", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#ab6446e64c0419dbfa0546bc6fbe5941f", null ],
+    [ "ShadowCopyFiles", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a5c9cd91f56db92870745047584ec45ca", null ],
+    [ "DefaultTimeout", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a91e71bb444910cb40dc691235229e0f6", null ],
+    [ "InternalTraceWriter", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a81fa2d619844691531a14665a9d9ddfa", null ],
+    [ "LOAD", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a6acaad906298398fab94c57493af8a63", null ],
+    [ "NumberOfTestWorkers", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a6c925ec143fac13edafd10d6d3df428c", null ],
+    [ "RandomSeed", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a751fc1725c6b488825726437ae8cdf32", null ],
+    [ "StopOnError", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a54c396ec2a7c76ece940b8fb61164f01", null ],
+    [ "SynchronousEvents", "d5/d54/classNUnit_1_1Common_1_1PackageSettings.html#a1a2967ebfbcd68e373d476235c9eeae5", null ]
+];

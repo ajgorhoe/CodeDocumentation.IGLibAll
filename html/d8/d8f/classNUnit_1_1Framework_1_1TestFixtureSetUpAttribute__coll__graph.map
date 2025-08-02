@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.TestFixtureSetUpAttribute" name="NUnit.Framework.TestFixtureSetUpAttribute">
+<area shape="rect" id="node1" title="Attribute used to identify a method that is called before any tests in a fixture are run." alt="" coords="5,229,196,271"/>
+<area shape="rect" id="node2" href="$d0/dba/classNUnit_1_1Framework_1_1OneTimeSetUpAttribute.html" title="Attribute used to identify a method that is called once to perform setup before any child tests are r..." alt="" coords="21,155,180,181"/>
+<area shape="rect" id="node3" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="49,80,152,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="65,5,136,32"/>
+</map>

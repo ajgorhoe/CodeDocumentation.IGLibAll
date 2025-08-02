@@ -1,0 +1,9 @@
+<map id="NUnit.Engine.Services.Tests.SettingsServiceTests" name="NUnit.Engine.Services.Tests.SettingsServiceTests">
+<area shape="rect" id="node1" title=" " alt="" coords="71,351,261,392"/>
+<area shape="rect" id="node2" href="$dc/d00/classNUnit_1_1Engine_1_1Services_1_1SettingsService.html" title="Summary description for UserSettingsService." alt="" coords="65,247,267,288"/>
+<area shape="rect" id="node3" href="$d3/d9c/classNUnit_1_1Engine_1_1Internal_1_1SettingsStore.html" title="SettingsStore extends SettingsGroup to provide for loading and saving the settings from an XML file." alt="" coords="35,171,137,197"/>
+<area shape="rect" id="node4" href="$db/d74/classNUnit_1_1Engine_1_1Internal_1_1SettingsGroup.html" title="SettingsGroup is the base class representing a group of user or system settings." alt="" coords="33,95,139,121"/>
+<area shape="rect" id="node5" href="$d5/d1d/interfaceNUnit_1_1Engine_1_1ISettings.html" title="The ISettings interface is used to access all user settings and options." alt="" coords="5,5,79,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="103,5,157,32"/>
+<area shape="rect" id="node7" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="161,171,227,197"/>
+</map>

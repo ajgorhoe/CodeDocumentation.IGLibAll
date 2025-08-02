@@ -1,0 +1,694 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/de5/classMeta_1_1Numerics_1_1Matrices_1_1AnyMatrix.html" title=" " alt="" coords="248,4231,439,4272"/>
+<area shape="rect" id="node2" href="$d9/d5b/classMeta_1_1Numerics_1_1Matrices_1_1AnyRectangularMatrix.html" title="Describes the form of all real matrices." alt="" coords="529,4231,719,4272"/>
+<area shape="rect" id="node3" href="$d1/da7/classMeta_1_1Numerics_1_1Matrices_1_1AnySquareMatrix.html" title="Describes the form of all real, square matrices." alt="" coords="845,4319,1036,4360"/>
+<area shape="rect" id="node8" href="$d2/dee/classMeta_1_1Numerics_1_1Matrices_1_1RectangularMatrix.html" title="A rectangular matrix of real numbers." alt="" coords="822,4201,1059,4243"/>
+<area shape="rect" id="node9" href="$d5/dcb/classMeta_1_1Numerics_1_1Matrices_1_1VectorBase.html" title="Implements functionality shared between row and column vectors." alt="" coords="823,761,1059,787"/>
+<area shape="rect" id="node4" href="$d5/d2a/classMeta_1_1Numerics_1_1Matrices_1_1SparseSquareMatrix.html" title="Represents a sparse, square matrix." alt="" coords="1165,4332,1374,4373"/>
+<area shape="rect" id="node5" href="$d2/d0f/classMeta_1_1Numerics_1_1Matrices_1_1SquareMatrix.html" title="Represents a square matrix." alt="" coords="1165,4397,1374,4439"/>
+<area shape="rect" id="node6" href="$d3/d15/classMeta_1_1Numerics_1_1Matrices_1_1SymmetricMatrix.html" title="Represents a symmetric matrix." alt="" coords="1154,4463,1385,4504"/>
+<area shape="rect" id="node7" href="$d9/d78/classMeta_1_1Numerics_1_1Matrices_1_1TridiagonalMatrix.html" title="Represents a tridiagonal matrix." alt="" coords="1154,4267,1385,4308"/>
+<area shape="rect" id="node10" href="$d3/d34/classMeta_1_1Numerics_1_1Matrices_1_1ColumnVector.html" title="A column vector of real numbers." alt="" coords="1163,655,1375,696"/>
+<area shape="rect" id="node11" href="$df/d01/classMeta_1_1Numerics_1_1Matrices_1_1RowVector.html" title="A row vector of real numbers." alt="" coords="1173,720,1366,761"/>
+<area shape="rect" id="node12" href="$d2/dba/classIG_1_1Neural_1_1ApproximationFileServerNeural.html" title="Class for approximation file server." alt="" coords="532,15771,716,15812"/>
+<area shape="rect" id="node13" href="$de/dac/classIG_1_1Neural_1_1AnalysisFileServerNeural.html" title="Class containing direct analysis (in optimization) based on neural network optimization." alt="" coords="847,15611,1034,15652"/>
+<area shape="rect" id="node16" href="$d9/db1/classIG_1_1Neural_1_1MappingApproximationFileServerNeural.html" title="Class for mapping file server." alt="" coords="835,15931,1047,15972"/>
+<area shape="rect" id="node14" href="$db/d90/classIG_1_1Neural_1_1AnalysisFileServerNeuralExtBase.html" title="Analysis server based on neural approximations for IJS, for Robert&#39;s data." alt="" coords="1176,15611,1363,15652"/>
+<area shape="rect" id="node15" href="$d5/d3d/classIG_1_1Neural_1_1AnalysisFileServerNeuralStoreBase.html" title="Analysis server based on neural approximations for IJS, for Robert&#39;s data." alt="" coords="1176,15676,1363,15717"/>
+<area shape="rect" id="node17" title=" " alt="" coords="821,6789,1060,6860"/>
+<area shape="rect" id="node18" href="$d8/d2b/classIG_1_1Lib_1_1CommandThread.html" title="Contains stack frames and other command thread data for a single command thread of a command&#45;line int..." alt="" coords="1171,6571,1368,6627"/>
+<area shape="rect" id="node19" title=" " alt="" coords="585,3315,663,3342"/>
+<area shape="rect" id="node20" href="$d6/d63/classIG_1_1Num_1_1SampledDataSet_1_1ComparerInputDistance.html" title="Comparer that compares two data elements of type SampledDataElement according to the distance of thei..." alt="" coords="827,3247,1055,3288"/>
+<area shape="rect" id="node21" href="$d9/dfe/classIG_1_1Num_1_1SampledDataSet_1_1ComparerOutputDistance.html" title="Comparer that compares two data elements of type SampledDataElement according to the distance of thei..." alt="" coords="827,3181,1055,3223"/>
+<area shape="rect" id="node22" href="$da/dad/classIG_1_1Reflection_1_1DerivedTypesRegistry.html" title=" " alt="" coords="505,7648,743,7689"/>
+<area shape="rect" id="node23" href="$d1/db3/classIG_1_1Reflection_1_1DerivedTypesRgistryBasic.html" title="Registry of types with a common base type, similar to DerivedTypesRegistry&lt;BaseType,..." alt="" coords="851,7648,1030,7689"/>
+<area shape="rect" id="node24" href="$d0/dab/classIG_1_1Num_1_1DistanceComparer.html" title=" " alt="" coords="499,3075,749,3131"/>
+<area shape="rect" id="node25" href="$d2/daa/classIG_1_1Num_1_1DistanceComparerSampledDataElement.html" title="Distance comparer for point clouds where point type is SampledDataElement." alt="" coords="827,3064,1055,3105"/>
+<area shape="rect" id="node26" href="$d0/dab/classIG_1_1Num_1_1DistanceComparer.html" title=" " alt="" coords="535,3155,713,3211"/>
+<area shape="rect" id="node27" href="$d7/d0f/classIG_1_1Num_1_1DistanceComparerVector.html" title=" " alt="" coords="833,3130,1048,3157"/>
+<area shape="rect" id="node28" title=" " alt="" coords="574,22254,674,22281"/>
+<area shape="rect" id="node29" href="$d7/d40/classNUnit_1_1Engine_1_1Drivers_1_1TestEventAdapter.html" title="The TestEventAdapter class receives NUnit v2 events and passes the equivalent v3 event to the engine." alt="" coords="855,22247,1026,22288"/>
+<area shape="rect" id="node30" href="$d5/d50/interfaceIG_1_1Num_1_1IAffineTransformation.html" title="Affine Transformation." alt="" coords="529,9758,719,9785"/>
+<area shape="rect" id="node31" href="$d6/d8b/classIG_1_1Num_1_1AffineTransformationDiagonal.html" title="Affine transformation with diagonal tansformation matrix." alt="" coords="1176,9780,1363,9821"/>
+<area shape="rect" id="node32" href="$de/d0d/classIG_1_1Num_1_1AffineTransformationSquare.html" title="Invertible Affine transformation with square transformation matrix." alt="" coords="847,9780,1034,9821"/>
+<area shape="rect" id="node33" href="$d5/d59/interfaceIG_1_1Num_1_1IAnalysis.html" title="Interface for direct analysis classes used in optimization problems." alt="" coords="563,8927,685,8954"/>
+<area shape="rect" id="node34" href="$da/dba/classIG_1_1Lib_1_1LoadableScriptOptBase_1_1AnalysisScript.html" title=" " alt="" coords="1186,9467,1353,9508"/>
+<area shape="rect" id="node35" href="$dd/d1e/classIG_1_1Num_1_1AnalysisBase.html" title="Base class for direct analysis classes that define optimization problems. Represent the complete defi..." alt="" coords="865,9627,1016,9654"/>
+<area shape="rect" id="node36" href="$dd/dbb/classIG_1_1Num_1_1OptConstrained_1_1Example2dTest.html" title="A simple test optimization problem (nonlinear constrained, 2 parameters, 2 constraints)." alt="" coords="1142,8786,1397,8813"/>
+<area shape="rect" id="node37" href="$d3/df4/classIG_1_1Num_1_1OptConstrained_1_1Example2dTest1.html" title="A simple test optimization problem (nonlinear constrained, 2 parameters, 2 constraints)." alt="" coords="1155,8908,1384,8949"/>
+<area shape="rect" id="node38" href="$da/df3/classIG_1_1Num_1_1OptConstrained_1_1Example2dTestSimple.html" title="A simple test optimization problem (quadratic constrained, 2 parameters, 2 linear constraints)." alt="" coords="1155,9116,1384,9157"/>
+<area shape="rect" id="node39" href="$dc/d51/classIG_1_1Num_1_1OptFileAnalysisClient.html" title="File analysis client. Passes direct analysis request to the server and gets analysis results from it." alt="" coords="1172,9569,1367,9595"/>
+<area shape="rect" id="node40" href="$d6/d85/classIG_1_1Num_1_1OptUnconstrained_1_1ExampleRosenbrock.html" title="The Rosenbrock&#39;s unconstrained optimization problem (2D)." alt="" coords="1180,9620,1359,9661"/>
+<area shape="rect" id="node41" href="$d4/d0a/classIG_1_1Num_1_1OptUnconstrained_1_1ExampleRosenbrockGeneralizedAdjacent.html" title="The generalized Rosenbrock&#39;s unconstrained optimization problem in arbitrary dimensions Dim &gt;= 2." alt="" coords="1164,9686,1375,9742"/>
+<area shape="rect" id="node42" href="$d7/d33/classIG_1_1Num_1_1OptUnconstrained_1_1ExampleRosenbrockGeneralizedExhaustive.html" title="The generalized Rosenbrock&#39;s unconstrained optimization problem in arbitrary dimensions Dim &gt;= 2." alt="" coords="1473,9686,1683,9742"/>
+<area shape="rect" id="node43" title=" " alt="" coords="549,22567,699,22594"/>
+<area shape="rect" id="node44" href="$de/df7/classNUnit_1_1Engine_1_1CallbackHandler.html" title=" " alt="" coords="843,22503,1039,22530"/>
+<area shape="rect" id="node46" href="$d6/d9d/classNUnit_1_1Engine_1_1Drivers_1_1Tests_1_1NUnit3FrameworkDriverTests_1_1CallbackEventHandler.html" title=" " alt="" coords="819,22621,1062,22677"/>
+<area shape="rect" id="node47" href="$d2/d4c/classNUnit_1_1Framework_1_1Api_1_1FrameworkControllerTests_1_1CallbackEventHandler.html" title=" " alt="" coords="821,22555,1060,22596"/>
+<area shape="rect" id="node45" href="$d1/d6a/classNUnit_1_1Engine_1_1RunTestsCallbackHandler.html" title=" " alt="" coords="1166,22545,1373,22587"/>
+<area shape="rect" id="node48" title=" " alt="" coords="583,21993,665,22019"/>
+<area shape="rect" id="node49" href="$d0/dab/classAForge_1_1Genetic_1_1GPTreeNode.html" title="Represents tree node of genetic programming tree." alt="" coords="845,22043,1036,22070"/>
+<area shape="rect" id="node50" href="$d6/d5e/classAForge_1_1Imaging_1_1ComplexImage.html" title="Complex image." alt="" coords="839,21993,1042,22019"/>
+<area shape="rect" id="node51" href="$d9/d2a/classAForge_1_1Imaging_1_1Formats_1_1ImageInfo.html" title="Information about image&#39;s frame." alt="" coords="829,21942,1053,21969"/>
+<area shape="rect" id="node54" href="$dc/de5/structAForge_1_1Math_1_1Complex.html" title="Complex number wrapper class." alt="" coords="865,22094,1017,22121"/>
+<area shape="rect" id="node55" href="$d7/de0/classIG_1_1Num_1_1Vector.html" title="Real vector class." alt="" coords="887,21891,995,21918"/>
+<area shape="rect" id="node56" href="$da/d5b/classIG_1_1Num_1_1Vector3d.html" title="Vector or point in a 3 dimensional space." alt="" coords="879,21841,1002,21867"/>
+<area shape="rect" id="node52" href="$d2/d03/classAForge_1_1Imaging_1_1Formats_1_1FITSImageInfo.html" title="Information about FITS image&#39;s frame." alt="" coords="1144,21967,1395,21994"/>
+<area shape="rect" id="node53" href="$de/d3a/classAForge_1_1Imaging_1_1Formats_1_1PNMImageInfo.html" title="Information about PNM image&#39;s frame." alt="" coords="1143,21917,1396,21943"/>
+<area shape="rect" id="node57" title=" " alt="" coords="583,20765,665,20791"/>
+<area shape="rect" id="node58" href="$dc/d5d/classDotNetMatrix_1_1GeneralMatrix.html" title=".NET GeneralMatrix class." alt="" coords="849,7066,1032,7093"/>
+<area shape="rect" id="node59" href="$da/d89/classIG_1_1Num_1_1Matrix2d.html" title="Matrix in a 2 dimensional space." alt="" coords="881,929,1001,955"/>
+<area shape="rect" id="node60" href="$d5/d83/classIG_1_1Num_1_1RealFunction.html" title="Represents a real function of a real variabe." alt="" coords="867,21099,1014,21126"/>
+<area shape="rect" id="node83" href="$dc/de8/classIG_1_1Num_1_1Vector2d.html" title="Vector or point in a 2 dimensional space." alt="" coords="879,21790,1002,21817"/>
+<area shape="rect" id="node61" href="$d3/d60/classIG_1_1Gr3d_1_1VtkPlotBase_1_1ExampleFunctionTorusKnot.html" title="Functions for all 3 co&#45;ordinates of parametric curve definition of a p&#45;q torus knot ...." alt="" coords="1170,20995,1369,21036"/>
+<area shape="rect" id="node62" href="$dc/d39/classIG_1_1Gr3d_1_1VtkPlotBase_1_1ExampleSineFunctionForLissajous.html" title="Sine function with the specified frequency factor and phase. Used in the ExampleLissajous." alt="" coords="1170,21060,1369,21101"/>
+<area shape="rect" id="node63" href="$d1/dad/classIG_1_1Gr_1_1PlotterZedGraph_1_1ExampleSineFunctionForLissajous.html" title="Sine function with the specified frequency factor and phase. Used in the ExampleLissajous." alt="" coords="1166,21125,1373,21167"/>
+<area shape="rect" id="node64" href="$db/d84/classIG_1_1Lib_1_1LoadableRealFunctionBase.html" title="A RealFunction class used as base class for dynamically loaded functions. Bunctions loaded from scrip..." alt="" coords="1160,21191,1379,21218"/>
+<area shape="rect" id="node66" href="$d2/d7a/classIG_1_1Num_1_1ComposedFunction.html" title="Composition of real functions." alt="" coords="1178,21242,1361,21269"/>
+<area shape="rect" id="node67" href="$d6/d88/classIG_1_1Num_1_1Func_1_1Constant.html" title="A RealFunction class representing a constant function." alt="" coords="1192,21293,1347,21319"/>
+<area shape="rect" id="node68" href="$dc/dbf/classIG_1_1Num_1_1Func_1_1Cubic.html" title="Cubic function, f(x) = a3*x*x*x + a2*x*x + a1*x + a0. Specific properties: Zero &#45; returns a zero...." alt="" coords="1201,20522,1337,20549"/>
+<area shape="rect" id="node69" href="$da/da5/classIG_1_1Num_1_1Func_1_1Exp.html" title="A RealFunction class representing exponential function." alt="" coords="1206,21343,1333,21370"/>
+<area shape="rect" id="node70" href="$d4/d1e/classIG_1_1Num_1_1Func_1_1Identity.html" title="A RealFunction class representing identity (or linear) function." alt="" coords="1197,21394,1342,21421"/>
+<area shape="rect" id="node71" href="$d8/ddb/classIG_1_1Num_1_1Func_1_1Linear.html" title="Linear function, f(x) = a1*x + a0. Specific properties: Zero &#45; returns a zero. HasZero &#45; either the f..." alt="" coords="1200,21445,1339,21471"/>
+<area shape="rect" id="node72" href="$dd/dd0/classIG_1_1Num_1_1Func_1_1PenaltyPower.html" title="Penalty function consisting of sticked together constant zero&#45;valued function and a power function wi..." alt="" coords="1178,21613,1361,21639"/>
+<area shape="rect" id="node73" href="$d7/d61/classIG_1_1Num_1_1Func_1_1Quadratic.html" title="Quadratic function, f(x) = a2*x*x + a1*x + a0. Specific properties: Zero &#45; returns a zero...." alt="" coords="1190,21562,1349,21589"/>
+<area shape="rect" id="node74" href="$d0/dc0/classIG_1_1Num_1_1Func_1_1ReciprocalPower.html" title="A RealFunction class representing a reciprocal power function." alt="" coords="1169,20573,1369,20599"/>
+<area shape="rect" id="node75" href="$d9/d61/classIG_1_1Num_1_1Func_1_1WeightGauss.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="1178,20623,1361,20650"/>
+<area shape="rect" id="node76" href="$d5/d42/classIG_1_1Num_1_1Func_1_1WeightPol3.html" title="A RealFunction class representing bell like polynomial weighting function with finite support...." alt="" coords="1184,20674,1355,20701"/>
+<area shape="rect" id="node77" href="$da/d50/classIG_1_1Num_1_1Func_1_1WeightPol4.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="1184,20725,1355,20751"/>
+<area shape="rect" id="node78" href="$d1/d27/classIG_1_1Num_1_1Func_1_1WeightPol5.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="1184,20775,1355,20802"/>
+<area shape="rect" id="node79" href="$df/d14/classIG_1_1Num_1_1Func_1_1WeightPol7.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="1184,20826,1355,20853"/>
+<area shape="rect" id="node80" href="$d4/d40/classIG_1_1Num_1_1Func_1_1WeightReciprocalPower.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="1167,20877,1372,20919"/>
+<area shape="rect" id="node81" href="$d6/d03/classIG_1_1Num_1_1FunctionPolynomial.html" title="Polynomial real functions of one variable." alt="" coords="1177,20943,1361,20970"/>
+<area shape="rect" id="node82" href="$dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html" title="A RealFunction class representing quadratic function for testing line search algorithms." alt="" coords="1173,21496,1366,21537"/>
+<area shape="rect" id="node65" href="$d5/d44/classIG_1_1Script_1_1ScritpRealFunctionExample_1_1Container_1_1Function.html" title=" " alt="" coords="1485,21184,1671,21225"/>
+<area shape="rect" id="node84" title=" " alt="" coords="583,143,665,170"/>
+<area shape="rect" id="node85" href="$d3/dc9/classMeta_1_1Numerics_1_1Statistics_1_1BivariateSample.html" title="Represents a set of data points, where each data point is described by a pair of real numbers." alt="" coords="854,5,1027,47"/>
+<area shape="rect" id="node86" href="$d8/d63/classMeta_1_1Numerics_1_1Statistics_1_1MultivariateSample.html" title="Represents a multivariate sample." alt="" coords="854,201,1027,243"/>
+<area shape="rect" id="node87" href="$de/d1a/classMeta_1_1Numerics_1_1Statistics_1_1Sample.html" title="Represents a set of data points, where each data point consists of a single real number." alt="" coords="854,136,1027,177"/>
+<area shape="rect" id="node88" href="$d2/d68/classNUnit_1_1TestUtilities_1_1Collections_1_1SimpleObjectCollection.html" title="SimpleObjectCollection is used in testing to ensure that only methods of the ICollection interface ar..." alt="" coords="841,71,1040,112"/>
+<area shape="rect" id="node89" title=" " alt="" coords="510,235,738,276"/>
+<area shape="rect" id="node90" href="$d0/d6f/classMeta_1_1Numerics_1_1Statistics_1_1UncertainMeasurementSample.html" title="Represents a set of measurements." alt="" coords="825,267,1056,308"/>
+<area shape="rect" id="node91" href="$de/dfd/interfaceIG_1_1Lib_1_1ICommandLineApplicationInterpreter.html" title="Interface for simple command&#45;line applicatino interpreters." alt="" coords="519,8131,729,8172"/>
+<area shape="rect" id="node92" href="$de/dcf/classIG_1_1Lib_1_1CommandLineApplicationInterpreter.html" title="Simple command&#45;line application interpreters, holds a set of commands that can be executed by name...." alt="" coords="837,8131,1044,8172"/>
+<area shape="rect" id="node93" href="$d2/d86/classIG_1_1Lib_1_1CommandLineApplicationScriptInterpreter.html" title="Command&#45;line interpreters adapted for executing script commands." alt="" coords="1166,8196,1373,8237"/>
+<area shape="rect" id="node94" href="$d6/d30/classIG_1_1Lib_1_1NeuralApplicationInterpreter.html" title="Command line application interpreter that contains some neural networks &#45; related commands." alt="" coords="1189,8131,1350,8172"/>
+<area shape="rect" id="node95" href="$de/de7/classIG_1_1Lib_1_1AppExtendedShell.html" title=" " alt="" coords="1495,8255,1661,8282"/>
+<area shape="rect" id="node96" href="$d7/d4a/classIG_1_1Lib_1_1AppTestOpt.html" title=" " alt="" coords="1513,8087,1643,8114"/>
+<area shape="rect" id="node97" href="$da/dbd/classIG_1_1Lib_1_1MessyApplication.html" title=" " alt="" coords="1497,8138,1659,8165"/>
+<area shape="rect" id="node98" href="$d2/d0e/classIG_1_1Lib_1_1NeuralApplicationInterpreterNeuronDotNet.html" title=" " alt="" coords="1497,8189,1659,8231"/>
+<area shape="rect" id="node99" title=" " alt="" coords="296,3017,391,3043"/>
+<area shape="rect" id="node100" href="$d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome.html" title="Chromosome interface." alt="" coords="525,3435,723,3462"/>
+<area shape="rect" id="node109" href="$dd/d48/classAForge_1_1Imaging_1_1HoughCircle.html" title="Hough circle." alt="" coords="531,3486,717,3513"/>
+<area shape="rect" id="node110" href="$d5/d94/classAForge_1_1Imaging_1_1HoughLine.html" title="Hough line." alt="" coords="535,1873,713,1899"/>
+<area shape="rect" id="node111" href="$d3/d70/classAForge_1_1Math_1_1Geometry_1_1GrahamConvexHull_1_1PointToProcess.html" title=" " alt="" coords="520,1924,728,1965"/>
+<area shape="rect" id="node112" href="$d6/df6/classAForge_1_1Video_1_1DirectShow_1_1FilterInfo.html" title="DirectShow filter information." alt="" coords="537,2320,711,2361"/>
+<area shape="rect" id="node113" href="$d1/d50/classIG_1_1Lib_1_1CommandUseReference.html" title="A reference of command usage, contains ID of the interpreter where a command is registered,..." alt="" coords="524,2711,724,2738"/>
+<area shape="rect" id="node114" href="$de/da3/structIG_1_1Num_1_1Counter.html" title="Represents a real number." alt="" coords="567,4179,681,4206"/>
+<area shape="rect" id="node115" href="$d3/d9a/structIG_1_1Num_1_1Scalar.html" title="Represents a real number." alt="" coords="571,4129,677,4155"/>
+<area shape="rect" id="node116" href="$dc/d10/classNUnit_1_1Framework_1_1Constraints_1_1ClassWithIComparable.html" title=" " alt="" coords="526,2944,722,2985"/>
+<area shape="rect" id="node117" href="$d2/dd1/classNUnit_1_1Framework_1_1Constraints_1_1ClassWithIComparableOfT.html" title=" " alt="" coords="526,3009,722,3051"/>
+<area shape="rect" id="node118" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework." alt="" coords="525,3947,723,3974"/>
+<area shape="rect" id="node101" href="$df/da8/classAForge_1_1Genetic_1_1ChromosomeBase.html" title="Chromosomes&#39; base class." alt="" coords="829,3771,1053,3798"/>
+<area shape="rect" id="node102" href="$dd/db5/classAForge_1_1Genetic_1_1BinaryChromosome.html" title="Binary chromosome, which supports length from 2 till 64." alt="" coords="1154,3539,1385,3566"/>
+<area shape="rect" id="node103" href="$da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html" title="Double array chromosome." alt="" coords="1175,3656,1363,3697"/>
+<area shape="rect" id="node104" href="$d8/d7a/classAForge_1_1Genetic_1_1GEPChromosome.html" title="The chromosome represents a Gene Expression, which is used for different tasks of Genetic Expression ..." alt="" coords="1158,3722,1381,3749"/>
+<area shape="rect" id="node105" href="$da/dcb/classAForge_1_1Genetic_1_1GPTreeChromosome.html" title="Tree chromosome represents a tree of genes, which is is used for different tasks of Genetic Programmi..." alt="" coords="1150,3773,1389,3799"/>
+<area shape="rect" id="node106" href="$df/d47/classAForge_1_1Genetic_1_1ShortArrayChromosome.html" title="Short array chromosome." alt="" coords="1180,3591,1359,3632"/>
+<area shape="rect" id="node107" href="$d9/dc4/classAForge_1_1Genetic_1_1PermutationChromosome.html" title="Permutation chromosome." alt="" coords="1485,3591,1671,3632"/>
+<area shape="rect" id="node108" href="$d2/df0/classTSP_1_1TSPChromosome.html" title="The chromosome is to solve TSP task (Travailing Salesman Problem)." alt="" coords="1782,3598,1935,3625"/>
+<area shape="rect" id="node119" href="$d0/dd1/classNUnit_1_1Framework_1_1Attributes_1_1TestDummy.html" title=" " alt="" coords="847,3823,1034,3864"/>
+<area shape="rect" id="node120" href="$df/df7/classNUnit_1_1Framework_1_1Internal_1_1TestMethod.html" title="The TestMethod class represents a Test implemented as a method." alt="" coords="855,3940,1027,3981"/>
+<area shape="rect" id="node122" href="$d4/dec/classNUnit_1_1Framework_1_1Internal_1_1TestSuite.html" title="TestSuite represents a composite test, which contains other tests." alt="" coords="855,4005,1027,4047"/>
+<area shape="rect" id="node121" href="$da/d61/classNUnit_1_1TestUtilities_1_1FakeTestMethod.html" title="FakeTestMethod is used in tests to simulate an actual TestMethod" alt="" coords="1190,3875,1349,3916"/>
+<area shape="rect" id="node123" href="$db/dcd/classNUnit_1_1Framework_1_1Internal_1_1ParameterizedFixtureSuite.html" title="ParameterizedFixtureSuite serves as a container for the set of test fixtures created from a given Typ..." alt="" coords="1181,4005,1357,4047"/>
+<area shape="rect" id="node124" href="$d4/d7b/classNUnit_1_1Framework_1_1Internal_1_1ParameterizedMethodSuite.html" title="ParameterizedMethodSuite holds a collection of individual TestMethods with their arguments applied." alt="" coords="1180,4071,1359,4112"/>
+<area shape="rect" id="node125" href="$dc/dd9/classNUnit_1_1Framework_1_1Internal_1_1SetUpFixture.html" title="SetUpFixture extends TestSuite and supports Setup and TearDown methods." alt="" coords="1183,4136,1355,4177"/>
+<area shape="rect" id="node126" href="$dd/dcb/classNUnit_1_1Framework_1_1Internal_1_1TestAssembly.html" title="TestAssembly is a TestSuite that represents the execution of tests in a managed assembly." alt="" coords="1183,4201,1355,4243"/>
+<area shape="rect" id="node127" href="$db/d23/classNUnit_1_1Framework_1_1Internal_1_1TestFixture.html" title="TestFixture is a surrogate for a user test fixture class, containing one or more tests." alt="" coords="1183,3940,1355,3981"/>
+<area shape="rect" id="node128" title=" " alt="" coords="303,6050,384,6077"/>
+<area shape="rect" id="node129" href="$de/d2c/classAForge_1_1Imaging_1_1ColorReduction_1_1MedianCutCube_1_1BlueComparer.html" title=" " alt="" coords="519,6291,729,6332"/>
+<area shape="rect" id="node130" href="$d4/ddc/classAForge_1_1Imaging_1_1ColorReduction_1_1MedianCutCube_1_1GreenComparer.html" title=" " alt="" coords="519,5977,729,6019"/>
+<area shape="rect" id="node131" href="$dc/d49/classAForge_1_1Imaging_1_1ColorReduction_1_1MedianCutCube_1_1RedComparer.html" title=" " alt="" coords="519,6356,729,6397"/>
+<area shape="rect" id="node132" href="$d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html" title="Interface used for distance comparers in point clouds." alt="" coords="511,6043,737,6084"/>
+<area shape="rect" id="node134" href="$df/d64/classIG_1_1Num_1_1NeuralTrainingParameters_1_1ComparerBase.html" title="Base comparer class (implementation of the IComparer&lt;NeuralTrainingParameters&gt; interface) for conmpar..." alt="" coords="513,6225,735,6267"/>
+<area shape="rect" id="node133" href="$d0/dab/classIG_1_1Num_1_1DistanceComparer.html" title="Class that is used to calculate and compare distances between point containers." alt="" coords="852,5929,1029,5985"/>
+<area shape="rect" id="node135" title=" " alt="" coords="583,3385,665,3411"/>
+<area shape="rect" id="node136" href="$d1/dd8/classAForge_1_1Imaging_1_1BlobCounterBase_1_1BlobsSorter.html" title=" " alt="" coords="847,3443,1035,3484"/>
+<area shape="rect" id="node137" href="$d7/d00/classAForge_1_1Imaging_1_1ExhaustiveBlockMatching_1_1MatchingsSorter.html" title=" " alt="" coords="837,3508,1044,3549"/>
+<area shape="rect" id="node138" href="$d3/d84/classIG_1_1Num_1_1AnalysisComparer.html" title="Compares two sets of analysis results in various different ways." alt="" coords="853,3574,1029,3601"/>
+<area shape="rect" id="node139" href="$d6/d94/classIG_1_1Num_1_1DistanceComparer_1_1StoredDistanceComparerClass.html" title="Compares two point containers according to their StoredDistance property." alt="" coords="801,3625,1080,3681"/>
+<area shape="rect" id="node140" href="$db/dda/classIG_1_1Num_1_1NeuralTrainingParameters_1_1ComparerErrorTrainingVector.html" title=" " alt="" coords="829,3705,1052,3747"/>
+<area shape="rect" id="node141" href="$d6/db9/classIG_1_1Num_1_1NeuralTrainingParameters_1_1ComparerTrainingTime.html" title=" " alt="" coords="829,3312,1052,3353"/>
+<area shape="rect" id="node142" href="$dd/d2c/classNUnit_1_1Framework_1_1Internal_1_1Reflect_1_1BaseTypesFirstComparer.html" title=" " alt="" coords="834,3377,1047,3419"/>
+<area shape="rect" id="node143" href="$d0/dc3/interfaceCShellCore_1_1CodeCompletion_1_1ICSharpScriptProvider.html" title="This interface allows to provide more information for scripts such as using statements,..." alt="" coords="529,6108,719,6149"/>
+<area shape="rect" id="node144" href="$dc/d7b/classCShell_1_1ScriptingEngine.html" title=" " alt="" coords="863,6309,1018,6335"/>
+<area shape="rect" id="node145" title=" " alt="" coords="579,7125,669,7151"/>
+<area shape="rect" id="node146" href="$d5/d7d/interfaceCShell_1_1Framework_1_1IModule.html" title=" " alt="" coords="852,7285,1029,7311"/>
+<area shape="rect" id="node153" href="$de/dac/classIG_1_1Gr3d_1_1VtkPlotBase.html" title="Base class for plotting classes that plot on VTK windows (class VtkPlotter)." alt="" coords="869,7546,1013,7573"/>
+<area shape="rect" id="node158" href="$d4/d40/classIG_1_1Gr3d_1_1VtkPlotter.html" title="Plotter class that uses a vtkRenderWindow object for plotting 3D graphics." alt="" coords="876,7495,1005,7522"/>
+<area shape="rect" id="node159" href="$d9/dcf/classIG_1_1Gr_1_1PlotterZedGraph.html" title="Plotter class that uses a ZedGraphControl object for plotting ordinary 2D graphs." alt="" coords="865,7597,1016,7623"/>
+<area shape="rect" id="node160" href="$dd/d9b/classIG_1_1Gr_1_1PlotZedgraphCurve.html" title="Curve plots that is shown on a ZedGraphControl object." alt="" coords="1187,7183,1352,7210"/>
+<area shape="rect" id="node161" href="$d3/d58/classIG_1_1Lib_1_1CommandLine.html" title="Represents a single command&#45;line that can be executed. $A Igor Feb09;" alt="" coords="869,6410,1012,6437"/>
+<area shape="rect" id="node162" href="$db/db1/interfaceIG_1_1Lib_1_1IReporter.html" title="Interface from which majority of reporters inherit. Includes generic reporting functionality plus tra..." alt="" coords="885,22443,997,22470"/>
+<area shape="rect" id="node168" href="$dc/d26/classIG_1_1Num_1_1EvaluatorBase.html" title="Base class for higher level classes that perform a single or several response evaluations and output ..." alt="" coords="846,7335,1035,7391"/>
+<area shape="rect" id="node169" href="$d9/dd9/classIG_1_1NumExperimental_1_1EvaluatorBase.html" title="Base class for higher level classes that perform a single or several response evaluations and output ..." alt="" coords="837,7415,1044,7471"/>
+<area shape="rect" id="node170" href="$d8/d27/classLabexBis_1_1Calypso.html" title="Utilities for communication with the web service Calypso." alt="" coords="877,6673,1004,6699"/>
+<area shape="rect" id="node171" href="$df/da0/classNUnit_1_1ConsoleRunner_1_1Utilities_1_1SaveConsoleOutput.html" title="Saves Console.Out and Console.Error and restores them when the object is destroyed" alt="" coords="842,6949,1039,6991"/>
+<area shape="rect" id="node172" href="$de/d9a/classNUnit_1_1Engine_1_1Agents_1_1TestAgent.html" title="Abstract base for all types of TestAgents. A TestAgent provides services of locating,..." alt="" coords="855,6724,1027,6765"/>
+<area shape="rect" id="node174" href="$da/dc2/classNUnit_1_1Engine_1_1Internal_1_1ServerBase.html" title="Summary description for ServerBase." alt="" coords="833,20721,1048,20747"/>
+<area shape="rect" id="node176" href="$d7/dfc/interfaceNUnit_1_1Engine_1_1ITestEngine.html" title="ITestEngine represents an instance of the test engine. Clients wanting to discover,..." alt="" coords="855,7234,1026,7261"/>
+<area shape="rect" id="node178" href="$df/d6e/classNUnit_1_1Engine_1_1Services_1_1Service.html" title="Abstract base class for services that can use it. Some Services already inherit from a different clas..." alt="" coords="842,11733,1039,11759"/>
+<area shape="rect" id="node189" href="$dd/d89/classNUnit_1_1Engine_1_1Services_1_1ServiceManager.html" title="ServiceManager handles access to all services &#45; global facilities shared by all instances of TestEngi..." alt="" coords="842,6527,1039,6568"/>
+<area shape="rect" id="node190" href="$d4/dad/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1BaseTestClass.html" title=" " alt="" coords="820,7117,1061,7159"/>
+<area shape="rect" id="node192" href="$d6/db4/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DisposableFixture.html" title=" " alt="" coords="825,6884,1056,6925"/>
+<area shape="rect" id="node193" href="$d9/d46/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DisposableFixtureWithTestCases.html" title=" " alt="" coords="825,6593,1056,6649"/>
+<area shape="rect" id="node194" href="$dd/d72/classNUnit_1_1TestUtilities_1_1TestDirectory.html" title="Creates a directory for testing purposes" alt="" coords="863,6461,1018,6503"/>
+<area shape="rect" id="node195" href="$d7/d1d/classNUnit_1_1TestUtilities_1_1TestFile.html" title=" " alt="" coords="853,7015,1029,7042"/>
+<area shape="rect" id="node147" href="$d2/df0/classCShell_1_1Framework_1_1ModuleBase.html" title=" " alt="" coords="1167,7285,1371,7311"/>
+<area shape="rect" id="node148" href="$d9/d4f/classCShell_1_1Modules_1_1Editors_1_1Module.html" title=" " alt="" coords="1476,7402,1680,7429"/>
+<area shape="rect" id="node149" href="$d0/dd7/classCShell_1_1Modules_1_1Help_1_1Module.html" title=" " alt="" coords="1483,7183,1673,7210"/>
+<area shape="rect" id="node150" href="$df/df5/classCShell_1_1Modules_1_1Repl_1_1Module.html" title=" " alt="" coords="1483,7234,1673,7261"/>
+<area shape="rect" id="node151" href="$d6/dec/classCShell_1_1Modules_1_1Shell_1_1Module.html" title=" " alt="" coords="1482,7285,1674,7311"/>
+<area shape="rect" id="node152" href="$d0/de5/classCShell_1_1Modules_1_1Workspace_1_1Module.html" title=" " alt="" coords="1485,7336,1671,7377"/>
+<area shape="rect" id="node154" href="$d8/d62/classIG_1_1Gr3d_1_1VtkSurfacePlotBase.html" title="Contains basic settings for various surface and contour plots." alt="" coords="1175,7546,1363,7573"/>
+<area shape="rect" id="node155" href="$de/d93/classIG_1_1Gr3d_1_1VtkCurvePlot.html" title="Handles 3D curve plots in VTK render window accessed through the VtkPlotter class." alt="" coords="1505,7571,1651,7598"/>
+<area shape="rect" id="node156" href="$d9/de8/classIG_1_1Gr3d_1_1VtkSurfacePlot.html" title="Handles surface plots in VTK render window accessed through the VtkPlotter class." alt="" coords="1499,7521,1657,7547"/>
+<area shape="rect" id="node157" href="$d8/dc2/classIG_1_1Gr3d_1_1VtkContourPlot.html" title="Plots contours on surfaces in 3D." alt="" coords="1779,7521,1938,7547"/>
+<area shape="rect" id="node163" href="$dd/d3c/interfaceIG_1_1Lib_1_1IReporterConsole.html" title=" " alt="" coords="1190,22443,1349,22470"/>
+<area shape="rect" id="node166" href="$d4/de2/classIG_1_1Lib_1_1ReporterBase.html" title="Base IGlib class for reporting, tracing and logging; provides a global reporter and a basis for creat..." alt="" coords="1200,22494,1339,22521"/>
+<area shape="rect" id="node164" href="$de/df1/classIG_1_1Lib_1_1ReporterConsole.html" title=" " alt="" coords="1781,22469,1937,22495"/>
+<area shape="rect" id="node165" href="$da/df9/classIG_1_1Lib_1_1ReporterConsole__Base.html" title="Base class for reporter classes that contain either reporting via system console, reporting via messa..." alt="" coords="1481,22494,1675,22521"/>
+<area shape="rect" id="node167" href="$d0/d73/classIG_1_1Forms_1_1ReporterForms.html" title="Reporting system that in particular utilizes forms. Beside the main delegates for assembling location..." alt="" coords="1495,22545,1661,22571"/>
+<area shape="rect" id="node173" href="$dc/daa/classNUnit_1_1Engine_1_1Agents_1_1RemoteTestAgent.html" title="RemoteTestAgent represents a remote agent executing in another process and communicating with NUnit b..." alt="" coords="1173,2733,1365,2775"/>
+<area shape="rect" id="node175" href="$db/d77/classNUnit_1_1Engine_1_1Services_1_1TestAgency.html" title="The TestAgency class provides RemoteTestAgents on request and tracks their status...." alt="" coords="1179,20456,1359,20497"/>
+<area shape="rect" id="node177" href="$d2/d39/classNUnit_1_1Engine_1_1TestEngine.html" title="The TestEngine provides services that allow a client program to interact with NUnit in order to explo..." alt="" coords="1186,7234,1353,7261"/>
+<area shape="rect" id="node179" href="$de/d4f/classNUnit_1_1Engine_1_1Services_1_1DomainManager.html" title="The DomainManager class handles the creation and unloading of domains as needed and keeps track of al..." alt="" coords="1170,11653,1369,11695"/>
+<area shape="rect" id="node180" href="$de/d00/classNUnit_1_1Engine_1_1Services_1_1DriverService.html" title="The DriverService provides drivers able to load and run tests using various frameworks." alt="" coords="1176,11457,1363,11499"/>
+<area shape="rect" id="node181" href="$df/d71/classNUnit_1_1Engine_1_1Services_1_1ExtensionService.html" title="The ExtensionService discovers ExtensionPoints and Extensions and maintains them in a database...." alt="" coords="1163,11719,1376,11760"/>
+<area shape="rect" id="node182" href="$db/df5/classNUnit_1_1Engine_1_1Services_1_1InProcessTestRunnerFactory.html" title="InProcessTestRunnerFactory handles creation of a suitable test runner for a given package to be loade..." alt="" coords="1179,12273,1359,12315"/>
+<area shape="rect" id="node184" href="$da/dfb/classNUnit_1_1Engine_1_1Services_1_1ProjectService.html" title="Summary description for ProjectService." alt="" coords="1171,17489,1367,17531"/>
+<area shape="rect" id="node185" href="$d1/df7/classNUnit_1_1Engine_1_1Services_1_1RecentFilesService.html" title="Summary description for RecentFilesService." alt="" coords="1171,11523,1367,11564"/>
+<area shape="rect" id="node186" href="$d5/d85/classNUnit_1_1Engine_1_1Services_1_1ResultService.html" title=" " alt="" coords="1173,11588,1365,11629"/>
+<area shape="rect" id="node187" href="$da/d5b/classNUnit_1_1Engine_1_1Services_1_1RuntimeFrameworkService.html" title=" " alt="" coords="1168,17607,1371,17648"/>
+<area shape="rect" id="node188" href="$d8/da5/classNUnit_1_1Engine_1_1Services_1_1TestFilterService.html" title=" " alt="" coords="1179,11784,1359,11825"/>
+<area shape="rect" id="node183" href="$d1/d7b/classNUnit_1_1Engine_1_1Services_1_1DefaultTestRunnerFactory.html" title="DefaultTestRunnerFactory handles creation of a suitable test runner for a given package to be loaded ..." alt="" coords="1481,12287,1675,12328"/>
+<area shape="rect" id="node191" href="$d2/d48/classNUnit_1_1Framework_1_1Tests_1_1Compatibility_1_1DerivedTestClass.html" title=" " alt="" coords="1149,7117,1390,7159"/>
+<area shape="rect" id="node196" title=" " alt="" coords="579,1613,669,1639"/>
+<area shape="rect" id="node197" href="$d0/d77/classAForge_1_1Imaging_1_1UnmanagedImage.html" title="Image in unmanaged memory." alt="" coords="847,1293,1034,1335"/>
+<area shape="rect" id="node198" href="$d3/d6c/classAForge_1_1Video_1_1Kinect_1_1Kinect.html" title="The class provides access to Microsoft&#39;s Xbox Kinect controller." alt="" coords="849,1359,1032,1386"/>
+<area shape="rect" id="node199" href="$dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html" title="AVI files reading using Video for Windows." alt="" coords="840,1410,1041,1437"/>
+<area shape="rect" id="node200" href="$d9/d27/classAForge_1_1Video_1_1VFW_1_1AVIWriter.html" title="AVI files writing using Video for Windows interface." alt="" coords="843,1461,1038,1487"/>
+<area shape="rect" id="node201" href="$d6/dc3/classCShell_1_1AssemblyReferences.html" title=" " alt="" coords="847,1242,1034,1269"/>
+<area shape="rect" id="node202" href="$d7/d97/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1TreeViewModel.html" title=" " alt="" coords="847,1911,1034,1952"/>
+<area shape="rect" id="node209" href="$d6/d16/classIG_1_1Gr_1_1PlotZedGraphBase.html" title="Base class for plots that are shown in a ZedGraphControl object." alt="" coords="857,5878,1024,5905"/>
+<area shape="rect" id="node210" href="$d7/db9/classIG_1_1Lib_1_1CommandLineInterpreter.html" title="Base class for all command line interpreters." alt="" coords="840,5827,1041,5854"/>
+<area shape="rect" id="node211" href="$d7/d9f/classIG_1_1Lib_1_1HtmlWriter.html" title="Generates and composes a HTML document." alt="" coords="879,1663,1002,1690"/>
+<area shape="rect" id="node212" href="$d1/da2/classIG_1_1SandboxTests_1_1XUnitLogger_1_1NoopDisposable.html" title=" " alt="" coords="841,1715,1040,1756"/>
+<area shape="rect" id="node213" href="$d9/d7f/classIGLib_1_1Tests_1_1Base_1_1XUnitLogger_1_1NoopDisposable.html" title=" " alt="" coords="841,1780,1040,1821"/>
+<area shape="rect" id="node214" href="$d9/da1/classNUnit_1_1Common_1_1ColorConsole.html" title="Sets the console color in the constructor and resets it in the dispose" alt="" coords="845,1613,1036,1639"/>
+<area shape="rect" id="node215" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="855,1845,1026,1887"/>
+<area shape="rect" id="node225" href="$d3/d05/interfaceNUnit_1_1Engine_1_1ITestRunner.html" title="Interface implemented by all test runners." alt="" coords="1184,1575,1355,1602"/>
+<area shape="rect" id="node226" href="$d7/de2/classNUnit_1_1Engine_1_1Tests_1_1TempResourceFile.html" title=" " alt="" coords="817,1511,1064,1538"/>
+<area shape="rect" id="node203" href="$d4/d81/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1AssemblyReferencesViewModel.html" title=" " alt="" coords="1128,1900,1411,1941"/>
+<area shape="rect" id="node204" href="$d3/d5f/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1AssemblyReferenceViewModel.html" title=" " alt="" coords="1132,1965,1407,2007"/>
+<area shape="rect" id="node205" href="$d1/d35/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1FileViewModel.html" title=" " alt="" coords="1176,2031,1363,2072"/>
+<area shape="rect" id="node207" href="$dd/d91/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1FolderViewModel.html" title=" " alt="" coords="1172,1835,1367,1876"/>
+<area shape="rect" id="node206" href="$d1/daa/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1CShellFileViewModel.html" title=" " alt="" coords="1469,2031,1687,2072"/>
+<area shape="rect" id="node208" href="$d1/d67/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1RootFolderViewModel.html" title=" " alt="" coords="1467,1835,1689,1876"/>
+<area shape="rect" id="node216" href="$d6/dfe/classNUnit_1_1Engine_1_1Runners_1_1AbstractTestRunner.html" title="AbstractTestRunner is the base class for all runners within the NUnit Engine. It implements the ITest..." alt="" coords="1168,1701,1371,1743"/>
+<area shape="rect" id="node217" href="$d5/dff/classNUnit_1_1Engine_1_1Runners_1_1AggregatingTestRunner.html" title="AggregatingTestRunner runs tests using multiple subordinate runners and combines the results." alt="" coords="1467,1636,1689,1677"/>
+<area shape="rect" id="node220" href="$d0/d25/classNUnit_1_1Engine_1_1Runners_1_1DirectTestRunner.html" title="DirectTestRunner is the abstract base for runners that deal directly with a framework driver." alt="" coords="1484,1701,1672,1743"/>
+<area shape="rect" id="node223" href="$d7/d86/classNUnit_1_1Engine_1_1Runners_1_1MasterTestRunner.html" title=" " alt="" coords="1481,1569,1675,1611"/>
+<area shape="rect" id="node224" href="$da/d5d/classNUnit_1_1Engine_1_1Runners_1_1ProcessRunner.html" title="Summary description for ProcessRunner." alt="" coords="1477,1767,1679,1808"/>
+<area shape="rect" id="node218" href="$d7/d9e/classNUnit_1_1Engine_1_1Runners_1_1MultipleTestDomainRunner.html" title="MultipleTestDomainRunner runs tests using separate AppDomains for each assembly." alt="" coords="1759,1571,1958,1612"/>
+<area shape="rect" id="node219" href="$d7/d23/classNUnit_1_1Engine_1_1Runners_1_1MultipleTestProcessRunner.html" title="MultipleTestProcessRunner runs tests using separate Processes for each assembly." alt="" coords="1759,1636,1958,1677"/>
+<area shape="rect" id="node221" href="$d1/d77/classNUnit_1_1Engine_1_1Runners_1_1LocalTestRunner.html" title="LocalTestRunner runs tests in the current AppDomain." alt="" coords="1766,1701,1951,1743"/>
+<area shape="rect" id="node222" href="$d2/d8d/classNUnit_1_1Engine_1_1Runners_1_1TestDomainRunner.html" title="TestDomainRunner loads and runs tests in a separate domain whose lifetime it controls." alt="" coords="1769,1767,1948,1808"/>
+<area shape="rect" id="node227" href="$d6/d5f/classNUnit_1_1Engine_1_1Tests_1_1resources_1_1TestResource.html" title=" " alt="" coords="1170,1504,1369,1545"/>
+<area shape="rect" id="node228" href="$d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html" title=" " alt="" coords="499,2863,749,2919"/>
+<area shape="rect" id="node229" href="$d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html" title=" " alt="" coords="534,3235,714,3291"/>
+<area shape="rect" id="node230" href="$d0/d65/interfaceNUnit_1_1Engine_1_1IDriverService.html" title="The IDriverService interface is implemented by the driver service, which is able to provide drivers f..." alt="" coords="851,11581,1030,11607"/>
+<area shape="rect" id="node231" title=" " alt="" coords="577,437,671,463"/>
+<area shape="rect" id="node232" href="$df/d53/classCShell_1_1Framework_1_1Menus_1_1MenuItemBase.html" title=" " alt="" coords="837,812,1044,853"/>
+<area shape="rect" id="node237" href="$d7/da1/classIGLib_1_1Core_1_1MultiDimensionalIndexGenerator.html" title="Utility class for generating indices for multidimensional arrays." alt="" coords="847,397,1034,439"/>
+<area shape="rect" id="node238" href="$d7/dfd/classIGLib_1_1Tests_1_1Base_1_1SampleClasses_1_1CustomEnumerable.html" title=" " alt="" coords="830,463,1051,504"/>
+<area shape="rect" id="node239" href="$da/d37/classNUnit_1_1Framework_1_1Attributes_1_1RandomAttributeTests_1_1MethodNames.html" title=" " alt="" coords="821,528,1060,569"/>
+<area shape="rect" id="node240" href="$de/de2/classNUnit_1_1Framework_1_1Attributes_1_1TestCaseSourceTests_1_1DataSourceClass.html" title=" " alt="" coords="813,593,1068,635"/>
+<area shape="rect" id="node241" href="$dd/d5f/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1SourceData__IEnumerable.html" title=" " alt="" coords="820,332,1061,373"/>
+<area shape="rect" id="node233" href="$d5/dae/classCShell_1_1Framework_1_1Menus_1_1MenuItemSeparator.html" title=" " alt="" coords="1166,785,1373,827"/>
+<area shape="rect" id="node234" href="$d3/dde/classCShell_1_1Framework_1_1Menus_1_1StandardMenuItem.html" title=" " alt="" coords="1156,851,1383,892"/>
+<area shape="rect" id="node235" href="$d6/d80/classCShell_1_1Framework_1_1Menus_1_1CheckableMenuItem.html" title=" " alt="" coords="1460,880,1696,921"/>
+<area shape="rect" id="node236" href="$dc/dab/classCShell_1_1Framework_1_1Menus_1_1MenuItem.html" title=" " alt="" coords="1462,829,1694,855"/>
+<area shape="rect" id="node242" title=" " alt="" coords="504,300,744,341"/>
+<area shape="rect" id="node243" title=" " alt="" coords="302,4865,385,4891"/>
+<area shape="rect" id="node244" href="$db/ddb/classIG_1_1Lib_1_1UtilSystem_1_1ResolutionIdentity.html" title="Provides identity for assembly resolution attempts." alt="" coords="529,5569,719,5611"/>
+<area shape="rect" id="node245" href="$dc/d14/structMeta_1_1Numerics_1_1Complex.html" title="Represents a complex number." alt="" coords="541,5518,707,5545"/>
+<area shape="rect" id="node246" href="$d7/d1c/classMeta_1_1Numerics_1_1Functions_1_1Permutation.html" title="Represents a permutation." alt="" coords="537,4479,711,4520"/>
+<area shape="rect" id="node247" href="$db/d41/structMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1DiscreteInterval.html" title="Represents an interval on the integers." alt="" coords="531,5635,717,5676"/>
+<area shape="rect" id="node248" href="$d6/d22/classNUnit_1_1Framework_1_1Assertions_1_1IntEquatable.html" title=" " alt="" coords="528,4544,720,4585"/>
+<area shape="rect" id="node249" href="$d0/d24/classNUnit_1_1Framework_1_1Constraints_1_1EquatableObject.html" title=" " alt="" coords="526,4609,722,4651"/>
+<area shape="rect" id="node250" href="$db/df8/interfaceNUnit_1_1Framework_1_1Constraints_1_1IEquatableObject.html" title=" " alt="" coords="526,4857,722,4899"/>
+<area shape="rect" id="node252" href="$d4/ddd/classNUnit_1_1Framework_1_1Constraints_1_1MultipleIEquatables.html" title=" " alt="" coords="1171,4852,1367,4893"/>
+<area shape="rect" id="node253" href="$d9/d6d/classNUnit_1_1Framework_1_1Constraints_1_1IEquatableWithoutEqualsOverridden.html" title=" " alt="" coords="509,4675,739,4716"/>
+<area shape="rect" id="node254" href="$d7/d62/classNUnit_1_1Framework_1_1Constraints_1_1Int32IEquatable.html" title=" " alt="" coords="526,4740,722,4781"/>
+<area shape="rect" id="node255" href="$db/df5/classNUnit_1_1Framework_1_1Constraints_1_1NeverEqualIEquatable.html" title=" " alt="" coords="526,4975,722,5016"/>
+<area shape="rect" id="node256" href="$d4/dda/classNUnit_1_1Framework_1_1Constraints_1_1NeverEqualIEquatableWithOverriddenAlwaysTrueEquals.html" title=" " alt="" coords="506,5438,742,5494"/>
+<area shape="rect" id="node251" href="$d9/de1/classNUnit_1_1Framework_1_1Constraints_1_1InheritedEquatableObject.html" title=" " alt="" coords="843,4823,1039,4864"/>
+<area shape="rect" id="node257" title=" " alt="" coords="296,4179,391,4206"/>
+<area shape="rect" id="node258" title=" " alt="" coords="559,1822,689,1849"/>
+<area shape="rect" id="node259" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="562,4806,686,4833"/>
+<area shape="rect" id="node260" href="$d1/d25/classIG_1_1Lib_1_1CommandLineJobContainer.html" title="Carries command execution data, results, and other data such as identification number,..." alt="" coords="831,4435,1050,4462"/>
+<area shape="rect" id="node261" href="$dd/dd7/classIG_1_1Lib_1_1CommandThreadBase.html" title="Base class for classes of type CommandThread&lt;InterpreterType, FrameType, ThreadType&gt;...." alt="" coords="847,6359,1035,6386"/>
+<area shape="rect" id="node262" href="$dd/dec/classIG_1_1Lib_1_1ExpressionEvaluatorCompiled.html" title="Base class for expression evaluators that utilize the functionality of CodeDomProvider class." alt="" coords="851,6060,1030,6101"/>
+<area shape="rect" id="node263" href="$da/d42/classIG_1_1Lib_1_1ExpressionEvaluatorJs.html" title="JavaScript Evaluator with command&#45;line interpreter." alt="" coords="1174,5537,1365,5563"/>
+<area shape="rect" id="node264" href="$d0/d06/classIG_1_1Lib_1_1ExpressionEvaluatorJint.html" title="JavaScript Evaluator with command&#45;line interpreter, based on Jint." alt="" coords="1479,5274,1677,5301"/>
+<area shape="rect" id="node265" href="$d4/d93/classIG_1_1Lib_1_1IdProxy.html" title="Proxy class that stores the object&#39;s unique ID (generated by a static instance of the IdGenerator cla..." alt="" coords="889,4721,993,4747"/>
+<area shape="rect" id="node266" href="$d5/d7a/interfaceIG_1_1Lib_1_1IRegisterable.html" title="Objects of this type have a unique ID (unique for all objects of a given type) and can be registered ..." alt="" coords="857,4385,1024,4411"/>
+<area shape="rect" id="node267" href="$dd/dda/classIG_1_1Lib_1_1RegisterableExamples_1_1ExampleIIdentifiable.html" title="Example implementation of IIdentifiable interface." alt="" coords="843,4655,1038,4696"/>
+<area shape="rect" id="node268" href="$de/de7/classIG_1_1Lib_1_1StopWatch1.html" title="Timer for measuring execution times and other intervals of time elapsed between successive events...." alt="" coords="875,6009,1007,6035"/>
+<area shape="rect" id="node269" href="$d3/dbb/classIG_1_1Num_1_1ParallelJobContainerBase.html" title="Contains input data and results of a parallel job to be executed, oropertied indicating the state of ..." alt="" coords="831,6191,1050,6218"/>
+<area shape="rect" id="node270" href="$d3/d64/classIG_1_1Num_1_1ParallelJobContainerGen.html" title="General purpose parallel job container that contains methods for running the job in on the same machi..." alt="" coords="1170,6192,1369,6233"/>
+<area shape="rect" id="node271" href="$d1/d6b/classIG_1_1Num_1_1ParallelJobDispatcherBase.html" title="Parallel job dispatcher. Accepts job requests and dispatches jobs to parallel job servers when availa..." alt="" coords="843,4487,1038,4528"/>
+<area shape="rect" id="node272" href="$dc/da7/classIG_1_1Num_1_1ParallelJobDispatcherGen.html" title="Parallel job dispatcher for job containers that inherit from ParallelJobContainerGen&lt;InputType,..." alt="" coords="1172,4538,1367,4594"/>
+<area shape="rect" id="node273" href="$d9/d79/classIG_1_1Num_1_1ParallelJobServerBase.html" title="Parallel job server. Waits for job requests and executes them in a parallel thread." alt="" coords="851,6125,1030,6167"/>
+<area shape="rect" id="node274" href="$d5/d32/classIG_1_1Num_1_1ParallelJobServerGen.html" title="Parallel job server for job containers that inherit from ParallelJobContainerGen&lt;IT,..." alt="" coords="1174,6111,1365,6167"/>
+<area shape="rect" id="node275" href="$df/d3a/classIG_1_1Web_1_1WSBase.html" title="Base class for IGLib webservices." alt="" coords="879,4267,1002,4294"/>
+<area shape="rect" id="node278" href="$d8/dbb/classIG_1_1Web_1_1WSBaseClass.html" title="Base class for IGLib webservices." alt="" coords="863,2766,1018,2793"/>
+<area shape="rect" id="node276" href="$d6/d56/classIG_1_1Web_1_1WSDevelop.html" title="Web service class." alt="" coords="1201,2411,1338,2438"/>
+<area shape="rect" id="node277" href="$da/dbe/classIG_1_1Web_1_1WSDevelop1.html" title="Web service class." alt="" coords="1506,2361,1650,2387"/>
+<area shape="rect" id="node279" href="$d0/ddd/classIG_1_1Web_1_1WSDevelopClass.html" title="Web service class." alt="" coords="1184,2310,1355,2337"/>
+<area shape="rect" id="node280" href="$d4/d76/classIG_1_1Web_1_1WSDevelop1Class.html" title="Web service class." alt="" coords="1489,2310,1667,2337"/>
+<area shape="rect" id="node281" href="$d4/d11/interfaceIG_1_1Lib_1_1IInterpreter.html" title=" " alt="" coords="520,5766,728,5822"/>
+<area shape="rect" id="node282" href="$da/d2c/interfaceIG_1_1Lib_1_1IInterpreterCommand.html" title=" " alt="" coords="534,6174,714,6201"/>
+<area shape="rect" id="node283" href="$d8/d24/classIG_1_1Lib_1_1InterpreterCommandDataBase.html" title=" " alt="" coords="852,6243,1029,6284"/>
+<area shape="rect" id="node284" href="$d2/dc2/interfaceIG_1_1Lib_1_1IInterpreterCommandData.html" title=" " alt="" coords="240,7590,447,7617"/>
+<area shape="rect" id="node285" href="$d1/d62/classIG_1_1Lib_1_1CommandLineData.html" title="Holds execution data (command arguments ns result) for interpreter commands of the CommandLine type." alt="" coords="539,8389,709,8415"/>
+<area shape="rect" id="node286" href="$d0/de6/classIG_1_1Lib_1_1InterpreterCommandBase.html" title=" " alt="" coords="521,6790,727,6817"/>
+<area shape="rect" id="node287" title=" " alt="" coords="601,2813,647,2839"/>
+<area shape="rect" id="node288" href="$d0/db1/classIGLib_1_1Tests_1_1Base_1_1SampleClasses_1_1CustomList.html" title=" " alt="" coords="830,2868,1051,2909"/>
+<area shape="rect" id="node289" href="$d5/dc6/classMono_1_1Options_1_1OptionValueCollection.html" title=" " alt="" coords="851,2999,1030,3040"/>
+<area shape="rect" id="node290" href="$d1/d75/classNUnit_1_1TestUtilities_1_1Collections_1_1SimpleObjectList.html" title="SimpleObjectCollection is used in testing to ensure that only methods of the ICollection interface ar..." alt="" coords="841,2933,1040,2975"/>
+<area shape="rect" id="node291" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="549,18179,699,18206"/>
+<area shape="rect" id="node292" href="$db/dff/classIG_1_1App_1_1AppHashShell.html" title="Internal script for running embedded applications." alt="" coords="1195,19791,1343,19818"/>
+<area shape="rect" id="node293" href="$d1/dca/interfaceIG_1_1Lib_1_1ILoadableScriptC.html" title="Controllable loadable script, provides more control over loading and execution." alt="" coords="1190,18753,1349,18779"/>
+<area shape="rect" id="node296" href="$dc/d0c/classIG_1_1Script_1_1LoadableScriptShellNeuralBase.html" title="Base class for loadable scripts that are used as custom applications that inclued neural networks app..." alt="" coords="2045,18256,2207,18297"/>
+<area shape="rect" id="node297" href="$d1/d30/classIG_1_1Script_1_1LoadableScriptShellNeural.html" title="Base class for loadable scripts that are used as custom applications that inclued neural networks app..." alt="" coords="2305,18600,2467,18641"/>
+<area shape="rect" id="node298" href="$dc/d73/classIG_1_1Script_1_1NeuralTestScript.html" title=" " alt="" coords="2542,17239,2715,17266"/>
+<area shape="rect" id="node299" href="$d7/da8/classIG_1_1Script_1_1NeuralTestScriptShellExt.html" title=" " alt="" coords="2542,18997,2715,19039"/>
+<area shape="rect" id="node300" href="$dc/df5/classIG_1_1Script_1_1S__11__10__Clanek__Neural__Base.html" title=" " alt="" coords="2541,19497,2716,19539"/>
+<area shape="rect" id="node301" href="$d3/d9c/classIG_1_1Script_1_1S__11__10__clanek__neural__00.html" title=" " alt="" coords="2765,19507,2939,19548"/>
+<area shape="rect" id="node302" href="$d0/dee/classIG_1_1Script_1_1Script__11__10__clanek__neural__01.html" title=" " alt="" coords="2777,19589,2927,19631"/>
+<area shape="rect" id="node303" href="$de/d7f/classIG_1_1Script_1_1ScriptShellNeuralWithSimulatorManagers.html" title="Neural script class with added simulatior managers." alt="" coords="2540,18600,2717,18641"/>
+<area shape="rect" id="node304" href="$d8/dd6/classIG_1_1Script_1_1LoadableScriptShellNeuralITOriginalBase.html" title="Base class for loadable scripts that are used as custom applications that inclued neural networks app..." alt="" coords="2766,18991,2938,19032"/>
+<area shape="rect" id="node305" href="$d5/d3c/classIG_1_1Script_1_1LoadableScriptShellNeuralIT.html" title="Base class for loadable scripts that are used as custom applications that inclued neural networks app..." alt="" coords="2987,19215,3149,19256"/>
+<area shape="rect" id="node306" href="$de/d66/classIG_1_1Script_1_1S__12__01__Paper__NeuralOptCasting__00.html" title=" " alt="" coords="3211,19509,3381,19551"/>
+<area shape="rect" id="node307" href="$d5/d86/classIG_1_1Script_1_1S__12__01__Paper__NeuralOptCasting__IJS__00.html" title=" " alt="" coords="3207,19311,3385,19352"/>
+<area shape="rect" id="node308" href="$d0/d5a/classIG_1_1Script_1_1S__12__02__paper__neural__process__chain__model.html" title=" " alt="" coords="3197,19843,3395,19884"/>
+<area shape="rect" id="node309" href="$dd/d62/classIG_1_1Script_1_1S__12__03__paper__gk.html" title=" " alt="" coords="3202,19193,3390,19219"/>
+<area shape="rect" id="node310" href="$dd/dc3/classIG_1_1Script_1_1S__12__09__jmatpro.html" title="Script class for running JMatPro calculations and manipulating results." alt="" coords="3207,16923,3385,16950"/>
+<area shape="rect" id="node311" href="$d4/d91/classIG_1_1Script_1_1S__13__5__Convection.html" title=" " alt="" coords="3201,17697,3391,17723"/>
+<area shape="rect" id="node313" href="$d7/d15/classIG_1_1Lib_1_1LoadableScriptBase.html" title="Base class for classes that can be dynamically loadeded from scripts and run, which provides function..." alt="" coords="853,17334,1029,17361"/>
+<area shape="rect" id="node314" href="$d5/d05/classIG_1_1Lib_1_1LoadableScriptOptBase.html" title="Base class for loadable scripts for optimization problems. AGREEMENTS: The first argument to initiali..." alt="" coords="1171,16145,1368,16171"/>
+<area shape="rect" id="node317" href="$dc/d6c/classIG_1_1Script_1_1ScritpRealFunctionExample.html" title="Example script for definition of a new real function class." alt="" coords="1485,16648,1671,16689"/>
+<area shape="rect" id="node319" href="$d5/de0/classIG_1_1Script_1_1ScritpScalarFunctionExample.html" title="Example script for definition of a new real function class." alt="" coords="1479,18484,1677,18525"/>
+<area shape="rect" id="node320" href="$d4/d2e/classIG_1_1Script_1_1LoadableScriptExample.html" title="Example cls. for testing function of loadable scripts." alt="" coords="1188,16079,1351,16120"/>
+<area shape="rect" id="node321" href="$da/d52/classIG_1_1Script_1_1LoadableScriptSpecialFunctionBase.html" title="Base cls. for various special function loadable scripts." alt="" coords="1188,17293,1351,17335"/>
+<area shape="rect" id="node322" href="$de/dbd/classIG_1_1Script_1_1LoadableScriptScalarFunctionCreator.html" title=" " alt="" coords="1497,17767,1659,17808"/>
+<area shape="rect" id="node323" href="$d7/d3c/classIG_1_1Script_1_1S__TestExt1.html" title=" " alt="" coords="1197,16503,1342,16530"/>
+<area shape="rect" id="node324" href="$d0/d0a/classIG_1_1Script_1_1S__TestExt2.html" title=" " alt="" coords="1197,16554,1342,16581"/>
+<area shape="rect" id="node325" href="$db/d22/classIG_1_1Script_1_1S__TestExt3.html" title=" " alt="" coords="1197,16605,1342,16631"/>
+<area shape="rect" id="node326" href="$d7/df8/classIG_1_1Script_1_1S__TestNeural1.html" title=" " alt="" coords="1188,16655,1351,16682"/>
+<area shape="rect" id="node327" href="$db/d17/classIG_1_1Script_1_1S__TestNeural2.html" title=" " alt="" coords="1188,16706,1351,16733"/>
+<area shape="rect" id="node328" href="$d0/d81/classIG_1_1Script_1_1S__TestNeural3.html" title=" " alt="" coords="1188,16757,1351,16783"/>
+<area shape="rect" id="node329" href="$dc/da2/classIG_1_1Script_1_1S__TestOpt1.html" title=" " alt="" coords="1196,16807,1343,16834"/>
+<area shape="rect" id="node330" href="$d3/d90/classIG_1_1Script_1_1S__TestOpt2.html" title=" " alt="" coords="1196,17010,1343,17037"/>
+<area shape="rect" id="node331" href="$d5/d1c/classIG_1_1Script_1_1S__TestOpt3.html" title=" " alt="" coords="1196,17061,1343,17087"/>
+<area shape="rect" id="node332" href="$d1/daf/classIG_1_1Script_1_1S__TestShellExt1.html" title=" " alt="" coords="1182,17111,1357,17138"/>
+<area shape="rect" id="node333" href="$dc/dce/classIG_1_1Script_1_1Scrip__OdeChem.html" title="Script for testing systems of ordinary differential equations and chemical reactions." alt="" coords="1183,17555,1355,17582"/>
+<area shape="rect" id="node334" href="$d4/de2/classIG_1_1Script_1_1Script2.html" title=" " alt="" coords="1210,17673,1329,17699"/>
+<area shape="rect" id="node335" href="$d9/d99/classIG_1_1Script_1_1Script__Examples.html" title=" " alt="" coords="1181,17723,1357,17750"/>
+<area shape="rect" id="node336" href="$d9/d8e/classIG_1_1Script_1_1Script__Misc.html" title=" " alt="" coords="1196,17774,1343,17801"/>
+<area shape="rect" id="node337" href="$d6/db3/classIG_1_1Script_1_1Script__Numeric.html" title=" " alt="" coords="1186,17825,1353,17851"/>
+<area shape="rect" id="node338" href="$d4/daf/classIG_1_1Script_1_1Script__Optimization.html" title=" " alt="" coords="1174,17875,1365,17902"/>
+<area shape="rect" id="node339" href="$d3/d43/classIG_1_1Script_1_1ScriptExtExamples.html" title=" " alt="" coords="1175,16858,1364,16885"/>
+<area shape="rect" id="node340" href="$db/d76/classIG_1_1Script_1_1ScriptExtExamplesExt.html" title=" " alt="" coords="1473,16499,1683,16526"/>
+<area shape="rect" id="node341" href="$d0/d68/classIG_1_1Script_1_1ScriptExtFormats.html" title=" " alt="" coords="1180,17926,1359,17953"/>
+<area shape="rect" id="node342" href="$d9/d71/classIG_1_1Script_1_1ScriptExtNumeric.html" title=" " alt="" coords="1180,17977,1359,18003"/>
+<area shape="rect" id="node343" href="$d4/d97/classIG_1_1Script_1_1ScriptExtTemplate.html" title="A template script for running tests." alt="" coords="1177,18027,1361,18054"/>
+<area shape="rect" id="node344" href="$d4/d8c/classIG_1_1Script_1_1ScriptGraphics2dBase.html" title="Base class for script classes with 2D graphics examples." alt="" coords="1166,18078,1373,18105"/>
+<area shape="rect" id="node345" href="$d2/d7e/classIG_1_1Script_1_1ScriptGraphics3DBase.html" title="Base class for script classes with graphics examples." alt="" coords="1184,17424,1355,17465"/>
+<area shape="rect" id="node346" href="$d8/d0d/classIG_1_1Script_1_1ScriptExtGraphics3d.html" title="Script class with graphics examples." alt="" coords="1479,18550,1677,18577"/>
+<area shape="rect" id="node347" href="$d6/d3b/classIG_1_1Script_1_1ScriptNeuralExamples.html" title=" " alt="" coords="1166,18129,1373,18155"/>
+<area shape="rect" id="node348" href="$d0/dd5/classIG_1_1Script_1_1ScriptNeuralTemplate.html" title="A template script for running tests." alt="" coords="1169,18179,1370,18206"/>
+<area shape="rect" id="node349" href="$db/d60/classIG_1_1Script_1_1ScriptOptTemplate.html" title="A template script for running tests." alt="" coords="1177,18483,1362,18510"/>
+<area shape="rect" id="node350" href="$df/d2d/classIG_1_1Script_1_1ScriptOptTemplateExt.html" title="A template script for running tests." alt="" coords="1475,18651,1681,18678"/>
+<area shape="rect" id="node351" href="$d8/dda/classIG_1_1Script_1_1TestClass1.html" title=" " alt="" coords="1198,18230,1341,18257"/>
+<area shape="rect" id="node352" href="$de/dec/classIG_1_1Script_1_1TestIglibExt__ToDelete.html" title="Base class for script classes with graphics examples." alt="" coords="1197,17163,1342,17204"/>
+<area shape="rect" id="node353" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="875,19817,1006,19843"/>
+<area shape="rect" id="node354" href="$d5/dc1/classIG_1_1Script_1_1AppEmbeddedCryptoIGShell.html" title="Embedded script class for cryptographic utilities such as calculation and verification of file hashes..." alt="" coords="1169,18585,1369,18627"/>
+<area shape="rect" id="node355" href="$d0/dec/classIG_1_1Script_1_1AppExtBase.html" title="Internal script for running embedded applications." alt="" coords="1194,19107,1345,19134"/>
+<area shape="rect" id="node356" href="$d9/d4e/classIG_1_1Script_1_1AppIgorGresovnik.html" title="Internal script for running embedded applications." alt="" coords="1489,18702,1667,18729"/>
+<area shape="rect" id="node357" href="$dc/de4/classIG_1_1Script_1_1AppMarkoEmbeddedTest.html" title="Test embedded script class, used to demonstrate how nested embedded scripts can be run by the main sc..." alt="" coords="1747,18567,1970,18594"/>
+<area shape="rect" id="node358" href="$dd/d51/classIG_1_1Script_1_1AppMarkoPetek.html" title="Internal script for running embedded applications." alt="" coords="1773,18702,1944,18729"/>
+<area shape="rect" id="node359" href="$dd/d84/classIG_1_1Script_1_1AppMarkoPetekDerivedScript.html" title="Tells to the interpreter, which custom classes are available." alt="" coords="2020,18984,2232,19025"/>
+<area shape="rect" id="node360" href="$d0/d8c/classIG_1_1Script_1_1AppMarkoPetekExt.html" title="Internal script for running EXTENDED embedded applications." alt="" coords="2031,18673,2221,18699"/>
+<area shape="rect" id="node361" href="$db/d4d/classIG_1_1Script_1_1AppMarkoPetekDerivedScriptExt.html" title="Tells to the interpreter, which custom classes are available." alt="" coords="2280,18665,2492,18707"/>
+<area shape="rect" id="node362" href="$da/d0b/classIG_1_1Script_1_1AppShellExt.html" title="Internal script for running embedded applications." alt="" coords="1503,19158,1653,19185"/>
+<area shape="rect" id="node363" href="$df/d21/classIG_1_1Script_1_1AppShellExtExt.html" title="Internal script for running embedded applications." alt="" coords="1493,19209,1663,19235"/>
+<area shape="rect" id="node364" href="$d2/df3/classIG_1_1Script_1_1AppTestShell.html" title="Internal script for running embedded applications." alt="" coords="1501,19107,1655,19134"/>
+<area shape="rect" id="node365" href="$d4/dfe/classIG_1_1Script_1_1AppTestShellExt.html" title="Internal script for running embedded applications." alt="" coords="1771,18981,1946,19007"/>
+<area shape="rect" id="node366" href="$db/d07/classIG_1_1Script_1_1AppIgorForFerdo.html" title="Internal script for running embedded applications." alt="" coords="1183,19969,1356,19995"/>
+<area shape="rect" id="node367" href="$d9/d52/classIG_1_1Script_1_1AppFerdo.html" title="Internal script for running embedded applications." alt="" coords="1511,19969,1645,19995"/>
+<area shape="rect" id="node368" href="$d5/d77/classIG_1_1Script_1_1AppIGShell.html" title="Internal script for running embedded applications." alt="" coords="1198,19855,1341,19882"/>
+<area shape="rect" id="node369" href="$dc/d40/classIG_1_1Script_1_1ScriptAppIgBaseExt.html" title="Internal script interpreter for running embedded applications." alt="" coords="1172,19006,1367,19033"/>
+<area shape="rect" id="node370" href="$d4/de8/classIG_1_1Script_1_1ScriptAppIGShell.html" title="Internal script for running embedded applications." alt="" coords="1490,18955,1666,18982"/>
+<area shape="rect" id="node294" href="$d7/d31/classIG_1_1Lib_1_1LoadableScriptOptShellBaseControllable.html" title="Controllable version of LoadableScriptOptBase, implements the ILoadableScriptC interface." alt="" coords="1495,16068,1661,16109"/>
+<area shape="rect" id="node295" href="$d6/d59/classIG_1_1Lib_1_1LoadableScriptShellBase.html" title="Loadable script base class for the shell application that includes tols for definition of optiimizati..." alt="" coords="1756,18230,1961,18257"/>
+<area shape="rect" id="node312" href="$d1/dd3/classIG_1_1Script_1_1S__13__7__ConvectionRev1.html" title=" " alt="" coords="3443,17697,3661,17723"/>
+<area shape="rect" id="node316" href="$d0/d74/classIG_1_1Lib_1_1LoadableScriptRealFunctionBase.html" title="Base class for loadable scripts that define real functions of one variable." alt="" coords="1183,17228,1355,17269"/>
+<area shape="rect" id="node318" href="$d7/dba/classIG_1_1Lib_1_1LoadableScriptScalarFunctionBase.html" title="Base class for loadable scripts that define scalar functions of several variables." alt="" coords="1178,17359,1361,17400"/>
+<area shape="rect" id="node315" href="$d2/dae/classIG_1_1Lib_1_1LoadableScriptOptTest_1_1LoadableScriptOptDerived.html" title=" " alt="" coords="1478,16133,1678,16175"/>
+<area shape="rect" id="node371" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="567,11686,681,11713"/>
+<area shape="rect" id="node372" href="$d1/d9a/classIG_1_1Gr3d_1_1VtkDecorationHandler.html" title="Manipulates axes, labels, grids, and other decorations of graphhics plotted in VTK windows." alt="" coords="842,14445,1039,14471"/>
+<area shape="rect" id="node373" href="$d1/d77/classIG_1_1Lib_1_1ApplicationBase.html" title="Base class for all application classes. Provides some basic functionality such as keeping information..." alt="" coords="1192,14951,1347,14978"/>
+<area shape="rect" id="node385" href="$d5/d2f/classIG_1_1Lib_1_1Copy_1_1ClienServerStreamBase.html" title="Base class for client and server classes with stream&#45;based communication." alt="" coords="825,14749,1056,14775"/>
+<area shape="rect" id="node386" href="$db/d41/classIG_1_1Lib_1_1Copy_1_1ClientServerStreamBase2.html" title="Base class for named pipe servers and clients, contains common stuff for both." alt="" coords="1188,14749,1351,14791"/>
+<area shape="rect" id="node387" href="$d2/d6f/classIG_1_1Lib_1_1Copy_1_1ClientStreamBase.html" title="Client to the pipe server (classes derived from ClientServerStreamBase2)." alt="" coords="1479,14698,1677,14725"/>
+<area shape="rect" id="node388" href="$d7/d21/classIG_1_1Lib_1_1Copy_1_1NamedPipeClientBase.html" title="Client to the pipe server (classes derived from ClientServerStreamBase2)." alt="" coords="1747,14673,1971,14699"/>
+<area shape="rect" id="node389" href="$de/dc2/classIG_1_1Lib_1_1Copy_1_1ServerStreamBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1477,14749,1679,14775"/>
+<area shape="rect" id="node390" href="$dc/dc6/classIG_1_1Lib_1_1Copy_1_1NamedPipeServerBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1745,14774,1972,14801"/>
+<area shape="rect" id="node391" href="$d9/d82/classIG_1_1Lib_1_1CsvData.html" title="Memory representation of CSV data." alt="" coords="1215,10234,1323,10261"/>
+<area shape="rect" id="node392" href="$d1/d14/classIG_1_1Lib_1_1IdGenerator.html" title="Utility class for generaton of unique IDs for objects of specific type. IDs generated by calls of Get..." alt="" coords="877,10739,1004,10766"/>
+<area shape="rect" id="node393" href="$df/d82/classIG_1_1Lib_1_1ObjectRegister.html" title="Provides implementation of register of objects of the specified type. Also generates unique IDs for o..." alt="" coords="1181,10765,1358,10791"/>
+<area shape="rect" id="node394" href="$d8/dff/interfaceIG_1_1Lib_1_1ILoadableScriptInterpreter.html" title="Interface for interpreters that can install commands from loadable scripts and run them." alt="" coords="837,10841,1044,10867"/>
+<area shape="rect" id="node396" href="$d1/dec/classIG_1_1Lib_1_1InterfaceInterpreterBase.html" title="Base class for interfaces with interpreters." alt="" coords="842,10993,1039,11019"/>
+<area shape="rect" id="node397" href="$dc/dd2/classIG_1_1Lib_1_1InterfaceInverse.html" title="Interface for Inverse Interpreter." alt="" coords="1195,10898,1344,10925"/>
+<area shape="rect" id="node398" href="$dc/d3a/classIG_1_1Lib_1_1TemporaryInterfaceInvAn.html" title="Interface for Inverse Interpreter." alt="" coords="1184,10963,1355,11004"/>
+<area shape="rect" id="node399" href="$d1/d4b/classIG_1_1Lib_1_1TemporaryInterfaceInvAn__Temp__For__Testing.html" title="Interface for Inverse Interpreter." alt="" coords="1184,11032,1355,11073"/>
+<area shape="rect" id="node400" href="$da/d66/classIG_1_1Lib_1_1IpcStreamClientBase.html" title="Client to the pipe server (classes derived from IpcStreamClientServerBase2)." alt="" coords="1487,11297,1669,11323"/>
+<area shape="rect" id="node401" href="$d3/d53/classIG_1_1Lib_1_1NamedPipeClientBase.html" title="Client to the pipe server (classes derived from IpcStreamClientServerBase2)." alt="" coords="1763,11246,1954,11273"/>
+<area shape="rect" id="node403" href="$df/d28/classIG_1_1Lib_1_1PipeClientBase.html" title="Client to the pipe server (classes derived from IpcStreamClientServerBase2)." alt="" coords="1784,11347,1933,11374"/>
+<area shape="rect" id="node404" href="$d5/dd9/classIG_1_1Lib_1_1IpcStreamClientServerBase.html" title="Base class for client and server classes with stream&#45;based communication." alt="" coords="831,11094,1050,11121"/>
+<area shape="rect" id="node405" href="$da/d2c/classIG_1_1Lib_1_1IpcStreamClientServerBase2.html" title="Base class for named pipe servers and clients, contains common stuff for both." alt="" coords="1175,11111,1363,11152"/>
+<area shape="rect" id="node406" href="$d1/d4d/classIG_1_1Lib_1_1IpcStreamServerBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1485,10689,1671,10715"/>
+<area shape="rect" id="node407" href="$d3/d6a/classIG_1_1Lib_1_1NamedPipeServerBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1762,10677,1955,10703"/>
+<area shape="rect" id="node409" href="$d9/db5/classIG_1_1Lib_1_1PipeServerBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1783,10613,1935,10639"/>
+<area shape="rect" id="node410" href="$de/d1e/interfaceIG_1_1Lib_1_1IWaitCondition.html" title="Interface for classes that implement blocking until a specified condition is met." alt="" coords="869,12103,1013,12130"/>
+<area shape="rect" id="node411" href="$d2/d48/interfaceIG_1_1Lib_1_1IWaitFileEvent.html" title="Interface for classes that provide waiting for specific file events (such as ceration or deletion of ..." alt="" coords="1198,12053,1341,12079"/>
+<area shape="rect" id="node412" href="$d5/d42/classIG_1_1Lib_1_1WaitFileEventBase.html" title="Base class for classes that provide blocking until a file or directory is created/removed." alt="" coords="1493,11901,1663,11927"/>
+<area shape="rect" id="node418" href="$dd/d05/classIG_1_1Lib_1_1WaitFileEventBaseByProxy.html" title="Base class for classes that provide blocking until a file or directory is created/removed...." alt="" coords="1773,11952,1944,11993"/>
+<area shape="rect" id="node423" href="$df/d44/classIG_1_1Lib_1_1WaitFileEventBaseByProxyLatence.html" title="Base class for classes that provide blocking until a file or directory is created/removed...." alt="" coords="1493,11952,1663,11993"/>
+<area shape="rect" id="node429" href="$da/d67/classIG_1_1Lib_1_1WaitCondition.html" title="Provides a framework for blocking execution until the specified condition becomes satisfied...." alt="" coords="1507,12170,1649,12197"/>
+<area shape="rect" id="node430" href="$df/dea/classIG_1_1Lib_1_1WaitConditionBase.html" title="Base class for objects that perform waiting until a condition is fulfilled." alt="" coords="1184,12002,1355,12029"/>
+<area shape="rect" id="node431" href="$d4/d2a/classIG_1_1Lib_1_1MathematicaInterface.html" title="Interface with Mathematica." alt="" coords="849,15255,1033,15282"/>
+<area shape="rect" id="node432" href="$db/dc7/classIG_1_1Lib_1_1Module.html" title="General module (or library) management class, a base class for specific module classes...." alt="" coords="889,15002,992,15029"/>
+<area shape="rect" id="node434" href="$d7/d24/classIG_1_1Lib_1_1ObjectStore.html" title="Object store. Objects of the specified type can be stored here for later reuse (efficiency improvemen..." alt="" coords="861,15357,1021,15383"/>
+<area shape="rect" id="node435" href="$d9/dd3/classIG_1_1Num_1_1MatrixStore.html" title="Matrix store." alt="" coords="1185,14495,1353,14522"/>
+<area shape="rect" id="node436" href="$d8/d28/classIG_1_1Num_1_1VectorStore.html" title="Vector store." alt="" coords="1184,14394,1355,14421"/>
+<area shape="rect" id="node437" href="$dd/da6/classIG_1_1Lib_1_1opt_1_1opttest_1_1ParticlePotentialProblem.html" title="Base class for the charged particle potential problem." alt="" coords="855,10201,1026,10243"/>
+<area shape="rect" id="node438" href="$da/d16/classIG_1_1Lib_1_1RealFunctionLoader.html" title="Dynamically generates IRealFunction classes from user definitions. User can define in string form how..." alt="" coords="853,10267,1028,10294"/>
+<area shape="rect" id="node439" href="$dd/d37/classIG_1_1Lib_1_1ScalarFunctionLoader.html" title="Dynamically generates IScalarFunction classes from user definitions. User can define in string form h..." alt="" coords="847,10318,1034,10345"/>
+<area shape="rect" id="node440" href="$d3/d40/classIG_1_1Lib_1_1ScriptLoaderBase.html" title="Dynamically compiles, loads and instantiates classes of type ILoadableScript from files or from strin..." alt="" coords="859,14059,1022,14086"/>
+<area shape="rect" id="node441" href="$d3/dc9/classIG_1_1Lib_1_1ScriptLoaderIGLib.html" title="Base script loader class for IGLib." alt="" coords="1188,13563,1351,13590"/>
+<area shape="rect" id="node442" href="$d5/d5b/classIG_1_1Lib_1_1ScriptLoaderIGLib_1_1ScriptLoaderTest.html" title="ScriptLoader used for testing." alt="" coords="1495,13505,1661,13547"/>
+<area shape="rect" id="node443" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title="Auxiliary base class for DTOs, contains some static methods. Provided for simplicity,..." alt="" coords="865,15306,1016,15333"/>
+<area shape="rect" id="node444" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title="Generic base class for Data Transfer Objects (DTO). This class is used as template for producing conc..." alt="" coords="1179,12391,1360,12432"/>
+<area shape="rect" id="node447" href="$d0/d56/classIG_1_1Lib_1_1SerializationDtoTypedBase_1_1SerializationDtoTyped.html" title=" " alt="" coords="818,20457,1063,20513"/>
+<area shape="rect" id="node448" href="$dc/d76/classIG_1_1Lib_1_1SettingsReaderBase.html" title=" " alt="" coords="851,8079,1030,8106"/>
+<area shape="rect" id="node451" href="$da/d2a/classIG_1_1Lib_1_1SortedUniqueItemList.html" title="Sorted list of unique items. It is guaranteed that at all times the list of containing items is sorte..." alt="" coords="849,10420,1033,10461"/>
+<area shape="rect" id="node452" href="$dd/d86/classIG_1_1Lib_1_1StringSettings.html" title=" " alt="" coords="1198,12697,1341,12723"/>
+<area shape="rect" id="node453" href="$d1/d01/classIG_1_1Lib_1_1StringTable.html" title="2D tables of data represented by strings. Maps to CSV files." alt="" coords="878,10369,1003,10395"/>
+<area shape="rect" id="node455" href="$dc/d9f/classIG_1_1Lib_1_1StringVariableSystem.html" title="A lightweight system of string&#45;valued variables, with some support to type conversion." alt="" coords="847,12671,1034,12698"/>
+<area shape="rect" id="node456" href="$d5/de7/classIG_1_1Neural_1_1NeuraApproximationFileManager.html" title="File manager for neural network approximation file client and server." alt="" coords="842,12773,1039,12815"/>
+<area shape="rect" id="node458" href="$da/d91/classIG_1_1Neural_1_1NeuralApproximatorAforge.html" title="Approximator of response by using neural networks, based on the AforgeDotNet library...." alt="" coords="1481,15844,1675,15885"/>
+<area shape="rect" id="node459" href="$df/d4d/classIG_1_1Neural_1_1NeuralApproximatorBaseExt.html" title="Base class for neural network approximators." alt="" coords="1481,15779,1675,15820"/>
+<area shape="rect" id="node460" href="$db/d11/classIG_1_1Neural_1_1NeuralApproximatorNeuron.html" title="Approximator of response by using neural networks, based on the NeuronDotNet library...." alt="" coords="1481,15713,1675,15755"/>
+<area shape="rect" id="node461" href="$d1/d33/classIG_1_1Neural_1_1NeuralTrainingResultsPlotter.html" title="Plotter class for neural training results." alt="" coords="859,12839,1022,12880"/>
+<area shape="rect" id="node462" href="$dd/d15/classIG_1_1Neural_1_1NeuralTrainingTablePlotter.html" title="Plotter class for neural training results." alt="" coords="1188,12868,1351,12909"/>
+<area shape="rect" id="node463" href="$d2/d0d/classIG_1_1Neural_1_1NeuralTrainingResultsPlotter1.html" title=" " alt="" coords="859,11449,1022,11491"/>
+<area shape="rect" id="node464" href="$dd/da4/classIG_1_1Num_1_1ApproximationLeastSquaresBase.html" title="Base class for least squares approximation and various derived methods." alt="" coords="848,11515,1033,11556"/>
+<area shape="rect" id="node465" href="$df/de1/classIG_1_1Num_1_1CholeskyDecomposition.html" title="Cholesky decomposition of a matrix. Available for symmetric positive definite matrices." alt="" coords="1164,13057,1375,13083"/>
+<area shape="rect" id="node466" href="$d9/dae/classIG_1_1Num_1_1ConvectionRobertFileManager.html" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="1173,8532,1365,8573"/>
+<area shape="rect" id="node468" href="$d7/d07/classIG_1_1Num_1_1NafemsTestRoberrFileManager.html" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="1479,8476,1677,8517"/>
+<area shape="rect" id="node469" href="$dd/d87/classIG_1_1Num_1_1EigenValueDecomposition.html" title="Eigenvalue decomposition of a matrix." alt="" coords="1158,13006,1381,13033"/>
+<area shape="rect" id="node470" href="$d1/ddc/classIG_1_1Num_1_1GridGenerator1d.html" title="Generates 1D grids with equidistant or geometrically grown intervals." alt="" coords="1495,13259,1661,13286"/>
+<area shape="rect" id="node471" href="$d5/de2/classIG_1_1Num_1_1GridGenerator1dBase.html" title="Base class for 1D grid generators." alt="" coords="1172,13310,1367,13337"/>
+<area shape="rect" id="node472" href="$d8/d06/classIG_1_1Num_1_1GridGenerator1dFunc.html" title="Generates 1D grids with equidistant or geometrically grown intervals." alt="" coords="1481,13361,1675,13387"/>
+<area shape="rect" id="node473" href="$d5/d2d/interfaceIG_1_1Num_1_1IGridGenerator1d.html" title="Interface for 1d grid generators." alt="" coords="857,13361,1025,13387"/>
+<area shape="rect" id="node474" href="$da/d85/interfaceIG_1_1Num_1_1ILinearSolver.html" title="Classes that can be used for solution of linear systems of equations." alt="" coords="869,13158,1012,13185"/>
+<area shape="rect" id="node475" href="$db/dc0/classIG_1_1Num_1_1LUDecomposition.html" title="LU decomposition of a matrix." alt="" coords="1183,13107,1355,13134"/>
+<area shape="rect" id="node476" href="$d3/d52/classIG_1_1Num_1_1QRDecomposition.html" title="QR decomposition of a matrix." alt="" coords="1182,13158,1357,13185"/>
+<area shape="rect" id="node477" href="$d5/de5/classIG_1_1Num_1_1SingularValueDecomposition.html" title="Singular value decomposition of a matrix." alt="" coords="1151,13209,1387,13235"/>
+<area shape="rect" id="node478" href="$d7/db4/interfaceIG_1_1Num_1_1INeuralApproximator.html" title="Approximator of response by using neural networks. $A Igor Mar11;" alt="" coords="847,15677,1034,15703"/>
+<area shape="rect" id="node479" href="$dc/db5/classIG_1_1Num_1_1NeuralApproximatorBase.html" title="Base class for neural network approximators." alt="" coords="1162,15843,1377,15870"/>
+<area shape="rect" id="node481" href="$dd/d98/interfaceIG_1_1Num_1_1IOptimizer.html" title="Interface for optimization algorithms. $A Igor Feb10;" alt="" coords="876,14161,1005,14187"/>
+<area shape="rect" id="node483" href="$da/d06/interfaceIG_1_1Num_1_1IVectorFunction.html" title="Vector function of a vector argument." alt="" coords="860,14110,1021,14137"/>
+<area shape="rect" id="node484" href="$da/d4f/classIG_1_1Num_1_1LinearBasis.html" title="Vector function containing lineer basis in a n&#45;dimensional vector space. Composed of n+1 functions: 1..." alt="" coords="1789,14191,1928,14218"/>
+<area shape="rect" id="node486" href="$d2/de4/classIG_1_1Num_1_1QuadraticBasis.html" title="Vector function containing quadratic basis in a n&#45;dimensional vector space. Composed of (n+1)*(n+2)/2..." alt="" coords="1779,14242,1938,14269"/>
+<area shape="rect" id="node488" href="$da/de7/classIG_1_1Num_1_1VectorFunctionBase.html" title="Base class for defining Vector functions whose evaluation is defined in bulk, and evaluation of indiv..." alt="" coords="1484,13935,1672,13962"/>
+<area shape="rect" id="node490" href="$dc/df8/classIG_1_1Num_1_1VectorFunctionBaseComponentWise.html" title="Base class for defining Vector functions whose component&#45;wise evaluation is defined directly." alt="" coords="1484,14125,1672,14167"/>
+<area shape="rect" id="node492" href="$dc/d23/classIG_1_1Num_1_1VectorFunctionBaseGeneral.html" title="Base class for VectorFunctionBase and VectorFunctionBaseComponentwise. In general,..." alt="" coords="1175,13957,1363,13999"/>
+<area shape="rect" id="node493" href="$d2/d4a/classIG_1_1Num_1_1NeuralTrainingTable.html" title="Contains Parameters that define neural network architecture and trainig limits, together with achieve..." alt="" coords="849,12322,1032,12349"/>
+<area shape="rect" id="node494" href="$d1/d56/classIG_1_1Num_1_1OptFileAnalysisServer.html" title="File analysis server. Performs direct analyses by request." alt="" coords="841,12373,1040,12399"/>
+<area shape="rect" id="node495" href="$d2/d92/classIG_1_1Num_1_1OptFileManager.html" title="Performs elementary operations for optimization and analysis servers and clients that exchange data a..." alt="" coords="859,12423,1022,12450"/>
+<area shape="rect" id="node496" href="$d7/d5e/classIG_1_1Num_1_1PenaltyEvaluator.html" title="Evaluation of penalty functions." alt="" coords="857,7714,1024,7741"/>
+<area shape="rect" id="node497" href="$db/d30/classIG_1_1Num_1_1PointCloud.html" title="Cloud of points, contains a list of containers of objects that include point coordinates." alt="" coords="869,12525,1012,12581"/>
+<area shape="rect" id="node498" href="$dd/dfc/classIG_1_1Num_1_1PointCloudSampledDataElement.html" title="Cloud of points where each point is represented by the IVector object, contains a list of containers ..." alt="" coords="849,7765,1033,7807"/>
+<area shape="rect" id="node499" href="$d2/d78/classIG_1_1Num_1_1PointCloudVector.html" title="Cloud of points where each poinr is represented by the IVector object, contains a list of containers ..." alt="" coords="855,7882,1026,7909"/>
+<area shape="rect" id="node500" href="$d7/deb/classIG_1_1Num_1_1PointContainer.html" title="Container class that contains a single point plus all the data that are necessary for searching and r..." alt="" coords="863,7933,1018,7989"/>
+<area shape="rect" id="node501" href="$de/d1a/classIG_1_1Num_1_1PointContainerSampledDataElement.html" title="Container class that contains a single vector point plus all the data that are necessary for searchin..." alt="" coords="837,20537,1044,20579"/>
+<area shape="rect" id="node502" href="$da/d17/classIG_1_1Num_1_1PointContainerVector.html" title="Container class that contains a single vector point plus all the data that are necessary for searchin..." alt="" coords="844,20603,1037,20630"/>
+<area shape="rect" id="node503" href="$d1/da1/classIG_1_1Num_1_1PointLink.html" title="Contains a pointer (link) to another point container." alt="" coords="830,13767,1051,13808"/>
+<area shape="rect" id="node504" href="$d0/de0/classIG_1_1Num_1_1ResponseEvaluatorWithStorageAnalysis.html" title="Base class for response evaluators where response is evaluated by objects of type IAnalysis ." alt="" coords="850,8013,1031,8055"/>
+<area shape="rect" id="node505" href="$df/d15/classIG_1_1Num_1_1ResponseEvaluatorWithStorageBase.html" title="Base class for a variety of response evaluators. Calculates response at specific parameters,..." alt="" coords="843,13833,1038,13889"/>
+<area shape="rect" id="node506" href="$d1/d3a/classIG_1_1Num_1_1ResponseEvaluatorWithStorageVector.html" title="Base class for response evaluators where response is evaluated by objects of type IAnalysis ." alt="" coords="850,8196,1031,8237"/>
+<area shape="rect" id="node507" href="$dc/d64/classIG_1_1Num_1_1ResponseTab1dGeneric.html" title=" " alt="" coords="837,13913,1045,13955"/>
+<area shape="rect" id="node508" href="$db/d96/classIG_1_1Num_1_1SamplerBase.html" title="Base class for sampling classes that produce a desired number of sampling points with a particular ar..." alt="" coords="867,20121,1015,20147"/>
+<area shape="rect" id="node513" href="$df/d43/classIG_1_1Num_1_1SimCastingRobertFileManager.html" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="843,8532,1039,8573"/>
+<area shape="rect" id="node514" href="$da/dcc/classIG_1_1Num_1_1SimJMatProFileManager4__0.html" title="File manager for interfacing the JMatPro software version 4.0." alt="" coords="1153,14343,1386,14370"/>
+<area shape="rect" id="node515" href="$de/d59/classIG_1_1Num_1_1SimJMatProFileManagerBase.html" title="File manager for interfacing the JMatPro software." alt="" coords="819,14394,1062,14421"/>
+<area shape="rect" id="node516" href="$d9/dfc/classIG_1_1Num_1_1SimKosecFileManagerBase.html" title="File manager for interfacing (for optimization purposes) the simulation code of Gregor Kosec." alt="" coords="825,8649,1056,8675"/>
+<area shape="rect" id="node517" href="$df/dee/classIG_1_1Num_1_1SimKosecFileManagerConvBase.html" title="Base class for interface with simulator of G. Kosec for convection problems in a cave with obstacles." alt="" coords="1169,8633,1370,8675"/>
+<area shape="rect" id="node518" href="$d3/d50/classIG_1_1Num_1_1SimKosecFileManagerConv2.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 2 obstacles." alt="" coords="1477,8624,1679,8665"/>
+<area shape="rect" id="node519" href="$d4/d0f/classIG_1_1Num_1_1SimKosecFileManagerConv3.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 3 obstacles." alt="" coords="1477,8689,1679,8731"/>
+<area shape="rect" id="node520" href="$db/d03/classIG_1_1Num_1_1VectorApproximatorBase.html" title="Base class for vector function approximators." alt="" coords="833,15997,1048,16023"/>
+<area shape="rect" id="node521" href="$d9/d3d/classIG_1_1NumExperimental_1_1ResponseEvaluatorWithStorageAnalysis.html" title="Base class for response evaluators where response is evaluated by objects of type IAnalysis ." alt="" coords="839,8364,1043,8405"/>
+<area shape="rect" id="node522" href="$dc/dc7/classIG_1_1NumExperimental_1_1ResponseEvaluatorWithStorageBase.html" title="Base class for a variety of response evaluators. Calculates response at specific parameters,..." alt="" coords="839,13979,1043,14035"/>
+<area shape="rect" id="node523" href="$d7/dff/classIG_1_1NumExperimental_1_1ResponseEvaluatorWithStorageVector.html" title="Base class for response evaluators where response is evaluated by objects of type IAnalysis ." alt="" coords="839,9105,1043,9147"/>
+<area shape="rect" id="node524" href="$d7/db4/classIG_1_1Plot2d_1_1GraphBase.html" title="Graph data &amp; control class." alt="" coords="1197,11271,1342,11298"/>
+<area shape="rect" id="node525" href="$de/d26/interfaceIG_1_1Plot2d_1_1IGraph.html" title="Interface for graph plotting objects." alt="" coords="881,11246,1000,11273"/>
+<area shape="rect" id="node526" href="$da/dad/classIG_1_1Reflection_1_1DerivedTypesRegistry.html" title="Registry of type data for types derived from BaseType ." alt="" coords="837,14212,1045,14253"/>
+<area shape="rect" id="node527" href="$d9/d0d/classIG_1_1Web_1_1WebServiceLauncher.html" title="Generic class for launching web services." alt="" coords="845,14277,1037,14319"/>
+<area shape="rect" id="node374" href="$d0/da7/classIG_1_1App_1_1ApplicationIgShellBase.html" title="Application class for the IGLib&#39;s shell application." alt="" coords="1479,14850,1677,14877"/>
+<area shape="rect" id="node376" href="$d9/def/classIG_1_1Forms_1_1AppTestForms.html" title="Test application for forms. Usage: AppTestForms.Init()." alt="" coords="1495,15331,1661,15358"/>
+<area shape="rect" id="node377" href="$d1/ddf/classIG_1_1Lib_1_1AppTest.html" title=" " alt="" coords="1524,15382,1632,15409"/>
+<area shape="rect" id="node378" href="$d9/df0/classIG_1_1Neural_1_1Applications_1_1AnnApp.html" title="Application class for the current application." alt="" coords="1477,14901,1679,14927"/>
+<area shape="rect" id="node379" href="$d6/d7b/classIG_1_1Neural_1_1Applications_1_1NeuralParametric.html" title="Application class for the current application." alt="" coords="1482,14952,1674,14993"/>
+<area shape="rect" id="node380" href="$df/d93/classIG_1_1Neural_1_1Applications_1_1NeurApp.html" title="Application class for the current application." alt="" coords="1475,15018,1681,15045"/>
+<area shape="rect" id="node381" href="$d8/d68/classIG_1_1Test_1_1ProgramTestIgor_1_1ExtShellApp.html" title="Application class for the current application." alt="" coords="1495,15069,1661,15111"/>
+<area shape="rect" id="node382" href="$d4/d54/classIG_1_1Test_1_1ProgramTestIgorIT_1_1ExtShellApp.html" title="Application class for the current application." alt="" coords="1489,15135,1667,15176"/>
+<area shape="rect" id="node383" href="$d4/dbc/classTestOpt_1_1IGLibShellExtMainProgram_1_1IGLibShellExtApp.html" title="Application class for the current application (IGLib Extended Shell Application, igsx)." alt="" coords="1489,15200,1667,15241"/>
+<area shape="rect" id="node384" href="$d3/d78/classTestOpt_1_1IGLibShellMainProgram_1_1IGLibShellApp.html" title="Application class for the current application (IGLib Shell Application, igs)." alt="" coords="1472,15265,1684,15307"/>
+<area shape="rect" id="node375" href="$d1/d72/classIG_1_1App_1_1ApplicationIgShell.html" title="Application class for the IGLib&#39;s shell application IGShell (with executable igs.exe)." alt="" coords="1774,14850,1943,14877"/>
+<area shape="rect" id="node395" href="$d6/d7c/classIG_1_1Lib_1_1LoadableScriptInterpreterBase.html" title="Interpreter that can install commands from dynamically loaded (compiled) scripts and run them...." alt="" coords="1152,10841,1387,10867"/>
+<area shape="rect" id="node402" href="$df/d39/classIG_1_1Lib_1_1CommandLineApplicationInterpreter_1_1InterpreterPipeClient.html" title="Client to the interpreter pipe server (classes derived from InterpreterPipeServer)." alt="" coords="2023,11239,2229,11280"/>
+<area shape="rect" id="node408" href="$da/d87/classIG_1_1Lib_1_1CommandLineApplicationInterpreter_1_1InterpreterPipeServer.html" title="Command&#45;line interpreter&#39;s server that creates a named pipe, listens on its input stream for client r..." alt="" coords="2023,10669,2229,10711"/>
+<area shape="rect" id="node424" href="$d4/d27/classIG_1_1Lib_1_1WaitFileEventLatenceBase.html" title="Base class for classes that impelement methods that block until a file or directory is created or del..." alt="" coords="1751,12153,1967,12179"/>
+<area shape="rect" id="node413" href="$d2/ddf/classIG_1_1Lib_1_1WaitFileEvent.html" title="Concrete class derived from WaitFileEventBase. It does not have a meaningful unblocking condition (it..." alt="" coords="1789,11738,1929,11765"/>
+<area shape="rect" id="node414" href="$d9/d46/classIG_1_1Lib_1_1WaitDirectoryCreation.html" title="Blocking execution of the current thread until the specified directory begins to exist." alt="" coords="2033,11738,2219,11765"/>
+<area shape="rect" id="node415" href="$d3/da5/classIG_1_1Lib_1_1WaitDirectoryRemoval.html" title="Blocking execution of the current thread until the specified directory ceases to exist." alt="" coords="2032,11789,2220,11815"/>
+<area shape="rect" id="node416" href="$d1/d1e/classIG_1_1Lib_1_1WaitFileCreation.html" title="Blocking execution of the current thread until the specified file begins to exist." alt="" coords="2048,11637,2204,11663"/>
+<area shape="rect" id="node417" href="$d6/de8/classIG_1_1Lib_1_1WaitFileRemoval.html" title="Blocking execution of the current thread until the specified file ceases to exist." alt="" coords="2047,11687,2205,11714"/>
+<area shape="rect" id="node419" href="$d5/d05/classIG_1_1Lib_1_1WaitDirectoryCreationByProxy.html" title="Implements blocking until the specified directory is created (becomes existent). Directory is specifi..." alt="" coords="2033,11971,2219,12012"/>
+<area shape="rect" id="node420" href="$d4/d92/classIG_1_1Lib_1_1WaitDirectoryRemovalByProxy.html" title="Implements blocking until the specified directory is deleted (becomes nonexistent)...." alt="" coords="2032,12036,2220,12077"/>
+<area shape="rect" id="node421" href="$db/dbb/classIG_1_1Lib_1_1WaitFileCreationByProxy.html" title="Implements blocking until the specified file is created (becomes existent). File is specified in cons..." alt="" coords="2040,11840,2212,11881"/>
+<area shape="rect" id="node422" href="$d2/d43/classIG_1_1Lib_1_1WaitFileRemovalByProxy.html" title="Implements blocking until the specified file is deleted (becomes nonexistent). File is specified in c..." alt="" coords="2039,11905,2213,11947"/>
+<area shape="rect" id="node425" href="$d9/d6b/classIG_1_1Lib_1_1WaitDirectoryCreationLatence.html" title="Implements blocking until the specified directory is created (becomes existent). Directory is specifi..." alt="" coords="2033,12204,2219,12245"/>
+<area shape="rect" id="node426" href="$d2/dcb/classIG_1_1Lib_1_1WaitDirectoryRemovalLatence.html" title="Implements blocking until the specified directory is deleted (becomes nonexistent)...." alt="" coords="2032,12269,2220,12311"/>
+<area shape="rect" id="node427" href="$d1/de2/classIG_1_1Lib_1_1WaitFileCreationLatence.html" title="Implements blocking until the specified file is created (becomes existent). File is specified in cons..." alt="" coords="2025,12102,2227,12129"/>
+<area shape="rect" id="node428" href="$d2/d57/classIG_1_1Lib_1_1WaitFileRemovalLatence.html" title="Implements blocking until the specified file is deleted (becomes nonexistent). File is specified in c..." alt="" coords="2025,12153,2227,12179"/>
+<area shape="rect" id="node433" href="$d6/d4c/classIG_1_1Lib_1_1ModuleTest.html" title=" " alt="" coords="1206,15002,1333,15029"/>
+<area shape="rect" id="node445" href="$db/dde/classIG_1_1Lib_1_1SerializationDtoTypedBase.html" title=" " alt="" coords="1485,12377,1671,12419"/>
+<area shape="rect" id="node446" href="$db/df8/classIG_1_1Sim_1_1SimulationComponentDtoBase.html" title="Interface for all components of simulation DTOs." alt="" coords="1481,12443,1675,12484"/>
+<area shape="rect" id="node449" href="$df/d82/classIG_1_1Lib_1_1SettingsReaderAppConfig.html" title="Provides functionality for retrieving settings from various sources such as application settings file..." alt="" coords="1183,8044,1355,8085"/>
+<area shape="rect" id="node450" href="$db/d33/classLabexBis_1_1BisCommunicationSettings.html" title="Holds settings used by the Labex &#45; Bis communication module." alt="" coords="1483,8021,1673,8063"/>
+<area shape="rect" id="node454" href="$da/d93/classIG_1_1Num_1_1SampledDataCsv.html" title="Base class for CSV (comma separated files) representation, importer and exporter of sampled data and ..." alt="" coords="1185,10369,1354,10395"/>
+<area shape="rect" id="node457" href="$de/d55/classIG_1_1Neural_1_1MappingApproximationFileManager.html" title="File manager for mapping file client and server." alt="" coords="1163,12773,1375,12815"/>
+<area shape="rect" id="node467" href="$df/d6a/classIG_1_1Num_1_1ConvectionRev1RobertFileManager.html" title=" " alt="" coords="1479,8541,1677,8583"/>
+<area shape="rect" id="node480" href="$dd/d0e/classIG_1_1Num_1_1NeuralApproximatorAforgeFake.html" title=" " alt="" coords="1486,15909,1670,15951"/>
+<area shape="rect" id="node482" href="$dc/dc7/classIG_1_1Num_1_1OptimizerBase.html" title=" " alt="" coords="1191,14293,1347,14319"/>
+<area shape="rect" id="node489" href="$dc/d48/classIG_1_1Num_1_1VectorFunctionExamples_1_1RosenrockAndCircle.html" title="Example &#45; 2 component vector function of 2 variables. The first component is the Rosenbrock function ..." alt="" coords="1749,13999,1969,14040"/>
+<area shape="rect" id="node491" href="$db/db9/classIG_1_1Num_1_1VectorFunctionFromScalar.html" title=" " alt="" coords="1765,14085,1953,14127"/>
+<area shape="rect" id="node485" href="$d9/d57/classIG_1_1Num_1_1LinearBasisSafer.html" title="The same as LinearBasis, just that it has more meaningful error reporting (but is therefore slower)." alt="" coords="2042,14191,2210,14218"/>
+<area shape="rect" id="node487" href="$d6/d46/classIG_1_1Num_1_1QuadraticBasisSafer.html" title="The same as QuadraticBasis, just that it has more meaningful exceptions." alt="" coords="2031,14242,2221,14269"/>
+<area shape="rect" id="node509" href="$d8/d19/classIG_1_1Num_1_1SamplerBaseRandom.html" title="Base class for sampling classes that produce a desired number of sampling points with a particular ar..." alt="" coords="1171,20171,1367,20198"/>
+<area shape="rect" id="node510" href="$dc/d0f/classIG_1_1Num_1_1SamplerBoxRandomUniform.html" title="Uniformly distributed random sampling within the coordinate origin&#45;centered cube." alt="" coords="1461,20094,1695,20121"/>
+<area shape="rect" id="node511" href="$da/d18/classIG_1_1Num_1_1SamplerCubeRandomUniform.html" title="Uniformly distributed random sampling within the coordinate origin&#45;centered cube." alt="" coords="1480,20295,1676,20336"/>
+<area shape="rect" id="node512" href="$d4/d28/classIG_1_1Num_1_1SamplerUnitBallRandomFromCube.html" title="Random sampling within the coordinate origin&#45;centered hyper ball with radius one; derived from unifor..." alt="" coords="1473,20192,1683,20233"/>
+<area shape="rect" id="node528" title=" " alt="" coords="863,22145,1019,22171"/>
+<area shape="rect" id="node529" href="$dc/d67/classNUnit_1_1Framework_1_1Internal_1_1TestExecutionContext.html" title="Helper class used to save and restore certain static or singleton settings in the environment that af..." alt="" coords="1183,22159,1355,22200"/>
+<area shape="rect" id="node530" href="$d8/d86/interfaceIG_1_1Num_1_1IMatrix.html" title="Generic Matrix interface." alt="" coords="250,779,437,820"/>
+<area shape="rect" id="node531" href="$d4/d1d/classIG_1_1Num_1_1Matrix.html" title="Real matrix class. Some operations are performed by the MathNet.Numerics.LinearAlgebra...." alt="" coords="887,710,994,737"/>
+<area shape="rect" id="node533" href="$da/d2e/classIG_1_1Num_1_1Matrix3d.html" title="Matrix in a 3 dimensional space." alt="" coords="881,878,1001,905"/>
+<area shape="rect" id="node534" href="$d9/db9/classIG_1_1Num_1_1MatrixBase.html" title="Base class for matrices." alt="" coords="556,786,692,813"/>
+<area shape="rect" id="node535" href="$de/d82/classIG_1_1Num_1_1MatrixBaseDev.html" title="Development of matrix operations." alt="" coords="862,659,1019,686"/>
+<area shape="rect" id="node532" href="$d5/d1d/classIG_1_1Num_1_1Matrix1.html" title=" " alt="" coords="1213,603,1326,630"/>
+<area shape="rect" id="node536" href="$d0/d98/interfaceIG_1_1Num_1_1INeuralModel.html" title="Interface for artificial neural network &#45;based models that we can operate on." alt="" coords="1786,18179,1931,18206"/>
+<area shape="rect" id="node537" href="$d9/d4e/classIG_1_1Lib_1_1InterpreterBase.html" title=" " alt="" coords="501,5847,747,5888"/>
+<area shape="rect" id="node538" href="$d5/dd6/interfaceIG_1_1Lib_1_1IObjectStore.html" title="Object store. Objects of the specified type can be stored here for later reuse (efficiency improvemen..." alt="" coords="543,15361,705,15387"/>
+<area shape="rect" id="node539" href="$dc/d2c/interfaceIG_1_1Num_1_1IPenaltyEvaluator.html" title="Classes that evaluates penalty terms corresponding to a specific penalty function." alt="" coords="539,7714,709,7741"/>
+<area shape="rect" id="node540" href="$df/d22/interfaceIG_1_1Num_1_1IPointContainer.html" title="Basic interface for point container classes." alt="" coords="545,7933,703,7975"/>
+<area shape="rect" id="node541" href="$df/d22/interfaceIG_1_1Num_1_1IPointContainer.html" title=" " alt="" coords="545,20615,703,20656"/>
+<area shape="rect" id="node542" href="$df/d22/interfaceIG_1_1Num_1_1IPointContainer.html" title=" " alt="" coords="538,20468,710,20509"/>
+<area shape="rect" id="node543" href="$dc/d14/interfaceNUnit_1_1Engine_1_1Services_1_1IProjectService.html" title="The IProjectService interface is implemented by ProjectService. It knows how to load projects in a sp..." alt="" coords="841,20223,1040,20264"/>
+<area shape="rect" id="node544" href="$de/d66/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeProjectService.html" title=" " alt="" coords="1174,20273,1365,20315"/>
+<area shape="rect" id="node545" href="$db/d0e/interfaceIG_1_1Num_1_1IRealFunction.html" title="Interface for real functions." alt="" coords="269,21461,418,21487"/>
+<area shape="rect" id="node546" href="$da/d11/interfaceIG_1_1Num_1_1IRealFunctionOneParametric.html" title="Parameterized real&#45;valued functions of single variable." alt="" coords="823,21689,1059,21715"/>
+<area shape="rect" id="node547" href="$d0/d78/classIG_1_1Num_1_1RealFunctionOneParametric.html" title="Base class for one parametric families of real&#45;valued functions of single variable...." alt="" coords="1153,21714,1386,21741"/>
+<area shape="rect" id="node548" href="$d1/dfb/interfaceIG_1_1Num_1_1IRealFunctionParametric.html" title="Parameterized real&#45;valued functions of single variable." alt="" coords="518,21587,730,21614"/>
+<area shape="rect" id="node549" href="$d2/d3f/classIG_1_1Num_1_1RealFunctionParametric.html" title="Base class for parameterized real&#45;valued functions of single variable. Parameters that completely def..." alt="" coords="1165,21663,1374,21690"/>
+<area shape="rect" id="node550" href="$d1/d20/classIG_1_1Num_1_1RealFunctionParametricBase.html" title="Base class for parameterized real&#45;valued functions of single variable. Parameters that completely def..." alt="" coords="821,21537,1060,21563"/>
+<area shape="rect" id="node551" href="$d7/d8a/interfaceIG_1_1Num_1_1IRealFunctionPenalty.html" title="Interface that must be satisfied by penalty functions. Penalty functions have small values where argu..." alt="" coords="527,21385,721,21411"/>
+<area shape="rect" id="node552" href="$d6/d30/classIG_1_1Num_1_1RealFunctionBase.html" title="Base class for real functions of real variable." alt="" coords="536,21334,712,21361"/>
+<area shape="rect" id="node553" href="$d9/d43/interfaceNUnit_1_1Engine_1_1IRecentFiles.html" title="The IRecentFiles interface is used to isolate the app from various implementations of recent files." alt="" coords="853,11631,1028,11658"/>
+<area shape="rect" id="node554" href="$d5/d7a/interfaceIG_1_1Lib_1_1IRegisterable.html" title=" " alt="" coords="557,6421,691,6463"/>
+<area shape="rect" id="node555" href="$d5/d7a/interfaceIG_1_1Lib_1_1IRegisterable.html" title=" " alt="" coords="531,5700,717,5741"/>
+<area shape="rect" id="node556" href="$d5/d7a/interfaceIG_1_1Lib_1_1IRegisterable.html" title=" " alt="" coords="852,4940,1029,4981"/>
+<area shape="rect" id="node557" href="$de/d0d/interfaceIG_1_1Lib_1_1IReporterBase.html" title="Interface from which all reporters inherit." alt="" coords="272,22441,415,22467"/>
+<area shape="rect" id="node558" href="$d1/ddb/interfaceIG_1_1Lib_1_1IReporterTextLogger.html" title="Reporters that utilize logging messages to files. IReporterTextLogger typically outputs (to a file) m..." alt="" coords="536,22415,712,22442"/>
+<area shape="rect" id="node559" href="$d2/d8e/interfaceIG_1_1Lib_1_1IReporterTextWriter.html" title="Reporters that utilize writing messages to files. Messages are typically formatted as multi&#45;line mess..." alt="" coords="538,22466,710,22493"/>
+<area shape="rect" id="node560" href="$d0/d0e/interfaceIG_1_1Lib_1_1IReporterTrace.html" title="Reporters that utilize system&#39;s trace utility." alt="" coords="552,22517,696,22543"/>
+<area shape="rect" id="node561" href="$d6/d7c/interfaceIG_1_1Num_1_1IResponseEvaluatorVectorSimple.html" title="Interface for simulators and other systems (used e.g. for optimization) that can calculate vector res..." alt="" coords="532,8473,716,8515"/>
+<area shape="rect" id="node562" href="$d3/d87/interfaceNUnit_1_1Engine_1_1IResultService.html" title="IResultWriterService provides result writers for a specified well&#45;known format." alt="" coords="849,11682,1033,11709"/>
+<area shape="rect" id="node563" href="$d9/dc9/interfaceNUnit_1_1Engine_1_1IRuntimeFrameworkService.html" title="Implemented by a type that provides information about the current and other available runtimes." alt="" coords="832,20391,1049,20432"/>
+<area shape="rect" id="node564" href="$df/df4/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeRuntimeService.html" title=" " alt="" coords="1174,20391,1365,20432"/>
+<area shape="rect" id="node565" href="$dc/d12/interfaceIG_1_1Num_1_1ISampler.html" title="Interface representing sampling objects that produce a desired number of sampling points with a parti..." alt="" coords="563,20171,685,20198"/>
+<area shape="rect" id="node566" title=" " alt="" coords="578,22145,670,22171"/>
+<area shape="rect" id="node567" href="$d5/d28/classNeuronDotNet_1_1Core_1_1TrainingSet.html" title="A Training Set represents a set of training samples used during &#39;batch training&#39; process." alt="" coords="839,22195,1042,22222"/>
+<area shape="rect" id="node568" title=" " alt="" coords="578,5387,670,5414"/>
+<area shape="rect" id="node569" href="$d5/d28/classDotNetMatrix_1_1CholeskyDecomposition.html" title="Cholesky Decomposition. For a symmetric, positive definite matrix A, the Cholesky decomposition is an..." alt="" coords="819,5609,1062,5635"/>
+<area shape="rect" id="node570" href="$d8/d55/classDotNetMatrix_1_1EigenvalueDecomposition.html" title="Eigenvalues and eigenvectors of a real matrix. If A is symmetric, then A = V*D*V&#39; where the eigenvalu..." alt="" coords="815,5406,1066,5433"/>
+<area shape="rect" id="node571" href="$d5/dcc/classDotNetMatrix_1_1LUDecomposition.html" title="LU Decomposition. For an m&#45;by&#45;n matrix A with m &gt;= n, the LU decomposition is an m&#45;by&#45;n unit lower tr..." alt="" coords="839,5457,1043,5483"/>
+<area shape="rect" id="node572" href="$d7/de5/classDotNetMatrix_1_1QRDecomposition.html" title="QR Decomposition. For an m&#45;by&#45;n matrix A with m &gt;= n, the QR decomposition is an m&#45;by&#45;n orthogonal ma..." alt="" coords="837,5158,1044,5185"/>
+<area shape="rect" id="node573" href="$df/d90/classDotNetMatrix_1_1SingularValueDecomposition.html" title="Singular Value Decomposition." alt="" coords="849,5209,1032,5251"/>
+<area shape="rect" id="node574" href="$d5/d01/interfaceNeuronDotNet_1_1Core_1_1IConnector.html" title="This interface represents a connector. A connector is a collection of synapses connecting two layers ..." alt="" coords="841,5507,1041,5534"/>
+<area shape="rect" id="node576" href="$dd/d78/interfaceNeuronDotNet_1_1Core_1_1IInitializer.html" title="Initializer interface. An initializer should define initialization methods for all concrete initializ..." alt="" coords="845,5726,1037,5753"/>
+<area shape="rect" id="node582" href="$d0/dea/interfaceNeuronDotNet_1_1Core_1_1ILayer.html" title="This interface represents a Layer in a neural network. A layer is a container for similar neurons...." alt="" coords="854,5558,1027,5585"/>
+<area shape="rect" id="node584" href="$d9/d85/interfaceNeuronDotNet_1_1Core_1_1ILearningRateFunction.html" title="Learning Rate Function interface. This interface defines the way in which learning rate changes from ..." alt="" coords="845,5660,1036,5701"/>
+<area shape="rect" id="node589" href="$d5/da3/interfaceNeuronDotNet_1_1Core_1_1INetwork.html" title=" " alt="" coords="847,5777,1035,5803"/>
+<area shape="rect" id="node595" href="$d2/dcb/interfaceNeuronDotNet_1_1Core_1_1SOM_1_1INeighborhoodFunction.html" title="This interface represents a neighborhood function. A neighborhood function determines the neighborhoo..." alt="" coords="813,5275,1068,5316"/>
+<area shape="rect" id="node598" href="$de/d3f/classNeuronDotNet_1_1Core_1_1TrainingSample.html" title="This class represents a training sample used to train a neural network" alt="" coords="849,5340,1032,5381"/>
+<area shape="rect" id="node575" href="$d0/d97/classNeuronDotNet_1_1Core_1_1Connector.html" title="A connector represents a collection of synapses connecting two layers in a network." alt="" coords="1169,5390,1370,5446"/>
+<area shape="rect" id="node577" href="$de/d3a/classNeuronDotNet_1_1Core_1_1Initializers_1_1ConstantFunction.html" title="An IInitializer using constant function" alt="" coords="1169,5849,1369,5891"/>
+<area shape="rect" id="node579" href="$d2/d19/classNeuronDotNet_1_1Core_1_1Initializers_1_1NguyenWidrowFunction.html" title="An IInitializer using Nguyen Widrow function." alt="" coords="1169,5784,1369,5825"/>
+<area shape="rect" id="node580" href="$d0/d36/classNeuronDotNet_1_1Core_1_1Initializers_1_1NormalizedRandomFunction.html" title="An IInitializer using Normalized Random function." alt="" coords="1169,5653,1369,5695"/>
+<area shape="rect" id="node581" href="$d8/dbe/classNeuronDotNet_1_1Core_1_1Initializers_1_1RandomFunction.html" title="An IInitializer using random function" alt="" coords="1169,5719,1369,5760"/>
+<area shape="rect" id="node578" href="$df/d48/classNeuronDotNet_1_1Core_1_1Initializers_1_1ZeroFunction.html" title="An IInitializer using zero function" alt="" coords="1478,5845,1678,5887"/>
+<area shape="rect" id="node583" href="$db/d81/classNeuronDotNet_1_1Core_1_1Layer.html" title="Layer is an abstract container for similar neurons. No two neurons within a layer can be connected to..." alt="" coords="1184,5471,1355,5512"/>
+<area shape="rect" id="node585" href="$da/d79/classNeuronDotNet_1_1Core_1_1LearningRateFunctions_1_1AbstractFunction.html" title="An abstract base class for a learning rate function." alt="" coords="1165,5588,1374,5629"/>
+<area shape="rect" id="node586" href="$d1/dc7/classNeuronDotNet_1_1Core_1_1LearningRateFunctions_1_1ExponentialFunction.html" title="Exponential Learning Rate Function. As training progresses, The learning rate exponentially changes f..." alt="" coords="1464,5523,1692,5564"/>
+<area shape="rect" id="node587" href="$d6/dc8/classNeuronDotNet_1_1Core_1_1LearningRateFunctions_1_1HyperbolicFunction.html" title="Hyperbolic Learning Rate Function. As training progresses, The learning rate hyperbolically changes f..." alt="" coords="1467,5588,1689,5629"/>
+<area shape="rect" id="node588" href="$d3/da1/classNeuronDotNet_1_1Core_1_1LearningRateFunctions_1_1LinearFunction.html" title="Linear Learning Rate Function. As the training progresses, the learning rate uniformly changes from i..." alt="" coords="1481,5653,1675,5695"/>
+<area shape="rect" id="node590" href="$d0/d7c/classNeuronDotNet_1_1Core_1_1Network.html" title=" " alt="" coords="1177,5918,1362,5945"/>
+<area shape="rect" id="node591" href="$de/d87/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1BackpropagationNetwork.html" title="This class extends a Network and represents a Backpropagation neural network." alt="" coords="1459,5911,1697,5952"/>
+<area shape="rect" id="node594" href="$d9/dec/classNeuronDotNet_1_1Core_1_1SOM_1_1KohonenNetwork.html" title="This class extends a Network and represents a Kohonen Self&#45;Organizing Map." alt="" coords="1467,5976,1689,6017"/>
+<area shape="rect" id="node592" href="$db/d6e/classIG_1_1Neural_1_1NeuralApproximatorNeuron_1_1MyNeuronBackPropagation.html" title="Replacement for BackpropagationNetwork from NeuronDotNet, adapts some functionality to the needs of e..." alt="" coords="1746,5879,1971,5920"/>
+<area shape="rect" id="node593" href="$d4/db8/classIG_1_1Neural_1_1NeuronBackPropagationLEarning.html" title=" " alt="" coords="1749,5944,1969,5985"/>
+<area shape="rect" id="node596" href="$d8/d59/classNeuronDotNet_1_1Core_1_1SOM_1_1NeighborhoodFunctions_1_1GaussianFunction.html" title="Gaussian Neighborhood Function. It is a continuous bell shaped curve centered at winner neuron." alt="" coords="1144,5300,1395,5341"/>
+<area shape="rect" id="node597" href="$d9/d79/classNeuronDotNet_1_1Core_1_1SOM_1_1NeighborhoodFunctions_1_1MexicanHatFunction.html" title="Mexican Hat Neighborhood Function is the normalized second derivative of a Gaussian function...." alt="" coords="1144,5235,1395,5276"/>
+<area shape="rect" id="node599" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title="Generic base class for Data Transfer Objects (DTO). This class is used as template for producing conc..." alt="" coords="547,15295,701,15336"/>
+<area shape="rect" id="node600" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title=" " alt="" coords="547,20403,701,20444"/>
+<area shape="rect" id="node601" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title=" " alt="" coords="863,12205,1018,12247"/>
+<area shape="rect" id="node602" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="551,20822,697,20849"/>
+<area shape="rect" id="node603" href="$dc/d00/classNUnit_1_1Engine_1_1Services_1_1SettingsService.html" title="Summary description for UserSettingsService." alt="" coords="839,20873,1042,20915"/>
+<area shape="rect" id="node604" href="$d5/d01/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeService.html" title=" " alt="" coords="845,20655,1036,20696"/>
+<area shape="rect" id="node605" href="$df/deb/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeSettingsService.html" title=" " alt="" coords="845,20939,1036,20980"/>
+<area shape="rect" id="node606" href="$d5/d1d/interfaceNUnit_1_1Engine_1_1ISettings.html" title="The ISettings interface is used to access all user settings and options." alt="" coords="22,20914,175,20941"/>
+<area shape="rect" id="node607" href="$db/d74/classNUnit_1_1Engine_1_1Internal_1_1SettingsGroup.html" title="SettingsGroup is the base class representing a group of user or system settings." alt="" coords="245,20907,441,20948"/>
+<area shape="rect" id="node608" href="$d3/d9c/classNUnit_1_1Engine_1_1Internal_1_1SettingsStore.html" title="SettingsStore extends SettingsGroup to provide for loading and saving the settings from an XML file." alt="" coords="526,20907,722,20948"/>
+<area shape="rect" id="node609" href="$d9/df4/interfaceIG_1_1Lib_1_1ISettingsRreader.html" title="Interface for settings readers, which read pairs key/vvalue from various files or configuration serve..." alt="" coords="546,8079,702,8106"/>
+<area shape="rect" id="node610" href="$de/d9d/interfaceCShell_1_1Framework_1_1Services_1_1IStatusBar.html" title=" " alt="" coords="531,2041,717,2083"/>
+<area shape="rect" id="node611" href="$dc/d68/classCShell_1_1Modules_1_1Shell_1_1ViewModels_1_1StatusBarViewModel.html" title=" " alt="" coords="846,2041,1035,2083"/>
+<area shape="rect" id="node612" href="$d1/d4f/interfaceNUnit_1_1Engine_1_1ITestAgency.html" title="The ITestAgency interface is implemented by a TestAgency in order to allow TestAgents to register wit..." alt="" coords="853,20771,1028,20798"/>
+<area shape="rect" id="node613" href="$d7/dbf/interfaceNUnit_1_1Engine_1_1ITestAgent.html" title="The ITestAgent interface is implemented by remote test agents." alt="" coords="542,4427,706,4454"/>
+<area shape="rect" id="node614" href="$d1/d83/interfaceNUnit_1_1Engine_1_1ITestEventListener.html" title="The ITestListener interface is used to receive notices of significant events while a test is running...." alt="" coords="520,22822,728,22849"/>
+<area shape="rect" id="node615" href="$da/d4f/classNUnit_1_1ConsoleRunner_1_1TestEventHandler.html" title="TestEventHandler processes events from the running test for the console runner." alt="" coords="853,22701,1028,22743"/>
+<area shape="rect" id="node616" href="$d4/d56/classNUnit_1_1Engine_1_1Drivers_1_1Tests_1_1NotRunnableFrameworkDriverTests_1_1NullListener.html" title=" " alt="" coords="827,22767,1055,22823"/>
+<area shape="rect" id="node617" href="$d4/d10/classNUnit_1_1Engine_1_1Drivers_1_1Tests_1_1NUnit3FrameworkDriverTests_1_1NullListener.html" title=" " alt="" coords="833,22847,1048,22903"/>
+<area shape="rect" id="node618" href="$d0/d68/classNUnit_1_1Engine_1_1RunTestsCallbackHandler_1_1NullListener.html" title=" " alt="" coords="837,22928,1044,22969"/>
+<area shape="rect" id="node619" href="$d1/d5d/interfaceNUnit_1_1Engine_1_1ITestFilterService.html" title="The TestFilterService provides builders that can create TestFilters" alt="" coords="861,11784,1020,11825"/>
+<area shape="rect" id="node620" href="$d5/d16/interfaceNUnit_1_1Engine_1_1ITestRunnerFactory.html" title="A Test Runner factory can supply a suitable test runner for a given package" alt="" coords="855,12605,1026,12647"/>
+<area shape="rect" id="node621" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="272,21866,415,21893"/>
+<area shape="rect" id="node622" href="$d0/d5a/classIG_1_1Num_1_1VectorBase.html" title="Base class for real vectors." alt="" coords="555,21841,693,21867"/>
+<area shape="rect" id="node623" href="$dc/d13/interfaceIG_1_1Num_1_1IVectorApproximator.html" title="Interface for vector function approximators." alt="" coords="530,15997,718,16023"/>
+<area shape="rect" id="node624" href="$d3/d45/interfaceIG_1_1Web_1_1IWSBase.html" title="Interface for basic web service." alt="" coords="561,2386,687,2413"/>
+<area shape="rect" id="node625" href="$d3/d6b/interfaceIG_1_1Web_1_1IWsDevelop.html" title="Interface for development web services." alt="" coords="871,2310,1010,2337"/>
+<area shape="rect" id="node626" href="$d3/d6d/interfaceIG_1_1Web_1_1IWsDevelop1.html" title="Interface for higher level development web services." alt="" coords="1197,2361,1342,2387"/>
+<area shape="rect" id="node629" href="$d9/db0/classIG_1_1Web_1_1WSBaseRef.html" title="Class for referencing a web service based on the WSBaseClass." alt="" coords="1199,2563,1340,2590"/>
+<area shape="rect" id="node630" href="$d8/d5a/classIG_1_1Web_1_1WSBaseRefBase.html" title="Intermediate proxy class to a web service based on the WSBaseClass." alt="" coords="855,2665,1026,2691"/>
+<area shape="rect" id="node628" href="$da/d67/classIG_1_1Web_1_1WSDevelopRef.html" title="Class for referencing a web service based on the WSDevelopClass." alt="" coords="1191,2107,1347,2134"/>
+<area shape="rect" id="node627" href="$d6/d6f/classIG_1_1Web_1_1WSDevelop1Ref.html" title="Class for referencing a web service based on the WSDevelopClass." alt="" coords="1497,2975,1659,3002"/>
+<area shape="rect" id="node631" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,4005,192,4047"/>
+<area shape="rect" id="node632" href="$dd/d90/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IPropertyBag.html" title="A PropertyBag represents a collection of name/value pairs that allows duplicate entries with the same..." alt="" coords="250,5419,437,5460"/>
+<area shape="rect" id="node634" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields...." alt="" coords="250,3972,437,4013"/>
+<area shape="rect" id="node635" href="$d2/df0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="250,2040,437,2081"/>
+<area shape="rect" id="node650" href="$d2/df9/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestResult.html" title="The ITestResult interface represents the result of a test." alt="" coords="250,4047,437,4088"/>
+<area shape="rect" id="node633" href="$db/d10/classNUnit_1_1Framework_1_1Internal_1_1PropertyBag.html" title="A PropertyBag represents a collection of name value pairs that allows duplicate entries with the same..." alt="" coords="538,5912,710,5953"/>
+<area shape="rect" id="node636" href="$da/dc4/classNUnit_1_1Framework_1_1Internal_1_1TestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="538,1111,710,1152"/>
+<area shape="rect" id="node637" href="$d3/dde/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1CompositeFilter.html" title="A base class for multi&#45;part filters" alt="" coords="855,980,1027,1021"/>
+<area shape="rect" id="node640" href="$d5/d17/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1NotFilter.html" title="NotFilter negates the operation of another filter" alt="" coords="855,1045,1027,1087"/>
+<area shape="rect" id="node641" href="$d5/d2b/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1ValueMatchFilter.html" title="ValueMatchFilter selects tests based on some value, which is expected to be contained in the test." alt="" coords="855,1176,1027,1217"/>
+<area shape="rect" id="node649" href="$d2/d66/classNUnit_1_1Framework_1_1Internal_1_1TestFilter_1_1EmptyFilter.html" title="Nested class provides an empty filter &#45; one that always returns true when called. It never matches ex..." alt="" coords="855,1111,1027,1152"/>
+<area shape="rect" id="node638" href="$df/dcc/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1AndFilter.html" title="Combines multiple filters so that a test must pass all of them in order to pass this filter." alt="" coords="1183,981,1355,1023"/>
+<area shape="rect" id="node639" href="$d1/dc1/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1OrFilter.html" title="Combines multiple filters so that a test must pass one of them in order to pass this filter." alt="" coords="1183,916,1355,957"/>
+<area shape="rect" id="node642" href="$de/dda/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1CategoryFilter.html" title="CategoryFilter is able to select or exclude tests based on their categories." alt="" coords="1183,1308,1355,1349"/>
+<area shape="rect" id="node643" href="$d5/da8/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1ClassNameFilter.html" title="ClassName filter selects tests based on the class FullName" alt="" coords="1183,1373,1355,1415"/>
+<area shape="rect" id="node644" href="$d1/d93/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1FullNameFilter.html" title="FullName filter selects tests based on their FullName" alt="" coords="1183,1439,1355,1480"/>
+<area shape="rect" id="node645" href="$db/d7c/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1IdFilter.html" title="IdFilter selects tests based on their id" alt="" coords="1183,1047,1355,1088"/>
+<area shape="rect" id="node646" href="$d9/da9/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1MethodNameFilter.html" title="FullName filter selects tests based on their FullName" alt="" coords="1183,1112,1355,1153"/>
+<area shape="rect" id="node647" href="$d4/d54/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1PropertyFilter.html" title="PropertyFilter is able to select or exclude tests based on their properties." alt="" coords="1183,1177,1355,1219"/>
+<area shape="rect" id="node648" href="$d6/df5/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1TestNameFilter.html" title="TestName filter selects tests based on their Name" alt="" coords="1183,1243,1355,1284"/>
+<area shape="rect" id="node651" href="$dd/dfe/classNUnit_1_1Framework_1_1Internal_1_1TestResult.html" title="The TestResult class represents the result of a test." alt="" coords="538,4063,710,4104"/>
+<area shape="rect" id="node652" href="$d3/d1f/classNUnit_1_1Framework_1_1Internal_1_1TestCaseResult.html" title="Represents the result of running a single test case." alt="" coords="855,4071,1027,4112"/>
+<area shape="rect" id="node653" href="$d5/d04/classNUnit_1_1Framework_1_1Internal_1_1TestSuiteResult.html" title="Represents the result of running a test suite" alt="" coords="855,4136,1027,4177"/>
+<area shape="rect" id="node654" href="$d1/d9a/classIG_1_1Num_1_1LinearSolverBase.html" title=" " alt="" coords="855,13057,1026,13083"/>
+<area shape="rect" id="node655" title=" " alt="" coords="553,22314,695,22341"/>
+<area shape="rect" id="node656" href="$dc/d07/classNUnit_1_1Engine_1_1Services_1_1DomainManager_1_1TargetFrameworkAgent.html" title=" " alt="" coords="835,22312,1046,22353"/>
+<area shape="rect" id="node657" href="$d8/d34/classNUnit_1_1Framework_1_1Compatibility_1_1LongLivedMarshalByRefObject.html" title="A MarshalByRefObject that lives forever" alt="" coords="838,22377,1043,22419"/>
+<area shape="rect" id="node658" href="$dc/d92/classNUnit_1_1Framework_1_1Api_1_1FrameworkController.html" title="FrameworkController provides a facade for use in loading, browsing and running tests without requirin..." alt="" coords="1163,22377,1376,22419"/>
+<area shape="rect" id="node659" href="$dd/dc0/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1FrameworkControllerAction.html" title="FrameworkControllerAction is the base class for all actions performed against a FrameworkController." alt="" coords="1151,22247,1388,22288"/>
+<area shape="rect" id="node660" href="$df/d69/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1CountTestsAction.html" title="CountTestsAction counts the number of test cases in the loaded TestSuite held by the FrameworkControl..." alt="" coords="1471,22051,1685,22092"/>
+<area shape="rect" id="node661" href="$d8/da1/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1ExploreTestsAction.html" title="ExploreTestsAction returns info about the tests in an assembly" alt="" coords="1471,22116,1685,22157"/>
+<area shape="rect" id="node662" href="$d3/d02/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1LoadTestsAction.html" title="LoadTestsAction loads a test into the FrameworkController" alt="" coords="1471,22181,1685,22223"/>
+<area shape="rect" id="node663" href="$d0/d0f/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1RunAsyncAction.html" title="RunAsyncAction initiates an asynchronous test run, returning immediately" alt="" coords="1471,22247,1685,22288"/>
+<area shape="rect" id="node664" href="$d0/dfd/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1RunTestsAction.html" title="RunTestsAction runs the loaded TestSuite held by the FrameworkController." alt="" coords="1471,22312,1685,22353"/>
+<area shape="rect" id="node665" href="$d2/d73/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1StopRunAction.html" title="StopRunAction stops an ongoing run." alt="" coords="1471,22377,1685,22419"/>
+<area shape="rect" id="node666" href="$de/d8d/classCShell_1_1Util_1_1ObservableKeyedCollection.html" title=" " alt="" coords="495,1235,753,1276"/>
+<area shape="rect" id="node667" href="$d3/d64/classIG_1_1Num_1_1ParallelJobContainerGen.html" title=" " alt="" coords="514,4297,734,4353"/>
+<area shape="rect" id="node668" title=" " alt="" coords="535,4377,713,4403"/>
+<area shape="rect" id="node669" href="$db/d30/classIG_1_1Num_1_1PointCloud.html" title=" " alt="" coords="516,7765,732,7821"/>
+<area shape="rect" id="node670" href="$db/d30/classIG_1_1Num_1_1PointCloud.html" title=" " alt="" coords="547,7853,701,7909"/>
+<area shape="rect" id="node671" href="$d7/deb/classIG_1_1Num_1_1PointContainer.html" title=" " alt="" coords="516,20534,732,20590"/>
+<area shape="rect" id="node672" href="$d7/deb/classIG_1_1Num_1_1PointContainer.html" title=" " alt="" coords="543,20681,705,20737"/>
+<area shape="rect" id="node673" title=" " alt="" coords="548,1990,700,2017"/>
+<area shape="rect" id="node674" href="$d6/d14/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1AssemblyGacItemViewModel.html" title=" " alt="" coords="807,1976,1074,2017"/>
+<area shape="rect" id="node675" href="$dc/dc7/classIG_1_1NumExperimental_1_1ResponseEvaluatorWithStorageBase.html" title=" " alt="" coords="522,8309,726,8365"/>
+<area shape="rect" id="node676" href="$df/d15/classIG_1_1Num_1_1ResponseEvaluatorWithStorageBase.html" title=" " alt="" coords="507,7999,741,8055"/>
+<area shape="rect" id="node677" href="$dc/dc7/classIG_1_1NumExperimental_1_1ResponseEvaluatorWithStorageBase.html" title=" " alt="" coords="522,9091,726,9161"/>
+<area shape="rect" id="node678" href="$df/d15/classIG_1_1Num_1_1ResponseEvaluatorWithStorageBase.html" title=" " alt="" coords="512,8197,736,8253"/>
+<area shape="rect" id="node679" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities." alt="" coords="542,19817,706,19843"/>
+<area shape="rect" id="node680" href="$db/dde/classIG_1_1Lib_1_1SerializationDtoTypedBase.html" title=" " alt="" coords="502,20337,746,20379"/>
+<area shape="rect" id="node681" title=" " alt="" coords="579,2661,669,2687"/>
+<area shape="rect" id="node682" href="$d6/d5c/classCalcWebService_1_1Service1.html" title="Summary description for Service1" alt="" coords="855,2715,1026,2742"/>
+<area shape="rect" id="node683" href="$d5/d93/classCalcWebService_1_1ServiceBase.html" title="Summary description for Service1" alt="" coords="844,2513,1037,2539"/>
+<area shape="rect" id="node684" href="$d9/dde/classEFA__WS_1_1Service.html" title="Summary description for Service1" alt="" coords="879,2563,1002,2590"/>
+<area shape="rect" id="node685" href="$de/dbf/classMyService_1_1WebService2.html" title="Summary description for WebService1." alt="" coords="859,2614,1022,2641"/>
+<area shape="rect" id="node686" href="$df/da5/classMyService_1_1WebServiceBase.html" title="Summary description for WebService1." alt="" coords="848,2817,1033,2843"/>
+<area shape="rect" id="node687" href="$d4/dbc/classMyService_1_1WebService1.html" title="Summary description for WebService1." alt="" coords="1188,2817,1351,2843"/>
+<area shape="rect" id="node688" title=" " alt="" coords="567,2762,681,2789"/>
+<area shape="rect" id="node689" title=" " alt="" coords="872,3889,1009,3915"/>
+<area shape="rect" id="node690" href="$da/d27/classIG_1_1Web_1_1WSDevelop1RefBase.html" title="Intermediate proxy class to a web service based on the WSDevelop1Class." alt="" coords="1173,3823,1366,3850"/>
+<area shape="rect" id="node691" title=" " alt="" coords="559,2107,689,2134"/>
+<area shape="rect" id="node692" href="$d8/dd9/classIG_1_1Web_1_1WSDevelopRefBase.html" title="Intermediate proxy class to a web service based on the WSDevelopClass." alt="" coords="847,2107,1034,2134"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="NUnit.Framework.SequentialAttribute" name="NUnit.Framework.SequentialAttribute">
+<area shape="rect" id="node1" title="Marks a test to use a Sequential join of any argument data provided. Arguments will be combined into ..." alt="" coords="1276,129,1463,170"/>
+<area shape="rect" id="node2" href="$d4/db0/classNUnit_1_1Framework_1_1CombiningStrategyAttribute.html" title="Marks a test to use a particular CombiningStrategy to join any parameter data provided...." alt="" coords="1045,136,1227,163"/>
+<area shape="rect" id="node3" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="763,5,866,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="444,5,515,32"/>
+<area shape="rect" id="node5" href="$d9/d9f/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestBuilder.html" title="The ITestBuilder interface is exposed by a class that knows how to build one or more TestMethods from..." alt="" coords="769,56,860,83"/>
+<area shape="rect" id="node6" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="766,107,863,133"/>
+<area shape="rect" id="node7" href="$d1/d8b/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ICombiningStrategy.html" title="CombiningStrategy is the abstract base for classes that know how to combine values provided for indiv..." alt="" coords="721,158,908,199"/>
+<area shape="rect" id="node8" href="$dd/d8f/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IParameterDataProvider.html" title="The IDataPointProvider interface is used by extensions that provide data for a single test parameter." alt="" coords="721,223,908,265"/>
+<area shape="rect" id="node9" href="$dd/de7/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1NUnitTestCaseBuilder.html" title="NUnitTestCaseBuilder is a utility class used by attributes that build test cases." alt="" coords="715,289,915,330"/>
+<area shape="rect" id="node10" href="$dc/dc5/classNUnit_1_1Framework_1_1Internal_1_1TestNameGenerator.html" title="TestNameGenerator is able to create test names according to a coded pattern." alt="" coords="393,258,565,299"/>
+<area shape="rect" id="node11" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="5,251,248,307"/>
+<area shape="rect" id="node12" href="$d3/d0a/classNUnit_1_1Framework_1_1Internal_1_1Randomizer.html" title="Randomizer returns a set of random _values in a repeatable way, to allow re&#45;running of tests if neces..." alt="" coords="393,323,565,365"/>
+<area shape="rect" id="node13" title=" " alt="" coords="91,331,162,357"/>
+<area shape="rect" id="node14" title=" " alt="" coords="99,381,154,408"/>
+</map>

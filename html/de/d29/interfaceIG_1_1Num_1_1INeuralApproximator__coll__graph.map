@@ -1,0 +1,5 @@
+<map id="IG.Num.INeuralApproximator" name="IG.Num.INeuralApproximator">
+<area shape="rect" id="node1" title="Approximator of response by using neural networks. $A Igor Mar11;" alt="" coords="49,80,235,107"/>
+<area shape="rect" id="node2" href="$dc/d13/interfaceIG_1_1Num_1_1IVectorApproximator.html" title="Interface for vector function approximators." alt="" coords="5,5,145,32"/>
+<area shape="rect" id="node3" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="170,5,247,32"/>
+</map>

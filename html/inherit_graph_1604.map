@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dd/d84/interfaceNUnit_1_1Framework_1_1Api_1_1ITestAssemblyBuilder.html" title="The ITestAssemblyBuilder interface is implemented by a class that is able to build a suite of tests g..." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$d8/d47/classNUnit_1_1Framework_1_1Api_1_1DefaultTestAssemblyBuilder.html" title="DefaultTestAssemblyBuilder loads a single assembly and builds a TestSuite containing test fixtures pr..." alt="" coords="231,5,420,47"/>
+</map>

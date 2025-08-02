@@ -1,0 +1,9 @@
+<map id="NeuronDotNet.Core.Backpropagation.ActivationLayer" name="NeuronDotNet.Core.Backpropagation.ActivationLayer">
+<area shape="rect" id="node1" title="Activation Layer is a layer of activation neurons." alt="" coords="228,136,467,177"/>
+<area shape="rect" id="node3" href="$dc/da8/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1LinearLayer.html" title="An ActivationLayer using linear activation function" alt="" coords="515,5,753,47"/>
+<area shape="rect" id="node4" href="$dd/daf/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1LogarithmLayer.html" title="An ActivationLayer using logarithmic activation function" alt="" coords="515,71,753,112"/>
+<area shape="rect" id="node5" href="$d0/d8e/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1SigmoidLayer.html" title="An ActivationLayer using sigmoid activation function" alt="" coords="515,136,753,177"/>
+<area shape="rect" id="node6" href="$d7/d77/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1SineLayer.html" title="An ActivationLayer using sine activation function" alt="" coords="515,201,753,243"/>
+<area shape="rect" id="node7" href="$db/db6/classNeuronDotNet_1_1Core_1_1Backpropagation_1_1TanhLayer.html" title="An ActivationLayer using tanh activation function" alt="" coords="515,267,753,308"/>
+<area shape="rect" id="node2" href="$db/d81/classNeuronDotNet_1_1Core_1_1Layer.html" title=" " alt="" coords="5,143,180,170"/>
+</map>

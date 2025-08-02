@@ -1,0 +1,28 @@
+var structAForge_1_1DoublePoint =
+[
+    [ "DoublePoint", "d1/dcd/structAForge_1_1DoublePoint.html#a1c8a58ec9675283f8a7baec8d2967bb3", null ],
+    [ "DistanceTo", "d1/dcd/structAForge_1_1DoublePoint.html#a50c9a8239b3c82cb847b81010d7e5796", null ],
+    [ "operator+", "d1/dcd/structAForge_1_1DoublePoint.html#ac4f2946c639cff4255be6c62b05afaed", null ],
+    [ "Add", "d1/dcd/structAForge_1_1DoublePoint.html#a3b41223083f7878ddbe8724874c81b2f", null ],
+    [ "operator-", "d1/dcd/structAForge_1_1DoublePoint.html#aa877d0e93e9c166eebb2da230130099b", null ],
+    [ "Subtract", "d1/dcd/structAForge_1_1DoublePoint.html#a8fe40ad0386caca43865309790a648b6", null ],
+    [ "operator+", "d1/dcd/structAForge_1_1DoublePoint.html#abb91051f6e95ea057002b24b02472ee0", null ],
+    [ "Add", "d1/dcd/structAForge_1_1DoublePoint.html#a44633f327419f09d1fc5473c5321f75c", null ],
+    [ "operator-", "d1/dcd/structAForge_1_1DoublePoint.html#a1b211d536d4065ec46fbd7fe10a74d2e", null ],
+    [ "Subtract", "d1/dcd/structAForge_1_1DoublePoint.html#ade5615fd68e2777136f567edb444f27d", null ],
+    [ "operator*", "d1/dcd/structAForge_1_1DoublePoint.html#afb7704fe467ec5abf48b6adfa418168c", null ],
+    [ "Multiply", "d1/dcd/structAForge_1_1DoublePoint.html#a9ca71340e7a66191c355badf4d78eedd", null ],
+    [ "operator/", "d1/dcd/structAForge_1_1DoublePoint.html#a5db9983d9b836b522b8fcc9bb7e46804", null ],
+    [ "Divide", "d1/dcd/structAForge_1_1DoublePoint.html#aa4b4d96409d827e39581b3f53886e81b", null ],
+    [ "operator==", "d1/dcd/structAForge_1_1DoublePoint.html#a96cc295bda17176ad2c8d836ae287676", null ],
+    [ "operator!=", "d1/dcd/structAForge_1_1DoublePoint.html#a8d74ae38cae281400eb08e119fd3be9a", null ],
+    [ "Equals", "d1/dcd/structAForge_1_1DoublePoint.html#aebc9e7147d0a3eb6bd18e5beab1dac43", null ],
+    [ "GetHashCode", "d1/dcd/structAForge_1_1DoublePoint.html#a910496eb5ea210489c56840709855808", null ],
+    [ "operator IntPoint", "d1/dcd/structAForge_1_1DoublePoint.html#ad3d62fdafb63ba5db5330c47001e0430", null ],
+    [ "operator Point", "d1/dcd/structAForge_1_1DoublePoint.html#a298225c95339e62d9b9a2e257faa4d78", null ],
+    [ "Round", "d1/dcd/structAForge_1_1DoublePoint.html#a73dc38413d338eb65142a3c6ba21a983", null ],
+    [ "ToString", "d1/dcd/structAForge_1_1DoublePoint.html#aada0b47c4a550f3497ef059aa79a7041", null ],
+    [ "EuclideanNorm", "d1/dcd/structAForge_1_1DoublePoint.html#a989cece9157a8592037bc1a797bdf80d", null ],
+    [ "X", "d1/dcd/structAForge_1_1DoublePoint.html#a7d1346da71e632a1d85f566afa127237", null ],
+    [ "Y", "d1/dcd/structAForge_1_1DoublePoint.html#a4563e9e0acc555e7e614d90275bcec5f", null ]
+];

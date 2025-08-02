@@ -1,0 +1,26 @@
+var classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering =
+[
+    [ "HSLFiltering", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a346f0a4fcd6aff31513357b1b07756f3", null ],
+    [ "HSLFiltering", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#aaff78904b36e87d75d0fc753d8790dd1", null ],
+    [ "ProcessFilter", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#acce86f16b919fa196bcb62ac6dc09ad3", null ],
+    [ "hue", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a74e5a6cc454d08d896d0d218021491bb", null ],
+    [ "saturation", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#ac5a0c808c04657e3d0d66a35eeabc6f8", null ],
+    [ "luminance", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#add23ac5b062bb3fbfe292cc37e274b85", null ],
+    [ "fillH", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a464a2f98982a9e1c186407774201741f", null ],
+    [ "fillS", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#ab19be0ff7d9cd0bf4f2322e6f224260f", null ],
+    [ "fillL", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#aab8c3090436b39073cb262f36534753f", null ],
+    [ "fillOutsideRange", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#ab55558d5bba4a69ffd0cf55da1f935eb", null ],
+    [ "updateH", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#ad752c7fe7538626bf81e510718ce6b86", null ],
+    [ "updateS", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a0d461b9da2b339c1941214a2bc20ec18", null ],
+    [ "updateL", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a4ef231b899a94ccd241fcc0832427196", null ],
+    [ "formatTranslations", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#aa70c098a98a6d8deac71967e3cd82023", null ],
+    [ "FormatTranslations", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a212ce59420f273e3f90310e370e1b102", null ],
+    [ "Hue", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a4bed7534d11b5f889bfd0622669bcc19", null ],
+    [ "Saturation", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#aa86dfa53ee9d16cede9e3d16bff5d36b", null ],
+    [ "Luminance", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a62d7854920407ee96b7d5dafe6597f15", null ],
+    [ "FillColor", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#adc0482a461c3b9e5db37781cb2bdde16", null ],
+    [ "FillOutsideRange", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a7161a48c1a2b85b941b7d9466b0686f1", null ],
+    [ "UpdateHue", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a88f6d88cf73a5090e9726efad57ab6d2", null ],
+    [ "UpdateSaturation", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#af3901423de81b5f389e020953e6334b9", null ],
+    [ "UpdateLuminance", "d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html#a0782e58dd8e2aef833c286c1242eda59", null ]
+];

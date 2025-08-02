@@ -1,0 +1,5 @@
+<map id="IG.Num.DifferentialFirstOrderSystemBase" name="IG.Num.DifferentialFirstOrderSystemBase">
+<area shape="rect" id="node1" title="Base class for definition of a system of first order ordinary differential equations (initial problem..." alt="" coords="124,5,280,47"/>
+<area shape="rect" id="node2" href="$d7/d9b/classIG_1_1Num_1_1DifferentialHarmonicOscillation.html" title="Defines a system of first order ordinary diferential equations with initial conditions for dumped har..." alt="" coords="5,95,191,136"/>
+<area shape="rect" id="node3" href="$de/dea/classIG_1_1Num_1_1DiffLorenzOscillator.html" title="System of first order differential equations fro Lorentz Oscillator." alt="" coords="215,102,397,129"/>
+</map>

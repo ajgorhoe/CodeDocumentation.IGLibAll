@@ -1,0 +1,26 @@
+var classTwoCamerasTest_1_1MainForm =
+[
+    [ "MainForm", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#ae88f008e917a3bb97e2a4e06b5c09b16", null ],
+    [ "MainForm_FormClosing", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a46dc5ef805601201a50fb409d51f4d64", null ],
+    [ "startButton_Click", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#ab750f6486aff44f501d5a2236cf3d8b7", null ],
+    [ "stopButton_Click", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a7118de70b7b0a2b826d6b51fa480f881", null ],
+    [ "StartCameras", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#abd227862ff8590540367f59d434c8196", null ],
+    [ "StopCameras", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a71d2ceaaed70d46adbacc53fb763a288", null ],
+    [ "timer_Tick", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#ae79781c05bf4405abf4b2f506c236cf3", null ],
+    [ "Dispose", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a6cb5ea35ed300a1f92eb579b371658a7", null ],
+    [ "InitializeComponent", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a1aceac4b62d289bbc0ca272ae6accc9e", null ],
+    [ "videoDevices", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a96069cf5c4bd260c76f49a2f8faa4704", null ],
+    [ "stopWatch", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a159ee6dac1fcc27d62455520c0e4796e", null ],
+    [ "components", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a6a80d7d2ef0a1d04816e1641e542654d", null ],
+    [ "videoSourcePlayer1", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#ae3d419417b054f9d2b5401b40275118a", null ],
+    [ "videoSourcePlayer2", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a90709d9d31bc2ea7d3d61e8b97cd985d", null ],
+    [ "groupBox1", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a8b572ad7f484b3c4a7899fea98305333", null ],
+    [ "camera1Combo", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#ab40d3e18afee7f2fddfd6458d047b85c", null ],
+    [ "groupBox2", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a1a2eef6da75c2d0a4283b0af8cfde677", null ],
+    [ "camera2Combo", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a43086bd0216cc4d027abdc9626f789a5", null ],
+    [ "startButton", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a0928f14815e673df09c93acf2e433ea1", null ],
+    [ "stopButton", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a01c793cc3c0e7cb219be359f6af414dd", null ],
+    [ "camera1FpsLabel", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#adf7f57c1f7d3eab189e0fcdbb324111f", null ],
+    [ "timer", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a916dd969d49401a192f483c69db1b509", null ],
+    [ "camera2FpsLabel", "d8/d0a/classTwoCamerasTest_1_1MainForm.html#a236e15598800d25962b930a01e8ccb0f", null ]
+];

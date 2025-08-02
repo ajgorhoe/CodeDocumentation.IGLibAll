@@ -1,0 +1,28 @@
+var classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests =
+[
+    [ "SetUp", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a4d85e4bfc9ee0d38fe83a47ce3269a5e", null ],
+    [ "TearDown", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a6d6d6e7bbfd0a7e8907ede5b453ab45b", null ],
+    [ "PassesWhenFileInfoExists", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#af6714422fe1519ca892dc1dae73ff333", null ],
+    [ "PassesWhenDirectoryInfoExists", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#abde7e3a95ed5cd63940e8e64051e6ce0", null ],
+    [ "PassesWhenFileStringExists", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#ae062f8b2d190039c557dbf40d9b8e9a3", null ],
+    [ "PassesWhenDirectoryStringExists", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#ad9f56d8bd909ac53f4139efe6febb04d", null ],
+    [ "FailsWhenIgnoreFilesIsTrueWithFileString", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#afb9bb32dab3d98922bc59148f626f6f0", null ],
+    [ "FailsWhenIgnoreFilesIsTrueWithFileInfo", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a582e202776afaf9eafd8f5d33dde6251", null ],
+    [ "FailsWhenIgnoreDirectoriesIsTrueWithDirectoryString", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a4c2adc8a788e90ddce7720c64806b4de", null ],
+    [ "FailsWhenIgnoreDirectoriesIsTrueWithDirectoryInfo", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#af6965d520ffe6ad332fa24fd235ca227", null ],
+    [ "FailsWhenDirectoryInfoDoesNotExist", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a95d5a7eb99e212c0b68e5a32e166f685", null ],
+    [ "FailsWhenFileInfoDoesNotExist", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a1868b2357b0cc40980bec04c4ef54f30", null ],
+    [ "FailsWhenFileStringDoesNotExist", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a4d6a4ba1abb6790f6f54577b2bbc9422", null ],
+    [ "FailsWhenDirectoryStringDoesNotExist", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#ae6fe112eda04b579d9588e9d372f78fe", null ],
+    [ "FailsWhenNotStringOrDirectoryInfo", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#ac09524116030f7e2bbb4d82b2cf9c9f9", null ],
+    [ "FailsWhenFileInfoIsNull", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#ad8feac12f595ec601fc10f8c1d19c950", null ],
+    [ "FailsWhenDirectoryInfoIsNull", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a49e26eebf2138aa8045497b95d4378b4", null ],
+    [ "FailsWhenStringIsNull", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a8ef15db7bd115f75858ccfe149c24d73", null ],
+    [ "FailsWhenStringIsEmpty", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a7cc5318092387aaf43791bbb7ef68cbe", null ],
+    [ "_constraint", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a345570609075874d89a786f5785cd2d5", null ],
+    [ "_goodDir", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#af026ccd6947f36e14db69ecec61645a1", null ],
+    [ "BAD_DIRECTORY", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a0c8678c9d7cbc9e4bc3e0be9c8cc054c", null ],
+    [ "BAD_FILE", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#a37e5ff5949ac29f1dc8f2ae2132f3de8", null ],
+    [ "TEST_FILE", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#ae149c2913f69d82ef1a577ba219f0a57", null ],
+    [ "RESOURCE_FILE", "d2/d35/classNUnit_1_1Framework_1_1Tests_1_1Constraints_1_1FileOrDirectoryExistsConstraintTests.html#ae7b3ed6c27abc3361a427e781551ebe3", null ]
+];

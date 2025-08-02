@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['jaccarddistance_36586',['JaccardDistance',['../d8/d6d/classAForge_1_1Math_1_1Metrics_1_1JaccardDistance.html',1,'AForge::Math::Metrics']]],
+  ['jacobianelliptic_36587',['jacobianelliptic',['../d7/d3c/classalglib_1_1jacobianelliptic.html',1,'alglib']]],
+  ['jarquebera_36588',['jarquebera',['../d5/de6/classalglib_1_1jarquebera.html',1,'alglib']]],
+  ['jarvisjudiceninkecolordithering_36589',['JarvisJudiceNinkeColorDithering',['../d2/d32/classAForge_1_1Imaging_1_1ColorReduction_1_1JarvisJudiceNinkeColorDithering.html',1,'AForge::Imaging::ColorReduction']]],
+  ['jarvisjudiceninkedithering_36590',['JarvisJudiceNinkeDithering',['../da/dc9/classAForge_1_1Imaging_1_1Filters_1_1JarvisJudiceNinkeDithering.html',1,'AForge::Imaging::Filters']]],
+  ['jitter_36591',['Jitter',['../d7/dea/classAForge_1_1Imaging_1_1Filters_1_1Jitter.html',1,'AForge::Imaging::Filters']]],
+  ['jmatproelemetdata_36592',['JMatProElemetData',['../d7/dd7/classIG_1_1Lib_1_1JMatProElemetData.html',1,'IG::Lib']]],
+  ['jmatresultinfo_36593',['JMatResultInfo',['../dd/dc3/classIG_1_1Num_1_1SimJMatProFileManagerBase_1_1JMatResultInfo.html',1,'IG::Num::SimJMatProFileManagerBase']]],
+  ['joycaps_36594',['JOYCAPS',['../de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html',1,'AForge::Controls::JoystickAPI']]],
+  ['joyinfo_36595',['JOYINFO',['../d6/d47/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYINFO.html',1,'AForge::Controls::JoystickAPI']]],
+  ['joyinfoex_36596',['JOYINFOEX',['../d9/d78/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYINFOEX.html',1,'AForge::Controls::JoystickAPI']]],
+  ['joystick_36597',['Joystick',['../d8/d38/classAForge_1_1Controls_1_1Joystick.html',1,'AForge::Controls']]],
+  ['jpegstream_36598',['JPEGStream',['../dc/df9/classAForge_1_1Video_1_1JPEGStream.html',1,'AForge::Video']]],
+  ['json_36599',['Json',['../dc/da8/classIG_1_1Test_1_1Json.html',1,'IG::Test']]],
+  ['jsonextensions_36600',['JsonExtensions',['../d1/d61/classJsonPrettyPrinterPlus_1_1JsonSerialization_1_1JsonExtensions.html',1,'JsonPrettyPrinterPlus::JsonSerialization']]],
+  ['jsonformatter_36601',['JsonFormatter',['../d0/d0d/classIG_1_1Lib_1_1JsonFormatter.html',1,'IG::Lib']]],
+  ['jsonppstrategycontext_36602',['JsonPPStrategyContext',['../d1/d53/classJsonPrettyPrinterPlus_1_1JsonPrettyPrinterInternals_1_1JsonPPStrategyContext.html',1,'JsonPrettyPrinterPlus::JsonPrettyPrinterInternals']]],
+  ['jsonprettyprinter_36603',['JsonPrettyPrinter',['../d4/de5/classJsonPrettyPrinterPlus_1_1JsonPrettyPrinter.html',1,'JsonPrettyPrinterPlus']]],
+  ['jsonserializeroptionsfactorybasic_36604',['JsonSerializerOptionsFactoryBasic',['../d0/d90/classIGLib_1_1Core_1_1JsonSerializerOptionsFactoryBasic.html',1,'IGLib::Core']]],
+  ['justsomething_36605',['JustSomething',['../d6/d46/classIG_1_1Lib_1_1JustSomething.html',1,'IG::Lib']]]
+];

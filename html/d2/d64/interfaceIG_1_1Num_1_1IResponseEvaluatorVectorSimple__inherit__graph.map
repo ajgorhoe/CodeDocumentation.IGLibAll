@@ -1,0 +1,11 @@
+<map id="IG.Num.IResponseEvaluatorVectorSimple" name="IG.Num.IResponseEvaluatorVectorSimple">
+<area shape="rect" id="node1" title="Interface for simulators and other systems (used e.g. for optimization) that can calculate vector res..." alt="" coords="5,165,189,207"/>
+<area shape="rect" id="node2" href="$d9/dae/classIG_1_1Num_1_1ConvectionRobertFileManager.html" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="521,52,713,93"/>
+<area shape="rect" id="node4" href="$d7/d07/classIG_1_1Num_1_1NafemsTestRoberrFileManager.html" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="767,115,965,156"/>
+<area shape="rect" id="node5" href="$df/d43/classIG_1_1Num_1_1SimCastingRobertFileManager.html" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="255,5,451,47"/>
+<area shape="rect" id="node6" href="$d9/dfc/classIG_1_1Num_1_1SimKosecFileManagerBase.html" title="File manager for interfacing (for optimization purposes) the simulation code of Gregor Kosec." alt="" coords="237,223,468,250"/>
+<area shape="rect" id="node7" href="$df/dee/classIG_1_1Num_1_1SimKosecFileManagerConvBase.html" title="Base class for interface with simulator of G. Kosec for convection problems in a cave with obstacles." alt="" coords="516,235,717,276"/>
+<area shape="rect" id="node8" href="$d3/d50/classIG_1_1Num_1_1SimKosecFileManagerConv2.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 2 obstacles." alt="" coords="765,197,967,239"/>
+<area shape="rect" id="node9" href="$d4/d0f/classIG_1_1Num_1_1SimKosecFileManagerConv3.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 3 obstacles." alt="" coords="765,299,967,340"/>
+<area shape="rect" id="node3" href="$df/d6a/classIG_1_1Num_1_1ConvectionRev1RobertFileManager.html" title=" " alt="" coords="767,49,965,91"/>
+</map>

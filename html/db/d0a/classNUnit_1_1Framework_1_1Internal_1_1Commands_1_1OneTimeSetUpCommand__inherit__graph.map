@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.Commands.OneTimeSetUpCommand" name="NUnit.Framework.Internal.Commands.OneTimeSetUpCommand">
+<area shape="rect" id="node1" title="OneTimeSetUpCommand runs any one&#45;time setup methods for a suite, constructing the user test object if..." alt="" coords="5,80,244,121"/>
+<area shape="rect" id="node2" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="71,5,178,32"/>
+</map>

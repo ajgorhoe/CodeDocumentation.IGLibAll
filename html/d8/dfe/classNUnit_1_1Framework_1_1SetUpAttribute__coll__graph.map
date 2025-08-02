@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.SetUpAttribute" name="NUnit.Framework.SetUpAttribute">
+<area shape="rect" id="node1" title="Attribute used to mark a class that contains one&#45;time SetUp and/or TearDown methods that apply to all..." alt="" coords="5,155,216,181"/>
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="59,80,162,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="75,5,146,32"/>
+</map>

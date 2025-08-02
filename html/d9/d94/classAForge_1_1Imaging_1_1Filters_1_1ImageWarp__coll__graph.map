@@ -1,0 +1,7 @@
+<map id="AForge.Imaging.Filters.ImageWarp" name="AForge.Imaging.Filters.ImageWarp">
+<area shape="rect" id="node1" title="Image warp effect filter." alt="" coords="67,171,289,197"/>
+<area shape="rect" id="node2" href="$d0/d25/classAForge_1_1Imaging_1_1Filters_1_1BaseFilter.html" title="Base class for filters, which produce new image of the same size as a result of image processing." alt="" coords="47,81,128,108"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node4" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="85,5,202,32"/>
+<area shape="rect" id="node5" href="$dc/d3d/structAForge_1_1IntPoint.html" title="Structure for representing a pair of coordinates of integer type." alt="" coords="153,81,265,108"/>
+</map>

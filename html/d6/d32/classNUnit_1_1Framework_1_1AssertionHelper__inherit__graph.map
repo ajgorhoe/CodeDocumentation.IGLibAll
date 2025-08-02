@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.AssertionHelper" name="NUnit.Framework.AssertionHelper">
+<area shape="rect" id="node1" title="AssertionHelper is an optional base class for user tests, allowing the use of shorter ids for constra..." alt="" coords="179,136,360,177"/>
+<area shape="rect" id="node3" href="$d4/da1/classNUnit_1_1Framework_1_1Assertions_1_1ArrayEqualsFixture.html" title="Summary description for ArrayEqualTests." alt="" coords="415,5,607,47"/>
+<area shape="rect" id="node4" href="$dd/d49/classNUnit_1_1Framework_1_1Assertions_1_1ArrayNotEqualFixture.html" title="Summary description for ArrayNotEqualFixture." alt="" coords="415,71,607,112"/>
+<area shape="rect" id="node5" href="$df/da3/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriterTests.html" title=" " alt="" coords="425,136,597,177"/>
+<area shape="rect" id="node6" href="$de/d55/classNUnit_1_1Framework_1_1Syntax_1_1InvalidCodeTests.html" title=" " alt="" coords="408,201,615,243"/>
+<area shape="rect" id="node7" href="$dd/d19/classNUnit_1_1Framework_1_1Tests_1_1AssertSyntaxTests.html" title="This test fixture attempts to exercise all the syntactic variations of Assert without getting into fa..." alt="" coords="411,267,611,308"/>
+<area shape="rect" id="node2" href="$d2/dab/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintFactory.html" title="Helper class with properties and methods that supply a number of constraints used in Asserts." alt="" coords="5,143,131,170"/>
+</map>

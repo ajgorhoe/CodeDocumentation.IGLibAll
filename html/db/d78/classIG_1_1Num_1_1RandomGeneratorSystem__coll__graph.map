@@ -1,0 +1,5 @@
+<map id="IG.Num.RandomGeneratorSystem" name="IG.Num.RandomGeneratorSystem">
+<area shape="rect" id="node1" title="Generator of uniformly distributed random numbers. Based on system random generator...." alt="" coords="31,80,251,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,128,32"/>
+<area shape="rect" id="node3" href="$d4/d43/interfaceIG_1_1Num_1_1IRandomGenerator.html" title="Uniform random number generator." alt="" coords="152,5,283,32"/>
+</map>

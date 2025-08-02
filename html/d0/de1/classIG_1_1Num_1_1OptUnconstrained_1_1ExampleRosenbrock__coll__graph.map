@@ -1,0 +1,13 @@
+<map id="IG.Num.OptUnconstrained.ExampleRosenbrock" name="IG.Num.OptUnconstrained.ExampleRosenbrock">
+<area shape="rect" id="node1" title="The Rosenbrock&#39;s unconstrained optimization problem (2D)." alt="" coords="932,113,1111,154"/>
+<area shape="rect" id="node2" href="$dd/d1e/classIG_1_1Num_1_1AnalysisBase.html" title="Base class for direct analysis classes that define optimization problems. Represent the complete defi..." alt="" coords="627,43,730,70"/>
+<area shape="rect" id="node3" href="$d5/d59/interfaceIG_1_1Num_1_1IAnalysis.html" title="Interface for direct analysis classes used in optimization problems." alt="" coords="325,10,399,36"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="323,87,401,114"/>
+<area shape="rect" id="node5" href="$d8/d86/interfaceIG_1_1Num_1_1IMatrix.html" title="Generic Matrix interface." alt="" coords="269,145,455,186"/>
+<area shape="rect" id="node7" href="$d2/d85/classIG_1_1Num_1_1ScalarFunctionBase.html" title="Base class for scalar functions with affine transformation of co&#45;ordinates. The reference function is..." alt="" coords="585,302,772,328"/>
+<area shape="rect" id="node6" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="291,236,433,263"/>
+<area shape="rect" id="node8" href="$d2/d9e/classIG_1_1Num_1_1ScalarFunctionUntransformedBase.html" title="Base class for defining scalar functions without possibility of affine transformation of parameters." alt="" coords="251,300,473,327"/>
+<area shape="rect" id="node9" href="$d8/d56/interfaceIG_1_1Num_1_1IScalarFunctionUntransformed.html" title="Scalar functions of vector arguments." alt="" coords="5,324,201,351"/>
+<area shape="rect" id="node10" href="$dd/d1e/interfaceIG_1_1Num_1_1IScalarFunction.html" title="Scalar functions of vector arguments, with eventual affine transformation of parameters...." alt="" coords="306,351,418,378"/>
+<area shape="rect" id="node11" href="$d5/d50/interfaceIG_1_1Num_1_1IAffineTransformation.html" title="Affine Transformation." alt="" coords="267,402,457,428"/>
+</map>

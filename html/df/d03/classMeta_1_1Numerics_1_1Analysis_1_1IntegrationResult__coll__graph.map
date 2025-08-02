@@ -1,0 +1,6 @@
+<map id="Meta.Numerics.Analysis.IntegrationResult" name="Meta.Numerics.Analysis.IntegrationResult">
+<area shape="rect" id="node1" title="Represents the result of a numerical integration." alt="" coords="143,199,371,240"/>
+<area shape="rect" id="node2" href="$d0/d55/classMeta_1_1Numerics_1_1Analysis_1_1EvaluationResult.html" title="Represents the result of a function analysis." alt="" coords="59,109,178,136"/>
+<area shape="rect" id="node3" href="$d1/dcf/classMeta_1_1Numerics_1_1Analysis_1_1EvaluationSettings.html" title="Contains settings controling the evaluation of a function." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node4" href="$da/df2/structMeta_1_1Numerics_1_1UncertainValue.html" title="Represents a value with an associated uncertainty." alt="" coords="203,109,405,136"/>
+</map>

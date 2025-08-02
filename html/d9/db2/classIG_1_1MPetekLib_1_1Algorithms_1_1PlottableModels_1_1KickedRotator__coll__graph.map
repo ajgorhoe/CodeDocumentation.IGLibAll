@@ -1,0 +1,4 @@
+<map id="IG.MPetekLib.Algorithms.PlottableModels.KickedRotator" name="IG.MPetekLib.Algorithms.PlottableModels.KickedRotator">
+<area shape="rect" id="node1" title="A discrete dynamical system: an electric dipole moment, which is free to rotate, in a pulsating elect..." alt="" coords="5,80,207,121"/>
+<area shape="rect" id="node2" href="$d2/d4f/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableModelBase.html" title="A template class for physical models. Each child should define its own plottable curves)." alt="" coords="37,5,175,32"/>
+</map>

@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['_7eapproximatorwlslinearbase_57596',['~ApproximatorWlsLinearBase',['../da/d61/classIG_1_1Num_1_1ApproximatorWlsLinearBase.html#ad390a074e0ab9ff0eded98b7c9586790',1,'IG::Num::ApproximatorWlsLinearBase']]],
+  ['_7eavireader_57597',['~AVIReader',['../dc/d50/classAForge_1_1Video_1_1VFW_1_1AVIReader.html#a7cb6be6c11b4977e0adad07b38389c2a',1,'AForge::Video::VFW::AVIReader']]],
+  ['_7eaviwriter_57598',['~AVIWriter',['../d9/d27/classAForge_1_1Video_1_1VFW_1_1AVIWriter.html#afc1e65315906ef054a90c396b579a5ef',1,'AForge::Video::VFW::AVIWriter']]],
+  ['_7ecommandline_57599',['~CommandLine',['../d3/d58/classIG_1_1Lib_1_1CommandLine.html#a4e9996b68040279d6f74e4040cc2c45e',1,'IG::Lib::CommandLine']]],
+  ['_7ecommandlineinterpreter_57600',['~CommandLineInterpreter',['../d7/db9/classIG_1_1Lib_1_1CommandLineInterpreter.html#a19abaffc48d36ec2e77839fa9d646b52',1,'IG::Lib::CommandLineInterpreter']]],
+  ['_7eevaluatorbase_57601',['~EvaluatorBase',['../dc/d26/classIG_1_1Num_1_1EvaluatorBase.html#a094e9eb74811cf663c99b29528dfd99c',1,'IG.Num.EvaluatorBase.~EvaluatorBase()'],['../d9/dd9/classIG_1_1NumExperimental_1_1EvaluatorBase.html#aa2cdfee8aedf4b60ab0ce1ed2cb6e4b3',1,'IG.NumExperimental.EvaluatorBase.~EvaluatorBase()']]],
+  ['_7egeneralmatrix_57602',['~GeneralMatrix',['../dc/d5d/classDotNetMatrix_1_1GeneralMatrix.html#ab6e728786e144e1b89061d87567ae325',1,'DotNetMatrix.GeneralMatrix.~GeneralMatrix()'],['../dc/d5d/classDotNetMatrix_1_1GeneralMatrix.html#ab6e728786e144e1b89061d87567ae325',1,'DotNetMatrix.GeneralMatrix.~GeneralMatrix()']]],
+  ['_7ehtmlwriter_57603',['~HtmlWriter',['../d7/d9f/classIG_1_1Lib_1_1HtmlWriter.html#ae2928696b61591d3c6cee09d48b869b8',1,'IG::Lib::HtmlWriter']]],
+  ['_7ekinect_57604',['~Kinect',['../d3/d6c/classAForge_1_1Video_1_1Kinect_1_1Kinect.html#a6303c81337af801a7d2c8dfb6f667607',1,'AForge::Video::Kinect::Kinect']]],
+  ['_7ememoryleakstest_57605',['~MemoryLeaksTest',['../d8/df5/classMemoryLeaksTest.html#ac4627a0844c782608a9b24f47267f7e2',1,'MemoryLeaksTest.~MemoryLeaksTest()'],['../d8/df5/classMemoryLeaksTest.html#ac4627a0844c782608a9b24f47267f7e2',1,'MemoryLeaksTest.~MemoryLeaksTest()']]],
+  ['_7enxtbrick_57606',['~NXTBrick',['../d2/d80/classAForge_1_1Robotics_1_1Lego_1_1NXTBrick.html#ac594509ffc1e5b1651ecc8341f9deef8',1,'AForge::Robotics::Lego::NXTBrick']]],
+  ['_7eplotterzedgraph_57607',['~PlotterZedGraph',['../d9/dcf/classIG_1_1Gr_1_1PlotterZedGraph.html#a8bd9b3d4650078504d70a214b085bc9e',1,'IG::Gr::PlotterZedGraph']]],
+  ['_7eplotzedgraphbase_57608',['~PlotZedGraphBase',['../d6/d16/classIG_1_1Gr_1_1PlotZedGraphBase.html#ac05125871d08029cec294a58b600fe41',1,'IG::Gr::PlotZedGraphBase']]],
+  ['_7ercxbrick_57609',['~RCXBrick',['../de/d5f/classAForge_1_1Robotics_1_1Lego_1_1RCXBrick.html#a1bc5778f6908813b318fd6b24f5b8bf3',1,'AForge::Robotics::Lego::RCXBrick']]],
+  ['_7ereporterbase_57610',['~ReporterBase',['../d4/de2/classIG_1_1Lib_1_1ReporterBase.html#a373d8686d8c31c547f19bda6a834695c',1,'IG::Lib::ReporterBase']]],
+  ['_7eunmanagedimage_57611',['~UnmanagedImage',['../d0/d77/classAForge_1_1Imaging_1_1UnmanagedImage.html#a2eb877d4cb6380cbfa690ad430154870',1,'AForge::Imaging::UnmanagedImage']]],
+  ['_7evtkplotbase_57612',['~VtkPlotBase',['../de/dac/classIG_1_1Gr3d_1_1VtkPlotBase.html#a48b738955ec5fdd698944a1b702a292e',1,'IG::Gr3d::VtkPlotBase']]],
+  ['_7evtkplotter_57613',['~VtkPlotter',['../d4/d40/classIG_1_1Gr3d_1_1VtkPlotter.html#a670566debd79fe5cd16b19ddb9d133bf',1,'IG::Gr3d::VtkPlotter']]]
+];

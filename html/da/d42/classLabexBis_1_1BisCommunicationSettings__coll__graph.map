@@ -1,0 +1,8 @@
+<map id="LabexBis.BisCommunicationSettings" name="LabexBis.BisCommunicationSettings">
+<area shape="rect" id="node1" title="Holds settings used by the Labex &#45; Bis communication module." alt="" coords="134,247,323,288"/>
+<area shape="rect" id="node2" href="$df/d82/classIG_1_1Lib_1_1SettingsReaderAppConfig.html" title="Provides functionality for retrieving settings from various sources such as application settings file..." alt="" coords="41,157,211,184"/>
+<area shape="rect" id="node3" href="$dc/d76/classIG_1_1Lib_1_1SettingsReaderBase.html" title=" " alt="" coords="55,81,197,108"/>
+<area shape="rect" id="node4" href="$d9/df4/interfaceIG_1_1Lib_1_1ISettingsRreader.html" title="Interface for settings readers, which read pairs key/vvalue from various files or configuration serve..." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="149,5,226,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="236,157,291,184"/>
+</map>

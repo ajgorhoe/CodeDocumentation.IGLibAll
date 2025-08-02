@@ -1,0 +1,6 @@
+<map id="IG.Forms.FadingMessageOld" name="IG.Forms.FadingMessageOld">
+<area shape="rect" id="node1" title="Manages a fading message window. Windows containing a message are launched in separate threads,..." alt="" coords="140,271,332,297"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="203,13,269,39"/>
+<area shape="rect" id="node4" title=" " alt="" coords="381,13,435,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="IG.Script.ShellIGLib" name="IG.Script.ShellIGLib">
+<area shape="rect" id="node1" title="Shell application to be installed in script application of the current program." alt="" coords="87,185,223,212"/>
+<area shape="rect" id="node2" href="$d4/d93/classIG_1_1Lib_1_1ShellApplication.html" title=" " alt="" coords="5,81,192,123"/>
+<area shape="rect" id="node3" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="216,89,347,115"/>
+<area shape="rect" id="node4" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities." alt="" coords="159,5,268,32"/>
+<area shape="rect" id="node5" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="293,5,403,32"/>
+</map>

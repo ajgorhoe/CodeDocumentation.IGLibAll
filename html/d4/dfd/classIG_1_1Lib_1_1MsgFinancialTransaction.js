@@ -1,0 +1,27 @@
+var classIG_1_1Lib_1_1MsgFinancialTransaction =
+[
+    [ "MsgFinancialTransaction", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a585b9ab919755c46a5b1cda9f2f552b2", null ],
+    [ "Read", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a78a20324988e69f11602930c4364dd89", null ],
+    [ "Read", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#ac0f2a963f30a025865a8cbce6c9b5bc9", null ],
+    [ "CheckConsistency", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a5d43a7894c2318182239ee43453c8f29", null ],
+    [ "ToString", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a1300c34d68115a75dc6ccae76a03fbfc", null ],
+    [ "GenerateMessageId", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a9f4ee18cfd9126b75396b4013d769427", null ],
+    [ "ToXml", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a4bdb6f1bc6af14c164091d8763ebb69b", null ],
+    [ "ActionRoot", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#ae9e2b519a183240e3f6d27ed939d2eae", null ],
+    [ "ActionCode", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#ae69a63a1ac490c44a17b49e308cbf31f", null ],
+    [ "MessageCode", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#ad2a47a2dfd037e3edf36d64bb4670a52", null ],
+    [ "MessageCodeSystem", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a51b67249401107372d36b9ab19bdac6e", null ],
+    [ "BisOrderId", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a4949f0d568fed2ad71f6353e9cdc30e1", null ],
+    [ "BisOrderIdOid", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a5215b189733aa2750ed5e9a6c4f26e0b", null ],
+    [ "AuthorId", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#af252aa1a97ad4870958229a5c5922f65", null ],
+    [ "AuthorIdOid", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#ae13d3f4f0069eb86de34a5d2defb930b", null ],
+    [ "OrderStatus", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#af658e4a2b7104bbff95a6b717b39cca3", null ],
+    [ "CreationTime", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a5acb0c19ba82216bfaf418ec20acf6ed", null ],
+    [ "EffectiveTime", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a5a2db32c3c617d6b8d8474407802e109", null ],
+    [ "ActivityTime", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#aede61f0c1f03470dbe65eaa3addca758", null ],
+    [ "Services", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a127d233832352d204532c7ff8879dcad", null ],
+    [ "Id", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a12c23565e44eb6571953dc0a30568388", null ],
+    [ "IdWithinSession", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#af37e412dbc889ad18e053860e3269656", null ],
+    [ "_modelFile", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a8eb674889f40728bc637ebebaeb20865", null ],
+    [ "ModelDocument", "d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html#a7dd8050aa32549265a73591ce1e32288", null ]
+];

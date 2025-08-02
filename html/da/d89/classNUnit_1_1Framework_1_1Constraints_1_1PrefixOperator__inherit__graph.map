@@ -1,0 +1,11 @@
+<map id="NUnit.Framework.Constraints.PrefixOperator" name="NUnit.Framework.Constraints.PrefixOperator">
+<area shape="rect" id="node1" title="PrefixOperator takes a single constraint and modifies it&#39;s action in some way." alt="" coords="184,168,380,209"/>
+<area shape="rect" id="node3" href="$d2/d23/classNUnit_1_1Framework_1_1Constraints_1_1CollectionOperator.html" title="Abstract base for operators that indicate how to apply a constraint to items in a collection." alt="" coords="428,103,624,144"/>
+<area shape="rect" id="node8" href="$d7/d21/classNUnit_1_1Framework_1_1Constraints_1_1NotOperator.html" title="Negates the test of the constraint it wraps." alt="" coords="428,168,624,209"/>
+<area shape="rect" id="node9" href="$d4/da8/classNUnit_1_1Framework_1_1Constraints_1_1WithOperator.html" title="Represents a constraint that simply wraps the constraint provided as an argument, without any further..." alt="" coords="428,233,624,275"/>
+<area shape="rect" id="node2" href="$df/d41/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintOperator.html" title="The ConstraintOperator class is used internally by a ConstraintBuilder to represent an operator that ..." alt="" coords="5,175,136,202"/>
+<area shape="rect" id="node4" href="$d5/db3/classNUnit_1_1Framework_1_1Constraints_1_1AllOperator.html" title="Represents a constraint that succeeds if all the members of a collection match a base constraint." alt="" coords="672,5,868,47"/>
+<area shape="rect" id="node5" href="$d2/d9c/classNUnit_1_1Framework_1_1Constraints_1_1ExactCountOperator.html" title="Represents a constraint that succeeds if the specified count of members of a collection match a base ..." alt="" coords="672,71,868,112"/>
+<area shape="rect" id="node6" href="$da/dd1/classNUnit_1_1Framework_1_1Constraints_1_1NoneOperator.html" title="Represents a constraint that succeeds if none of the members of a collection match a base constraint." alt="" coords="672,136,868,177"/>
+<area shape="rect" id="node7" href="$db/d2a/classNUnit_1_1Framework_1_1Constraints_1_1SomeOperator.html" title="Represents a constraint that succeeds if any of the members of a collection match a base constraint." alt="" coords="672,201,868,243"/>
+</map>

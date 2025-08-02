@@ -1,0 +1,4 @@
+<map id="NeuronDotNet.Core.Backpropagation.ActivationNeuron" name="NeuronDotNet.Core.Backpropagation.ActivationNeuron">
+<area shape="rect" id="node1" title="Activation Neuron is a buiding block of a back&#45;propagation neural network." alt="" coords="5,80,244,121"/>
+<area shape="rect" id="node2" href="$d4/d8e/interfaceNeuronDotNet_1_1Core_1_1INeuron.html" title="Interface representing a neuron. A neuron is a basic building block of a neural network." alt="" coords="91,5,158,32"/>
+</map>

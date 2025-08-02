@@ -1,0 +1,13 @@
+<map id="CShell.Modules.Workspace.ViewModels.AssemblyReferenceViewModel" name="CShell.Modules.Workspace.ViewModels.AssemblyReferenceViewModel">
+<area shape="rect" id="node1" title=" " alt="" coords="988,133,1263,174"/>
+<area shape="rect" id="node2" href="$d7/d97/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1TreeViewModel.html" title=" " alt="" coords="387,64,498,91"/>
+<area shape="rect" id="node3" title=" " alt="" coords="25,5,177,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="35,56,166,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="56,123,145,149"/>
+<area shape="rect" id="node7" href="$d6/dc3/classCShell_1_1AssemblyReferences.html" title=" " alt="" coords="635,140,821,167"/>
+<area shape="rect" id="node9" href="$dc/d7b/classCShell_1_1ScriptingEngine.html" title=" " alt="" coords="365,173,520,200"/>
+<area shape="rect" id="node6" href="$dd/d32/classCShell_1_1AssemblyReference.html" title=" " alt="" coords="638,191,818,217"/>
+<area shape="rect" id="node8" href="$de/d8d/classCShell_1_1Util_1_1ObservableKeyedCollection.html" title=" " alt="" coords="341,225,544,266"/>
+<area shape="rect" id="node10" href="$d0/dc3/interfaceCShellCore_1_1CodeCompletion_1_1ICSharpScriptProvider.html" title="This interface allows to provide more information for scripts such as using statements,..." alt="" coords="27,189,175,216"/>
+<area shape="rect" id="node11" href="$da/dc3/classCShellCore_1_1CodeCompletion_1_1CSharpCompletion.html" title=" " alt="" coords="5,241,196,282"/>
+</map>

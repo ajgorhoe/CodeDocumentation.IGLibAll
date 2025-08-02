@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,133,120"/>
+<area shape="rect" id="node2" href="$dd/d1a/classNUnit_1_1Framework_1_1Constraints_1_1EqualConstraintTests_1_1UsingModifier_1_1IntArrayEqualComparer.html" title=" " alt="" coords="181,5,413,61"/>
+<area shape="rect" id="node3" href="$d6/df9/classNUnit_1_1TestUtilities_1_1Comparers_1_1GenericEqualityComparer.html" title="GenericEqualityComparer is used in testing to ensure that only the IEqualityComparer&lt;T&gt; interface is ..." alt="" coords="197,86,398,127"/>
+<area shape="rect" id="node4" href="$de/d9f/classNUnit_1_1TestUtilities_1_1Comparers_1_1ObjectEqualityComparer.html" title="ObjectEqualityComparer is used in testing to ensure that only methods of the IEqualityComparer interf..." alt="" coords="199,151,396,193"/>
+</map>

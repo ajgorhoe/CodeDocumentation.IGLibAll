@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d90/classIG_1_1Lib_1_1FileOrDirectoryDataBase.html" title="Base class for storing file&#45; or directory&#45; related data." alt="" coords="5,57,209,84"/>
+<area shape="rect" id="node2" href="$d5/dd4/classIG_1_1Lib_1_1DirectoryData.html" title="Generic base class for file data classes (derived from FileDataBaseObsolete) that form a group with c..." alt="" coords="271,5,417,61"/>
+<area shape="rect" id="node3" href="$d6/d35/classIG_1_1Lib_1_1FileData.html" title="Generic base class for file data classes (derived from FileDataBaseObsolete) that form a group with c..." alt="" coords="257,86,431,127"/>
+</map>

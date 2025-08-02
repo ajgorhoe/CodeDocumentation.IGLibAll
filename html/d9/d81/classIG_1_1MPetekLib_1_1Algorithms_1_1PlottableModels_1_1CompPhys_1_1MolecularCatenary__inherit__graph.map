@@ -1,0 +1,4 @@
+<map id="IG.MPetekLib.Algorithms.PlottableModels.CompPhys.MolecularCatenary" name="IG.MPetekLib.Algorithms.PlottableModels.CompPhys.MolecularCatenary">
+<area shape="rect" id="node1" title="A case of simulated annealing." alt="" coords="5,80,248,136"/>
+<area shape="rect" id="node2" href="$d2/d4f/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableModelBase.html" title="A template class for physical models. Each child should define its own plottable curves)." alt="" coords="57,5,196,32"/>
+</map>

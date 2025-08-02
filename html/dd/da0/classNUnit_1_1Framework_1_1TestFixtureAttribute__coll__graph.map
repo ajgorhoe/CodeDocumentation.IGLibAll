@@ -1,0 +1,11 @@
+<map id="NUnit.Framework.TestFixtureAttribute" name="NUnit.Framework.TestFixtureAttribute">
+<area shape="rect" id="node1" title="TestFixtureAttribute is used to mark a class that represents a TestFixture." alt="" coords="693,70,884,111"/>
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="439,5,542,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="63,5,134,32"/>
+<area shape="rect" id="node4" href="$d8/daf/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IFixtureBuilder.html" title="The IFixtureBuilder interface is exposed by a class that knows how to build a TestFixture from one or..." alt="" coords="438,56,543,83"/>
+<area shape="rect" id="node5" href="$d2/d9e/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestFixtureData.html" title="The ITestCaseData interface is implemented by a class that is able to return the data required to cre..." alt="" coords="432,107,549,133"/>
+<area shape="rect" id="node6" href="$dc/d63/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestData.html" title="The ITestData interface is implemented by a class that represents a single instance of a parameterize..." alt="" coords="60,107,137,133"/>
+<area shape="rect" id="node7" href="$d0/dbc/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1NUnitTestFixtureBuilder.html" title="NUnitTestFixtureBuilder is able to build a fixture given a class marked with a TestFixtureAttribute o..." alt="" coords="385,158,596,199"/>
+<area shape="rect" id="node8" href="$d2/dbb/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestCaseBuilder.html" title="The ITestCaseBuilder interface is exposed by a class that knows how to build a test case from certain..." alt="" coords="5,158,192,199"/>
+<area shape="rect" id="node9" title=" " alt="" coords="71,224,126,251"/>
+</map>

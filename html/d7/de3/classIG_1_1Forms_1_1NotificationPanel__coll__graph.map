@@ -1,0 +1,7 @@
+<map id="IG.Forms.NotificationPanel" name="IG.Forms.NotificationPanel">
+<area shape="rect" id="node1" title="Control containing a notification. Can be used in different scanarios &#45; as static notification panel ..." alt="" coords="137,272,314,299"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,153,96,180"/>
+<area shape="rect" id="node3" href="$d4/dcb/classIG_1_1Forms_1_1NotificationParameters.html" title="Contains parameters for GUI notifications." alt="" coords="120,153,331,180"/>
+<area shape="rect" id="node4" title=" " alt="" coords="198,5,253,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="355,153,421,180"/>
+</map>

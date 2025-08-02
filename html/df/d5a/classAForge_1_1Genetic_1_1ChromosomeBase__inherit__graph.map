@@ -1,0 +1,12 @@
+<map id="AForge.Genetic.ChromosomeBase" name="AForge.Genetic.ChromosomeBase">
+<area shape="rect" id="node1" title="Chromosomes&#39; base class." alt="" coords="299,123,523,149"/>
+<area shape="rect" id="node4" href="$dd/db5/classAForge_1_1Genetic_1_1BinaryChromosome.html" title="Binary chromosome, which supports length from 2 till 64." alt="" coords="575,5,805,32"/>
+<area shape="rect" id="node5" href="$da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html" title="Double array chromosome." alt="" coords="596,57,784,98"/>
+<area shape="rect" id="node6" href="$d8/d7a/classAForge_1_1Genetic_1_1GEPChromosome.html" title="The chromosome represents a Gene Expression, which is used for different tasks of Genetic Expression ..." alt="" coords="579,123,801,149"/>
+<area shape="rect" id="node7" href="$da/dcb/classAForge_1_1Genetic_1_1GPTreeChromosome.html" title="Tree chromosome represents a tree of genes, which is is used for different tasks of Genetic Programmi..." alt="" coords="571,173,809,200"/>
+<area shape="rect" id="node8" href="$df/d47/classAForge_1_1Genetic_1_1ShortArrayChromosome.html" title="Short array chromosome." alt="" coords="601,225,779,266"/>
+<area shape="rect" id="node2" href="$d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome.html" title="Chromosome interface." alt="" coords="148,123,251,149"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,123,100,149"/>
+<area shape="rect" id="node9" href="$d9/dc4/classAForge_1_1Genetic_1_1PermutationChromosome.html" title="Permutation chromosome." alt="" coords="857,225,1044,266"/>
+<area shape="rect" id="node10" href="$d2/df0/classTSP_1_1TSPChromosome.html" title="The chromosome is to solve TSP task (Travailing Salesman Problem)." alt="" coords="1092,232,1245,259"/>
+</map>

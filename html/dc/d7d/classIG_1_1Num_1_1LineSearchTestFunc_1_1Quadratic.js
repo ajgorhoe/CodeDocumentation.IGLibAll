@@ -1,0 +1,28 @@
+var classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic =
+[
+    [ "Quadratic", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#afc2ff826f88f87b1a43b83c9a697e78b", null ],
+    [ "Quadratic", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a38ee96a81adbfacabefcd7da20083583", null ],
+    [ "Quadratic", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#ae7db485ab339818f189bc0baf8474cb4", null ],
+    [ "Quadratic", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#afc2ff826f88f87b1a43b83c9a697e78b", null ],
+    [ "Quadratic", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a38ee96a81adbfacabefcd7da20083583", null ],
+    [ "Quadratic", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#ae7db485ab339818f189bc0baf8474cb4", null ],
+    [ "RefValue", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#afdcf271c1b68cb111ab545956a52d584", null ],
+    [ "RefDerivative", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#ae223ec8be6e15bf8e0e276338155cbfc", null ],
+    [ "RefSecondDerivative", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a0eabd18839ce69c87fe1f6c9b828349b", null ],
+    [ "Derivative", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a480823a2b25590f6babc829eb538b9d0", null ],
+    [ "HigherDerivativeDefined", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#ace55c6eb2fc200137b2c2ab218cce184", null ],
+    [ "RefIntegral", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a49597fe7cfa8e2257c612e6ca57378f3", null ],
+    [ "RefInverse", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a6bb37232e094d19f509f473e7a7ac865", null ],
+    [ "RefValue", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#afdcf271c1b68cb111ab545956a52d584", null ],
+    [ "RefDerivative", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#ae223ec8be6e15bf8e0e276338155cbfc", null ],
+    [ "RefSecondDerivative", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a0eabd18839ce69c87fe1f6c9b828349b", null ],
+    [ "Derivative", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a480823a2b25590f6babc829eb538b9d0", null ],
+    [ "HigherDerivativeDefined", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#ace55c6eb2fc200137b2c2ab218cce184", null ],
+    [ "RefIntegral", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a49597fe7cfa8e2257c612e6ca57378f3", null ],
+    [ "RefInverse", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a6bb37232e094d19f509f473e7a7ac865", null ],
+    [ "ValueDefined", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#abc4725efdb57064527148ecdec5fe562", null ],
+    [ "DerivativeDefined", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a976bd262b7a2ffb6a4e9f6337199a5e5", null ],
+    [ "SecondDerivativeDefined", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a9290284cbcf98e9e0ef9f0aecbabf315", null ],
+    [ "IntegralDefined", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#a61d2f396ab4b2321ded9cf0c480df40c", null ],
+    [ "InverseDefined", "dc/d7d/classIG_1_1Num_1_1LineSearchTestFunc_1_1Quadratic.html#ae55590985d9363ff56b8d1ab09579d38", null ]
+];

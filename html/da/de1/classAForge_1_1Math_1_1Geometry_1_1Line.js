@@ -1,0 +1,26 @@
+var classAForge_1_1Math_1_1Geometry_1_1Line =
+[
+    [ "Line", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a465c8aa513771d2af9cd00d90f83d6e0", null ],
+    [ "Line", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#abde0cc007d29becede04c5e976aaac70", null ],
+    [ "Line", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a9744875cad10e8d48a4f690d5c721298", null ],
+    [ "Line", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a66853abe7bb7187be6dc62740210ae1a", null ],
+    [ "FromPoints", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#ab81bd10f9a74958550349ccc39d1dcae", null ],
+    [ "FromSlopeIntercept", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#abbc95e883c3bd871726b6797d88b246e", null ],
+    [ "FromRTheta", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a5944b67d51580d9b6cac9b599f5eaaae", null ],
+    [ "FromPointTheta", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a27c42a8aa72f8e9b6de65bff4ea56696", null ],
+    [ "GetAngleBetweenLines", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a36b7e54354a4a66482db15ebc8103c49", null ],
+    [ "GetIntersectionWith", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a554ed0e2274c5ace3fa34974cd6afc52", null ],
+    [ "GetIntersectionWith", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a83b66f996203b8fc24e9db777143128b", null ],
+    [ "DistanceToPoint", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a2d6f06335c8700ed1ba632fac6ef0939", null ],
+    [ "operator==", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#af5f6d7bce20e05da33e9fa26c5301465", null ],
+    [ "operator!=", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a11be1ddede8efc9ecb347e4f179cc054", null ],
+    [ "Equals", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a3eb609b0846d0c00fd08011eae702613", null ],
+    [ "GetHashCode", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a35014db5715ed04cc5b12ce3346ae5e9", null ],
+    [ "ToString", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a84ffcc88a066c4993d00477d398580cd", null ],
+    [ "k", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#ab16c2a1e3897268dee4006a2e125ecfa", null ],
+    [ "b", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a1c20dbf6199b6b2b1d08d11644e6d198", null ],
+    [ "IsVertical", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#ace5a31a5a88485a74df97cde5e6c98a3", null ],
+    [ "IsHorizontal", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#af0b74518fbf4a478ba3999bbcb84e5ef", null ],
+    [ "Slope", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#abcb2f82c4cc1ddbe9191e49722e9af38", null ],
+    [ "Intercept", "da/de1/classAForge_1_1Math_1_1Geometry_1_1Line.html#a04adb7877691398ee1c6e7733e8ce533", null ]
+];

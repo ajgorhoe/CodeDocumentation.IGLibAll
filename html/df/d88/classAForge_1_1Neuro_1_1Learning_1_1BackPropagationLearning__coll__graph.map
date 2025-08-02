@@ -1,0 +1,9 @@
+<map id="AForge.Neuro.Learning.BackPropagationLearning" name="AForge.Neuro.Learning.BackPropagationLearning">
+<area shape="rect" id="node1" title="Back propagation learning algorithm" alt="" coords="39,453,229,495"/>
+<area shape="rect" id="node2" href="$d6/d52/interfaceAForge_1_1Neuro_1_1Learning_1_1ISupervisedLearning.html" title="Supervised learning interface" alt="" coords="5,364,143,391"/>
+<area shape="rect" id="node3" href="$d5/dd8/classAForge_1_1Neuro_1_1ActivationNetwork.html" title="Activation network" alt="" coords="167,364,376,391"/>
+<area shape="rect" id="node4" href="$d3/db3/classAForge_1_1Neuro_1_1Network.html" title="Base neural network class" alt="" coords="237,288,306,315"/>
+<area shape="rect" id="node5" href="$d1/d23/classAForge_1_1Neuro_1_1Layer.html" title="Base neural layer class" alt="" coords="202,199,341,225"/>
+<area shape="rect" id="node6" href="$d9/d64/classAForge_1_1Neuro_1_1Neuron.html" title="Base neuron class" alt="" coords="198,109,345,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="244,5,299,32"/>
+</map>

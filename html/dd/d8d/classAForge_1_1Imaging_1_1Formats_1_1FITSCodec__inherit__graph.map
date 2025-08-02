@@ -1,0 +1,4 @@
+<map id="AForge.Imaging.Formats.FITSCodec" name="AForge.Imaging.Formats.FITSCodec">
+<area shape="rect" id="node1" title="FITS image format decoder." alt="" coords="5,80,239,107"/>
+<area shape="rect" id="node2" href="$d5/d27/interfaceAForge_1_1Imaging_1_1Formats_1_1IImageDecoder.html" title="Image decoder interface, which specifies set of methods, which should be implemented by image decoder..." alt="" coords="68,5,176,32"/>
+</map>

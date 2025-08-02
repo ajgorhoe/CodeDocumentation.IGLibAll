@@ -1,0 +1,6 @@
+<map id="IGLib.Gr3D.ConicalSpiralLogarithmic3D" name="IGLib.Gr3D.ConicalSpiralLogarithmic3D">
+<area shape="rect" id="node1" title="A 3D parametric curve with bounds &#45; the conical logarithmic spiral." alt="" coords="513,35,680,76"/>
+<area shape="rect" id="node2" href="$d5/d39/classIGLib_1_1Gr3D_1_1ConicalCurve3DParameterizationFromPolarWithBounds.html" title="Cartesion parameterization of a curve in 3D. Beside the Curve and (optional) CurveDerivative,..." alt="" coords="255,5,465,47"/>
+<area shape="rect" id="node3" href="$df/d02/interfaceIGLib_1_1Gr3D_1_1ICurve2DPolarParameterization.html" title="Cylindrical parameterization of a curve in 3D. Beside the CurveCylindrical and (optional) CurveDeriva..." alt="" coords="5,13,207,39"/>
+<area shape="rect" id="node4" href="$d3/d54/interfaceIGLib_1_1Gr3D_1_1ICurve3DParameterizationWithBounds.html" title="Cartesion parameterization of a curve in 3D. Beside the Curve and (optional) CurveDerivative,..." alt="" coords="21,64,191,105"/>
+</map>

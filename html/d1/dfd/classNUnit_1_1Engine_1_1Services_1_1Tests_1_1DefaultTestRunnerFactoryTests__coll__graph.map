@@ -1,0 +1,12 @@
+<map id="NUnit.Engine.Services.Tests.DefaultTestRunnerFactoryTests" name="NUnit.Engine.Services.Tests.DefaultTestRunnerFactoryTests">
+<area shape="rect" id="node1" title=" " alt="" coords="969,154,1173,195"/>
+<area shape="rect" id="node2" href="$d1/d7b/classNUnit_1_1Engine_1_1Services_1_1DefaultTestRunnerFactory.html" title="DefaultTestRunnerFactory handles creation of a suitable test runner for a given package to be loaded ..." alt="" coords="668,119,863,161"/>
+<area shape="rect" id="node3" href="$db/df5/classNUnit_1_1Engine_1_1Services_1_1InProcessTestRunnerFactory.html" title="InProcessTestRunnerFactory handles creation of a suitable test runner for a given package to be loade..." alt="" coords="332,47,523,73"/>
+<area shape="rect" id="node4" href="$df/d6e/classNUnit_1_1Engine_1_1Services_1_1Service.html" title="Abstract base class for services that can use it. Some Services already inherit from a different clas..." alt="" coords="179,31,243,57"/>
+<area shape="rect" id="node5" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="17,5,83,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,56,95,83"/>
+<area shape="rect" id="node7" href="$d5/d16/interfaceNUnit_1_1Engine_1_1ITestRunnerFactory.html" title="A Test Runner factory can supply a suitable test runner for a given package" alt="" coords="144,89,279,116"/>
+<area shape="rect" id="node8" href="$dc/d14/interfaceNUnit_1_1Engine_1_1Services_1_1IProjectService.html" title="The IProjectService interface is implemented by ProjectService. It knows how to load projects in a sp..." alt="" coords="328,149,527,190"/>
+<area shape="rect" id="node9" href="$d3/dfe/classNUnit_1_1Engine_1_1ServiceContext.html" title="The ServiceContext is used by services, runners and external clients to locate the services they need..." alt="" coords="671,200,860,227"/>
+<area shape="rect" id="node10" href="$d9/d51/interfaceNUnit_1_1Engine_1_1IServiceLocator.html" title="IServiceLocator allows clients to locate any NUnit services for which the interface is referenced...." alt="" coords="372,215,483,241"/>
+</map>

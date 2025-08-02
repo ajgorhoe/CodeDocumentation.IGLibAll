@@ -1,0 +1,27 @@
+var namespaceCShell =
+[
+    [ "Code", "d6/d7a/namespaceCShell_1_1Code.html", "d6/d7a/namespaceCShell_1_1Code" ],
+    [ "Framework", "da/d03/namespaceCShell_1_1Framework.html", "da/d03/namespaceCShell_1_1Framework" ],
+    [ "Modules", "d6/dee/namespaceCShell_1_1Modules.html", "d6/dee/namespaceCShell_1_1Modules" ],
+    [ "Sinks", "db/de3/namespaceCShell_1_1Sinks.html", "db/de3/namespaceCShell_1_1Sinks" ],
+    [ "Util", "d3/dd6/namespaceCShell_1_1Util.html", "d3/dd6/namespaceCShell_1_1Util" ],
+    [ "App", "d4/d64/classCShell_1_1App.html", null ],
+    [ "AppBootstrapper", "d9/da2/classCShell_1_1AppBootstrapper.html", "d9/da2/classCShell_1_1AppBootstrapper" ],
+    [ "AssemblyLoader", "d1/dab/classCShell_1_1AssemblyLoader.html", "d1/dab/classCShell_1_1AssemblyLoader" ],
+    [ "AssemblyReference", "dd/d32/classCShell_1_1AssemblyReference.html", "dd/d32/classCShell_1_1AssemblyReference" ],
+    [ "AssemblyReferences", "d6/dc3/classCShell_1_1AssemblyReferences.html", "d6/dc3/classCShell_1_1AssemblyReferences" ],
+    [ "Constants", "d1/dde/classCShell_1_1Constants.html", "d1/dde/classCShell_1_1Constants" ],
+    [ "EvaluatorResult", "d3/df4/classCShell_1_1EvaluatorResult.html", "d3/df4/classCShell_1_1EvaluatorResult" ],
+    [ "ICShellFile", "db/d2d/interfaceCShell_1_1ICShellFile.html", "db/d2d/interfaceCShell_1_1ICShellFile" ],
+    [ "References", "dc/d6b/classCShell_1_1References.html", null ],
+    [ "ScriptingEngine", "dc/d7b/classCShell_1_1ScriptingEngine.html", "dc/d7b/classCShell_1_1ScriptingEngine" ],
+    [ "Scripts", "da/dbc/classCShell_1_1Scripts.html", null ],
+    [ "Shell", "d2/db8/classCShell_1_1Shell.html", "d2/db8/classCShell_1_1Shell" ],
+    [ "Test", "d5/dc6/classCShell_1_1Test.html", "d5/dc6/classCShell_1_1Test" ],
+    [ "Workspace", "d0/d99/classCShell_1_1Workspace.html", "d0/d99/classCShell_1_1Workspace" ],
+    [ "WorkspaceClosedEventArgs", "da/dc3/classCShell_1_1WorkspaceClosedEventArgs.html", null ],
+    [ "WorkspaceClosingEventArgs", "d5/d53/classCShell_1_1WorkspaceClosingEventArgs.html", "d5/d53/classCShell_1_1WorkspaceClosingEventArgs" ],
+    [ "WorkspaceException", "df/d67/classCShell_1_1WorkspaceException.html", "df/d67/classCShell_1_1WorkspaceException" ],
+    [ "WorkspaceOpenedEventArgs", "d9/d1e/classCShell_1_1WorkspaceOpenedEventArgs.html", "d9/d1e/classCShell_1_1WorkspaceOpenedEventArgs" ],
+    [ "WorkspaceOpeningEventArgs", "da/d20/classCShell_1_1WorkspaceOpeningEventArgs.html", "da/d20/classCShell_1_1WorkspaceOpeningEventArgs" ]
+];

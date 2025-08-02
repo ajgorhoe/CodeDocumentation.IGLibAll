@@ -1,0 +1,4 @@
+<map id="NUnit.Engine.ITestEngineRunner" name="NUnit.Engine.ITestEngineRunner">
+<area shape="rect" id="node1" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="5,80,176,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="46,5,135,32"/>
+</map>

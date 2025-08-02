@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title=" " alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title="Interface for Data Transfer Objects (DTO). This class is used as template for producing concrete DTO ..." alt="" coords="208,39,363,80"/>
+<area shape="rect" id="node3" href="$d2/dd5/interfaceIG_1_1Lib_1_1ISerializationDtoAux.html" title="This interface facilitates use of static helper methods for copying on the SerializationDtoBase class..." alt="" coords="5,71,160,112"/>
+</map>

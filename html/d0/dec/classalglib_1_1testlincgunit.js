@@ -1,0 +1,28 @@
+var classalglib_1_1testlincgunit =
+[
+    [ "testlincg", "d0/dec/classalglib_1_1testlincgunit.html#aef1c8ff6022a872e9995cd6142ded289", null ],
+    [ "complextest", "d0/dec/classalglib_1_1testlincgunit.html#aded4e6ccc22c10dbcc78be2165d2287e", null ],
+    [ "complexres", "d0/dec/classalglib_1_1testlincgunit.html#a7611bf4878b1a9d4c48bc460a54e0884", null ],
+    [ "basictestx", "d0/dec/classalglib_1_1testlincgunit.html#aeb9c613792a66f37a86caa0540530984", null ],
+    [ "testrcorrectness", "d0/dec/classalglib_1_1testlincgunit.html#aeb8d755095b574f6bf7b7ff666943a4c", null ],
+    [ "basictestiters", "d0/dec/classalglib_1_1testlincgunit.html#a804aeda780bbe09cb8eedfa80f3fee76", null ],
+    [ "krylovsubspacetest", "d0/dec/classalglib_1_1testlincgunit.html#a822336aa590aabc7286305da86b78d63", null ],
+    [ "sparsetest", "d0/dec/classalglib_1_1testlincgunit.html#ad19a0f973f8eccb31d15ec57e0219416", null ],
+    [ "precondtest", "d0/dec/classalglib_1_1testlincgunit.html#a87947b9f1343ffc9b238ee4058725d66", null ],
+    [ "gramshmidtortnorm", "d0/dec/classalglib_1_1testlincgunit.html#a48b4f31716f540c91afc4505eb943063", null ],
+    [ "frombasis", "d0/dec/classalglib_1_1testlincgunit.html#a1a09271352f8d5ed89c9e7f305df0af4", null ],
+    [ "testlincg", "d0/dec/classalglib_1_1testlincgunit.html#aef1c8ff6022a872e9995cd6142ded289", null ],
+    [ "_pexec_testlincg", "d0/dec/classalglib_1_1testlincgunit.html#ae5055201957561fd9ac03529909a8839", null ],
+    [ "complextest", "d0/dec/classalglib_1_1testlincgunit.html#aded4e6ccc22c10dbcc78be2165d2287e", null ],
+    [ "complexres", "d0/dec/classalglib_1_1testlincgunit.html#a7611bf4878b1a9d4c48bc460a54e0884", null ],
+    [ "basictestx", "d0/dec/classalglib_1_1testlincgunit.html#aeb9c613792a66f37a86caa0540530984", null ],
+    [ "testrcorrectness", "d0/dec/classalglib_1_1testlincgunit.html#aeb8d755095b574f6bf7b7ff666943a4c", null ],
+    [ "basictestiters", "d0/dec/classalglib_1_1testlincgunit.html#a804aeda780bbe09cb8eedfa80f3fee76", null ],
+    [ "krylovsubspacetest", "d0/dec/classalglib_1_1testlincgunit.html#a822336aa590aabc7286305da86b78d63", null ],
+    [ "sparsetest", "d0/dec/classalglib_1_1testlincgunit.html#ad19a0f973f8eccb31d15ec57e0219416", null ],
+    [ "precondtest", "d0/dec/classalglib_1_1testlincgunit.html#a87947b9f1343ffc9b238ee4058725d66", null ],
+    [ "gramshmidtortnorm", "d0/dec/classalglib_1_1testlincgunit.html#a48b4f31716f540c91afc4505eb943063", null ],
+    [ "frombasis", "d0/dec/classalglib_1_1testlincgunit.html#a1a09271352f8d5ed89c9e7f305df0af4", null ],
+    [ "e0", "d0/dec/classalglib_1_1testlincgunit.html#ab29588133d6489899389737589be39c6", null ],
+    [ "maxcond", "d0/dec/classalglib_1_1testlincgunit.html#a9fcb693b6dbd12da474fc712dbde6825", null ]
+];

@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.Services.IProjectService" name="NUnit.Engine.Services.IProjectService">
+<area shape="rect" id="node1" title="The IProjectService interface is implemented by ProjectService. It knows how to load projects in a sp..." alt="" coords="5,39,204,80"/>
+<area shape="rect" id="node2" href="$da/dfb/classNUnit_1_1Engine_1_1Services_1_1ProjectService.html" title="Summary description for ProjectService." alt="" coords="252,5,448,47"/>
+<area shape="rect" id="node3" href="$de/d66/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeProjectService.html" title=" " alt="" coords="255,71,445,112"/>
+</map>

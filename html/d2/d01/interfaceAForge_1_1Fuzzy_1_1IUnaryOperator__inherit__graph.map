@@ -1,0 +1,4 @@
+<map id="AForge.Fuzzy.IUnaryOperator" name="AForge.Fuzzy.IUnaryOperator">
+<area shape="rect" id="node1" title="Interface with the common methods of Fuzzy Unary Operator." alt="" coords="5,5,200,32"/>
+<area shape="rect" id="node2" href="$d5/d68/classAForge_1_1Fuzzy_1_1NotOperator.html" title="NOT operator, used to calculate the complement of a fuzzy set." alt="" coords="13,80,192,107"/>
+</map>

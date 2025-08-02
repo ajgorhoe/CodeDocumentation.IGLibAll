@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Constraints.BinaryOperator" name="NUnit.Framework.Constraints.BinaryOperator">
+<area shape="rect" id="node1" title="Abstract base class for all binary operators" alt="" coords="115,80,311,121"/>
+<area shape="rect" id="node3" href="$d0/df7/classNUnit_1_1Framework_1_1Constraints_1_1AndOperator.html" title="Operator that requires both it&#39;s arguments to succeed" alt="" coords="5,169,201,211"/>
+<area shape="rect" id="node4" href="$d9/d61/classNUnit_1_1Framework_1_1Constraints_1_1OrOperator.html" title="Operator that requires at least one of it&#39;s arguments to succeed" alt="" coords="225,169,421,211"/>
+<area shape="rect" id="node2" href="$df/d41/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintOperator.html" title="The ConstraintOperator class is used internally by a ConstraintBuilder to represent an operator that ..." alt="" coords="147,5,278,32"/>
+</map>

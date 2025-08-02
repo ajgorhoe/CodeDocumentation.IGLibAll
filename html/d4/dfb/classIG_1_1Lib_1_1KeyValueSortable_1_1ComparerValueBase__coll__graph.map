@@ -1,0 +1,5 @@
+<map id="IG.Lib.KeyValueSortable&lt; Tkey, Tvalue &gt;.ComparerValueBase" name="IG.Lib.KeyValueSortable&lt; Tkey, Tvalue &gt;.ComparerValueBase">
+<area shape="rect" id="node1" title="IComparer that compares the key first and then eventually the value and finally the additional orderi..." alt="" coords="5,169,247,211"/>
+<area shape="rect" id="node2" href="$d5/d86/classIG_1_1Lib_1_1KeyValueSortable_1_1ComparerBase.html" title="Base class for different IComparer classes." alt="" coords="72,95,180,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="27,5,225,47"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Meta.Numerics.Statistics.FitResult" name="Meta.Numerics.Statistics.FitResult">
+<area shape="rect" id="node1" title="Represents the result of a fit procedure." alt="" coords="139,380,312,421"/>
+<area shape="rect" id="node2" href="$d9/de9/classMeta_1_1Numerics_1_1Statistics_1_1TestResult.html" title="Represents the result of a statistical test." alt="" coords="5,276,179,317"/>
+<area shape="rect" id="node3" href="$dc/d69/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1Distribution.html" title="Represents all continuous, univariate probability distribution." alt="" coords="5,172,179,213"/>
+<area shape="rect" id="node4" href="$da/d1a/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1UnivariateDistribution.html" title="Represents a probability distribution over a single variable." alt="" coords="21,96,163,123"/>
+<area shape="rect" id="node5" href="$d3/d15/classMeta_1_1Numerics_1_1Matrices_1_1SymmetricMatrix.html" title="Represents a symmetric matrix." alt="" coords="203,276,434,317"/>
+<area shape="rect" id="node6" href="$d1/da7/classMeta_1_1Numerics_1_1Matrices_1_1AnySquareMatrix.html" title="Describes the form of all real, square matrices." alt="" coords="257,179,380,206"/>
+<area shape="rect" id="node7" href="$d9/d5b/classMeta_1_1Numerics_1_1Matrices_1_1AnyRectangularMatrix.html" title="Describes the form of all real matrices." alt="" coords="243,96,394,123"/>
+<area shape="rect" id="node8" href="$df/de5/classMeta_1_1Numerics_1_1Matrices_1_1AnyMatrix.html" title=" " alt="" coords="153,13,295,39"/>
+<area shape="rect" id="node9" title=" " alt="" coords="320,5,507,47"/>
+</map>

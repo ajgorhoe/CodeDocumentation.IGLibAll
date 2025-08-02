@@ -1,0 +1,7 @@
+<map id="IG.App.ApplicationIgShell" name="IG.App.ApplicationIgShell">
+<area shape="rect" id="node1" title="Application class for the IGLib&#39;s shell application IGShell (with executable igs.exe)." alt="" coords="24,304,193,331"/>
+<area shape="rect" id="node2" href="$d0/da7/classIG_1_1App_1_1ApplicationIgShellBase.html" title="Application class for the IGLib&#39;s shell application." alt="" coords="5,229,212,256"/>
+<area shape="rect" id="node3" href="$d1/d77/classIG_1_1Lib_1_1ApplicationBase.html" title="Base class for all application classes. Provides some basic functionality such as keeping information..." alt="" coords="27,155,190,181"/>
+<area shape="rect" id="node4" href="$db/dc7/classIG_1_1Lib_1_1Module.html" title="General module (or library) management class, a base class for specific module classes...." alt="" coords="111,80,175,107"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="70,5,147,32"/>
+</map>

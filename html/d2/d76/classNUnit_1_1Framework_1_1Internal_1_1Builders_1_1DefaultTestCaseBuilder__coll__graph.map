@@ -1,0 +1,10 @@
+<map id="NUnit.Framework.Internal.Builders.DefaultTestCaseBuilder" name="NUnit.Framework.Internal.Builders.DefaultTestCaseBuilder">
+<area shape="rect" id="node1" title="Class to build ether a parameterized or a normal NUnitTestMethod. There are four cases that the build..." alt="" coords="1097,22,1305,63"/>
+<area shape="rect" id="node2" href="$d2/dbb/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestCaseBuilder.html" title="The ITestCaseBuilder interface is exposed by a class that knows how to build a test case from certain..." alt="" coords="755,5,875,32"/>
+<area shape="rect" id="node3" href="$dd/de7/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1NUnitTestCaseBuilder.html" title="NUnitTestCaseBuilder is a utility class used by attributes that build test cases." alt="" coords="715,57,915,98"/>
+<area shape="rect" id="node4" href="$dc/dc5/classNUnit_1_1Framework_1_1Internal_1_1TestNameGenerator.html" title="TestNameGenerator is able to create test names according to a coded pattern." alt="" coords="393,26,565,67"/>
+<area shape="rect" id="node5" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="5,19,248,75"/>
+<area shape="rect" id="node6" href="$d3/d0a/classNUnit_1_1Framework_1_1Internal_1_1Randomizer.html" title="Randomizer returns a set of random _values in a repeatable way, to allow re&#45;running of tests if neces..." alt="" coords="393,91,565,133"/>
+<area shape="rect" id="node7" title=" " alt="" coords="91,99,162,125"/>
+<area shape="rect" id="node8" title=" " alt="" coords="99,149,154,176"/>
+</map>

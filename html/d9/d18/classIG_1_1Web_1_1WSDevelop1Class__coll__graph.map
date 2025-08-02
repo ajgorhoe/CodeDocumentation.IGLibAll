@@ -1,0 +1,13 @@
+<map id="IG.Web.WSDevelop1Class" name="IG.Web.WSDevelop1Class">
+<area shape="rect" id="node1" title="Web service class." alt="" coords="5,333,183,360"/>
+<area shape="rect" id="node2" href="$d0/ddd/classIG_1_1Web_1_1WSDevelopClass.html" title="Web service class." alt="" coords="175,257,298,284"/>
+<area shape="rect" id="node3" href="$d8/dbb/classIG_1_1Web_1_1WSBaseClass.html" title="Base class for IGLib webservices." alt="" coords="427,168,534,195"/>
+<area shape="rect" id="node4" title=" " alt="" coords="441,5,600,47"/>
+<area shape="rect" id="node5" href="$d3/d45/interfaceIG_1_1Web_1_1IWSBase.html" title="Interface for basic web service." alt="" coords="95,13,173,39"/>
+<area shape="rect" id="node9" href="$d3/d6b/interfaceIG_1_1Web_1_1IWsDevelop.html" title="Interface for development web services." alt="" coords="89,168,179,195"/>
+<area shape="rect" id="node11" href="$d3/d6d/interfaceIG_1_1Web_1_1IWsDevelop1.html" title="Interface for higher level development web services." alt="" coords="45,257,143,284"/>
+<area shape="rect" id="node6" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="624,13,711,39"/>
+<area shape="rect" id="node7" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="735,13,813,39"/>
+<area shape="rect" id="node8" title=" " alt="" coords="357,13,412,39"/>
+<area shape="rect" id="node10" title=" " alt="" coords="203,168,270,195"/>
+</map>

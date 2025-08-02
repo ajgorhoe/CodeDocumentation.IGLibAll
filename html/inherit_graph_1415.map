@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/df6/interfaceLearnCs_1_1Lib_1_1INumberArrayLikeClass.html" title="Interface for an array&#45;like structures (potentially multidimensional) of number elements (with elemen..." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node2" href="$dd/dd6/classLearnCs_1_1Lib_1_1NumberArrayLikeClass.html" title="Abstract base class for an array&#45;like structures (potentially multidimensional) of number elements (w..." alt="" coords="243,5,437,47"/>
+<area shape="rect" id="node3" href="$d1/df7/classLearnCs_1_1Lib_1_1VectorBase.html" title="Abstract base class for vectors with the specific element type (ElementType )." alt="" coords="523,71,685,112"/>
+<area shape="rect" id="node4" href="$db/d96/interfaceLearnCs_1_1Lib_1_1IVector.html" title=" " alt="" coords="272,136,408,177"/>
+<area shape="rect" id="node5" href="$db/d96/interfaceLearnCs_1_1Lib_1_1IVector.html" title="Generic vecor interface that various vector types should implement." alt="" coords="496,136,712,177"/>
+<area shape="rect" id="node6" href="$db/d96/interfaceLearnCs_1_1Lib_1_1IVector.html" title=" " alt="" coords="232,71,448,112"/>
+</map>

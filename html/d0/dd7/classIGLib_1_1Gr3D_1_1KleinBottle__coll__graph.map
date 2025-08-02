@@ -1,0 +1,4 @@
+<map id="IGLib.Gr3D.KleinBottle" name="IGLib.Gr3D.KleinBottle">
+<area shape="rect" id="node1" title="Parametric Klein bottle surface with mirror symmetry." alt="" coords="30,80,183,107"/>
+<area shape="rect" id="node2" href="$d3/d6e/interfaceIGLib_1_1Gr3D_1_1IParametricSurfaceWithBounds.html" title="Parametric surface in 3D. Beside the Surface and (optional) SurfaceDerivative1(double,..." alt="" coords="5,5,208,32"/>
+</map>

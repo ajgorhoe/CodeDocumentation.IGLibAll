@@ -1,0 +1,15 @@
+<map id="NUnit.Framework.Internal.Commands.OneTimeSetUpCommand" name="NUnit.Framework.Internal.Commands.OneTimeSetUpCommand">
+<area shape="rect" id="node1" title="OneTimeSetUpCommand runs any one&#45;time setup methods for a suite, constructing the user test object if..." alt="" coords="1016,143,1255,185"/>
+<area shape="rect" id="node2" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="701,5,807,32"/>
+<area shape="rect" id="node3" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="643,56,865,112"/>
+<area shape="rect" id="node4" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="659,136,849,192"/>
+<area shape="rect" id="node5" href="$d5/dff/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITypeInfo.html" title="The ITypeInfo interface is an abstraction of a .NET Type" alt="" coords="661,217,847,258"/>
+<area shape="rect" id="node6" href="$d5/dfa/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IReflectionInfo.html" title="The IReflectionInfo interface is implemented by NUnit wrapper objects that perform reflection." alt="" coords="411,224,513,251"/>
+<area shape="rect" id="node7" href="$d4/dec/classNUnit_1_1Framework_1_1Internal_1_1TestSuite.html" title="TestSuite represents a composite test, which contains other tests." alt="" coords="668,282,840,323"/>
+<area shape="rect" id="node8" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework." alt="" coords="439,281,485,308"/>
+<area shape="rect" id="node9" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields...." alt="" coords="193,231,243,257"/>
+<area shape="rect" id="node10" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,231,121,257"/>
+<area shape="rect" id="node11" title=" " alt="" coords="171,281,265,308"/>
+<area shape="rect" id="node12" title=" " alt="" coords="191,332,245,359"/>
+<area shape="rect" id="node13" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="363,332,561,388"/>
+</map>

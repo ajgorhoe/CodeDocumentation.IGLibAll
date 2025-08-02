@@ -1,0 +1,27 @@
+var classIG_1_1Web_1_1Forms_1_1WSClientsForm =
+[
+    [ "WSClientsForm", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a9f6a1cdde8849bccd41cff8f7b6980fd", null ],
+    [ "NeuralParametricDemo_HelpEventHandlers", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a5ed8e9b9f54b799534e8be6c6774e813", null ],
+    [ "NeuralParametricDemo_KeyUp", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#afabc42607120c4aafe180e56391a9519", null ],
+    [ "tabControl_KeyUp", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a1b42161d87f262dc3a0ae7bc9a19530f", null ],
+    [ "btnSavePrediction_Click", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#add5888dc0e439cb2734895f20eada31a", null ],
+    [ "btnPrintPrediction_Click", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a97062d9bccb635708f12ec117ce37231", null ],
+    [ "btnSaveParametricTest_Click", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a17ff22bd473c1fe329ab493f76f1881f", null ],
+    [ "btnPrintParametricTest_Click", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a8e7e582c8d2a9f89f929ab20d112fa4a", null ],
+    [ "Dispose", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a01b04ebc7c36792c0ebd7ecc81cc09bb", null ],
+    [ "InitializeComponent", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a0ab435e317d04ad585a549da2a2cd783", null ],
+    [ "_workingDirectory", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#aa47ee0811121194e9439f9e79d710ec9", null ],
+    [ "_aboutWindow", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a5ee93d7b2820e439b0ff2f550c9268f1", null ],
+    [ "components", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a53b8320644646bf92203c37af3f368bb", null ],
+    [ "tbInfoLine", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a66904bcffa6053e9ce36605272fdbf27", null ],
+    [ "tabControl", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a1fe31dc3cfbe30744912ffc92f7b70b4", null ],
+    [ "tpPrediction", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#ae08bdff5a38632edc46235cf9306bd5c", null ],
+    [ "tpParmTest", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a85d4f2bd3e06ccf11ef1e2d1cc786bb6", null ],
+    [ "neuralPredictionControl1", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a17138dcc35b1434fa6cfc9dba11952b8", null ],
+    [ "btnSavePrediction", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a41a4dd6c95d2b2359c289e4ad851d7dc", null ],
+    [ "btnPrintPrediction", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a87e464a23bef7f5dac95964598a4bf45", null ],
+    [ "tpAbout", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a46eddb383e7bf08c5285cdd4fbeb39e7", null ],
+    [ "wsClientFormsAboutForm1", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a7bd41d13cc261222258e68976b21d51a", null ],
+    [ "WorkingDirectory", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#a04dd5993ecc6e91663a129c82b286c8c", null ],
+    [ "AboutWindow", "d3/dc6/classIG_1_1Web_1_1Forms_1_1WSClientsForm.html#adedfcb98eb4697eba55dc900cfc4fb8f", null ]
+];

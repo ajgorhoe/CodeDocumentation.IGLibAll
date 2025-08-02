@@ -1,0 +1,10 @@
+<map id="NUnitLite.TextUI" name="NUnitLite.TextUI">
+<area shape="rect" id="node1" title=" " alt="" coords="860,99,976,126"/>
+<area shape="rect" id="node2" href="$d0/d56/classNUnit_1_1Common_1_1ExtendedTextWriter.html" title="ExtendedTextWriter extends the TextWriter abstract class to support displaying text in color...." alt="" coords="531,5,725,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="169,13,251,39"/>
+<area shape="rect" id="node4" href="$d1/d00/classNUnitLite_1_1NUnitLiteOptions.html" title="NUnitLiteOptions encapsulates the option settings for NUnitLite. Currently, there are no additional o..." alt="" coords="539,71,717,98"/>
+<area shape="rect" id="node5" href="$da/d32/classNUnit_1_1Common_1_1CommandLineOptions.html" title="CommandLineOptions is the base class the specific option classes used for nunit3&#45;console and nunitlit..." alt="" coords="135,71,285,98"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,102,85,129"/>
+<area shape="rect" id="node7" href="$da/d32/classNUnit_1_1Common_1_1CommandLineOptions.html" title="CommandLineOptions is the base class the specific option classes used for nunit3&#45;console and nunitlit..." alt="" coords="309,115,507,156"/>
+<area shape="rect" id="node8" title=" " alt="" coords="601,185,655,211"/>
+</map>

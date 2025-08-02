@@ -1,0 +1,5 @@
+<map id="AForge.Imaging.ICornersDetector" name="AForge.Imaging.ICornersDetector">
+<area shape="rect" id="node1" title="Corners detector&#39;s interface." alt="" coords="118,5,333,32"/>
+<area shape="rect" id="node2" href="$d2/dad/classAForge_1_1Imaging_1_1MoravecCornersDetector.html" title="Moravec corners detector." alt="" coords="5,80,216,121"/>
+<area shape="rect" id="node3" href="$da/d67/classAForge_1_1Imaging_1_1SusanCornersDetector.html" title="Susan corners detector." alt="" coords="241,80,439,121"/>
+</map>

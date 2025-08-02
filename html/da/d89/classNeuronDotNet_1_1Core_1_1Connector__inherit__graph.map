@@ -1,0 +1,5 @@
+<map id="NeuronDotNet.Core.Connector&lt; TSourceLayer, TTargetLayer, TSynapse &gt;" name="NeuronDotNet.Core.Connector&lt; TSourceLayer, TTargetLayer, TSynapse &gt;">
+<area shape="rect" id="node1" title="A connector represents a collection of synapses connecting two layers in a network." alt="" coords="5,155,207,211"/>
+<area shape="rect" id="node2" href="$d5/d01/interfaceNeuronDotNet_1_1Core_1_1IConnector.html" title="This interface represents a connector. A connector is a collection of synapses connecting two layers ..." alt="" coords="64,80,148,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="60,5,152,32"/>
+</map>

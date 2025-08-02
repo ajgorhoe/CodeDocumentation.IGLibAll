@@ -1,0 +1,28 @@
+var classIG_1_1Forms_1_1TestFormSandbox =
+[
+    [ "TestFormSandbox", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#ae3eadc7cb22bf0a4df62f4b568c8b265", null ],
+    [ "RightTxt_TextChanged", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a924643ad0212b017c6e5b7121e617d9d", null ],
+    [ "Dispose", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a94ba1b2f350ed49ea426396c306c3ce2", null ],
+    [ "InitializeComponent", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a06f1b620f1370d223e6e45af9778ff8f", null ],
+    [ "components", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a94e67003d842e38b174d45aacd276e70", null ],
+    [ "TopPnl", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a2cd772fb01d7c54279fd4e2683c67e5e", null ],
+    [ "TopBtn", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a69b3ef55fa68f089cec9a9db26e852ba", null ],
+    [ "Top1Pnl", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#afadcb9c6e8f0964886eb3722d2260c6f", null ],
+    [ "Top1Btn", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a231b3523549c30ba01fcb41f234631ae", null ],
+    [ "top2Pnl", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a16e29e87d019a50faa85e37321a88e8c", null ],
+    [ "Top2Btn", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a7704ab7d120c593616bd87be1f641a4c", null ],
+    [ "CentPnl", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a79a3ba18bded6d9e9fa8f47e50ec4360", null ],
+    [ "CentBottPnlBtn", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a04253d8d11bed6f36be4c41b0ac8ba6f", null ],
+    [ "BottPnl", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a7fc0176f674620d9f9dd2c279f1c0ee2", null ],
+    [ "BottPnlBtn", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#ae00ec6d4b88f9e559f6f67b9cbce1daf", null ],
+    [ "CentBottPnl", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a461cc74c32a7ef07ef78a0342dc6e7db", null ],
+    [ "CentTopPnl", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#adcc648e15f09014fad436e55d1245940", null ],
+    [ "CentTopPnlBtn", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a81f07fca36a904e92bd2fd6bdf26a26e", null ],
+    [ "InnnermostPnl", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#ab9d7c0a0f35938b7c2898e7ef2ecc696", null ],
+    [ "splitContainer1", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a5c2a21884628a54efd7a16c7b15ec444", null ],
+    [ "InnermostPnlBtn", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a93e87affe60e8dae4342a783a93b959e", null ],
+    [ "RightTxt", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#af6e3dc926ca9230fe72c162f00bbc1d2", null ],
+    [ "LeftTxt", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#abaff20db49c86b23b364216687504f2c", null ],
+    [ "groupBox1", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#ae3d61b5abfa4cee74a53e273638ca0fa", null ],
+    [ "label1", "d9/d59/classIG_1_1Forms_1_1TestFormSandbox.html#a1b6b4f6d044c3009c02c62ec5d6ab66b", null ]
+];

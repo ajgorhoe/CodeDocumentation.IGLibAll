@@ -1,0 +1,15 @@
+<map id="IG.Neural.AnalysisFileServerNeuralStoreBase" name="IG.Neural.AnalysisFileServerNeuralStoreBase">
+<area shape="rect" id="node1" title="Analysis server based on neural approximations for IJS, for Robert&#39;s data." alt="" coords="1277,115,1464,156"/>
+<area shape="rect" id="node2" href="$de/dac/classIG_1_1Neural_1_1AnalysisFileServerNeural.html" title="Class containing direct analysis (in optimization) based on neural network optimization." alt="" coords="1061,122,1228,149"/>
+<area shape="rect" id="node3" href="$d2/dba/classIG_1_1Neural_1_1ApproximationFileServerNeural.html" title="Class for approximation file server." alt="" coords="713,50,912,77"/>
+<area shape="rect" id="node4" href="$d5/de7/classIG_1_1Neural_1_1NeuraApproximationFileManager.html" title="File manager for neural network approximation file client and server." alt="" coords="351,5,548,47"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="60,29,137,55"/>
+<area shape="rect" id="node7" href="$d2/d92/classIG_1_1Num_1_1OptFileManager.html" title="Performs elementary operations for optimization and analysis servers and clients that exchange data a..." alt="" coords="731,122,894,149"/>
+<area shape="rect" id="node6" href="$d5/d59/interfaceIG_1_1Num_1_1IAnalysis.html" title="Interface for direct analysis classes used in optimization problems." alt="" coords="775,173,850,199"/>
+<area shape="rect" id="node8" href="$d5/d4e/classIG_1_1Num_1_1AnalysisResults.html" title="Single objective optimization analysis results. Used to transfer parameters input (e...." alt="" coords="367,122,531,149"/>
+<area shape="rect" id="node9" href="$d4/d34/interfaceIG_1_1Num_1_1IAnalysisResults.html" title="Single objective optimization analysis results. Used to transfer parameters input (e...." alt="" coords="39,85,158,111"/>
+<area shape="rect" id="node10" href="$d8/d86/interfaceIG_1_1Num_1_1IMatrix.html" title="Generic Matrix interface." alt="" coords="5,136,192,177"/>
+<area shape="rect" id="node11" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="27,202,170,229"/>
+<area shape="rect" id="node12" href="$d5/d59/interfaceIG_1_1Num_1_1IAnalysis.html" title="Interface for direct analysis classes used in optimization problems." alt="" coords="388,173,511,199"/>
+<area shape="rect" id="node13" href="$d1/d02/interfaceIG_1_1Lib_1_1ISerializer.html" title="Interface for helper classes that perform serialization/deserialization of objects." alt="" coords="391,223,508,250"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.Internal.TestCaseParameters" name="NUnit.Framework.Internal.TestCaseParameters">
+<area shape="rect" id="node1" title="The TestCaseParameters class encapsulates method arguments and other selected parameters needed for c..." alt="" coords="107,155,279,196"/>
+<area shape="rect" id="node6" href="$d0/ddc/classNUnit_1_1Framework_1_1TestCaseData.html" title="The TestCaseData class represents a set of arguments and other parameter info to be used for a parame..." alt="" coords="89,244,297,271"/>
+<area shape="rect" id="node2" href="$d5/d50/classNUnit_1_1Framework_1_1Internal_1_1TestParameters.html" title="TestParameters is the abstract base class for all classes that know how to provide data for construct..." alt="" coords="136,80,251,107"/>
+<area shape="rect" id="node3" href="$dc/d63/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestData.html" title="The ITestData interface is implemented by a class that represents a single instance of a parameterize..." alt="" coords="79,5,156,32"/>
+<area shape="rect" id="node5" href="$d8/dd6/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestCaseData.html" title="The ITestCaseData interface is implemented by a class that is able to return complete testcases for u..." alt="" coords="5,80,112,107"/>
+<area shape="rect" id="node4" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="191,5,289,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="AForge.Vision.Motion.IMotionDetector" name="AForge.Vision.Motion.IMotionDetector">
+<area shape="rect" id="node1" title="Interface of motion detector algorithm." alt="" coords="5,71,199,112"/>
+<area shape="rect" id="node2" href="$d5/d38/classAForge_1_1Vision_1_1Motion_1_1CustomFrameDifferenceDetector.html" title="Motion detector based on difference with predefined background frame." alt="" coords="247,5,443,47"/>
+<area shape="rect" id="node3" href="$dc/d6b/classAForge_1_1Vision_1_1Motion_1_1SimpleBackgroundModelingDetector.html" title="Motion detector based on simple background modeling." alt="" coords="249,71,441,112"/>
+<area shape="rect" id="node4" href="$d1/d01/classAForge_1_1Vision_1_1Motion_1_1TwoFramesDifferenceDetector.html" title="Motion detector based on two continues frames difference." alt="" coords="257,136,432,177"/>
+</map>

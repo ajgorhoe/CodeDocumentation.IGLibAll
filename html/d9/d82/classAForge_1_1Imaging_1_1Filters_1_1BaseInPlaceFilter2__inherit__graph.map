@@ -1,0 +1,16 @@
+<map id="AForge.Imaging.Filters.BaseInPlaceFilter2" name="AForge.Imaging.Filters.BaseInPlaceFilter2">
+<area shape="rect" id="node1" title="Base class for filters, which operate with two images of the same size and format and may be applied ..." alt="" coords="343,201,529,242"/>
+<area shape="rect" id="node6" href="$d1/d63/classAForge_1_1Imaging_1_1Filters_1_1Add.html" title="Add fillter &#45; add pixel values of two images." alt="" coords="595,5,775,32"/>
+<area shape="rect" id="node7" href="$da/d44/classAForge_1_1Imaging_1_1Filters_1_1Difference.html" title="Difference filter &#45; get the difference between overlay and source images." alt="" coords="577,56,792,83"/>
+<area shape="rect" id="node8" href="$d2/d21/classAForge_1_1Imaging_1_1Filters_1_1Intersect.html" title="Intersect filter &#45; get MIN of pixels in two images." alt="" coords="581,107,788,133"/>
+<area shape="rect" id="node9" href="$dd/dd7/classAForge_1_1Imaging_1_1Filters_1_1Merge.html" title="Merge filter &#45; get MAX of pixels in two images." alt="" coords="588,157,781,184"/>
+<area shape="rect" id="node10" href="$dc/d62/classAForge_1_1Imaging_1_1Filters_1_1Morph.html" title="Morph filter." alt="" coords="588,208,781,235"/>
+<area shape="rect" id="node11" href="$da/d33/classAForge_1_1Imaging_1_1Filters_1_1MoveTowards.html" title="Move towards filter." alt="" coords="591,259,778,301"/>
+<area shape="rect" id="node12" href="$d1/d8d/classAForge_1_1Imaging_1_1Filters_1_1StereoAnaglyph.html" title="Stereo anaglyph filter." alt="" coords="587,325,782,366"/>
+<area shape="rect" id="node13" href="$de/df6/classAForge_1_1Imaging_1_1Filters_1_1Subtract.html" title="Subtract filter &#45; subtract pixel values of two images." alt="" coords="581,391,788,417"/>
+<area shape="rect" id="node14" href="$d5/de6/classAForge_1_1Imaging_1_1Filters_1_1TexturedMerge.html" title="Merge two images using factors from texture." alt="" coords="581,442,788,483"/>
+<area shape="rect" id="node2" href="$d6/d11/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlaceFilter.html" title="Base class for filters, which may be applied directly to the source image." alt="" coords="171,208,295,235"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="37,157,91,184"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="15,208,113,235"/>
+<area shape="rect" id="node5" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="5,259,123,285"/>
+</map>

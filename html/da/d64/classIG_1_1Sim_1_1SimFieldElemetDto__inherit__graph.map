@@ -1,0 +1,8 @@
+<map id="IG.Sim.SimFieldElemetDto&lt; FieldType &gt;" name="IG.Sim.SimFieldElemetDto&lt; FieldType &gt;">
+<area shape="rect" id="node1" title="Base class for a DTO that holds node values of a single element (component) of a specific simulation ..." alt="" coords="296,71,475,112"/>
+<area shape="rect" id="node4" href="$dc/da2/classIG_1_1Sim_1_1SimScalarFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific scalar fiel..." alt="" coords="523,5,734,47"/>
+<area shape="rect" id="node5" href="$dd/db9/classIG_1_1Sim_1_1SimTensorFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific tensor fiel..." alt="" coords="523,71,735,112"/>
+<area shape="rect" id="node6" href="$d2/d9b/classIG_1_1Sim_1_1SimVectorFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific vector fiel..." alt="" coords="523,136,734,177"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,30,248,86"/>
+<area shape="rect" id="node3" href="$d9/d17/interfaceIG_1_1Sim_1_1ISimulationComponentDto.html" title="Interface for all components of simulation DTOs." alt="" coords="41,110,213,137"/>
+</map>

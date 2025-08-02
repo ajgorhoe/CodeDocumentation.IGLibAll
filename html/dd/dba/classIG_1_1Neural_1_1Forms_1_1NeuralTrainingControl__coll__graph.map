@@ -1,0 +1,8 @@
+<map id="IG.Neural.Forms.NeuralTrainingControl" name="IG.Neural.Forms.NeuralTrainingControl">
+<area shape="rect" id="node1" title="A 2D neural network approximation demo control." alt="" coords="207,241,409,283"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node3" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="120,5,272,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="297,5,375,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="427,5,493,32"/>
+<area shape="rect" id="node6" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="517,5,728,32"/>
+</map>

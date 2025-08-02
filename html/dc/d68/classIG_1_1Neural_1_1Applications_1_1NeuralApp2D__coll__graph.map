@@ -1,0 +1,19 @@
+<map id="IG.Neural.Applications.NeuralApp2D" name="IG.Neural.Applications.NeuralApp2D">
+<area shape="rect" id="node1" title=" " alt="" coords="1695,50,1887,91"/>
+<area shape="rect" id="node2" title=" " alt="" coords="1409,5,1461,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="957,136,1023,163"/>
+<area shape="rect" id="node4" href="$d8/dc3/classIG_1_1Neural_1_1Forms_1_1NeuralControl2D.html" title="A 2D neural network approximation demo control." alt="" coords="1328,316,1543,343"/>
+<area shape="rect" id="node5" title=" " alt="" coords="945,265,1035,292"/>
+<area shape="rect" id="node6" href="$dd/d82/interfaceIG_1_1Neural_1_1INeuralApproximatorContainer.html" title="Classes that contain neural approximator." alt="" coords="893,316,1087,343"/>
+<area shape="rect" id="node7" href="$d1/d33/classIG_1_1Neural_1_1NeuralNetworks.html" title=" " alt="" coords="905,367,1075,393"/>
+<area shape="rect" id="node8" title=" " alt="" coords="589,349,643,376"/>
+<area shape="rect" id="node9" title=" " alt="" coords="951,417,1029,444"/>
+<area shape="rect" id="node10" href="$d9/dc1/classIG_1_1Neural_1_1Func2dFromApproximator.html" title="Approximator function of 2 variables that is based on a general approximator function of vector argum..." alt="" coords="875,485,1105,512"/>
+<area shape="rect" id="node11" href="$da/d29/classIG_1_1Num_1_1Func2dBase.html" title="Base class for scalar functions of 2 variables (base for implementation of IFunc2d interface)." alt="" coords="569,485,663,512"/>
+<area shape="rect" id="node12" href="$d2/d9e/classIG_1_1Num_1_1ScalarFunctionUntransformedBase.html" title="Base class for defining scalar functions without possibility of affine transformation of parameters." alt="" coords="251,501,473,528"/>
+<area shape="rect" id="node13" href="$d8/d56/interfaceIG_1_1Num_1_1IScalarFunctionUntransformed.html" title="Scalar functions of vector arguments." alt="" coords="5,451,201,477"/>
+<area shape="rect" id="node14" href="$d8/d15/interfaceIG_1_1Num_1_1IFunc2d.html" title="Represents scalar functions of 2 variables." alt="" coords="328,552,396,579"/>
+<area shape="rect" id="node15" href="$d7/db4/interfaceIG_1_1Num_1_1INeuralApproximator.html" title="Approximator of response by using neural networks. $A Igor Mar11;" alt="" coords="523,603,709,629"/>
+<area shape="rect" id="node16" href="$dc/d13/interfaceIG_1_1Num_1_1IVectorApproximator.html" title="Interface for vector function approximators." alt="" coords="292,603,432,629"/>
+<area shape="rect" id="node17" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="323,653,401,680"/>
+</map>

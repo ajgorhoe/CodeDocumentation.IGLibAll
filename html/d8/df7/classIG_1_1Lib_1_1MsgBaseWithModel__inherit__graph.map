@@ -1,0 +1,7 @@
+<map id="IG.Lib.MsgBaseWithModel" name="IG.Lib.MsgBaseWithModel">
+<area shape="rect" id="node1" title="Base class messages, includes possibility of model document for conversion of the object to XML msg a..." alt="" coords="128,155,305,181"/>
+<area shape="rect" id="node4" href="$d4/dfd/classIG_1_1Lib_1_1MsgFinancialTransaction.html" title="Class for holding and manipulating the data about financial transaction. Includes parsing an XML file..." alt="" coords="5,229,209,256"/>
+<area shape="rect" id="node5" href="$df/d19/classIG_1_1Lib_1_1MsgObservationEvent.html" title="Class for holding and manipulating the data about observation event. Includes parsing an XML file,..." alt="" coords="233,229,419,256"/>
+<area shape="rect" id="node2" href="$d8/d6e/classIG_1_1Lib_1_1MsgBase.html" title="Base class for all messages." alt="" coords="178,80,255,107"/>
+<area shape="rect" id="node3" href="$da/dac/classIG_1_1Lib_1_1ParsableXmlObject.html" title="Base class for data classes that support writing data to / reading from custom XML files,..." alt="" coords="151,5,283,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.DatapointSourceAttribute" name="NUnit.Framework.DatapointSourceAttribute">
+<area shape="rect" id="node1" title="Used to mark a field, property or method providing a set of datapoints to be used in executing any th..." alt="" coords="9,155,190,196"/>
+<area shape="rect" id="node4" href="$d7/dae/classNUnit_1_1Framework_1_1DatapointsAttribute.html" title="Used to mark a field, property or method providing a set of datapoints to be used in executing any th..." alt="" coords="5,244,193,285"/>
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="48,80,151,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="64,5,135,32"/>
+</map>

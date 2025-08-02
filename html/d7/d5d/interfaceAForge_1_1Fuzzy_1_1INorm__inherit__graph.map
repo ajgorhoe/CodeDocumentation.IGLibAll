@@ -1,0 +1,5 @@
+<map id="AForge.Fuzzy.INorm" name="AForge.Fuzzy.INorm">
+<area shape="rect" id="node1" title="Interface with the common methods of a Fuzzy Norm." alt="" coords="135,5,278,32"/>
+<area shape="rect" id="node2" href="$dc/d6b/classAForge_1_1Fuzzy_1_1MinimumNorm.html" title="Minimum Norm, used to calculate the linguistic value of a AND operation." alt="" coords="5,80,197,107"/>
+<area shape="rect" id="node3" href="$dc/da8/classAForge_1_1Fuzzy_1_1ProductNorm.html" title="Product Norm, used to calculate the linguistic value of a AND operation." alt="" coords="221,80,405,107"/>
+</map>

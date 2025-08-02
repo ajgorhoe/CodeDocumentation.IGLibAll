@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.CategoryAttribute" name="NUnit.Framework.CategoryAttribute">
+<area shape="rect" id="node1" title="Attribute used to apply a category to a test" alt="" coords="275,39,453,80"/>
+<area shape="rect" id="node5" href="$d8/d83/classNUnit_1_1TestData_1_1CategoryAttributeData_1_1CriticalAttribute.html" title=" " alt="" coords="501,5,716,47"/>
+<area shape="rect" id="node6" href="$de/d78/classNUnit_1_1TestData_1_1CategoryAttributeData_1_1InheritableCategoryAttribute.html" title=" " alt="" coords="501,71,716,112"/>
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="124,21,227,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,21,76,47"/>
+<area shape="rect" id="node4" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="127,71,224,98"/>
+</map>

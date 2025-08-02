@@ -1,0 +1,25 @@
+var classalglib_1_1mlptrain_1_1mlptrainer =
+[
+    [ "mlptrainer", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a0012772964ec9878a580d56dca296cbf", null ],
+    [ "init", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a74b6709571c205268d8c07ad842a47e8", null ],
+    [ "make_copy", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a175aa6d34da46e730201b2401edd6e2a", null ],
+    [ "nin", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#acac3d326aad5103416b69f8841e55d9b", null ],
+    [ "nout", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a85f0334a569b5a486d783d42ed114ac8", null ],
+    [ "rcpar", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a24e1f20b891565d2fa206888b804a47c", null ],
+    [ "lbfgsfactor", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#aec85fb80afa18d4b309e252cd75d58a1", null ],
+    [ "decay", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a5f813dc4951e8fc01f8675461b0ae9c5", null ],
+    [ "wstep", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a0437e9d978c6598badcb9ab3f611ccdc", null ],
+    [ "maxits", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a1e7dce7c054958d873c3bfeed3fcd796", null ],
+    [ "datatype", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a52ba231f2b07c4adda14d5c39b3be0fa", null ],
+    [ "npoints", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#adfdc1d430f95d77daf58e800a7d95c06", null ],
+    [ "densexy", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a0f6fe65853a293fa9605cc8b52460432", null ],
+    [ "sparsexy", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a1a8ffa5d95585fa33f5249181ce51eda", null ],
+    [ "session", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a8cdfd4f339f03c792767755554b067d7", null ],
+    [ "ngradbatch", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#aa8a047ae5434e50ca019654144c48830", null ],
+    [ "subset", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a59f8d618613c3d8f8e6947d7f2b8e33a", null ],
+    [ "subsetsize", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#aafe0202511658b2b6a2487521fa4c9a9", null ],
+    [ "valsubset", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a63e937dd36b5e722d4c627ebc47b9483", null ],
+    [ "valsubsetsize", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a263b44279ddc8d9dda786fb9e7ab2c2e", null ],
+    [ "algokind", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#a30b79fa3cfb8f6ff9233cf1bce47b781", null ],
+    [ "minibatchsize", "d2/dfe/classalglib_1_1mlptrain_1_1mlptrainer.html#aa7a4b2f5400b0d4108222f62c33d7580", null ]
+];

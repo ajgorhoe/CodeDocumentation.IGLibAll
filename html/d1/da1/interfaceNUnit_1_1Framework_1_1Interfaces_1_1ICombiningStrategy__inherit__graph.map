@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Interfaces.ICombiningStrategy" name="NUnit.Framework.Interfaces.ICombiningStrategy">
+<area shape="rect" id="node1" title="CombiningStrategy is the abstract base for classes that know how to combine values provided for indiv..." alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$dc/db0/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1CombinatorialStrategy.html" title="CombinatorialStrategy creates test cases by using all possible combinations of the parameter data." alt="" coords="240,5,441,47"/>
+<area shape="rect" id="node3" href="$d0/da1/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1PairwiseStrategy.html" title="PairwiseStrategy creates test cases by combining the parameter data so that all possible pairs of dat..." alt="" coords="255,71,427,112"/>
+<area shape="rect" id="node4" href="$d4/df6/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1SequentialStrategy.html" title="SequentialStrategy creates test cases by using all of the parameter data sources in parallel,..." alt="" coords="249,136,432,177"/>
+</map>

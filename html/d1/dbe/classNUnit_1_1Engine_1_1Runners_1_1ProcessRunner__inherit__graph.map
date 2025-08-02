@@ -1,0 +1,6 @@
+<map id="NUnit.Engine.Runners.ProcessRunner" name="NUnit.Engine.Runners.ProcessRunner">
+<area shape="rect" id="node1" title="Summary description for ProcessRunner." alt="" coords="5,229,208,271"/>
+<area shape="rect" id="node2" href="$d6/dfe/classNUnit_1_1Engine_1_1Runners_1_1AbstractTestRunner.html" title="AbstractTestRunner is the base class for all runners within the NUnit Engine. It implements the ITest..." alt="" coords="38,155,175,181"/>
+<area shape="rect" id="node3" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="41,80,172,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="62,5,151,32"/>
+</map>

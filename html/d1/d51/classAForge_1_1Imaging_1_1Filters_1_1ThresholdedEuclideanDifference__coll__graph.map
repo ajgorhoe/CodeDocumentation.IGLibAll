@@ -1,0 +1,9 @@
+<map id="AForge.Imaging.Filters.ThresholdedEuclideanDifference" name="AForge.Imaging.Filters.ThresholdedEuclideanDifference">
+<area shape="rect" id="node1" title="Calculate Euclidean difference between two images and threshold it." alt="" coords="107,261,334,303"/>
+<area shape="rect" id="node2" href="$dd/d10/classAForge_1_1Imaging_1_1Filters_1_1BaseFilter2.html" title="Base class for filters, which operate with two images of the same size and format and produce new ima..." alt="" coords="177,185,265,212"/>
+<area shape="rect" id="node3" href="$d0/d25/classAForge_1_1Imaging_1_1Filters_1_1BaseFilter.html" title="Base class for filters, which produce new image of the same size as a result of image processing." alt="" coords="87,89,168,115"/>
+<area shape="rect" id="node4" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node5" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="85,5,202,32"/>
+<area shape="rect" id="node6" href="$d0/d77/classAForge_1_1Imaging_1_1UnmanagedImage.html" title="Image in unmanaged memory." alt="" coords="193,81,379,123"/>
+<area shape="rect" id="node7" title=" " alt="" coords="241,5,331,32"/>
+</map>

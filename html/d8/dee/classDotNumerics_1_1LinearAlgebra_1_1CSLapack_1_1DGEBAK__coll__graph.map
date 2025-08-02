@@ -1,0 +1,7 @@
+<map id="DotNumerics.LinearAlgebra.CSLapack.DGEBAK" name="DotNumerics.LinearAlgebra.CSLapack.DGEBAK">
+<area shape="rect" id="node1" title="– LAPACK routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG Ltd...." alt="" coords="287,104,471,145"/>
+<area shape="rect" id="node2" href="$d1/d76/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DSCAL.html" title=" " alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node3" href="$db/d6a/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1XERBLA.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="5,71,189,112"/>
+<area shape="rect" id="node4" href="$dd/dac/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1LSAME.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="5,136,189,177"/>
+<area shape="rect" id="node5" href="$d3/dd5/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DSWAP.html" title=" " alt="" coords="5,201,189,243"/>
+</map>

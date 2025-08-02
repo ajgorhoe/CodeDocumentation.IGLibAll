@@ -1,0 +1,5 @@
+<map id="IG.Neural.Forms.NeuralParametricTest2d" name="IG.Neural.Forms.NeuralParametricTest2d">
+<area shape="rect" id="node1" title="Form for simple parametric tests (variation of selected parameter) performed on ANN models." alt="" coords="12,80,233,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node3" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="120,5,272,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Internal.TestProgressReporter" name="NUnit.Framework.Internal.TestProgressReporter">
+<area shape="rect" id="node1" title="TestProgressReporter translates ITestListener events into the async callbacks that are used to inform..." alt="" coords="17,95,189,136"/>
+<area shape="rect" id="node2" href="$de/d53/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestListener.html" title="The ITestListener interface is used internally to receive notifications of significant events while a..." alt="" coords="5,5,101,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="126,5,181,32"/>
+</map>

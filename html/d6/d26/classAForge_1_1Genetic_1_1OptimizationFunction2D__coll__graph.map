@@ -1,0 +1,5 @@
+<map id="AForge.Genetic.OptimizationFunction2D" name="AForge.Genetic.OptimizationFunction2D">
+<area shape="rect" id="node1" title="Base class for two dimenstional function optimization." alt="" coords="37,109,228,151"/>
+<area shape="rect" id="node2" href="$d3/d4c/interfaceAForge_1_1Genetic_1_1IFitnessFunction.html" title="Fitness function interface." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node3" href="$dd/de1/structAForge_1_1Range.html" title="Represents a range with minimum and maximum values, which are single precision numbers (floats)." alt="" coords="148,5,253,32"/>
+</map>

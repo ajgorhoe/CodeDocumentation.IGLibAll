@@ -1,0 +1,4 @@
+<map id="AForge.Imaging.IPPrototyper.IImageProcessingLog" name="AForge.Imaging.IPPrototyper.IImageProcessingLog">
+<area shape="rect" id="node1" title="Interface for image processing loggers, which keep information about image processing steps." alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node2" href="$d2/d5b/classAForge_1_1Imaging_1_1IPPrototyper_1_1ImageProcessingLog.html" title="Default implementation of IImageProcessingLog interface." alt="" coords="5,95,199,136"/>
+</map>

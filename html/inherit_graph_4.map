@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,87,163"/>
+<area shape="rect" id="node2" href="$d9/d20/classAForge_1_1CommunicationBufferEventArgs.html" title="Event arguments holding a buffer sent or received during some communication process." alt="" coords="153,5,343,47"/>
+<area shape="rect" id="node3" href="$d1/d4b/classAForge_1_1Controls_1_1HistogramEventArgs.html" title="Arguments of histogram events." alt="" coords="159,71,337,112"/>
+<area shape="rect" id="node4" href="$dd/d54/classAForge_1_1Video_1_1NewFrameEventArgs.html" title="Arguments for new frame event from video source." alt="" coords="135,137,361,163"/>
+<area shape="rect" id="node5" href="$d0/d3e/classAForge_1_1Video_1_1VideoSourceErrorEventArgs.html" title="Arguments for video source error event from video source." alt="" coords="159,188,337,229"/>
+<area shape="rect" id="node6" href="$d6/d56/classNeuronDotNet_1_1Core_1_1TrainingSampleEventArgs.html" title="Training Sample Event Arguments. This class represents arguments for an event associated with a train..." alt="" coords="157,253,339,295"/>
+</map>

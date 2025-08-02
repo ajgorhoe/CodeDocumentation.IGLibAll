@@ -1,0 +1,27 @@
+var classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS =
+[
+    [ "mid", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a2571b5de15d69b769e4257fb00cc10e4", null ],
+    [ "pid", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a4b745237adce313f38cdfdf85161c1c2", null ],
+    [ "name", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a0d9649755ff1e17989a489582a9d03cb", null ],
+    [ "xMin", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#adfd7d6ccd6510daa583acdc536ea5581", null ],
+    [ "xMax", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#afa2e198b483dcd71af252d737dbb3483", null ],
+    [ "yMin", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a7d4f115b34e957e7059258a757c9cc2f", null ],
+    [ "yMax", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#ac2f9ee5b70f9c6a173443fde16d767a8", null ],
+    [ "zMin", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#ae56d52bb43aa5bf7b432ffd207a83c03", null ],
+    [ "zMax", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#aa5dacace483a88abe4f7f45e7248e769", null ],
+    [ "buttonsNumber", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#aac7ac3343280f4a71ebcd2e9aeea69a9", null ],
+    [ "minPeriod", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a2f3187912bddabad100218707e721d70", null ],
+    [ "maxPeriod", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a59977c69d49ccbe7eccab5ce81bf093f", null ],
+    [ "rMin", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#ae3a3e213fdfd4ef21fd6be5eb1d32653", null ],
+    [ "rMax", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#ab9b423e2b61206a3e0007668ce89ada0", null ],
+    [ "uMin", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a744e35737ea552bd089b073283a9b29e", null ],
+    [ "uMax", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a143b641e223d2e084136854a4aa12053", null ],
+    [ "vMin", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a14b386c0d37e00eccda1cab547c7e70f", null ],
+    [ "vMax", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a375c4cf4399bcf1b83318c5fdcd5167f", null ],
+    [ "caps", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#aea6d902e1a0115a9b15cac8a45533028", null ],
+    [ "axesMax", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a934f10679cad43579fe084735e0df101", null ],
+    [ "axesNumber", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a83202738c42df4c0935a0005a4490e9e", null ],
+    [ "buttonsMax", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a98ef4f9e56ee32a9e6da8878f65392ee", null ],
+    [ "regKey", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a468e5ab21d5f6f47f02dda626d3794da", null ],
+    [ "oemVxD", "de/d04/classAForge_1_1Controls_1_1JoystickAPI_1_1JOYCAPS.html#a1ff5ccbdf3f958d6b5d80a6512a77462", null ]
+];

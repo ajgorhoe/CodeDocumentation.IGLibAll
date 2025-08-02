@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Constraints.EqualConstraintResult" name="NUnit.Framework.Constraints.EqualConstraintResult">
+<area shape="rect" id="node1" title="The EqualConstraintResult class is tailored for formatting and displaying the result of an EqualConst..." alt="" coords="148,212,344,253"/>
+<area shape="rect" id="node2" href="$d7/d91/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintResult.html" title="Contain the result of matching a Constraint against an actual value." alt="" coords="5,13,124,39"/>
+<area shape="rect" id="node3" href="$d3/dec/classNUnit_1_1Framework_1_1Constraints_1_1Tolerance.html" title="The Tolerance class generalizes the notion of a tolerance within which an equality test succeeds...." alt="" coords="148,5,344,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="368,13,423,39"/>
+</map>

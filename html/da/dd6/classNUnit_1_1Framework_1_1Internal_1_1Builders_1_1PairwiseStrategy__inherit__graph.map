@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.Builders.PairwiseStrategy" name="NUnit.Framework.Internal.Builders.PairwiseStrategy">
+<area shape="rect" id="node1" title="PairwiseStrategy creates test cases by combining the parameter data so that all possible pairs of dat..." alt="" coords="5,80,177,121"/>
+<area shape="rect" id="node2" href="$d1/d8b/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ICombiningStrategy.html" title="CombiningStrategy is the abstract base for classes that know how to combine values provided for indiv..." alt="" coords="24,5,159,32"/>
+</map>

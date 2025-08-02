@@ -1,0 +1,28 @@
+var classTest_1_1AdvancedIntegerMathTest =
+[
+    [ "FactorialSpecialCases", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a72ca2c514888c25b28eaf544154b5e18", null ],
+    [ "FactorialRecurrence", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a70574f1ef64cf67da4a8a3cb1971d7b8", null ],
+    [ "FactorialNegativeArgumentTest", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a9c9089982ca5b6f6136b9c9ff6325dd5", null ],
+    [ "DoubleFactorialSpecialCases", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a340bb10b675df938bcb6ec1f378bc069", null ],
+    [ "FactorialDoubleFactorialRelationship", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a8587ba5baa5a1973736cf1e2e3b14100", null ],
+    [ "HarmonicSpecialCases", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a75bcfc9f8c64db9591ba3f3263cdec54", null ],
+    [ "HarmonicPsiAgreement", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#ab3df287d3ba55b810f737bf791749ae5", null ],
+    [ "PrimeSpecialCases", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a3ddaa9b7903ff37d22cc7f486d460660", null ],
+    [ "PrimeCounts", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#ad2db9c4fb4352354cae6b16aabc7d6f1", null ],
+    [ "CountPrimes", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#acf7b016713d4556c98ea7aecd7d0861f", null ],
+    [ "BinomialCoefficientRecurrence", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#ab09e053d0a66e28abbddc8bf272150ee", null ],
+    [ "BinomialCoefficientInequality", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a927341faf8d7528c63bc98537a81104b", null ],
+    [ "BinomialCoefficientSpecialCases", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a315ccbc9720978c064303d9ffede05a2", null ],
+    [ "BinomialCoefficientSums", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#af4a1651c6e0d5f627c62a6f0f81a56a1", null ],
+    [ "BinomialCoefficientAgreement", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#aeeb69033b8df0535d624ac136b78287c", null ],
+    [ "BinomialCoefficientInvalidArgumentTest1", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#af70b5a4f3d35b6594e94ac1c93e984a6", null ],
+    [ "BinomialCoefficientInvalidArgumentTest2", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a49b041348a49acb3ed45bede839c1fb0", null ],
+    [ "BinomialCoefficientInvalidArgumentTest3", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#ab128084bcfbcc5035fe58e06d9d191d3", null ],
+    [ "GcdLcmTest", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a0c784c058064bddf1b97d863a19eef8f", null ],
+    [ "IntegerPartitionCounts", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#ab3f205854a4040f53bdaca90e0030321", null ],
+    [ "CountValues", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a365161b209d903e40e24aec23908d8ca", null ],
+    [ "IntegerPartitionSums", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#aecff3ad9a89d87621994ed5542e44e01", null ],
+    [ "PowModTest", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a6cb8fa743d38d62b684e33ea5ac9217b", null ],
+    [ "FibonacciSpecialCases", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a126fbeeb2eec92deb7c5dfbded2ceaf5", null ],
+    [ "FibonacciRecurrence", "d4/d02/classTest_1_1AdvancedIntegerMathTest.html#a7c0c776ee1c73c1b4d36bc81dacba68f", null ]
+];

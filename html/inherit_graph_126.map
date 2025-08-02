@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dc/d86/interfaceAForge_1_1Neuro_1_1Learning_1_1IUnsupervisedLearning.html" title="Unsupervised learning interface" alt="" coords="5,35,244,76"/>
+<area shape="rect" id="node2" href="$d8/de3/classAForge_1_1Neuro_1_1Learning_1_1ElasticNetworkLearning.html" title="Elastic network learning algorithm" alt="" coords="312,5,511,47"/>
+<area shape="rect" id="node3" href="$db/d8a/classAForge_1_1Neuro_1_1Learning_1_1SOMLearning.html" title="Kohonen Self Organizing Map (SOM) learning algorithm" alt="" coords="292,71,531,98"/>
+</map>

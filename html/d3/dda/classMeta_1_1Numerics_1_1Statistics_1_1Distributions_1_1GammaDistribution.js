@@ -1,0 +1,28 @@
+var classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution =
+[
+    [ "GammaDistribution", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a402b9c6bff5f271ffadce4c7d010501f", null ],
+    [ "GammaDistribution", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#aa8281d491abd541c72bdd900fde89e0d", null ],
+    [ "ProbabilityDensity", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a16499cd4cdc0ded46a43c09d58a9cf5b", null ],
+    [ "LeftProbability", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#ac443a83f785d47d14a516325edca1bbc", null ],
+    [ "RightProbability", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#ad83b380a9b724e74b44a4f753d4fbe95", null ],
+    [ "Moment", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#ae717418069ca25b897190fbba56db3cc", null ],
+    [ "MomentAboutMean", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#af2c4d16152d17b15a3d8bdcf5abac776", null ],
+    [ "Cumulant", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#ab2de33723d3d5298c289b91eb5cf9da4", null ],
+    [ "ApproximateProbit", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a1da34cb2352004eacb031942ae6c821e", null ],
+    [ "ApproximateInverseStandardGamma", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#ab65a080c93bcc95a65e3da314eec790d", null ],
+    [ "InverseLeftStandardGamma", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a7b18f04aad8ad970c42b4b4551a10fea", null ],
+    [ "InverseLeftProbability", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#aa724a78bf467ef6999ceee153fc3e437", null ],
+    [ "GetRandomValue", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a88f9f224b773fd7a6905ef633eda9550", null ],
+    [ "FitToSample", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#aeb1d9680a4e2117192b79b30b423d943", null ],
+    [ "a", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a872c12902ccc52b30c417dd222233c74", null ],
+    [ "s", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a5ba21c2439c91c162bea7d8d6a9b1076", null ],
+    [ "ga", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a611fcdf552749882cbdda2b658ac65ae", null ],
+    [ "gammaRng", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#ac2df216c610c8b6f29b472e71904e220", null ],
+    [ "ShapeParameter", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#aa4bd8fd0903caec95f64e26c7c4c15a6", null ],
+    [ "ScaleParameter", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a25a9e92bbb5839a1754a8f3f99f595c5", null ],
+    [ "Support", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a3cc109c6afb782adf31d181a5f5a45a9", null ],
+    [ "Mean", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#ae10fbc46916e0a622d2379c8d9a3bfa2", null ],
+    [ "Variance", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a1c4c245309a9b0fc4a9ec7d10c9a043c", null ],
+    [ "Skewness", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a209121a0be04d08dc3b027ccc73d9d06", null ],
+    [ "ExcessKurtosis", "d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html#a721f8d10ed3f9d4e55e031f4f0f8d0a4", null ]
+];

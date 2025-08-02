@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Constraints.PropOperator" name="NUnit.Framework.Constraints.PropOperator">
+<area shape="rect" id="node1" title="Operator used to test for the presence of a named Property on an object and optionally apply further ..." alt="" coords="5,155,201,196"/>
+<area shape="rect" id="node2" href="$dc/d3b/classNUnit_1_1Framework_1_1Constraints_1_1SelfResolvingOperator.html" title="Abstract base class for operators that are able to reduce to a constraint whether or not another synt..." alt="" coords="29,80,178,107"/>
+<area shape="rect" id="node3" href="$df/d41/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintOperator.html" title="The ConstraintOperator class is used internally by a ConstraintBuilder to represent an operator that ..." alt="" coords="38,5,169,32"/>
+</map>

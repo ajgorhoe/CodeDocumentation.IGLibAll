@@ -1,0 +1,6 @@
+<map id="IG.Lib.MsgObservationEvent" name="IG.Lib.MsgObservationEvent">
+<area shape="rect" id="node1" title="Class for holding and manipulating the data about observation event. Includes parsing an XML file,..." alt="" coords="5,229,191,256"/>
+<area shape="rect" id="node2" href="$d4/d2b/classIG_1_1Lib_1_1MsgBaseWithModel.html" title="Base class messages, includes possibility of model document for conversion of the object to XML msg a..." alt="" coords="29,155,167,181"/>
+<area shape="rect" id="node3" href="$d8/d6e/classIG_1_1Lib_1_1MsgBase.html" title="Base class for all messages." alt="" coords="59,80,137,107"/>
+<area shape="rect" id="node4" href="$da/dac/classIG_1_1Lib_1_1ParsableXmlObject.html" title="Base class for data classes that support writing data to / reading from custom XML files,..." alt="" coords="32,5,164,32"/>
+</map>

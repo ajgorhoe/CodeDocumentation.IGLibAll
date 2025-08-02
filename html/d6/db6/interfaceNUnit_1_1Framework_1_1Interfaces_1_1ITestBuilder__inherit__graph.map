@@ -1,0 +1,10 @@
+<map id="NUnit.Framework.Interfaces.ITestBuilder" name="NUnit.Framework.Interfaces.ITestBuilder">
+<area shape="rect" id="node1" title="The ITestBuilder interface is exposed by a class that knows how to build one or more TestMethods from..." alt="" coords="5,224,192,265"/>
+<area shape="rect" id="node2" href="$d4/db0/classNUnit_1_1Framework_1_1CombiningStrategyAttribute.html" title="Marks a test to use a particular CombiningStrategy to join any parameter data provided...." alt="" coords="240,136,427,177"/>
+<area shape="rect" id="node6" href="$d2/dbe/classNUnit_1_1Framework_1_1TheoryAttribute.html" title="Adding this attribute to a method within a TestFixtureAttributeclass makes the method callable from t..." alt="" coords="475,202,689,229"/>
+<area shape="rect" id="node7" href="$d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html" title="TestCaseAttribute is used to mark parameterized test cases and provide them with their arguments." alt="" coords="243,253,424,295"/>
+<area shape="rect" id="node8" href="$d9/d2f/classNUnit_1_1Framework_1_1TestCaseSourceAttribute.html" title="TestCaseSourceAttribute indicates the source to be used to provide test cases for a test method." alt="" coords="243,319,424,360"/>
+<area shape="rect" id="node3" href="$d9/dfe/classNUnit_1_1Framework_1_1CombinatorialAttribute.html" title="Marks a test to use a combinatorial join of any argument data provided. Since this is the default,..." alt="" coords="479,5,685,47"/>
+<area shape="rect" id="node4" href="$d7/d46/classNUnit_1_1Framework_1_1PairwiseAttribute.html" title="Marks a test to use a pairwise join of any argument data provided. Arguments will be combined in such..." alt="" coords="495,71,669,112"/>
+<area shape="rect" id="node5" href="$de/d59/classNUnit_1_1Framework_1_1SequentialAttribute.html" title="Marks a test to use a Sequential join of any argument data provided. Arguments will be combined into ..." alt="" coords="489,136,675,177"/>
+</map>

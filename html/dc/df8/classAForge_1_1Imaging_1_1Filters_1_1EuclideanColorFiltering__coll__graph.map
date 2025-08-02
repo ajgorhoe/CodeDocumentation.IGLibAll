@@ -1,0 +1,9 @@
+<map id="AForge.Imaging.Filters.EuclideanColorFiltering" name="AForge.Imaging.Filters.EuclideanColorFiltering">
+<area shape="rect" id="node1" title="Euclidean color filtering." alt="" coords="227,185,441,227"/>
+<area shape="rect" id="node2" href="$db/dc9/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlacePartialFilter.html" title="Base class for filters, which may be applied directly to the source image or its part." alt="" coords="121,81,283,108"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="84,5,181,32"/>
+<area shape="rect" id="node5" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="205,5,340,32"/>
+<area shape="rect" id="node6" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="365,5,482,32"/>
+<area shape="rect" id="node7" href="$d0/d09/classAForge_1_1Imaging_1_1RGB.html" title="RGB components." alt="" coords="307,81,452,108"/>
+</map>

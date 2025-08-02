@@ -1,0 +1,10 @@
+<map id="Optimization1D.MainForm" name="Optimization1D.MainForm">
+<area shape="rect" id="node1" title="Summary description for MainForm." alt="" coords="308,421,481,448"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,171,179,212"/>
+<area shape="rect" id="node3" href="$d2/d9c/classOptimization1D_1_1UserFunction.html" title=" " alt="" coords="203,178,395,205"/>
+<area shape="rect" id="node4" href="$d6/d82/classAForge_1_1Genetic_1_1OptimizationFunction1D.html" title="Base class for one dimensional function optimizations." alt="" coords="218,95,379,121"/>
+<area shape="rect" id="node5" href="$d3/d4c/interfaceAForge_1_1Genetic_1_1IFitnessFunction.html" title="Fitness function interface." alt="" coords="171,5,290,32"/>
+<area shape="rect" id="node6" href="$dd/de1/structAForge_1_1Range.html" title="Represents a range with minimum and maximum values, which are single precision numbers (floats)." alt="" coords="314,5,419,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="419,178,483,205"/>
+<area shape="rect" id="node8" title=" " alt="" coords="507,178,573,205"/>
+</map>

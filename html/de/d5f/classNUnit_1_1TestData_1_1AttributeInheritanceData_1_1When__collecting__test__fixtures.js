@@ -1,0 +1,4 @@
+var classNUnit_1_1TestData_1_1AttributeInheritanceData_1_1When__collecting__test__fixtures =
+[
+    [ "should_include_classes_with_an_attribute_derived_from_TestFixtureAttribute", "de/d5f/classNUnit_1_1TestData_1_1AttributeInheritanceData_1_1When__collecting__test__fixtures.html#ae6b4ad7bf3bb4975d18d0b7a2278bf35", null ]
+];

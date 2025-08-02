@@ -1,0 +1,4 @@
+<map id="IGLib.Core.FromStringTypeConverterViaJson" name="IGLib.Core.FromStringTypeConverterViaJson">
+<area shape="rect" id="node1" title="Converts a JSON string to a strongly typed object using System.Text.Json." alt="" coords="8,95,187,136"/>
+<area shape="rect" id="node2" href="$dd/d09/interfaceIGLib_1_1Core_1_1ISingleSourceTypeConverter.html" title=" " alt="" coords="5,5,189,47"/>
+</map>

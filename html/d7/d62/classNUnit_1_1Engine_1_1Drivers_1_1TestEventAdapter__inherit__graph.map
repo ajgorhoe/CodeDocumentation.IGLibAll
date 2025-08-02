@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.Drivers.TestEventAdapter" name="NUnit.Engine.Drivers.TestEventAdapter">
+<area shape="rect" id="node1" title="The TestEventAdapter class receives NUnit v2 events and passes the equivalent v3 event to the engine." alt="" coords="63,80,233,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="171,5,271,32"/>
+</map>

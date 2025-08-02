@@ -1,0 +1,4 @@
+<map id="AForge.Video.Kinect.KinectVideoCamera" name="AForge.Video.Kinect.KinectVideoCamera">
+<area shape="rect" id="node1" title="Video source for Microsoft Kinect&#39;s video camera." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$d3/d61/interfaceAForge_1_1Video_1_1IVideoSource.html" title="Video source interface." alt="" coords="47,5,146,32"/>
+</map>

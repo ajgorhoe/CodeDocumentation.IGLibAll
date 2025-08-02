@@ -1,0 +1,9 @@
+<map id="NeuronDotNet.Core.IInitializer" name="NeuronDotNet.Core.IInitializer">
+<area shape="rect" id="node1" title="Initializer interface. An initializer should define initialization methods for all concrete initializ..." alt="" coords="145,111,337,138"/>
+<area shape="rect" id="node3" href="$de/d3a/classNeuronDotNet_1_1Core_1_1Initializers_1_1ConstantFunction.html" title="An IInitializer using constant function" alt="" coords="385,5,585,47"/>
+<area shape="rect" id="node5" href="$d2/d19/classNeuronDotNet_1_1Core_1_1Initializers_1_1NguyenWidrowFunction.html" title="An IInitializer using Nguyen Widrow function." alt="" coords="385,71,585,112"/>
+<area shape="rect" id="node6" href="$d0/d36/classNeuronDotNet_1_1Core_1_1Initializers_1_1NormalizedRandomFunction.html" title="An IInitializer using Normalized Random function." alt="" coords="385,136,585,177"/>
+<area shape="rect" id="node7" href="$d8/dbe/classNeuronDotNet_1_1Core_1_1Initializers_1_1RandomFunction.html" title="An IInitializer using random function" alt="" coords="385,201,585,243"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,111,97,138"/>
+<area shape="rect" id="node4" href="$df/d48/classNeuronDotNet_1_1Core_1_1Initializers_1_1ZeroFunction.html" title="An IInitializer using zero function" alt="" coords="633,5,833,47"/>
+</map>

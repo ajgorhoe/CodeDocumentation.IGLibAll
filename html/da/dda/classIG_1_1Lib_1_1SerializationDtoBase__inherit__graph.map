@@ -1,0 +1,8 @@
+<map id="IG.Lib.SerializationDtoBase&lt; Type, BaseType &gt;" name="IG.Lib.SerializationDtoBase&lt; Type, BaseType &gt;">
+<area shape="rect" id="node1" title="Generic base class for Data Transfer Objects (DTO). This class is used as template for producing conc..." alt="" coords="185,49,367,90"/>
+<area shape="rect" id="node5" href="$db/dde/classIG_1_1Lib_1_1SerializationDtoTypedBase.html" title=" " alt="" coords="415,15,620,57"/>
+<area shape="rect" id="node6" href="$db/df8/classIG_1_1Sim_1_1SimulationComponentDtoBase.html" title="Interface for all components of simulation DTOs." alt="" coords="417,81,618,122"/>
+<area shape="rect" id="node2" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title="Auxiliary base class for DTOs, contains some static methods. Provided for simplicity,..." alt="" coords="15,5,128,32"/>
+<area shape="rect" id="node3" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="33,56,110,83"/>
+<area shape="rect" id="node4" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title=" " alt="" coords="5,107,137,149"/>
+</map>

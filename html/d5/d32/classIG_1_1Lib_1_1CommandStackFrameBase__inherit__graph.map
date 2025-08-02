@@ -1,0 +1,4 @@
+<map id="IG.Lib.CommandStackFrameBase" name="IG.Lib.CommandStackFrameBase">
+<area shape="rect" id="node1" title="Base class for classes of type CommandStackFrame{InterpreterType, ThreadType}see cref=&quot;&quot;/&gt;...." alt="" coords="5,5,225,32"/>
+<area shape="rect" id="node2" href="$d0/d0c/classIG_1_1Lib_1_1CommandStackFrame.html" title="Stack frame for a block of command&#45;line interpreter commands." alt="" coords="12,80,219,121"/>
+</map>

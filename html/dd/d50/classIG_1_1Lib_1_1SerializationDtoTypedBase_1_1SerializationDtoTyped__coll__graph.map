@@ -1,0 +1,6 @@
+<map id="IG.Lib.SerializationDtoTypedBase&lt; Type, BaseType &gt;.SerializationDtoTyped&lt; CommonType &gt;" name="IG.Lib.SerializationDtoTypedBase&lt; Type, BaseType &gt;.SerializationDtoTyped&lt; CommonType &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="268,63,513,119"/>
+<area shape="rect" id="node2" href="$db/dde/classIG_1_1Lib_1_1SerializationDtoTypedBase.html" title=" " alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node3" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title=" " alt="" coords="51,71,175,112"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="74,137,151,163"/>
+</map>

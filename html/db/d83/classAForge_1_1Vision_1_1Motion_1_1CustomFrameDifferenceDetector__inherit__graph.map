@@ -1,0 +1,4 @@
+<map id="AForge.Vision.Motion.CustomFrameDifferenceDetector" name="AForge.Vision.Motion.CustomFrameDifferenceDetector">
+<area shape="rect" id="node1" title="Motion detector based on difference with predefined background frame." alt="" coords="5,80,201,121"/>
+<area shape="rect" id="node2" href="$d2/d43/interfaceAForge_1_1Vision_1_1Motion_1_1IMotionDetector.html" title="Interface of motion detector algorithm." alt="" coords="47,5,160,32"/>
+</map>

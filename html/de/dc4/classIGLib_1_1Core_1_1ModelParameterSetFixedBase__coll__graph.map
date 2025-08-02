@@ -1,0 +1,4 @@
+<map id="IGLib.Core.ModelParameterSetFixedBase&lt; ModelParameterType &gt;" name="IGLib.Core.ModelParameterSetFixedBase&lt; ModelParameterType &gt;">
+<area shape="rect" id="node1" title="Contains a set of model parameters as ModelParameterType &#160;objects, accessible by string keys,..." alt="" coords="5,95,256,136"/>
+<area shape="rect" id="node2" href="$df/d1f/interfaceIGLib_1_1Core_1_1IModelParameterSetBaseFixed.html" title="A fixed set of model parameters of the specified type, where parameters cannot be added,..." alt="" coords="29,5,232,47"/>
+</map>

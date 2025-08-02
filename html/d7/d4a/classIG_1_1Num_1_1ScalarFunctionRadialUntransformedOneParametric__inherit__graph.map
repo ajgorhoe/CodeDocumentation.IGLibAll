@@ -1,0 +1,6 @@
+<map id="IG.Num.ScalarFunctionRadialUntransformedOneParametric" name="IG.Num.ScalarFunctionRadialUntransformedOneParametric">
+<area shape="rect" id="node1" title="One parametric radial scalar function (dependent on one tunning parameter)." alt="" coords="23,229,217,271"/>
+<area shape="rect" id="node2" href="$d7/ddc/classIG_1_1Num_1_1ScalarFunctionRadialUntransformed.html" title="Radial scalar functions." alt="" coords="5,155,235,181"/>
+<area shape="rect" id="node3" href="$d2/d9e/classIG_1_1Num_1_1ScalarFunctionUntransformedBase.html" title="Base class for defining scalar functions without possibility of affine transformation of parameters." alt="" coords="83,80,306,107"/>
+<area shape="rect" id="node4" href="$d8/d56/interfaceIG_1_1Num_1_1IScalarFunctionUntransformed.html" title="Scalar functions of vector arguments." alt="" coords="22,5,218,32"/>
+</map>

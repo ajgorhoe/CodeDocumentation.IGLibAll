@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/d79/classAForge_1_1Imaging_1_1BlobCounterBase.html" title="Base class for different blob counting algorithms." alt="" coords="5,35,224,61"/>
+<area shape="rect" id="node2" href="$d1/d9f/classAForge_1_1Imaging_1_1BlobCounter.html" title="Blob counter &#45; counts objects in image, which are separated by black background." alt="" coords="272,5,460,32"/>
+<area shape="rect" id="node3" href="$d8/dd8/classAForge_1_1Imaging_1_1RecursiveBlobCounter.html" title="Blob counter based on recursion." alt="" coords="279,57,453,98"/>
+</map>

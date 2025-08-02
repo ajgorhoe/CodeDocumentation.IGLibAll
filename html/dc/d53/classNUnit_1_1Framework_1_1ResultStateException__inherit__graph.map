@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.ResultStateException" name="NUnit.Framework.ResultStateException">
+<area shape="rect" id="node1" title="Abstract base for Exceptions that terminate a test and provide a ResultState." alt="" coords="133,93,328,135"/>
+<area shape="rect" id="node3" href="$d3/de4/classNUnit_1_1Framework_1_1AssertionException.html" title="Thrown when an assertion failed." alt="" coords="403,5,584,47"/>
+<area shape="rect" id="node4" href="$d7/d30/classNUnit_1_1Framework_1_1IgnoreException.html" title="Thrown when an assertion failed." alt="" coords="384,71,603,98"/>
+<area shape="rect" id="node5" href="$df/d16/classNUnit_1_1Framework_1_1InconclusiveException.html" title="Thrown when a test executes inconclusively." alt="" coords="395,123,591,164"/>
+<area shape="rect" id="node6" href="$db/d68/classNUnit_1_1Framework_1_1SuccessException.html" title="Thrown when an assertion failed." alt="" coords="376,189,611,215"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,101,85,127"/>
+</map>

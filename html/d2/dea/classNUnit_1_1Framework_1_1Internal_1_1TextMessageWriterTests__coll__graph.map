@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.Internal.TextMessageWriterTests" name="NUnit.Framework.Internal.TextMessageWriterTests">
+<area shape="rect" id="node1" title=" " alt="" coords="163,319,335,360"/>
+<area shape="rect" id="node2" href="$d2/dbf/classNUnit_1_1Framework_1_1AssertionHelper.html" title="AssertionHelper is an optional base class for user tests, allowing the use of shorter ids for constra..." alt="" coords="15,222,129,249"/>
+<area shape="rect" id="node3" href="$d2/dab/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintFactory.html" title="Helper class with properties and methods that supply a number of constraints used in Asserts." alt="" coords="5,81,131,108"/>
+<area shape="rect" id="node4" href="$df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html" title="TextMessageWriter writes constraint descriptions and messages in displayable form as a text stream...." alt="" coords="163,215,335,256"/>
+<area shape="rect" id="node5" href="$dd/d63/classNUnit_1_1Framework_1_1Constraints_1_1MessageWriter.html" title="MessageWriter is the abstract base for classes that write constraint descriptions and messages in som..." alt="" coords="155,81,266,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="165,5,256,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="342,81,397,108"/>
+</map>

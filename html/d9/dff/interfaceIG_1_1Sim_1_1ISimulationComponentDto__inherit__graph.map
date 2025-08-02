@@ -1,0 +1,12 @@
+<map id="IG.Sim.ISimulationComponentDto" name="IG.Sim.ISimulationComponentDto">
+<area shape="rect" id="node1" title="Interface for all components of simulation DTOs." alt="" coords="5,163,221,189"/>
+<area shape="rect" id="node2" href="$df/d02/classIG_1_1Sim_1_1SimDomainDto.html" title="Base class for simulation domains." alt="" coords="295,5,448,32"/>
+<area shape="rect" id="node3" href="$d9/da7/classIG_1_1Sim_1_1SimFieldBaseDto.html" title="Base class for simulation field DTOs (data transfer objects)." alt="" coords="288,57,455,98"/>
+<area shape="rect" id="node4" href="$de/d1a/classIG_1_1Sim_1_1SimFieldElemetDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific simulation ..." alt="" coords="282,122,461,163"/>
+<area shape="rect" id="node8" href="$dc/da2/classIG_1_1Sim_1_1SimScalarFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific scalar fiel..." alt="" coords="270,187,473,229"/>
+<area shape="rect" id="node9" href="$dd/db9/classIG_1_1Sim_1_1SimTensorFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific tensor fiel..." alt="" coords="269,253,473,294"/>
+<area shape="rect" id="node10" href="$d2/d9b/classIG_1_1Sim_1_1SimVectorFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific vector fiel..." alt="" coords="270,318,473,359"/>
+<area shape="rect" id="node5" href="$dc/da2/classIG_1_1Sim_1_1SimScalarFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific scalar fiel..." alt="" coords="522,57,733,98"/>
+<area shape="rect" id="node6" href="$dd/db9/classIG_1_1Sim_1_1SimTensorFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific tensor fiel..." alt="" coords="521,122,733,163"/>
+<area shape="rect" id="node7" href="$d2/d9b/classIG_1_1Sim_1_1SimVectorFieldElementDto.html" title="Base class for a DTO that holds node values of a single element (component) of a specific vector fiel..." alt="" coords="522,187,733,229"/>
+</map>

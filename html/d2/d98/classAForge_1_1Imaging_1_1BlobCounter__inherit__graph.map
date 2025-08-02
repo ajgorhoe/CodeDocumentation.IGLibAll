@@ -1,0 +1,4 @@
+<map id="AForge.Imaging.BlobCounter" name="AForge.Imaging.BlobCounter">
+<area shape="rect" id="node1" title="Blob counter &#45; counts objects in image, which are separated by black background." alt="" coords="5,80,193,107"/>
+<area shape="rect" id="node2" href="$d7/d79/classAForge_1_1Imaging_1_1BlobCounterBase.html" title="Base class for different blob counting algorithms." alt="" coords="38,5,161,32"/>
+</map>

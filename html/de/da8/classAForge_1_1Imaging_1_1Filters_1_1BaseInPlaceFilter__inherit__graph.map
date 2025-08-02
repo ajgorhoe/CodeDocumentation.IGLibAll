@@ -1,0 +1,27 @@
+<map id="AForge.Imaging.Filters.BaseInPlaceFilter" name="AForge.Imaging.Filters.BaseInPlaceFilter">
+<area shape="rect" id="node1" title="Base class for filters, which may be applied directly to the source image." alt="" coords="171,467,357,509"/>
+<area shape="rect" id="node5" href="$dc/d44/classAForge_1_1Imaging_1_1Filters_1_1BackwardQuadrilateralTransformation.html" title="Performs backward quadrilateral transformation into an area in destination image." alt="" coords="413,135,627,177"/>
+<area shape="rect" id="node6" href="$dc/df2/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlaceFilter2.html" title="Base class for filters, which operate with two images of the same size and format and may be applied ..." alt="" coords="427,201,613,242"/>
+<area shape="rect" id="node16" href="$d0/d8c/classAForge_1_1Imaging_1_1Filters_1_1BlobsFiltering.html" title="Blobs filtering by size." alt="" coords="425,266,615,307"/>
+<area shape="rect" id="node17" href="$da/dce/classAForge_1_1Imaging_1_1Filters_1_1BottomHat.html" title="Bottop&#45;hat operator from Mathematical Morphology." alt="" coords="411,332,629,359"/>
+<area shape="rect" id="node18" href="$d2/d7b/classAForge_1_1Imaging_1_1Filters_1_1BradleyLocalThresholding.html" title="Adaptive thresholding using the internal image." alt="" coords="419,383,621,425"/>
+<area shape="rect" id="node19" href="$d0/d9b/classAForge_1_1Imaging_1_1Filters_1_1CanvasCrop.html" title="Fill areas outiside of specified region." alt="" coords="407,449,633,476"/>
+<area shape="rect" id="node20" href="$d2/d4f/classAForge_1_1Imaging_1_1Filters_1_1CanvasFill.html" title="Fill areas iniside of the specified region." alt="" coords="412,500,628,527"/>
+<area shape="rect" id="node21" href="$d8/d11/classAForge_1_1Imaging_1_1Filters_1_1CanvasMove.html" title="Move canvas to the specified point." alt="" coords="405,551,635,577"/>
+<area shape="rect" id="node22" href="$dc/dce/classAForge_1_1Imaging_1_1Filters_1_1CornersMarker.html" title="Filter to mark (highlight) corners of objects." alt="" coords="419,602,621,643"/>
+<area shape="rect" id="node23" href="$d5/d05/classAForge_1_1Imaging_1_1Filters_1_1FillHoles.html" title="Fill holes in objects in binary image." alt="" coords="433,667,607,709"/>
+<area shape="rect" id="node24" href="$de/db9/classAForge_1_1Imaging_1_1Filters_1_1FlatFieldCorrection.html" title="Flat field correction filter." alt="" coords="431,733,609,774"/>
+<area shape="rect" id="node25" href="$dc/d0f/classAForge_1_1Imaging_1_1Filters_1_1TopHat.html" title="Top&#45;hat operator from Mathematical Morphology." alt="" coords="421,799,619,825"/>
+<area shape="rect" id="node2" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="37,424,91,451"/>
+<area shape="rect" id="node3" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="15,475,113,501"/>
+<area shape="rect" id="node4" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="5,525,123,552"/>
+<area shape="rect" id="node7" href="$d1/d63/classAForge_1_1Imaging_1_1Filters_1_1Add.html" title="Add fillter &#45; add pixel values of two images." alt="" coords="700,5,880,32"/>
+<area shape="rect" id="node8" href="$da/d44/classAForge_1_1Imaging_1_1Filters_1_1Difference.html" title="Difference filter &#45; get the difference between overlay and source images." alt="" coords="683,56,897,83"/>
+<area shape="rect" id="node9" href="$d2/d21/classAForge_1_1Imaging_1_1Filters_1_1Intersect.html" title="Intersect filter &#45; get MIN of pixels in two images." alt="" coords="687,107,893,133"/>
+<area shape="rect" id="node10" href="$dd/dd7/classAForge_1_1Imaging_1_1Filters_1_1Merge.html" title="Merge filter &#45; get MAX of pixels in two images." alt="" coords="693,157,887,184"/>
+<area shape="rect" id="node11" href="$dc/d62/classAForge_1_1Imaging_1_1Filters_1_1Morph.html" title="Morph filter." alt="" coords="693,208,887,235"/>
+<area shape="rect" id="node12" href="$da/d33/classAForge_1_1Imaging_1_1Filters_1_1MoveTowards.html" title="Move towards filter." alt="" coords="697,259,883,301"/>
+<area shape="rect" id="node13" href="$d1/d8d/classAForge_1_1Imaging_1_1Filters_1_1StereoAnaglyph.html" title="Stereo anaglyph filter." alt="" coords="693,325,887,366"/>
+<area shape="rect" id="node14" href="$de/df6/classAForge_1_1Imaging_1_1Filters_1_1Subtract.html" title="Subtract filter &#45; subtract pixel values of two images." alt="" coords="687,391,893,417"/>
+<area shape="rect" id="node15" href="$d5/de6/classAForge_1_1Imaging_1_1Filters_1_1TexturedMerge.html" title="Merge two images using factors from texture." alt="" coords="687,442,893,483"/>
+</map>

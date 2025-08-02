@@ -1,0 +1,12 @@
+<map id="IG.Script.AppIgorGresovnik" name="IG.Script.AppIgorGresovnik">
+<area shape="rect" id="node1" title="Internal script for running embedded applications." alt="" coords="138,229,317,256"/>
+<area shape="rect" id="node6" href="$dc/de4/classIG_1_1Script_1_1AppMarkoEmbeddedTest.html" title="Test embedded script class, used to demonstrate how nested embedded scripts can be run by the main sc..." alt="" coords="5,304,228,331"/>
+<area shape="rect" id="node7" href="$dd/d51/classIG_1_1Script_1_1AppMarkoPetek.html" title="Internal script for running embedded applications." alt="" coords="253,304,423,331"/>
+<area shape="rect" id="node2" href="$d0/dec/classIG_1_1Script_1_1AppExtBase.html" title="Internal script for running embedded applications." alt="" coords="137,155,232,181"/>
+<area shape="rect" id="node3" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="107,80,182,107"/>
+<area shape="rect" id="node4" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities." alt="" coords="55,5,165,32"/>
+<area shape="rect" id="node5" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="189,5,300,32"/>
+<area shape="rect" id="node8" href="$dd/d84/classIG_1_1Script_1_1AppMarkoPetekDerivedScript.html" title="Tells to the interpreter, which custom classes are available." alt="" coords="120,379,332,420"/>
+<area shape="rect" id="node9" href="$d0/d8c/classIG_1_1Script_1_1AppMarkoPetekExt.html" title="Internal script for running EXTENDED embedded applications." alt="" coords="356,386,547,413"/>
+<area shape="rect" id="node10" href="$db/d4d/classIG_1_1Script_1_1AppMarkoPetekDerivedScriptExt.html" title="Tells to the interpreter, which custom classes are available." alt="" coords="345,468,557,509"/>
+</map>

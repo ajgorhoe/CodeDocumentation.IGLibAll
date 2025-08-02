@@ -1,0 +1,5 @@
+<map id="IG.MPetekLib.Algorithms.PlottableModels.Oscillators.SimpleHarmonicOscillator" name="IG.MPetekLib.Algorithms.PlottableModels.Oscillators.SimpleHarmonicOscillator">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,191,211"/>
+<area shape="rect" id="node2" href="$db/db8/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableODEModelBase.html" title="A template class for physical models, which are described by ordinary differential equations (ODEs)...." alt="" coords="15,80,181,107"/>
+<area shape="rect" id="node3" href="$d2/d4f/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableModelBase.html" title="A template class for physical models. Each child should define its own plottable curves)." alt="" coords="29,5,167,32"/>
+</map>

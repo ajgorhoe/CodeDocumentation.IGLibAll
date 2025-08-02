@@ -1,0 +1,5 @@
+var namespaceIG_1_1MPetekLib_1_1Application_1_1Scripts_1_1MagOscHardSpring =
+[
+    [ "_23SingleResCurveManyPhases", "d7/d91/classIG_1_1MPetekLib_1_1Application_1_1Scripts_1_1MagOscHardSpring_1_1__23SingleResCurveManyPhases.html", "d7/d91/classIG_1_1MPetekLib_1_1Application_1_1Scripts_1_1MagOscHardSpring_1_1__23SingleResCurveManyPhases" ],
+    [ "_24MultiResCurvesPlotPhaseScan", "d9/db2/classIG_1_1MPetekLib_1_1Application_1_1Scripts_1_1MagOscHardSpring_1_1__24MultiResCurvesPlotPhaseScan.html", "d9/db2/classIG_1_1MPetekLib_1_1Application_1_1Scripts_1_1MagOscHardSpring_1_1__24MultiResCurvesPlotPhaseScan" ]
+];

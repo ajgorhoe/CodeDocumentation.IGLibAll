@@ -1,0 +1,8 @@
+<map id="AForge.Genetic.Population" name="AForge.Genetic.Population">
+<area shape="rect" id="node1" title="Population of chromosomes." alt="" coords="517,91,696,117"/>
+<area shape="rect" id="node2" href="$d3/d4c/interfaceAForge_1_1Genetic_1_1IFitnessFunction.html" title="Fitness function interface." alt="" coords="149,5,363,32"/>
+<area shape="rect" id="node3" href="$d8/df7/interfaceAForge_1_1Genetic_1_1ISelectionMethod.html" title="Genetic selection method interface." alt="" coords="169,57,343,98"/>
+<area shape="rect" id="node4" href="$d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome.html" title="Chromosome interface." alt="" coords="157,123,355,149"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,123,100,149"/>
+<area shape="rect" id="node6" title=" " alt="" coords="229,173,283,200"/>
+</map>

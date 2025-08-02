@@ -1,0 +1,14 @@
+<map id="NUnitLite.TextRunner" name="NUnitLite.TextRunner">
+<area shape="rect" id="node1" title="TextRunner is a general purpose class that runs tests and outputs to a text&#45;based user interface (Tex..." alt="" coords="1184,108,1329,135"/>
+<area shape="rect" id="node2" href="$de/d53/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestListener.html" title="The ITestListener interface is used internally to receive notifications of significant events while a..." alt="" coords="580,40,676,67"/>
+<area shape="rect" id="node11" href="$d1/d7a/classNUnitLite_1_1TeamCityEventListener.html" title="TeamCityEventListener class handles ITestListener events by issuing TeamCity service messages on the ..." alt="" coords="860,5,1072,32"/>
+<area shape="rect" id="node3" href="$de/dda/classNUnitLite_1_1TextUI.html" title=" " alt="" coords="908,177,1024,204"/>
+<area shape="rect" id="node4" href="$d0/d56/classNUnit_1_1Common_1_1ExtendedTextWriter.html" title="ExtendedTextWriter extends the TextWriter abstract class to support displaying text in color...." alt="" coords="531,249,725,290"/>
+<area shape="rect" id="node5" title=" " alt="" coords="169,256,251,283"/>
+<area shape="rect" id="node6" href="$d1/d00/classNUnitLite_1_1NUnitLiteOptions.html" title="NUnitLiteOptions encapsulates the option settings for NUnitLite. Currently, there are no additional o..." alt="" coords="539,135,717,161"/>
+<area shape="rect" id="node7" href="$da/d32/classNUnit_1_1Common_1_1CommandLineOptions.html" title="CommandLineOptions is the base class the specific option classes used for nunit3&#45;console and nunitlit..." alt="" coords="135,136,285,163"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,167,85,193"/>
+<area shape="rect" id="node9" href="$da/d32/classNUnit_1_1Common_1_1CommandLineOptions.html" title="CommandLineOptions is the base class the specific option classes used for nunit3&#45;console and nunitlit..." alt="" coords="309,179,507,221"/>
+<area shape="rect" id="node10" title=" " alt="" coords="601,315,655,341"/>
+<area shape="rect" id="node12" href="$df/d48/interfaceNUnit_1_1Framework_1_1Api_1_1ITestAssemblyRunner.html" title="The ITestAssemblyRunner interface is implemented by classes that are able to execute a suite of tests..." alt="" coords="877,229,1055,270"/>
+</map>

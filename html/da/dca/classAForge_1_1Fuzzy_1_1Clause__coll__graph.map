@@ -1,0 +1,6 @@
+<map id="AForge.Fuzzy.Clause" name="AForge.Fuzzy.Clause">
+<area shape="rect" id="node1" title="This class represents a fuzzy clause, a linguistic expression of the type &quot;Variable IS Value&quot;." alt="" coords="109,199,257,225"/>
+<area shape="rect" id="node2" href="$d7/dbf/classAForge_1_1Fuzzy_1_1LinguisticVariable.html" title="The class represents a linguistic variable." alt="" coords="5,109,216,136"/>
+<area shape="rect" id="node3" href="$df/dda/classAForge_1_1Fuzzy_1_1FuzzySet.html" title="The class represents a fuzzy set." alt="" coords="241,109,405,136"/>
+<area shape="rect" id="node4" href="$d0/d72/interfaceAForge_1_1Fuzzy_1_1IMembershipFunction.html" title="Interface which specifies set of methods required to be implemented by all membership functions." alt="" coords="231,5,414,47"/>
+</map>

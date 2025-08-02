@@ -1,0 +1,6 @@
+<map id="IG.Neural.Forms.NeuralInputParameterSelectorMinMax" name="IG.Neural.Forms.NeuralInputParameterSelectorMinMax">
+<area shape="rect" id="node1" title="Selection of parameter to be varied, together with bounds &#45; for parametric tests." alt="" coords="60,241,247,283"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="120,5,187,32"/>
+<area shape="rect" id="node4" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="211,5,421,32"/>
+</map>

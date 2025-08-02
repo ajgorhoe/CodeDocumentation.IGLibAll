@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.Execution.SimpleWorkItem" name="NUnit.Framework.Internal.Execution.SimpleWorkItem">
+<area shape="rect" id="node1" title="A SimpleWorkItem represents a single test case and is marked as completed immediately upon execution...." alt="" coords="5,80,185,121"/>
+<area shape="rect" id="node2" href="$d4/dab/classNUnit_1_1Framework_1_1Internal_1_1Execution_1_1WorkItem.html" title="A WorkItem may be an individual test case, a fixture or a higher level grouping of tests...." alt="" coords="56,5,135,32"/>
+</map>

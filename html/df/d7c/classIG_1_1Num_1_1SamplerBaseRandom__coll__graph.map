@@ -1,0 +1,7 @@
+<map id="IG.Num.SamplerBaseRandom" name="IG.Num.SamplerBaseRandom">
+<area shape="rect" id="node1" title="Base class for sampling classes that produce a desired number of sampling points with a particular ar..." alt="" coords="32,171,228,197"/>
+<area shape="rect" id="node2" href="$db/d96/classIG_1_1Num_1_1SamplerBase.html" title="Base class for sampling classes that produce a desired number of sampling points with a particular ar..." alt="" coords="80,81,180,108"/>
+<area shape="rect" id="node3" href="$dc/d12/interfaceIG_1_1Num_1_1ISampler.html" title="Interface representing sampling objects that produce a desired number of sampling points with a parti..." alt="" coords="5,5,79,32"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="103,5,181,32"/>
+<area shape="rect" id="node5" href="$d4/d43/interfaceIG_1_1Num_1_1IRandomGenerator.html" title="Uniform random number generator." alt="" coords="205,81,383,108"/>
+</map>

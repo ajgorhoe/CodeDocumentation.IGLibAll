@@ -1,0 +1,21 @@
+<map id="AForge.Imaging.Filters.BaseTransformationFilter" name="AForge.Imaging.Filters.BaseTransformationFilter">
+<area shape="rect" id="node1" title="Base class for filters, which may produce new image of different size as a result of image processing..." alt="" coords="171,451,357,492"/>
+<area shape="rect" id="node4" href="$df/d41/classAForge_1_1Imaging_1_1Filters_1_1BaseResizeFilter.html" title="Base class for image resizing filters." alt="" coords="427,104,614,145"/>
+<area shape="rect" id="node8" href="$dd/d74/classAForge_1_1Imaging_1_1Filters_1_1BaseRotateFilter.html" title="Base class for image rotation filters." alt="" coords="427,235,614,276"/>
+<area shape="rect" id="node12" href="$d6/d12/classAForge_1_1Imaging_1_1Filters_1_1Crop.html" title="Crop an image." alt="" coords="429,301,613,327"/>
+<area shape="rect" id="node13" href="$d0/d90/classAForge_1_1Imaging_1_1Filters_1_1QuadrilateralTransformation.html" title="Performs quadrilateral transformation of an area in a given source image." alt="" coords="405,352,636,393"/>
+<area shape="rect" id="node14" href="$d5/d51/classAForge_1_1Imaging_1_1Filters_1_1QuadrilateralTransformationBilinear.html" title="Performs quadrilateral transformation using bilinear algorithm for interpolation." alt="" coords="405,417,636,459"/>
+<area shape="rect" id="node15" href="$dc/dae/classAForge_1_1Imaging_1_1Filters_1_1QuadrilateralTransformationNearestNeighbor.html" title="Performs quadrilateral transformation using nearest neighbor algorithm for interpolation." alt="" coords="405,483,636,524"/>
+<area shape="rect" id="node16" href="$d6/d05/classAForge_1_1Imaging_1_1Filters_1_1Shrink.html" title="Shrink an image by removing specified color from its boundaries." alt="" coords="423,549,618,575"/>
+<area shape="rect" id="node17" href="$d0/dcd/classAForge_1_1Imaging_1_1Filters_1_1SimpleQuadrilateralTransformation.html" title="Performs quadrilateral transformation of an area in the source image." alt="" coords="422,600,619,641"/>
+<area shape="rect" id="node18" href="$d1/d01/classAForge_1_1Imaging_1_1Filters_1_1TransformFromPolar.html" title="Transform polar image into rectangle." alt="" coords="413,665,628,707"/>
+<area shape="rect" id="node19" href="$d2/d6b/classAForge_1_1Imaging_1_1Filters_1_1TransformToPolar.html" title="Transform rectangle image into circle (to polar coordinates)." alt="" coords="413,731,628,772"/>
+<area shape="rect" id="node2" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="37,433,91,459"/>
+<area shape="rect" id="node3" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="5,483,123,510"/>
+<area shape="rect" id="node5" href="$d2/d82/classAForge_1_1Imaging_1_1Filters_1_1ResizeBicubic.html" title="Resize image using bicubic interpolation algorithm." alt="" coords="684,5,881,47"/>
+<area shape="rect" id="node6" href="$d5/d3b/classAForge_1_1Imaging_1_1Filters_1_1ResizeBilinear.html" title="Resize image using bilinear interpolation algorithm." alt="" coords="684,71,881,112"/>
+<area shape="rect" id="node7" href="$db/d91/classAForge_1_1Imaging_1_1Filters_1_1ResizeNearestNeighbor.html" title="Resize image using nearest neighbor algorithm." alt="" coords="684,136,881,177"/>
+<area shape="rect" id="node9" href="$d2/d15/classAForge_1_1Imaging_1_1Filters_1_1RotateBicubic.html" title="Rotate image using bicubic interpolation." alt="" coords="685,201,880,243"/>
+<area shape="rect" id="node10" href="$d7/df8/classAForge_1_1Imaging_1_1Filters_1_1RotateBilinear.html" title="Rotate image using bilinear interpolation." alt="" coords="685,267,880,308"/>
+<area shape="rect" id="node11" href="$da/d34/classAForge_1_1Imaging_1_1Filters_1_1RotateNearestNeighbor.html" title="Rotate image using nearest neighbor algorithm." alt="" coords="685,332,880,373"/>
+</map>

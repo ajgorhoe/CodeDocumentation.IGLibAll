@@ -1,0 +1,8 @@
+<map id="NeuronDotNet.Core.SOM.PositionNeuron" name="NeuronDotNet.Core.SOM.PositionNeuron">
+<area shape="rect" id="node1" title="Position Neuron is a neuron in a two&#45;dimensional space used in Kohonen networks." alt="" coords="475,81,694,123"/>
+<area shape="rect" id="node3" href="$d0/df0/classNeuronDotNet_1_1Core_1_1SOM_1_1KohonenLayer.html" title="Kohonen Layer is a layer containing position neurons." alt="" coords="303,185,525,227"/>
+<area shape="rect" id="node2" href="$d4/d8e/interfaceNeuronDotNet_1_1Core_1_1INeuron.html" title="Interface representing a neuron. A neuron is a basic building block of a neural network." alt="" coords="551,5,618,32"/>
+<area shape="rect" id="node4" href="$db/d81/classNeuronDotNet_1_1Core_1_1Layer.html" title=" " alt="" coords="5,89,172,115"/>
+<area shape="rect" id="node5" href="$d2/dcb/interfaceNeuronDotNet_1_1Core_1_1SOM_1_1INeighborhoodFunction.html" title="This interface represents a neighborhood function. A neighborhood function determines the neighborhoo..." alt="" coords="196,81,451,123"/>
+<area shape="rect" id="node6" title=" " alt="" coords="277,5,369,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="NUnit.Framework.Constraints.PathConstraint" name="NUnit.Framework.Constraints.PathConstraint">
+<area shape="rect" id="node1" title="PathConstraint serves as the abstract base of constraints that operate on paths and provides several ..." alt="" coords="607,71,803,112"/>
+<area shape="rect" id="node6" href="$d0/d6e/classNUnit_1_1Framework_1_1Constraints_1_1SamePathConstraint.html" title="Summary description for SamePathConstraint." alt="" coords="851,5,1047,47"/>
+<area shape="rect" id="node7" href="$dc/ddd/classNUnit_1_1Framework_1_1Constraints_1_1SamePathOrUnderConstraint.html" title="SamePathOrUnderConstraint tests that one path is under another" alt="" coords="851,71,1047,112"/>
+<area shape="rect" id="node8" href="$d9/d7f/classNUnit_1_1Framework_1_1Constraints_1_1SubPathConstraint.html" title="SubPathConstraint tests that the actual path is under the expected path" alt="" coords="851,136,1047,177"/>
+<area shape="rect" id="node2" href="$d6/de7/classNUnit_1_1Framework_1_1Constraints_1_1StringConstraint.html" title="StringConstraint is the abstract base for constraints that operate on strings. It supports the Ignore..." alt="" coords="444,78,559,105"/>
+<area shape="rect" id="node3" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="315,78,396,105"/>
+<area shape="rect" id="node4" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="183,78,267,105"/>
+<area shape="rect" id="node5" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="5,78,135,105"/>
+</map>

@@ -1,0 +1,28 @@
+var classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit =
+[
+    [ "CoplanarPosit", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#acf13c35df67e0b441be914334b0b44b8", null ],
+    [ "EstimatePose", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a1e520420d246630ea7a558a16f3dc96f", null ],
+    [ "Iterate", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#add49c80470eb8859c0911090e2f78bd2", null ],
+    [ "POS", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a3094404892a91a40c1341671f03302b7", null ],
+    [ "GetError", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#aea151821efcf263d18e813d27108566d", null ],
+    [ "focalLength", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a6d8ec8b170aa5ae65e3235065c6603b9", null ],
+    [ "modelPoints", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#af3bda928d986820e18f9421b4519094a", null ],
+    [ "modelVectors", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a7ad165613264c5f4698e14615dc2c6c1", null ],
+    [ "modelPseudoInverse", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a7d1c1e452e375247bd8ee9ecc48d617c", null ],
+    [ "modelNormal", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#abd718d7b85098a5f94790d454a32fca6", null ],
+    [ "alternateRotation", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#aca3f1d25d8b1a86e83ca4c161ff8701b", null ],
+    [ "alternateTranslation", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a8d98f5a622b51e2e284b6e7f0c18580b", null ],
+    [ "alternatePoseError", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a51b66c36841fa0b8cb72948ed95c8068", null ],
+    [ "bestRotation", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#ad87e53aba3355456da8108a5f54bc2cd", null ],
+    [ "bestTranslation", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a737938ffded577651ad6cea9f22cfea6", null ],
+    [ "bestPoseError", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a4554ecc4ae4680d4b8b0285f821a9a81", null ],
+    [ "ErrorLimit", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a4c36ae3ac18a91d51786661295ba797f", null ],
+    [ "BestEstimatedRotation", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a29cc9ddc1a6bf6debc8d4288f762b308", null ],
+    [ "BestEstimatedTranslation", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#ae880106cb69f73d0821ef411bcbd332a", null ],
+    [ "BestEstimationError", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a283fbbed4a783fa50f44532c4f1ee8e9", null ],
+    [ "AlternateEstimatedRotation", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#aabfde482fedf05c960427a5644bb2599", null ],
+    [ "AlternateEstimatedTranslation", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a698ce6c5591a8c6834e1a6f4420b9de9", null ],
+    [ "AlternateEstimationError", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#a5aef0ee2b2e7ca4c512bd3f3be08e174", null ],
+    [ "Model", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#ad7161eacf7f88360a3dafe53bfd4fda6", null ],
+    [ "FocalLength", "d5/d10/classAForge_1_1Math_1_1Geometry_1_1CoplanarPosit.html#afe77c1a5d61c2b8d1b01916ffee8c4d5", null ]
+];

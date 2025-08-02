@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Constraints.ResolvableConstraintExpression" name="NUnit.Framework.Constraints.ResolvableConstraintExpression">
+<area shape="rect" id="node1" title="ResolvableConstraintExpression is used to represent a compound constraint being constructed at a poin..." alt="" coords="56,80,264,121"/>
+<area shape="rect" id="node2" href="$da/d1a/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintExpression.html" title="ConstraintExpression represents a compound constraint in the process of being constructed from a seri..." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node3" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="177,5,306,32"/>
+</map>

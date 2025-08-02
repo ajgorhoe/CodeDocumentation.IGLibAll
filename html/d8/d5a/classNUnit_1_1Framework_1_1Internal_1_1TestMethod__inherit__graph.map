@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.Internal.TestMethod" name="NUnit.Framework.Internal.TestMethod">
+<area shape="rect" id="node1" title="The TestMethod class represents a Test implemented as a method." alt="" coords="25,229,197,271"/>
+<area shape="rect" id="node6" href="$da/d61/classNUnit_1_1TestUtilities_1_1FakeTestMethod.html" title="FakeTestMethod is used in tests to simulate an actual TestMethod" alt="" coords="32,319,191,360"/>
+<area shape="rect" id="node2" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework." alt="" coords="88,155,135,181"/>
+<area shape="rect" id="node3" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields...." alt="" coords="38,80,89,107"/>
+<area shape="rect" id="node4" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="113,80,208,107"/>
+</map>

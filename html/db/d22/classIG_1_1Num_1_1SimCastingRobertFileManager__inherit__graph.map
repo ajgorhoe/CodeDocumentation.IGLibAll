@@ -1,0 +1,8 @@
+<map id="IG.Num.SimCastingRobertFileManager" name="IG.Num.SimCastingRobertFileManager">
+<area shape="rect" id="node1" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="117,95,313,136"/>
+<area shape="rect" id="node4" href="$d9/dae/classIG_1_1Num_1_1ConvectionRobertFileManager.html" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="119,184,311,225"/>
+<area shape="rect" id="node2" href="$d6/d7c/interfaceIG_1_1Num_1_1IResponseEvaluatorVectorSimple.html" title="Interface for simulators and other systems (used e.g. for optimization) that can calculate vector res..." alt="" coords="53,5,228,47"/>
+<area shape="rect" id="node3" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="253,13,330,39"/>
+<area shape="rect" id="node5" href="$df/d6a/classIG_1_1Num_1_1ConvectionRev1RobertFileManager.html" title=" " alt="" coords="5,273,204,315"/>
+<area shape="rect" id="node6" href="$d7/d07/classIG_1_1Num_1_1NafemsTestRoberrFileManager.html" title="File manager for interfacing simulation casting simulator of Robert Vertnik." alt="" coords="228,273,427,315"/>
+</map>

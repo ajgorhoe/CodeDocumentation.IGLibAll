@@ -1,0 +1,11 @@
+<map id="Color.MainForm" name="Color.MainForm">
+<area shape="rect" id="node1" title="Summary description for Form1." alt="" coords="368,615,483,641"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,364,179,405"/>
+<area shape="rect" id="node3" href="$df/d38/classAForge_1_1Neuro_1_1DistanceNetwork.html" title="Distance network" alt="" coords="203,371,407,398"/>
+<area shape="rect" id="node4" href="$d3/db3/classAForge_1_1Neuro_1_1Network.html" title="Base neural network class" alt="" coords="271,288,340,315"/>
+<area shape="rect" id="node5" href="$d1/d23/classAForge_1_1Neuro_1_1Layer.html" title="Base neural layer class" alt="" coords="236,199,375,225"/>
+<area shape="rect" id="node6" href="$d9/d64/classAForge_1_1Neuro_1_1Neuron.html" title="Base neuron class" alt="" coords="232,109,379,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="278,5,333,32"/>
+<area shape="rect" id="node8" title=" " alt="" coords="431,371,502,398"/>
+<area shape="rect" id="node9" title=" " alt="" coords="527,371,593,398"/>
+</map>

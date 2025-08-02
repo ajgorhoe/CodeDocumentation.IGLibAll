@@ -1,0 +1,13 @@
+<map id="NUnit.Framework.Compatibility.LongLivedMarshalByRefObject" name="NUnit.Framework.Compatibility.LongLivedMarshalByRefObject">
+<area shape="rect" id="node1" title="A MarshalByRefObject that lives forever" alt="" coords="195,169,400,211"/>
+<area shape="rect" id="node3" href="$dc/d92/classNUnit_1_1Framework_1_1Api_1_1FrameworkController.html" title="FrameworkController provides a facade for use in loading, browsing and running tests without requirin..." alt="" coords="460,104,673,145"/>
+<area shape="rect" id="node4" href="$dd/dc0/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1FrameworkControllerAction.html" title="FrameworkControllerAction is the base class for all actions performed against a FrameworkController." alt="" coords="448,169,685,211"/>
+<area shape="rect" id="node11" href="$dc/d67/classNUnit_1_1Framework_1_1Internal_1_1TestExecutionContext.html" title="Helper class used to save and restore certain static or singleton settings in the environment that af..." alt="" coords="481,235,653,276"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,177,147,203"/>
+<area shape="rect" id="node5" href="$df/d69/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1CountTestsAction.html" title="CountTestsAction counts the number of test cases in the loaded TestSuite held by the FrameworkControl..." alt="" coords="733,5,947,47"/>
+<area shape="rect" id="node6" href="$d8/da1/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1ExploreTestsAction.html" title="ExploreTestsAction returns info about the tests in an assembly" alt="" coords="733,71,947,112"/>
+<area shape="rect" id="node7" href="$d3/d02/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1LoadTestsAction.html" title="LoadTestsAction loads a test into the FrameworkController" alt="" coords="733,136,947,177"/>
+<area shape="rect" id="node8" href="$d0/d0f/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1RunAsyncAction.html" title="RunAsyncAction initiates an asynchronous test run, returning immediately" alt="" coords="733,201,947,243"/>
+<area shape="rect" id="node9" href="$d0/dfd/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1RunTestsAction.html" title="RunTestsAction runs the loaded TestSuite held by the FrameworkController." alt="" coords="733,267,947,308"/>
+<area shape="rect" id="node10" href="$d2/d73/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1StopRunAction.html" title="StopRunAction stops an ongoing run." alt="" coords="733,332,947,373"/>
+</map>

@@ -1,0 +1,27 @@
+var classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource =
+[
+    [ "AVIFileVideoSource", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a9fc76b4a8f9557873c6cb72e4890ddd9", null ],
+    [ "AVIFileVideoSource", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#aea18f4cc8c8bc96c981a376253834944", null ],
+    [ "Start", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#ac7c4c69fd63250f990a9c6bd652fa575", null ],
+    [ "SignalToStop", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#adb497f9fe305287460399fcc9800e2f2", null ],
+    [ "WaitForStop", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a59b5635fde7f21fdbb98205cc7694a5f", null ],
+    [ "Stop", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a9b156739bd1836512d7174055189317a", null ],
+    [ "Free", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#ab0842c396eaba1764af826da6ed9a5eb", null ],
+    [ "WorkerThread", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#aea88ecd7a5d03e6b3258a5f8bc8bb71f", null ],
+    [ "source", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#adebc1a41392018df3adf98864e7c1513", null ],
+    [ "framesReceived", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a15daa90432ecd4f5a32e75bf938afd98", null ],
+    [ "bytesReceived", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a5f13f1cf2bcf21528c0078cff79d82c4", null ],
+    [ "frameInterval", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a8bed49499c5cf143687d3fb24b78e802", null ],
+    [ "frameIntervalFromSource", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a627a02989b904006c3a569504fde64d6", null ],
+    [ "thread", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a3370f7048c50cef7bf9112d88196cdf3", null ],
+    [ "stopEvent", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a75857da66d1b380fa6b575606c8b5113", null ],
+    [ "FrameInterval", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a3879433c060d7d8775fc1bf676b4956f", null ],
+    [ "FrameIntervalFromSource", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#afa73baad478a9be459a259794c574fce", null ],
+    [ "Source", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a744661ef501896359a9dd57a777dfb7d", null ],
+    [ "FramesReceived", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#adc3ea5ca94806043567899705c234ce6", null ],
+    [ "BytesReceived", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#ab6ea2fdd7d88d4efcee6725972aa3bc0", null ],
+    [ "IsRunning", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a8d0cb10f60a80cdf095263a29a4c6832", null ],
+    [ "NewFrame", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a560c33e19942288e6906920d8636eba3", null ],
+    [ "VideoSourceError", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a0fb5b0bd5ef5010498e140ffa190e941", null ],
+    [ "PlayingFinished", "d6/d5a/classAForge_1_1Video_1_1VFW_1_1AVIFileVideoSource.html#a9b70aad16f990902e20ac8cbb04e0dd3", null ]
+];

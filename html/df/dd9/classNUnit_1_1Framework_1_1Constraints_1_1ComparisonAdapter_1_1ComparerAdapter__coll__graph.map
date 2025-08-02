@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Constraints.ComparisonAdapter.ComparerAdapter&lt; T &gt;" name="NUnit.Framework.Constraints.ComparisonAdapter.ComparerAdapter&lt; T &gt;">
+<area shape="rect" id="node1" title="ComparerAdapter extends ComparisonAdapter and allows use of an IComparer&lt;T&gt; or Comparison&lt;T&gt; to actua..." alt="" coords="5,80,277,121"/>
+<area shape="rect" id="node2" href="$d1/d18/classNUnit_1_1Framework_1_1Constraints_1_1ComparisonAdapter.html" title="ComparisonAdapter class centralizes all comparisons of _values in NUnit, adapting to the use of any p..." alt="" coords="73,5,209,32"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="DotNumerics.LinearAlgebra.CSLapack.DORMQR" name="DotNumerics.LinearAlgebra.CSLapack.DORMQR">
+<area shape="rect" id="node1" title="– LAPACK routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG Ltd...." alt="" coords="1137,511,1321,553"/>
+<area shape="rect" id="node2" href="$db/d6a/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1XERBLA.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="5,141,189,182"/>
+<area shape="rect" id="node4" href="$dd/dae/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DORM2R.html" title="– LAPACK routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG Ltd...." alt="" coords="853,366,1037,407"/>
+<area shape="rect" id="node6" href="$df/dc3/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DGER.html" title=" " alt="" coords="284,122,468,163"/>
+<area shape="rect" id="node7" href="$d7/d97/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DGEMV.html" title=" " alt="" coords="284,198,468,239"/>
+<area shape="rect" id="node13" href="$d7/d20/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DGEMM.html" title=" " alt="" coords="284,521,468,562"/>
+<area shape="rect" id="node14" href="$d7/dbf/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DTRMM.html" title=" " alt="" coords="284,403,468,445"/>
+<area shape="rect" id="node16" href="$d1/dae/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DTRMV.html" title=" " alt="" coords="284,338,468,379"/>
+<area shape="rect" id="node3" href="$dd/dac/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1LSAME.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="5,490,189,531"/>
+<area shape="rect" id="node5" href="$d9/dd6/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DLARF.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="571,223,755,265"/>
+<area shape="rect" id="node11" href="$dc/d33/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DLARFB.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="571,542,755,583"/>
+<area shape="rect" id="node15" href="$d8/d84/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DLARFT.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="571,374,755,415"/>
+<area shape="rect" id="node8" href="$dd/dd0/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1ILAENV.html" title="– LAPACK auxiliary routine (version 3.1.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG..." alt="" coords="853,841,1037,882"/>
+<area shape="rect" id="node9" href="$d6/dee/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1IEEECK.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="571,841,755,882"/>
+<area shape="rect" id="node10" href="$da/dc9/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1IPARMQ.html" title="– LAPACK auxiliary routine (version 3.1) – Univ. of Tennessee, Univ. of California Berkeley and NAG L..." alt="" coords="571,906,755,947"/>
+<area shape="rect" id="node12" href="$d1/d2a/classDotNumerics_1_1LinearAlgebra_1_1CSLapack_1_1DCOPY.html" title=" " alt="" coords="284,713,468,754"/>
+</map>

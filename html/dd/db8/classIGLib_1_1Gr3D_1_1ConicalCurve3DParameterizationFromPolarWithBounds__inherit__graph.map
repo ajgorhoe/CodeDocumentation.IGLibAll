@@ -1,0 +1,9 @@
+<map id="IGLib.Gr3D.ConicalCurve3DParameterizationFromPolarWithBounds" name="IGLib.Gr3D.ConicalCurve3DParameterizationFromPolarWithBounds">
+<area shape="rect" id="node1" title="Cartesion parameterization of a curve in 3D. Beside the Curve and (optional) CurveDerivative,..." alt="" coords="255,97,471,153"/>
+<area shape="rect" id="node4" href="$d5/d08/classIGLib_1_1Gr3D_1_1ConicalSpiralArchimedean3D.html" title="A 3D parametric curve with bounds &#45; the conical archimedean spiral." alt="" coords="519,5,685,47"/>
+<area shape="rect" id="node5" href="$de/dc6/classIGLib_1_1Gr3D_1_1ConicalSpiralFermats3D.html" title="A 3D parametric curve with bounds &#45; the conical Fermat&#39;s spiral." alt="" coords="519,71,685,112"/>
+<area shape="rect" id="node6" href="$d8/d32/classIGLib_1_1Gr3D_1_1ConicalSpiralHyperbolic3D.html" title="A 3D parametric curve with bounds &#45; the conical hyperbolic spiral." alt="" coords="519,136,685,177"/>
+<area shape="rect" id="node7" href="$da/d9b/classIGLib_1_1Gr3D_1_1ConicalSpiralLogarithmic3D.html" title="A 3D parametric curve with bounds &#45; the conical logarithmic spiral." alt="" coords="519,201,685,243"/>
+<area shape="rect" id="node2" href="$df/d02/interfaceIGLib_1_1Gr3D_1_1ICurve2DPolarParameterization.html" title="Cylindrical parameterization of a curve in 3D. Beside the CurveCylindrical and (optional) CurveDeriva..." alt="" coords="5,82,207,109"/>
+<area shape="rect" id="node3" href="$d3/d54/interfaceIGLib_1_1Gr3D_1_1ICurve3DParameterizationWithBounds.html" title="Cartesion parameterization of a curve in 3D. Beside the Curve and (optional) CurveDerivative,..." alt="" coords="21,133,191,175"/>
+</map>

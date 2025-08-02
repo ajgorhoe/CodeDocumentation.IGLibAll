@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.Builders.DefaultSuiteBuilder" name="NUnit.Framework.Internal.Builders.DefaultSuiteBuilder">
+<area shape="rect" id="node1" title="Built&#45;in SuiteBuilder for all types of test classes." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$d0/d01/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ISuiteBuilder.html" title="The ISuiteBuilder interface is exposed by a class that knows how to build a suite from one or more Ty..." alt="" coords="49,5,144,32"/>
+</map>

@@ -1,0 +1,28 @@
+var namespaceNUnit_1_1TestData_1_1RepeatingTests =
+[
+    [ "RepeatedTestWithCategory", "dc/d14/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatedTestWithCategory.html", "dc/d14/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatedTestWithCategory" ],
+    [ "RepeatedTestWithIgnoreAttribute", "d1/d45/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatedTestWithIgnoreAttribute.html", "d1/d45/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatedTestWithIgnoreAttribute" ],
+    [ "RepeatErrorOnFirstTryFixture", "da/ddb/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatErrorOnFirstTryFixture.html", "da/ddb/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatErrorOnFirstTryFixture" ],
+    [ "RepeatErrorOnSecondTryFixture", "d4/d9e/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatErrorOnSecondTryFixture.html", "d4/d9e/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatErrorOnSecondTryFixture" ],
+    [ "RepeatErrorOnThirdTryFixture", "df/d0e/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatErrorOnThirdTryFixture.html", "df/d0e/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatErrorOnThirdTryFixture" ],
+    [ "RepeatFailOnFirstTryFixture", "d6/df3/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatFailOnFirstTryFixture.html", "d6/df3/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatFailOnFirstTryFixture" ],
+    [ "RepeatFailOnSecondTryFixture", "df/d55/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatFailOnSecondTryFixture.html", "df/d55/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatFailOnSecondTryFixture" ],
+    [ "RepeatFailOnThirdTryFixture", "dc/de7/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatFailOnThirdTryFixture.html", "dc/de7/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatFailOnThirdTryFixture" ],
+    [ "RepeatIgnoredOnFirstTryFixture", "d9/de2/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatIgnoredOnFirstTryFixture.html", "d9/de2/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatIgnoredOnFirstTryFixture" ],
+    [ "RepeatIgnoredOnSecondTryFixture", "d0/d3e/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatIgnoredOnSecondTryFixture.html", "d0/d3e/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatIgnoredOnSecondTryFixture" ],
+    [ "RepeatIgnoredOnThirdTryFixture", "d3/d97/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatIgnoredOnThirdTryFixture.html", "d3/d97/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatIgnoredOnThirdTryFixture" ],
+    [ "RepeatingTestsFixtureBase", "d5/d0c/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatingTestsFixtureBase.html", "d5/d0c/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatingTestsFixtureBase" ],
+    [ "RepeatSuccessFixture", "d1/da9/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatSuccessFixture.html", "d1/da9/classNUnit_1_1TestData_1_1RepeatingTests_1_1RepeatSuccessFixture" ],
+    [ "RetryErrorOnFirstTryFixture", "d2/d02/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryErrorOnFirstTryFixture.html", "d2/d02/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryErrorOnFirstTryFixture" ],
+    [ "RetryErrorOnSecondTryFixture", "de/d6a/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryErrorOnSecondTryFixture.html", "de/d6a/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryErrorOnSecondTryFixture" ],
+    [ "RetryErrorOnThirdTryFixture", "df/d25/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryErrorOnThirdTryFixture.html", "df/d25/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryErrorOnThirdTryFixture" ],
+    [ "RetryFailsEveryTimeFixture", "d7/d85/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryFailsEveryTimeFixture.html", "d7/d85/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryFailsEveryTimeFixture" ],
+    [ "RetryIgnoredOnFirstTryFixture", "d0/d07/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryIgnoredOnFirstTryFixture.html", "d0/d07/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryIgnoredOnFirstTryFixture" ],
+    [ "RetryIgnoredOnSecondTryFixture", "de/d79/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryIgnoredOnSecondTryFixture.html", "de/d79/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryIgnoredOnSecondTryFixture" ],
+    [ "RetryIgnoredOnThirdTryFixture", "d7/d5b/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryIgnoredOnThirdTryFixture.html", "d7/d5b/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryIgnoredOnThirdTryFixture" ],
+    [ "RetrySucceedsOnFirstTryFixture", "d1/dc6/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetrySucceedsOnFirstTryFixture.html", "d1/dc6/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetrySucceedsOnFirstTryFixture" ],
+    [ "RetrySucceedsOnSecondTryFixture", "dc/d9e/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetrySucceedsOnSecondTryFixture.html", "dc/d9e/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetrySucceedsOnSecondTryFixture" ],
+    [ "RetrySucceedsOnThirdTryFixture", "da/d4f/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetrySucceedsOnThirdTryFixture.html", "da/d4f/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetrySucceedsOnThirdTryFixture" ],
+    [ "RetryTestWithCategoryFixture", "d3/db4/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryTestWithCategoryFixture.html", "d3/db4/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryTestWithCategoryFixture" ],
+    [ "RetryWithIgnoreAttributeFixture", "d6/db9/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryWithIgnoreAttributeFixture.html", "d6/db9/classNUnit_1_1TestData_1_1RepeatingTests_1_1RetryWithIgnoreAttributeFixture" ]
+];

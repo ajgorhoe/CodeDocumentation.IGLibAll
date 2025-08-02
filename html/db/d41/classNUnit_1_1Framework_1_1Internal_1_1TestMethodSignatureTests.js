@@ -1,0 +1,25 @@
+var classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests =
+[
+    [ "InstanceTestMethodIsRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a2c9adde17e6eb1016d97fb19bbcb8e86", null ],
+    [ "StaticTestMethodIsRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#ab8f18fac62cc3032cf35b96f033288a9", null ],
+    [ "TestMethodWithoutParametersWithArgumentsProvidedIsNotRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#ac7ecfe725e92ee65209d723158820121", null ],
+    [ "TestMethodWithArgumentsNotProvidedIsNotRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a2e42008332b496792ee11abc54d6cee5", null ],
+    [ "TestMethodHasAttributesAppliedCorrectlyEvenIfNotRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a0010ad5c0a6ced0c2547dbfdd217102b", null ],
+    [ "TestMethodWithArgumentsProvidedIsRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a1028eac09d5cff93806af83dad290c81", null ],
+    [ "TestMethodWithWrongNumberOfArgumentsProvidedIsNotRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#ace1e83bc53de276112b02eb663dd8bf9", null ],
+    [ "TestMethodWithWrongArgumentTypesProvidedGivesError", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a4afad0895b0b703147b19d60fa33d580", null ],
+    [ "StaticTestMethodWithArgumentsNotProvidedIsNotRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a0c64a96ad786dac017f76d19cb3a4b69", null ],
+    [ "StaticTestMethodWithArgumentsProvidedIsRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#aba83a6cc95c5d813be5d4859529fd50f", null ],
+    [ "StaticTestMethodWithWrongNumberOfArgumentsProvidedIsNotRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a07e69673f6679b1d02aa990a96f099f8", null ],
+    [ "StaticTestMethodWithWrongArgumentTypesProvidedGivesError", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a034fc5a796da5b91cc5950433ead98a1", null ],
+    [ "TestMethodWithConvertibleArgumentsIsRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a1b376f5d52e1a7441e240f30f59153b7", null ],
+    [ "TestMethodWithNonConvertibleArgumentsGivesError", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a14aeab79b64ae0b5456ab9f5e20f10a6", null ],
+    [ "ProtectedTestMethodIsNotRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a384e2cfba3e3f82a1bff1adb5f1668de", null ],
+    [ "PrivateTestMethodIsNotRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a66287c0d22907e1a047e927b1f0d9a04", null ],
+    [ "TestMethodWithReturnTypeIsNotRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#ad168cefe39b0c322eb134f0bdf420586", null ],
+    [ "TestMethodWithExpectedReturnTypeIsRunnable", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#ad137ba90ab5bfd0476e2598e9e0ab00c", null ],
+    [ "TestMethodWithMultipleTestCasesExecutesMultipleTimes", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#ae878df116a553260fe20fde27a16de65", null ],
+    [ "TestMethodWithMultipleTestCasesUsesCorrectNames", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a24e8e7a8d8fd6998470ab0e64d754673", null ],
+    [ "RunningTestsThroughFixtureGivesCorrectResults", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#ae76320490ce0fe56b2dcbae252d94d19", null ],
+    [ "fixtureType", "db/d41/classNUnit_1_1Framework_1_1Internal_1_1TestMethodSignatureTests.html#a38a8057f83d5cc28e19355ff8592c65a", null ]
+];

@@ -1,0 +1,8 @@
+<map id="IG.Num.Vector2d" name="IG.Num.Vector2d">
+<area shape="rect" id="node1" title="Vector or point in a 2 dimensional space." alt="" coords="141,184,263,211"/>
+<area shape="rect" id="node2" href="$d0/d5a/classIG_1_1Num_1_1VectorBase.html" title="Base class for real vectors." alt="" coords="74,95,165,121"/>
+<area shape="rect" id="node3" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="5,5,68,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="92,5,147,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="189,95,271,121"/>
+<area shape="rect" id="node6" href="$dc/daf/structIG_1_1Num_1_1vec2.html" title="Struct representing a 3D vector." alt="" coords="295,95,391,121"/>
+</map>

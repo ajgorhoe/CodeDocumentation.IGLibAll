@@ -1,0 +1,7 @@
+<map id="Meta.Numerics.Statistics.Distributions.NormalDistribution" name="Meta.Numerics.Statistics.Distributions.NormalDistribution">
+<area shape="rect" id="node1" title="Represents a normal (Gaussian) distribution." alt="" coords="512,49,716,90"/>
+<area shape="rect" id="node2" href="$dc/d69/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1Distribution.html" title="Represents all continuous, univariate probability distribution." alt="" coords="254,5,341,32"/>
+<area shape="rect" id="node3" href="$da/d1a/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1UnivariateDistribution.html" title="Represents a probability distribution over a single variable." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node4" href="$d1/d58/interfaceMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1IParameterizedDistribution.html" title="Represents an parameterized likelihood distribution." alt="" coords="210,56,385,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="197,107,397,149"/>
+</map>

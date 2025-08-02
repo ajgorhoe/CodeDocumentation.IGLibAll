@@ -1,0 +1,8 @@
+<map id="IG.Lib.PipeServerBase" name="IG.Lib.PipeServerBase">
+<area shape="rect" id="node1" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="5,472,157,499"/>
+<area shape="rect" id="node2" href="$d1/d4d/classIG_1_1Lib_1_1IpcStreamServerBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="83,396,229,423"/>
+<area shape="rect" id="node3" href="$da/d2c/classIG_1_1Lib_1_1IpcStreamClientServerBase2.html" title="Base class for named pipe servers and clients, contains common stuff for both." alt="" coords="157,320,344,347"/>
+<area shape="rect" id="node4" href="$d5/dd9/classIG_1_1Lib_1_1IpcStreamClientServerBase.html" title="Base class for client and server classes with stream&#45;based communication." alt="" coords="185,243,365,269"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="83,5,160,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="317,5,371,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Interfaces.IApplyToContext" name="NUnit.Framework.Interfaces.IApplyToContext">
+<area shape="rect" id="node1" title="The IApplyToContext interface is implemented by attributes that want to make changes to the execution..." alt="" coords="5,104,192,145"/>
+<area shape="rect" id="node2" href="$d2/df2/classNUnit_1_1Framework_1_1ParallelizableAttribute.html" title="ParallelizableAttribute is used to mark tests that may be run in parallel." alt="" coords="249,5,452,47"/>
+<area shape="rect" id="node3" href="$de/d81/classNUnit_1_1Framework_1_1SetCultureAttribute.html" title="Summary description for SetCultureAttribute." alt="" coords="257,71,444,112"/>
+<area shape="rect" id="node4" href="$d8/dfc/classNUnit_1_1Framework_1_1SetUICultureAttribute.html" title="Summary description for SetUICultureAttribute." alt="" coords="251,136,450,177"/>
+<area shape="rect" id="node5" href="$d5/dc9/classNUnit_1_1Framework_1_1TimeoutAttribute.html" title="Used on a method, marks the test with a timeout value in milliseconds. The test will be run in a sepa..." alt="" coords="240,202,461,229"/>
+</map>

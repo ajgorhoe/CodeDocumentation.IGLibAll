@@ -1,0 +1,27 @@
+var classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests =
+[
+    [ "BasicTypeConverterTests", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ad286d3de4643c9532bcb53addf225171", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_IntToIntObjectToInt_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ad38eae55efbd3313d29285ece2ec4c6b", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_IntToDoubleObjectToDouble_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#afc60cfb17260421d4b4d772faff4a1a1", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_IntToDoubleObjectToInt_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ad124eb6170abca66392fd079738ad001", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_DoubleToDoubleObjectToDouble_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a1913850275e6e20c0f6194299825f605", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_IntegerDoubleToIntObjectToInt_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ae7ea0700ab061e8b43c5b4e66a9c0fe3", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_NonintegerDoubleToIntObjectToInt_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ae77e3ab1382a3243d922ee28fd51fa43", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_OwerflowDoubleToIntObjectToInt_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#aab768fb9b8ef64a3541fa5cfeef5e845", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_NonintegerDoubleToIntObjectToDouble_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#af10e2fef7229c9d3d0576a9c0c3ac485", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_DoubleToStringObjectToDouble_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a3732e4b3da131e3641f6eac75cb3f9f1", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_StringToDoubleObjectToString_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a0c3921d159e5cd6aaa63a14e675197a3", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_StringWithUnderscoresToDoubleObjectToDouble_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a8db9e803f20e0fbbebc51c7fe9746443", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_DoubleStringToDoubleObjectToInt_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a1d1c160f19c28668c2001198ce94265a", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_DoubleToStringObjectToString_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ae68b0c45e6883bef611bc88b7a1bd80e", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_ClassToClassObjectToClass_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a83b12b2b284287786c83a16117559a1d", null ],
+    [ "SpecificTypeConverter_RoundTripConversion_DerivedClassToBaseClassObjectToBaseClass_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ad388c519083cab4b6293a84a7c6a0e54", null ],
+    [ "SpecificTypeConverter_Speed_RoundTripConversion_IntToIntObjectToInt_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ade58378086495b9747a994d3174b3d88", null ],
+    [ "SpecificTypeConverter_Speed_RoundTripConversion_IntToDoubleObjectToInt_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a7294767fd9ef3ddac48a91ac75e10162", null ],
+    [ "SpecificTypeConverter_Speed_RoundTripConversion_DoubleToIntObjectToDouble_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ad7e50bc346c3cf98a159a990674d3e23", null ],
+    [ "SpecificTypeConverter_Speed_RoundTripConversion_DoubleToStringObjectToDouble_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a2027f7b6f45cce0e8cb645c00fcf1350", null ],
+    [ "SpecificTypeConverter_Speed_RoundTripConversion_DerivedClassToBaseClassObjectToBaseClass_IsCorrect", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a650fd3da6c6d4cc1966e8b2eab24db4f", null ],
+    [ "TypeConverter", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#afd4d051213be2440850c5f1e66b237ce", null ],
+    [ "NumExecutions", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#ad3edff0d5bee0b9277e2a8811511300d", null ],
+    [ "MinPerSecond", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html#a2fdd6e8f9a63d4b413916d114c18d91a", null ]
+];

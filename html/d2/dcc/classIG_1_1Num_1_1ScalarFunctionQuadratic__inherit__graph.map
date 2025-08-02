@@ -1,0 +1,5 @@
+<map id="IG.Num.ScalarFunctionQuadratic" name="IG.Num.ScalarFunctionQuadratic">
+<area shape="rect" id="node1" title="Quadratic scalar function of vector variable. Function is evaluated according to q(x) = (1/2)*x^T*G*x..." alt="" coords="5,155,219,181"/>
+<area shape="rect" id="node2" href="$d2/d9e/classIG_1_1Num_1_1ScalarFunctionUntransformedBase.html" title="Base class for defining scalar functions without possibility of affine transformation of parameters." alt="" coords="75,80,298,107"/>
+<area shape="rect" id="node3" href="$d8/d56/interfaceIG_1_1Num_1_1IScalarFunctionUntransformed.html" title="Scalar functions of vector arguments." alt="" coords="14,5,210,32"/>
+</map>

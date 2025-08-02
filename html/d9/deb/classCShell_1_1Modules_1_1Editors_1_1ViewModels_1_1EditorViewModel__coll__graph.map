@@ -1,0 +1,13 @@
+<map id="CShell.Modules.Editors.ViewModels.EditorViewModel" name="CShell.Modules.Editors.ViewModels.EditorViewModel">
+<area shape="rect" id="node1" title=" " alt="" coords="652,95,843,137"/>
+<area shape="rect" id="node2" href="$d1/d9b/classCShell_1_1Framework_1_1Document.html" title=" " alt="" coords="397,21,479,48"/>
+<area shape="rect" id="node3" href="$d5/d57/classCShell_1_1Framework_1_1LayoutItemBase.html" title=" " alt="" coords="147,5,263,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="7,5,70,32"/>
+<area shape="rect" id="node5" href="$dd/d21/interfaceCShell_1_1Framework_1_1IDocument.html" title=" " alt="" coords="163,64,247,91"/>
+<area shape="rect" id="node7" href="$d1/da6/interfaceCShell_1_1Framework_1_1ITextDocument.html" title=" " alt="" coords="383,72,493,99"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,64,72,91"/>
+<area shape="rect" id="node8" href="$d4/d1c/classCShellCore_1_1CodeCompletion_1_1CodeTextEditor.html" title=" " alt="" coords="343,123,533,165"/>
+<area shape="rect" id="node9" title=" " alt="" coords="121,123,288,165"/>
+<area shape="rect" id="node10" href="$dd/dc6/classCShell_1_1Modules_1_1Editors_1_1Views_1_1EditorView.html" title="Interaction logic for EditorView.xaml" alt="" coords="337,189,539,230"/>
+<area shape="rect" id="node11" title=" " alt="" coords="159,196,250,223"/>
+</map>

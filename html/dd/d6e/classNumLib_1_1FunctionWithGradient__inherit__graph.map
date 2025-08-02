@@ -1,0 +1,5 @@
+<map id="NumLib.FunctionWithGradient" name="NumLib.FunctionWithGradient">
+<area shape="rect" id="node1" title="Base class for implementation of various functions with gradients." alt="" coords="98,5,294,32"/>
+<area shape="rect" id="node2" href="$de/da7/classNumLib_1_1QuadraticFunctionShifted.html" title="Shifted and stretched square function in arbitrary dimensions." alt="" coords="5,80,181,121"/>
+<area shape="rect" id="node3" href="$df/d1d/classNumLib_1_1RosenbrockFunction.html" title="The Rosenbrock Function." alt="" coords="205,87,395,114"/>
+</map>

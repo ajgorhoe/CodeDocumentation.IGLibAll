@@ -1,0 +1,9 @@
+<map id="IG.Neural.Forms.NeuralInputControl" name="IG.Neural.Forms.NeuralInputControl">
+<area shape="rect" id="node1" title="Control for editing input parameter values." alt="" coords="441,189,628,230"/>
+<area shape="rect" id="node2" title=" " alt="" coords="65,5,156,32"/>
+<area shape="rect" id="node3" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="35,56,187,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="62,107,159,133"/>
+<area shape="rect" id="node5" title=" " alt="" coords="77,291,144,317"/>
+<area shape="rect" id="node6" title=" " alt="" coords="91,341,130,368"/>
+<area shape="rect" id="node7" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="5,392,216,419"/>
+</map>

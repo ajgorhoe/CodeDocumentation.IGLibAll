@@ -1,0 +1,4 @@
+<map id="AForge.Imaging.ColorReduction.IColorQuantizer" name="AForge.Imaging.ColorReduction.IColorQuantizer">
+<area shape="rect" id="node1" title="Interface which is implemented by different color quantization algorithms." alt="" coords="5,5,215,47"/>
+<area shape="rect" id="node2" href="$d7/d27/classAForge_1_1Imaging_1_1ColorReduction_1_1MedianCutQuantizer.html" title="Median cut color quantization algorithm." alt="" coords="5,95,215,136"/>
+</map>

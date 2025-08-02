@@ -1,0 +1,6 @@
+<map id="NUnit.ConsoleRunner.TestEventHandler" name="NUnit.ConsoleRunner.TestEventHandler">
+<area shape="rect" id="node1" title="TestEventHandler processes events from the running test for the console runner." alt="" coords="344,49,519,90"/>
+<area shape="rect" id="node2" title=" " alt="" coords="48,5,189,32"/>
+<area shape="rect" id="node3" href="$d1/d83/interfaceNUnit_1_1Engine_1_1ITestEventListener.html" title="The ITestListener interface is used to receive notices of significant events while a test is running...." alt="" coords="55,56,183,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,107,232,149"/>
+</map>

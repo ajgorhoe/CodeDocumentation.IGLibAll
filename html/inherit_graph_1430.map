@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,176,73"/>
+<area shape="rect" id="node2" href="$d9/d7e/classMeta_1_1Numerics_1_1DimensionMismatchException.html" title="The exception that is thrown when attempting an operation on objects with incompatible dimensions." alt="" coords="224,5,456,47"/>
+<area shape="rect" id="node3" href="$d7/d04/classMeta_1_1Numerics_1_1Statistics_1_1InsufficientDataException.html" title="The exception that is thrown when an operation is attempted with less than the minimum required data." alt="" coords="253,71,427,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Api.FrameworkController.RunAsyncAction" name="NUnit.Framework.Api.FrameworkController.RunAsyncAction">
+<area shape="rect" id="node1" title="RunAsyncAction initiates an asynchronous test run, returning immediately" alt="" coords="5,229,219,271"/>
+<area shape="rect" id="node2" href="$dd/dc0/classNUnit_1_1Framework_1_1Api_1_1FrameworkController_1_1FrameworkControllerAction.html" title="FrameworkControllerAction is the base class for all actions performed against a FrameworkController." alt="" coords="23,155,201,181"/>
+<area shape="rect" id="node3" href="$d8/d34/classNUnit_1_1Framework_1_1Compatibility_1_1LongLivedMarshalByRefObject.html" title="A MarshalByRefObject that lives forever" alt="" coords="13,80,211,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="41,5,183,32"/>
+</map>

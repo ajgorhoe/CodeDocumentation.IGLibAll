@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Constraints.FalseConstraint" name="NUnit.Framework.Constraints.FalseConstraint">
+<area shape="rect" id="node1" title="FalseConstraint tests that the actual value is false" alt="" coords="5,229,201,271"/>
+<area shape="rect" id="node2" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="63,155,144,181"/>
+<area shape="rect" id="node3" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="61,80,145,107"/>
+<area shape="rect" id="node4" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="39,5,168,32"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="NUnit.Engine.ITestEngineRunner" name="NUnit.Engine.ITestEngineRunner">
+<area shape="rect" id="node1" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="143,137,313,179"/>
+<area shape="rect" id="node3" href="$dc/daa/classNUnit_1_1Engine_1_1Agents_1_1RemoteTestAgent.html" title="RemoteTestAgent represents a remote agent executing in another process and communicating with NUnit b..." alt="" coords="367,104,559,145"/>
+<area shape="rect" id="node4" href="$d6/dfe/classNUnit_1_1Engine_1_1Runners_1_1AbstractTestRunner.html" title="AbstractTestRunner is the base class for all runners within the NUnit Engine. It implements the ITest..." alt="" coords="361,169,564,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,145,95,171"/>
+<area shape="rect" id="node5" href="$d5/dff/classNUnit_1_1Engine_1_1Runners_1_1AggregatingTestRunner.html" title="AggregatingTestRunner runs tests using multiple subordinate runners and combines the results." alt="" coords="612,71,835,112"/>
+<area shape="rect" id="node8" href="$d0/d25/classNUnit_1_1Engine_1_1Runners_1_1DirectTestRunner.html" title="DirectTestRunner is the abstract base for runners that deal directly with a framework driver." alt="" coords="629,136,817,177"/>
+<area shape="rect" id="node11" href="$d7/d86/classNUnit_1_1Engine_1_1Runners_1_1MasterTestRunner.html" title=" " alt="" coords="626,201,821,243"/>
+<area shape="rect" id="node12" href="$da/d5d/classNUnit_1_1Engine_1_1Runners_1_1ProcessRunner.html" title="Summary description for ProcessRunner." alt="" coords="622,267,825,308"/>
+<area shape="rect" id="node6" href="$d7/d9e/classNUnit_1_1Engine_1_1Runners_1_1MultipleTestDomainRunner.html" title="MultipleTestDomainRunner runs tests using separate AppDomains for each assembly." alt="" coords="883,5,1081,47"/>
+<area shape="rect" id="node7" href="$d7/d23/classNUnit_1_1Engine_1_1Runners_1_1MultipleTestProcessRunner.html" title="MultipleTestProcessRunner runs tests using separate Processes for each assembly." alt="" coords="883,71,1081,112"/>
+<area shape="rect" id="node9" href="$d1/d77/classNUnit_1_1Engine_1_1Runners_1_1LocalTestRunner.html" title="LocalTestRunner runs tests in the current AppDomain." alt="" coords="889,136,1075,177"/>
+<area shape="rect" id="node10" href="$d2/d8d/classNUnit_1_1Engine_1_1Runners_1_1TestDomainRunner.html" title="TestDomainRunner loads and runs tests in a separate domain whose lifetime it controls." alt="" coords="893,201,1071,243"/>
+</map>

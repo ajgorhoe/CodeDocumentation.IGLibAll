@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.Constraints.CollectionOrderedConstraint" name="NUnit.Framework.Constraints.CollectionOrderedConstraint">
+<area shape="rect" id="node1" title="CollectionOrderedConstraint is used to test whether a collection is ordered." alt="" coords="121,337,317,379"/>
+<area shape="rect" id="node2" href="$d0/dbc/classNUnit_1_1Framework_1_1Constraints_1_1CollectionConstraint.html" title="CollectionConstraint is the abstract base class for constraints that operate on collections." alt="" coords="5,241,144,267"/>
+<area shape="rect" id="node3" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="34,157,115,184"/>
+<area shape="rect" id="node4" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="33,81,117,108"/>
+<area shape="rect" id="node5" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="10,5,139,32"/>
+<area shape="rect" id="node6" href="$d1/d18/classNUnit_1_1Framework_1_1Constraints_1_1ComparisonAdapter.html" title="ComparisonAdapter class centralizes all comparisons of _values in NUnit, adapting to the use of any p..." alt="" coords="169,233,365,275"/>
+</map>

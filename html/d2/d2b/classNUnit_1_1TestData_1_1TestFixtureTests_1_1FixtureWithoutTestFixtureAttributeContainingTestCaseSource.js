@@ -1,0 +1,4 @@
+var classNUnit_1_1TestData_1_1TestFixtureTests_1_1FixtureWithoutTestFixtureAttributeContainingTestCaseSource =
+[
+    [ "SomeTest", "d2/d2b/classNUnit_1_1TestData_1_1TestFixtureTests_1_1FixtureWithoutTestFixtureAttributeContainingTestCaseSource.html#a5376fb34656f253c105befe5fcaa98ba", null ]
+];

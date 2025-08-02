@@ -1,0 +1,13 @@
+<map id="IG.Neural.Forms.NeuralSamplingControl" name="IG.Neural.Forms.NeuralSamplingControl">
+<area shape="rect" id="node1" title="Control for defininng scalar functions and sampling them in order to create neural approximation data..." alt="" coords="1300,774,1512,815"/>
+<area shape="rect" id="node2" title=" " alt="" coords="65,851,156,877"/>
+<area shape="rect" id="node4" href="$da/d74/classIG_1_1Neural_1_1Forms_1_1NeuralSamplingInputControl.html" title="Control for editing input parameter data necessary for sampling scalar functions." alt="" coords="441,969,653,1010"/>
+<area shape="rect" id="node9" href="$de/de4/classIG_1_1Forms_1_1ScalarFunctionScriptControl.html" title="Control for definition of scalar functions by user defined expressions (through a script loader)." alt="" coords="879,411,1080,453"/>
+<area shape="rect" id="node10" href="$d6/d0b/classIG_1_1Forms_1_1FileSelector.html" title=" " alt="" coords="473,368,622,395"/>
+<area shape="rect" id="node11" href="$dc/d28/classIG_1_1Forms_1_1VectorFunctionScriptControl.html" title=" " alt="" coords="446,745,649,786"/>
+<area shape="rect" id="node3" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="35,596,187,623"/>
+<area shape="rect" id="node5" title=" " alt="" coords="62,1075,159,1101"/>
+<area shape="rect" id="node6" title=" " alt="" coords="77,341,144,368"/>
+<area shape="rect" id="node7" title=" " alt="" coords="91,1004,130,1031"/>
+<area shape="rect" id="node8" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="5,1139,216,1165"/>
+</map>

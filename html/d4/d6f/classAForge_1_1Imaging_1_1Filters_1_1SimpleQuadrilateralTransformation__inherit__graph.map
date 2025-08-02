@@ -1,0 +1,6 @@
+<map id="AForge.Imaging.Filters.SimpleQuadrilateralTransformation" name="AForge.Imaging.Filters.SimpleQuadrilateralTransformation">
+<area shape="rect" id="node1" title="Performs quadrilateral transformation of an area in the source image." alt="" coords="5,155,203,196"/>
+<area shape="rect" id="node2" href="$dc/d45/classAForge_1_1Imaging_1_1Filters_1_1BaseTransformationFilter.html" title="Base class for filters, which may produce new image of different size as a result of image processing..." alt="" coords="21,80,187,107"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="22,5,77,32"/>
+<area shape="rect" id="node4" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="101,5,219,32"/>
+</map>

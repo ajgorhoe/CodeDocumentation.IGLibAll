@@ -1,0 +1,6 @@
+<map id="AForge.Imaging.Formats.ImageInfo" name="AForge.Imaging.Formats.ImageInfo">
+<area shape="rect" id="node1" title="Information about image&#39;s frame." alt="" coords="156,80,380,107"/>
+<area shape="rect" id="node3" href="$d2/d03/classAForge_1_1Imaging_1_1Formats_1_1FITSImageInfo.html" title="Information about FITS image&#39;s frame." alt="" coords="5,155,256,181"/>
+<area shape="rect" id="node4" href="$de/d3a/classAForge_1_1Imaging_1_1Formats_1_1PNMImageInfo.html" title="Information about PNM image&#39;s frame." alt="" coords="280,155,533,181"/>
+<area shape="rect" id="node2" title=" " alt="" coords="227,5,309,32"/>
+</map>

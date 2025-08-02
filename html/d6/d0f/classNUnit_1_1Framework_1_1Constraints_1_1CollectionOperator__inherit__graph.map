@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.Constraints.CollectionOperator" name="NUnit.Framework.Constraints.CollectionOperator">
+<area shape="rect" id="node1" title="Abstract base for operators that indicate how to apply a constraint to items in a collection." alt="" coords="337,104,533,145"/>
+<area shape="rect" id="node4" href="$d5/db3/classNUnit_1_1Framework_1_1Constraints_1_1AllOperator.html" title="Represents a constraint that succeeds if all the members of a collection match a base constraint." alt="" coords="581,5,777,47"/>
+<area shape="rect" id="node5" href="$d2/d9c/classNUnit_1_1Framework_1_1Constraints_1_1ExactCountOperator.html" title="Represents a constraint that succeeds if the specified count of members of a collection match a base ..." alt="" coords="581,71,777,112"/>
+<area shape="rect" id="node6" href="$da/dd1/classNUnit_1_1Framework_1_1Constraints_1_1NoneOperator.html" title="Represents a constraint that succeeds if none of the members of a collection match a base constraint." alt="" coords="581,136,777,177"/>
+<area shape="rect" id="node7" href="$db/d2a/classNUnit_1_1Framework_1_1Constraints_1_1SomeOperator.html" title="Represents a constraint that succeeds if any of the members of a collection match a base constraint." alt="" coords="581,201,777,243"/>
+<area shape="rect" id="node2" href="$df/d30/classNUnit_1_1Framework_1_1Constraints_1_1PrefixOperator.html" title="PrefixOperator takes a single constraint and modifies it&#39;s action in some way." alt="" coords="184,111,289,138"/>
+<area shape="rect" id="node3" href="$df/d41/classNUnit_1_1Framework_1_1Constraints_1_1ConstraintOperator.html" title="The ConstraintOperator class is used internally by a ConstraintBuilder to represent an operator that ..." alt="" coords="5,111,136,138"/>
+</map>

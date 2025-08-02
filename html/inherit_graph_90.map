@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d27/interfaceAForge_1_1Math_1_1Geometry_1_1IConvexHullAlgorithm.html" title="Interface defining methods for algorithms, which search for convex hull of the specified points&#39; set." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$db/d95/classAForge_1_1Math_1_1Geometry_1_1GrahamConvexHull.html" title="Graham scan algorithm for finding convex hull." alt="" coords="260,5,468,47"/>
+</map>

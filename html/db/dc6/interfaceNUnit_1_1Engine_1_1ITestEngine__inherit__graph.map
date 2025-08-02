@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.ITestEngine" name="NUnit.Engine.ITestEngine">
+<area shape="rect" id="node1" title="ITestEngine represents an instance of the test engine. Clients wanting to discover,..." alt="" coords="5,80,176,107"/>
+<area shape="rect" id="node3" href="$d2/d39/classNUnit_1_1Engine_1_1TestEngine.html" title="The TestEngine provides services that allow a client program to interact with NUnit in order to explo..." alt="" coords="7,155,174,181"/>
+<area shape="rect" id="node2" title=" " alt="" coords="46,5,135,32"/>
+</map>

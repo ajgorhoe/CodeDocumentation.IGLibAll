@@ -1,0 +1,10 @@
+<map id="NUnit.Engine.Services.Tests.DomainManagerTests" name="NUnit.Engine.Services.Tests.DomainManagerTests">
+<area shape="rect" id="node1" title=" " alt="" coords="210,275,401,316"/>
+<area shape="rect" id="node2" href="$de/d4f/classNUnit_1_1Engine_1_1Services_1_1DomainManager.html" title="The DomainManager class handles the creation and unloading of domains as needed and keeps track of al..." alt="" coords="119,171,318,212"/>
+<area shape="rect" id="node3" href="$df/d6e/classNUnit_1_1Engine_1_1Services_1_1Service.html" title="Abstract base class for services that can use it. Some Services already inherit from a different clas..." alt="" coords="57,81,121,108"/>
+<area shape="rect" id="node4" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="97,5,186,32"/>
+<area shape="rect" id="node6" href="$d5/d1d/interfaceNUnit_1_1Engine_1_1ISettings.html" title="The ISettings interface is used to access all user settings and options." alt="" coords="146,81,299,108"/>
+<area shape="rect" id="node7" title=" " alt="" coords="362,81,417,108"/>
+<area shape="rect" id="node8" href="$d8/d32/classNUnit_1_1Engine_1_1TestPackage.html" title="TestPackage holds information about a set of test files to be loaded by a TestRunner...." alt="" coords="343,178,521,205"/>
+</map>

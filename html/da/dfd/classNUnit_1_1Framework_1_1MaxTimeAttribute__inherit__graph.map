@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.MaxTimeAttribute" name="NUnit.Framework.MaxTimeAttribute">
+<area shape="rect" id="node1" title="Summary description for MaxTimeAttribute." alt="" coords="136,229,364,256"/>
+<area shape="rect" id="node2" href="$d6/d1b/classNUnit_1_1Framework_1_1PropertyAttribute.html" title="PropertyAttribute is used to attach information to a test as a name/value pair.." alt="" coords="111,155,231,181"/>
+<area shape="rect" id="node3" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="21,5,92,32"/>
+<area shape="rect" id="node5" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="132,80,229,107"/>
+<area shape="rect" id="node6" href="$d0/dd3/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IWrapSetUpTearDown.html" title="Objects implementing this interface are used to wrap the entire test, including SetUp and TearDown." alt="" coords="255,155,405,181"/>
+<area shape="rect" id="node7" href="$da/d8c/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ICommandWrapper.html" title="ICommandWrapper is implemented by attributes and other objects able to wrap a TestCommand with anothe..." alt="" coords="263,80,397,107"/>
+</map>

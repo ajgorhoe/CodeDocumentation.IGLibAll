@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d07/interfaceAForge_1_1Math_1_1Random_1_1IRandomNumberGenerator.html" title="Interface for random numbers generators." alt="" coords="5,136,209,177"/>
+<area shape="rect" id="node2" href="$dd/d4d/classAForge_1_1Math_1_1Random_1_1ExponentialGenerator.html" title="Exponential random numbers generator." alt="" coords="257,5,479,47"/>
+<area shape="rect" id="node3" href="$d6/d9a/classAForge_1_1Math_1_1Random_1_1GaussianGenerator.html" title="Gaussian random numbers generator." alt="" coords="264,71,472,112"/>
+<area shape="rect" id="node4" href="$d3/dee/classAForge_1_1Math_1_1Random_1_1StandardGenerator.html" title="Standard random numbers generator." alt="" coords="265,136,471,177"/>
+<area shape="rect" id="node5" href="$d0/d72/classAForge_1_1Math_1_1Random_1_1UniformGenerator.html" title="Uniform random numbers generator." alt="" coords="269,201,467,243"/>
+<area shape="rect" id="node6" href="$d7/de0/classAForge_1_1Math_1_1Random_1_1UniformOneGenerator.html" title="Uniform random numbers generator in the range of [0, 1)." alt="" coords="269,267,467,308"/>
+</map>

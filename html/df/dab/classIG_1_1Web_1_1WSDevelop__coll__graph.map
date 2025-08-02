@@ -1,0 +1,11 @@
+<map id="IG.Web.WSDevelop" name="IG.Web.WSDevelop">
+<area shape="rect" id="node1" title="Web service class." alt="" coords="440,228,577,255"/>
+<area shape="rect" id="node2" href="$df/d3a/classIG_1_1Web_1_1WSBase.html" title="Base class for IGLib webservices." alt="" coords="301,139,375,165"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,164,47"/>
+<area shape="rect" id="node4" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="188,13,275,39"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="299,13,377,39"/>
+<area shape="rect" id="node6" title=" " alt="" coords="401,13,456,39"/>
+<area shape="rect" id="node7" href="$d3/d6b/interfaceIG_1_1Web_1_1IWsDevelop.html" title="Interface for development web services." alt="" coords="518,139,609,165"/>
+<area shape="rect" id="node8" href="$d3/d45/interfaceIG_1_1Web_1_1IWSBase.html" title="Interface for basic web service." alt="" coords="491,13,569,39"/>
+<area shape="rect" id="node9" title=" " alt="" coords="633,139,699,165"/>
+</map>

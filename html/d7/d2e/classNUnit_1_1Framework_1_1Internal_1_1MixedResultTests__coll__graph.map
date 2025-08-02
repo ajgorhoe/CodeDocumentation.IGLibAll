@@ -1,0 +1,18 @@
+<map id="NUnit.Framework.Internal.MixedResultTests" name="NUnit.Framework.Internal.MixedResultTests">
+<area shape="rect" id="node1" title=" " alt="" coords="250,469,422,511"/>
+<area shape="rect" id="node2" href="$db/daa/classNUnit_1_1Framework_1_1Internal_1_1TestResultTests.html" title="Summary description for TestResultTests." alt="" coords="278,393,394,420"/>
+<area shape="rect" id="node3" href="$df/df7/classNUnit_1_1Framework_1_1Internal_1_1TestMethod.html" title="The TestMethod class represents a Test implemented as a method." alt="" coords="161,289,333,331"/>
+<area shape="rect" id="node4" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework." alt="" coords="126,193,173,219"/>
+<area shape="rect" id="node5" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields...." alt="" coords="5,81,56,108"/>
+<area shape="rect" id="node6" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="87,5,203,32"/>
+<area shape="rect" id="node15" href="$d2/df9/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestResult.html" title="The ITestResult interface represents the result of a test." alt="" coords="278,81,365,108"/>
+<area shape="rect" id="node7" title=" " alt="" coords="81,81,175,108"/>
+<area shape="rect" id="node8" title=" " alt="" coords="199,81,254,108"/>
+<area shape="rect" id="node14" href="$dd/dfe/classNUnit_1_1Framework_1_1Internal_1_1TestResult.html" title="The TestResult class represents the result of a test." alt="" coords="295,185,467,227"/>
+<area shape="rect" id="node9" href="$d2/d44/classNUnit_1_1Framework_1_1Internal_1_1TestCaseParameters.html" title="The TestCaseParameters class encapsulates method arguments and other selected parameters needed for c..." alt="" coords="491,185,663,227"/>
+<area shape="rect" id="node10" href="$d5/d50/classNUnit_1_1Framework_1_1Internal_1_1TestParameters.html" title="TestParameters is the abstract base class for all classes that know how to provide data for construct..." alt="" coords="520,81,635,108"/>
+<area shape="rect" id="node11" href="$dc/d63/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestData.html" title="The ITestData interface is implemented by a class that represents a single instance of a parameterize..." alt="" coords="459,5,536,32"/>
+<area shape="rect" id="node13" href="$d8/dd6/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestCaseData.html" title="The ITestCaseData interface is implemented by a class that is able to return complete testcases for u..." alt="" coords="389,81,496,108"/>
+<area shape="rect" id="node12" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="582,5,679,32"/>
+<area shape="rect" id="node16" title=" " alt="" coords="709,81,776,108"/>
+</map>

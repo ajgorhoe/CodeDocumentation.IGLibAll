@@ -1,0 +1,8 @@
+<map id="NUnit.Engine.Agents.TestAgent" name="NUnit.Engine.Agents.TestAgent">
+<area shape="rect" id="node1" title="Abstract base for all types of TestAgents. A TestAgent provides services of locating,..." alt="" coords="296,99,468,141"/>
+<area shape="rect" id="node2" title=" " alt="" coords="30,5,171,32"/>
+<area shape="rect" id="node3" href="$d7/dbf/interfaceNUnit_1_1Engine_1_1ITestAgent.html" title="The ITestAgent interface is implemented by remote test agents." alt="" coords="59,56,143,83"/>
+<area shape="rect" id="node4" title=" " alt="" coords="56,107,145,133"/>
+<area shape="rect" id="node5" href="$d1/d4f/interfaceNUnit_1_1Engine_1_1ITestAgency.html" title="The ITestAgency interface is implemented by a TestAgency in order to allow TestAgents to register wit..." alt="" coords="13,157,188,184"/>
+<area shape="rect" id="node6" href="$d9/d51/interfaceNUnit_1_1Engine_1_1IServiceLocator.html" title="IServiceLocator allows clients to locate any NUnit services for which the interface is referenced...." alt="" coords="5,208,196,235"/>
+</map>

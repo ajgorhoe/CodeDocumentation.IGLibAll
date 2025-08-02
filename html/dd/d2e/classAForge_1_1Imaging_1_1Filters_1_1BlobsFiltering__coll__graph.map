@@ -1,0 +1,10 @@
+<map id="AForge.Imaging.Filters.BlobsFiltering" name="AForge.Imaging.Filters.BlobsFiltering">
+<area shape="rect" id="node1" title="Blobs filtering by size." alt="" coords="171,260,361,301"/>
+<area shape="rect" id="node2" href="$d6/d11/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlaceFilter.html" title="Base class for filters, which may be applied directly to the source image." alt="" coords="83,171,207,197"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="5,95,60,121"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="84,95,181,121"/>
+<area shape="rect" id="node5" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="206,95,323,121"/>
+<area shape="rect" id="node6" href="$d1/d9f/classAForge_1_1Imaging_1_1BlobCounter.html" title="Blob counter &#45; counts objects in image, which are separated by black background." alt="" coords="255,171,443,197"/>
+<area shape="rect" id="node7" href="$d7/d79/classAForge_1_1Imaging_1_1BlobCounterBase.html" title="Base class for different blob counting algorithms." alt="" coords="347,95,470,121"/>
+<area shape="rect" id="node8" href="$d6/dc7/interfaceAForge_1_1Imaging_1_1IBlobsFilter.html" title="Interface for custom blobs&#39; filters used for filtering blobs after blob counting." alt="" coords="317,5,500,32"/>
+</map>

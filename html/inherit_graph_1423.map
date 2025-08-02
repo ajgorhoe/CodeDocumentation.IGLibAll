@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d55/classMeta_1_1Numerics_1_1Analysis_1_1EvaluationResult.html" title="Represents the result of a function analysis." alt="" coords="5,39,232,80"/>
+<area shape="rect" id="node2" href="$d6/d51/classMeta_1_1Numerics_1_1Analysis_1_1IntegrationResult.html" title="Represents the result of a numerical integration." alt="" coords="280,5,508,47"/>
+<area shape="rect" id="node3" href="$d3/d75/classMeta_1_1Numerics_1_1Analysis_1_1MultiExtremum.html" title="Represents a minimum or maximum of a multidimensional function." alt="" coords="296,71,492,112"/>
+</map>

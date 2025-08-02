@@ -1,0 +1,14 @@
+<map id="IG.Num.NeuralApproximatorDtoBase&lt; Type &gt;" name="IG.Num.NeuralApproximatorDtoBase&lt; Type &gt;">
+<area shape="rect" id="node1" title="A data transfer object (DTO) for neural approximation classes that implement the INeuralApproximator ..." alt="" coords="1359,129,1543,171"/>
+<area shape="rect" id="node2" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="987,5,1185,47"/>
+<area shape="rect" id="node3" href="$db/dcd/classIG_1_1Lib_1_1BoundingBoxDtoBase.html" title="Base class for various DTO (Data Transfer Objects) for bounding boxes. Used to store a state of a bou..." alt="" coords="993,71,1179,112"/>
+<area shape="rect" id="node4" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="558,69,743,111"/>
+<area shape="rect" id="node5" href="$d2/d6e/classIG_1_1Lib_1_1IndexListDto.html" title="Data Transfer Object (DTO) for index lists of type IndexList. Used to store, transfer,..." alt="" coords="1020,137,1152,163"/>
+<area shape="rect" id="node6" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title=" " alt="" coords="556,135,745,162"/>
+<area shape="rect" id="node7" href="$dc/dec/classIG_1_1Lib_1_1VectorDtoBase.html" title="Base class for various vector DTO (Data Transfer Objects) for vectors. Used to store a state of a vec..." alt="" coords="230,427,378,468"/>
+<area shape="rect" id="node11" href="$d5/d0e/classIG_1_1Num_1_1SampledDataElementDto.html" title="DTO (data transfer object) for sampled data element (one point with vectors of input and output param..." alt="" coords="543,282,759,309"/>
+<area shape="rect" id="node8" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="5,427,167,468"/>
+<area shape="rect" id="node9" href="$df/d6b/classIG_1_1Num_1_1SampledDataSetDto.html" title="Data Transfer Object (DTO) for sampled data set." alt="" coords="992,191,1180,218"/>
+<area shape="rect" id="node10" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title=" " alt="" coords="563,187,739,228"/>
+<area shape="rect" id="node12" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title=" " alt="" coords="216,275,392,316"/>
+</map>

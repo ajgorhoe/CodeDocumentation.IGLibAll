@@ -1,0 +1,12 @@
+<map id="IG.Neural.Forms.NeuralInputWindow" name="IG.Neural.Forms.NeuralInputWindow">
+<area shape="rect" id="node1" title="Test window for editing input parameters of an approximative model." alt="" coords="129,360,315,401"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,263,57,290"/>
+<area shape="rect" id="node3" href="$d9/da9/classIG_1_1Neural_1_1Forms_1_1NeuralOutputControl.html" title="Control for editing output values of an approximative model." alt="" coords="429,256,626,297"/>
+<area shape="rect" id="node4" title=" " alt="" coords="898,5,989,32"/>
+<area shape="rect" id="node8" href="$d8/daf/classIG_1_1Neural_1_1Forms_1_1NeuralInputControl.html" title="Control for editing input parameter values." alt="" coords="873,256,1059,297"/>
+<area shape="rect" id="node5" title=" " alt="" coords="117,5,183,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1035,5,1073,32"/>
+<area shape="rect" id="node7" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="526,5,737,32"/>
+<area shape="rect" id="node9" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="1230,5,1382,32"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1108,5,1205,32"/>
+</map>

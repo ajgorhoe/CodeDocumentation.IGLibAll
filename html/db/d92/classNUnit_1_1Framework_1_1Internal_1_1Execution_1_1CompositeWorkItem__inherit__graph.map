@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.Execution.CompositeWorkItem" name="NUnit.Framework.Internal.Execution.CompositeWorkItem">
+<area shape="rect" id="node1" title="A CompositeWorkItem represents a test suite and encapsulates the execution of the suite as well as al..." alt="" coords="5,80,208,121"/>
+<area shape="rect" id="node2" href="$d4/dab/classNUnit_1_1Framework_1_1Internal_1_1Execution_1_1WorkItem.html" title="A WorkItem may be an individual test case, a fixture or a higher level grouping of tests...." alt="" coords="67,5,146,32"/>
+</map>

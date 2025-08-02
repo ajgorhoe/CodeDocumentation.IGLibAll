@@ -1,0 +1,12 @@
+<map id="Meta.Numerics.Matrices.VectorBase" name="Meta.Numerics.Matrices.VectorBase">
+<area shape="rect" id="node1" title="Implements functionality shared between row and column vectors." alt="" coords="444,136,680,163"/>
+<area shape="rect" id="node9" href="$d3/d34/classMeta_1_1Numerics_1_1Matrices_1_1ColumnVector.html" title="A column vector of real numbers." alt="" coords="728,95,940,137"/>
+<area shape="rect" id="node10" href="$df/d01/classMeta_1_1Numerics_1_1Matrices_1_1RowVector.html" title="A row vector of real numbers." alt="" coords="737,161,931,202"/>
+<area shape="rect" id="node2" href="$d9/d5b/classMeta_1_1Numerics_1_1Matrices_1_1AnyRectangularMatrix.html" title="Describes the form of all real matrices." alt="" coords="243,35,393,61"/>
+<area shape="rect" id="node3" href="$df/de5/classMeta_1_1Numerics_1_1Matrices_1_1AnyMatrix.html" title=" " alt="" coords="27,5,170,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,57,192,98"/>
+<area shape="rect" id="node5" title=" " alt="" coords="271,85,365,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="240,136,396,163"/>
+<area shape="rect" id="node7" title=" " alt="" coords="246,187,390,213"/>
+<area shape="rect" id="node8" title=" " alt="" coords="264,237,372,264"/>
+</map>

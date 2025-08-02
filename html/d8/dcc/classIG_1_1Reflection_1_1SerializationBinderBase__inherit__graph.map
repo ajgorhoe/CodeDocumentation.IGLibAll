@@ -1,0 +1,9 @@
+<map id="IG.Reflection.SerializationBinderBase" name="IG.Reflection.SerializationBinderBase">
+<area shape="rect" id="node1" title="Enables to reference classes that both inherit from the framework&#39;s SerializationBinder (necessary fo..." alt="" coords="187,39,357,80"/>
+<area shape="rect" id="node4" href="$d3/dae/classIG_1_1Reflection_1_1SerializationBinderCascadedImmutable.html" title="A cascaded SerializationBinder class that maps the assembly and type information of the serialized ob..." alt="" coords="405,5,583,47"/>
+<area shape="rect" id="node6" href="$da/daa/classIG_1_1Reflection_1_1SerializationBinderSimple.html" title="A simple SerializationBinder, defines a single mapping from the original assembly and type name to a ..." alt="" coords="409,71,579,112"/>
+<area shape="rect" id="node2" title=" " alt="" coords="7,21,137,47"/>
+<area shape="rect" id="node3" href="$d6/dde/interfaceIG_1_1Reflection_1_1ISerializationBinder.html" title="Interface implemented by IGLib&#39;s classes based on the framework&#39;s SerializationBinder class." alt="" coords="5,71,139,98"/>
+<area shape="rect" id="node5" href="$d1/d07/classIG_1_1Reflection_1_1SerializationBinderCascaded.html" title="A cascaded SerializationBinder class that maps the assembly and type information of the serialized ob..." alt="" coords="631,5,801,47"/>
+<area shape="rect" id="node7" href="$da/d8e/classIG_1_1Reflection_1_1SerializationBinderElementary.html" title="A SerializationBinder, defines a single mapping from the original assembly and type name to a target ..." alt="" coords="631,71,801,112"/>
+</map>

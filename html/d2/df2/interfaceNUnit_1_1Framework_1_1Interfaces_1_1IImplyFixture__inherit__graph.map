@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.Interfaces.IImplyFixture" name="NUnit.Framework.Interfaces.IImplyFixture">
+<area shape="rect" id="node1" title="IImplyFixture is an empty marker interface used by attributes like TestAttribute that cause the class..." alt="" coords="5,97,192,139"/>
+<area shape="rect" id="node2" href="$dd/d34/classNUnit_1_1Framework_1_1TestAttribute.html" title="Adding this attribute to a method within a TestFixtureAttributeclass makes the method callable from t..." alt="" coords="247,13,447,39"/>
+<area shape="rect" id="node4" href="$d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html" title="TestCaseAttribute is used to mark parameterized test cases and provide them with their arguments." alt="" coords="257,64,438,105"/>
+<area shape="rect" id="node5" href="$d9/d2f/classNUnit_1_1Framework_1_1TestCaseSourceAttribute.html" title="TestCaseSourceAttribute indicates the source to be used to provide test cases for a test method." alt="" coords="257,129,438,171"/>
+<area shape="rect" id="node6" href="$d2/dbe/classNUnit_1_1Framework_1_1TheoryAttribute.html" title="Adding this attribute to a method within a TestFixtureAttributeclass makes the method callable from t..." alt="" coords="240,195,455,222"/>
+<area shape="rect" id="node3" href="$d4/dd4/classNUnit_1_1TestData_1_1AttributeInheritanceData_1_1SpecAttribute.html" title=" " alt="" coords="503,5,697,47"/>
+</map>

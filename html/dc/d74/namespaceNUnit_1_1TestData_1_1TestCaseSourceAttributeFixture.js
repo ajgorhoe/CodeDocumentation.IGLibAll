@@ -1,0 +1,4 @@
+var namespaceNUnit_1_1TestData_1_1TestCaseSourceAttributeFixture =
+[
+    [ "TestCaseSourceAttributeFixture", "d0/d3c/classNUnit_1_1TestData_1_1TestCaseSourceAttributeFixture_1_1TestCaseSourceAttributeFixture.html", "d0/d3c/classNUnit_1_1TestData_1_1TestCaseSourceAttributeFixture_1_1TestCaseSourceAttributeFixture" ]
+];

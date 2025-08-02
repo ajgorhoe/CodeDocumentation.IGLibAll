@@ -1,0 +1,7 @@
+<map id="IG.Lib.AutopsyBase" name="IG.Lib.AutopsyBase">
+<area shape="rect" id="node1" title="Base class for Text fields of autopsy declaration" alt="" coords="5,97,144,123"/>
+<area shape="rect" id="node2" href="$de/d7c/classIG_1_1Lib_1_1AutopsyAssociatedDisease.html" title=" " alt="" coords="207,5,380,47"/>
+<area shape="rect" id="node3" href="$dd/dfd/classIG_1_1Lib_1_1AutopsyBasicDisease.html" title=" " alt="" coords="199,71,387,98"/>
+<area shape="rect" id="node4" href="$d7/d4a/classIG_1_1Lib_1_1AutopsyDeathReason.html" title=" " alt="" coords="200,122,387,149"/>
+<area shape="rect" id="node5" href="$d2/d64/classIG_1_1Lib_1_1AutopsyOtherInformation.html" title=" " alt="" coords="192,173,395,199"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/d34/interfaceAForge_1_1Math_1_1Geometry_1_1IShapeOptimizer.html" title="Interface for shape optimizing algorithms." alt="" coords="5,71,208,112"/>
+<area shape="rect" id="node2" href="$d6/d3a/classAForge_1_1Math_1_1Geometry_1_1ClosePointsMergingOptimizer.html" title="Shape optimizer, which merges points within close distance to each other." alt="" coords="256,5,451,47"/>
+<area shape="rect" id="node3" href="$d4/d30/classAForge_1_1Math_1_1Geometry_1_1FlatAnglesOptimizer.html" title="Shape optimizer, which removes obtuse angles (close to flat) from a shape." alt="" coords="261,71,445,112"/>
+<area shape="rect" id="node4" href="$db/d3f/classAForge_1_1Math_1_1Geometry_1_1LineStraighteningOptimizer.html" title="Shape optimizer, which removes points within close range to shapes&#39; body." alt="" coords="260,136,447,177"/>
+</map>

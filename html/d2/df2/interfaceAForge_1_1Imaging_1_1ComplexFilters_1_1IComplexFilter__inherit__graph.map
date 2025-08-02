@@ -1,0 +1,4 @@
+<map id="AForge.Imaging.ComplexFilters.IComplexFilter" name="AForge.Imaging.ComplexFilters.IComplexFilter">
+<area shape="rect" id="node1" title="Image processing filter, which operates with Fourier transformed complex image." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$d7/de9/classAForge_1_1Imaging_1_1ComplexFilters_1_1FrequencyFilter.html" title="Filtering of frequencies outside of specified range in complex Fourier transformed image." alt="" coords="5,95,213,136"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NUnit.Samples.Money.IMoney" name="NUnit.Samples.Money.IMoney">
+<area shape="rect" id="node1" title="The common interface for simple Monies and MoneyBags." alt="" coords="118,5,317,32"/>
+<area shape="rect" id="node2" href="$df/d54/classNUnit_1_1Samples_1_1Money_1_1Money.html" title="A simple Money." alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$d5/dd9/classNUnit_1_1Samples_1_1Money_1_1MoneyBag.html" title="A MoneyBag defers exchange rate conversions." alt="" coords="224,80,443,107"/>
+</map>

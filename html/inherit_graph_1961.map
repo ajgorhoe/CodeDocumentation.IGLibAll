@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$df/d4f/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1TestFixtureSourceTest.html" title=" " alt="" coords="5,439,231,480"/>
+<area shape="rect" id="node2" href="$d3/daf/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1IEnumerableSource.html" title=" " alt="" coords="279,5,485,47"/>
+<area shape="rect" id="node3" href="$d6/def/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1IndividualInstancesMayBeExplicit.html" title=" " alt="" coords="281,71,483,127"/>
+<area shape="rect" id="node4" href="$dc/dbb/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1IndividualInstancesMayBeIgnored.html" title=" " alt="" coords="281,151,483,207"/>
+<area shape="rect" id="node5" href="$d2/db8/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1InstanceField__SameClass.html" title=" " alt="" coords="293,231,471,287"/>
+<area shape="rect" id="node6" href="$d4/d91/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1InstanceMethod__SameClass.html" title=" " alt="" coords="289,311,475,367"/>
+<area shape="rect" id="node7" href="$da/d45/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1InstanceProperty__SameClass.html" title=" " alt="" coords="286,391,478,447"/>
+<area shape="rect" id="node8" href="$d0/ddd/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticField__DifferentClass.html" title=" " alt="" coords="293,471,471,527"/>
+<area shape="rect" id="node9" href="$d2/d43/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticField__SameClass.html" title=" " alt="" coords="293,551,471,607"/>
+<area shape="rect" id="node10" href="$d2/dc9/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticMethod__DifferentClass.html" title=" " alt="" coords="293,631,471,687"/>
+<area shape="rect" id="node11" href="$d1/d1d/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticMethod__SameClass.html" title=" " alt="" coords="293,711,471,767"/>
+<area shape="rect" id="node12" href="$de/d28/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticProperty__DifferentClass.html" title=" " alt="" coords="293,791,471,847"/>
+<area shape="rect" id="node13" href="$df/d59/classNUnit_1_1TestData_1_1TestFixtureSourceData_1_1StaticProperty__SameClass.html" title=" " alt="" coords="293,871,471,927"/>
+</map>

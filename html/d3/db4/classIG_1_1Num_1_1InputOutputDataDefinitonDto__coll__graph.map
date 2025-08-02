@@ -1,0 +1,8 @@
+<map id="IG.Num.InputOutputDataDefinitonDto" name="IG.Num.InputOutputDataDefinitonDto">
+<area shape="rect" id="node1" title="DTO (data transfer object) for data definition that contains input and output elements." alt="" coords="584,71,819,98"/>
+<area shape="rect" id="node2" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title=" " alt="" coords="281,5,473,47"/>
+<area shape="rect" id="node3" href="$d9/df9/classIG_1_1Num_1_1InputElementDefinitionDto.html" title="DTO (data transfer object) for data input element definition." alt="" coords="267,71,486,98"/>
+<area shape="rect" id="node4" href="$de/d82/classIG_1_1Num_1_1InputOutputElementDefinitionDto.html" title=" " alt="" coords="11,60,206,101"/>
+<area shape="rect" id="node5" href="$dd/d56/classIG_1_1Num_1_1OutputElementDefinitionDto.html" title="DTO (data transfer object) for data output element definition." alt="" coords="261,126,492,153"/>
+<area shape="rect" id="node6" href="$de/d82/classIG_1_1Num_1_1InputOutputElementDefinitionDto.html" title=" " alt="" coords="5,125,212,167"/>
+</map>

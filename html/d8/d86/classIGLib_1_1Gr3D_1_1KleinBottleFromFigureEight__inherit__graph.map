@@ -1,0 +1,4 @@
+<map id="IGLib.Gr3D.KleinBottleFromFigureEight" name="IGLib.Gr3D.KleinBottleFromFigureEight">
+<area shape="rect" id="node1" title="Parametric Klein bottle surface generated from the figure eight curve by moving the curve along the c..." alt="" coords="15,80,198,121"/>
+<area shape="rect" id="node2" href="$d3/d6e/interfaceIGLib_1_1Gr3D_1_1IParametricSurfaceWithBounds.html" title="Parametric surface in 3D. Beside the Surface and (optional) SurfaceDerivative1(double,..." alt="" coords="5,5,208,32"/>
+</map>

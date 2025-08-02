@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,52,73"/>
+<area shape="rect" id="node2" href="$da/d3e/classCShell_1_1Framework_1_1Services_1_1DebugLogger.html" title="A simple logger that writes to the Visual Studio debug log. From here: http://buksbaum...." alt="" coords="100,5,285,47"/>
+<area shape="rect" id="node3" href="$d0/d96/classCShell_1_1Framework_1_1Services_1_1NLogLogger.html" title="Uses NLog to write out the log messages." alt="" coords="100,71,285,112"/>
+</map>

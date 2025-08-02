@@ -1,0 +1,10 @@
+<map id="AForge.Genetic.IFitnessFunction" name="AForge.Genetic.IFitnessFunction">
+<area shape="rect" id="node1" title="Fitness function interface." alt="" coords="5,177,219,203"/>
+<area shape="rect" id="node2" href="$d6/d82/classAForge_1_1Genetic_1_1OptimizationFunction1D.html" title="Base class for one dimensional function optimizations." alt="" coords="289,5,480,47"/>
+<area shape="rect" id="node4" href="$de/d53/classAForge_1_1Genetic_1_1OptimizationFunction2D.html" title="Base class for two dimenstional function optimization." alt="" coords="289,71,480,112"/>
+<area shape="rect" id="node5" href="$d4/db1/classAForge_1_1Genetic_1_1SymbolicRegressionFitness.html" title="Fitness function for symbolic regression (function approximation) problem" alt="" coords="267,136,503,177"/>
+<area shape="rect" id="node6" href="$d3/d73/classAForge_1_1Genetic_1_1TimeSeriesPredictionFitness.html" title="Fitness function for times series prediction problem" alt="" coords="293,201,476,243"/>
+<area shape="rect" id="node7" title="Fitness function used for chromosomes representing collection of neural network&#39;s weights." alt="" coords="270,267,499,308"/>
+<area shape="rect" id="node8" href="$db/def/classTSP_1_1TSPFitnessFunction.html" title="Fitness function for TSP task (Travaling Salasman Problem)" alt="" coords="300,333,469,359"/>
+<area shape="rect" id="node3" href="$d2/d9c/classOptimization1D_1_1UserFunction.html" title=" " alt="" coords="551,13,743,39"/>
+</map>

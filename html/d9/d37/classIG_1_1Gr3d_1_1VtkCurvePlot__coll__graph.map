@@ -1,0 +1,34 @@
+<map id="IG.Gr3d.VtkCurvePlot" name="IG.Gr3d.VtkCurvePlot">
+<area shape="rect" id="node1" title="Handles 3D curve plots in VTK render window accessed through the VtkPlotter class." alt="" coords="2165,1199,2312,1225"/>
+<area shape="rect" id="node2" href="$d8/d62/classIG_1_1Gr3d_1_1VtkSurfacePlotBase.html" title="Contains basic settings for various surface and contour plots." alt="" coords="1773,999,1911,1025"/>
+<area shape="rect" id="node3" href="$de/dac/classIG_1_1Gr3d_1_1VtkPlotBase.html" title="Base class for plotting classes that plot on VTK windows (class VtkPlotter)." alt="" coords="1545,368,1639,395"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="803,139,880,165"/>
+<area shape="rect" id="node6" href="$d4/d40/classIG_1_1Gr3d_1_1VtkPlotter.html" title="Plotter class that uses a vtkRenderWindow object for plotting 3D graphics." alt="" coords="1147,595,1277,621"/>
+<area shape="rect" id="node10" href="$d1/d9a/classIG_1_1Gr3d_1_1VtkDecorationHandler.html" title="Manipulates axes, labels, grids, and other decorations of graphhics plotted in VTK windows." alt="" coords="1493,745,1691,772"/>
+<area shape="rect" id="node26" href="$de/de7/classIG_1_1Lib_1_1StopWatch1.html" title="Timer for measuring execution times and other intervals of time elapsed between successive events...." alt="" coords="1146,317,1278,344"/>
+<area shape="rect" id="node5" title=" " alt="" coords="797,368,886,395"/>
+<area shape="rect" id="node7" href="$dc/d11/interfaceIG_1_1Gr3d_1_1IVtkFormContainer.html" title="This interface is implemented by the forms that contain the VTK control that can render VTK graphics." alt="" coords="752,725,931,752"/>
+<area shape="rect" id="node8" href="$d3/d6e/interfaceIG_1_1Gr3d_1_1IVtkFormContainerGen.html" title=" " alt="" coords="275,718,525,759"/>
+<area shape="rect" id="node9" href="$df/d16/structIG_1_1Num_1_1vec3.html" title="3D vector, struct implementation." alt="" coords="352,565,448,592"/>
+<area shape="rect" id="node17" href="$da/d5b/classIG_1_1Num_1_1Vector3d.html" title="Vector or point in a 3 dimensional space." alt="" coords="780,496,903,523"/>
+<area shape="rect" id="node11" href="$d5/d87/classIG_1_1Lib_1_1ColorScale.html" title=" " alt="" coords="1151,960,1273,987"/>
+<area shape="rect" id="node12" href="$d1/d6b/classIG_1_1Lib_1_1ColorScaleBase.html" title=" " alt="" coords="784,987,899,1013"/>
+<area shape="rect" id="node13" href="$d0/d9a/interfaceIG_1_1Lib_1_1IColorScale.html" title=" " alt="" coords="356,957,444,984"/>
+<area shape="rect" id="node14" href="$dd/d52/structIG_1_1Lib_1_1color.html" title="Extended color representation. Stores RGB components and opacity as double numbers ranging fom 0 to 1..." alt="" coords="797,856,885,883"/>
+<area shape="rect" id="node15" href="$db/d5e/interfaceIG_1_1Num_1_1IBoundingBox.html" title="Bounding box, defines minimum and maximum co&#45;ordinates of domains, geometric objects and their groups..." alt="" coords="1137,859,1287,885"/>
+<area shape="rect" id="node16" title=" " alt="" coords="49,656,104,683"/>
+<area shape="rect" id="node18" href="$d0/d5a/classIG_1_1Num_1_1VectorBase.html" title="Base class for real vectors." alt="" coords="355,464,445,491"/>
+<area shape="rect" id="node19" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="45,387,108,413"/>
+<area shape="rect" id="node20" title=" " alt="" coords="359,515,441,541"/>
+<area shape="rect" id="node21" title=" " alt="" coords="818,675,865,701"/>
+<area shape="rect" id="node22" href="$d5/da6/classIG_1_1Num_1_1BoundingBox3d.html" title="A 3D bounding box." alt="" coords="761,197,922,224"/>
+<area shape="rect" id="node23" href="$df/d61/classIG_1_1Num_1_1BoundingBoxBase.html" title="Base class for bounding boxes that define minimal and maximal co&#45;ordinates of objects,..." alt="" coords="335,139,465,165"/>
+<area shape="rect" id="node29" href="$df/d6d/classIG_1_1Num_1_1BoundingBox1d.html" title="An 1D bounding box." alt="" coords="761,88,922,115"/>
+<area shape="rect" id="node24" href="$db/d5e/interfaceIG_1_1Num_1_1IBoundingBox.html" title="Bounding box, defines minimum and maximum co&#45;ordinates of domains, geometric objects and their groups..." alt="" coords="25,139,128,165"/>
+<area shape="rect" id="node25" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="5,44,148,71"/>
+<area shape="rect" id="node27" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="798,317,885,344"/>
+<area shape="rect" id="node28" href="$d5/d03/interfaceIG_1_1Num_1_1IFunc3d.html" title="Represents scalar functions of 2 variables." alt="" coords="1784,1173,1900,1200"/>
+<area shape="rect" id="node30" href="$de/d8d/classIG_1_1Num_1_1UnstructuredMesh1d3d.html" title="Unstructured mesh in 1D embedded in 3D space." alt="" coords="1740,1279,1944,1305"/>
+<area shape="rect" id="node31" href="$d5/d27/classIG_1_1Num_1_1UnstructuredMesh1d.html" title=" " alt="" coords="1511,1275,1673,1375"/>
+<area shape="rect" id="node32" href="$db/d0e/interfaceIG_1_1Num_1_1IRealFunction.html" title="Interface for real functions." alt="" coords="1767,1333,1917,1360"/>
+</map>

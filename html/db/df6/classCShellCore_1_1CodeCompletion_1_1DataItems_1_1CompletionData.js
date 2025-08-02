@@ -1,0 +1,26 @@
+var classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData =
+[
+    [ "CompletionData", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a62a660e212c6a9af0863422ec894341f", null ],
+    [ "CompletionData", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a03c1c3d3e9e5049f15e04c91edd3ce00", null ],
+    [ "AddOverload", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a3e5779ee36da4f527fdf8735ff8251d7", null ],
+    [ "Complete", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a695d773a8906e12d0933aeab72176bb2", null ],
+    [ "ToString", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a46afe4fe609b0280bfbb279f7fd462aa", null ],
+    [ "Equals", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#ac1a246f122d1b8edb4ac7cd15f22b8a0", null ],
+    [ "GetHashCode", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a3c19918cc169a1c82861f04f549c1836", null ],
+    [ "overloadedData", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a1dfa4a308243f8c53bbb70549fb5486b", null ],
+    [ "priority", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#aaadddc1dd6f06c8ebd7bdb78571fb424", null ],
+    [ "TriggerWord", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a1b24666364612fd57b89b8c5e4ed74e2", null ],
+    [ "TriggerWordLength", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a254eaae20f1a8a6b8050202c5abae30d", null ],
+    [ "CompletionCategory", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#acb446af2a0a4982b5b3dec4ae60f08d1", null ],
+    [ "DisplayText", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a40c70eb4af779fa3fb257cd4e70d460b", null ],
+    [ "Description", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a9b0884a6ec3c46b43b18a024ec7bfe70", null ],
+    [ "CompletionText", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#aa2dd4c83703b22c75cbd25222fc316e7", null ],
+    [ "DisplayFlags", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a78f616020e5457f411e06e2557b42af5", null ],
+    [ "HasOverloads", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a61d2424fbe7abb49cf4eeb456ac6df26", null ],
+    [ "OverloadedData", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#af7603e98375b0dfc4d8cd6d4b0d8f05d", null ],
+    [ "Image", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a07c6626b35752587bae233bf80b2cd78", null ],
+    [ "Content", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a1bee72766dcccd1d5ffca17c3c885d14", null ],
+    [ "Description", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a33734164dc6e73087d6200f8bb344097", null ],
+    [ "Priority", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#a488a3090919b7d71fd5e05997c037728", null ],
+    [ "Text", "db/df6/classCShellCore_1_1CodeCompletion_1_1DataItems_1_1CompletionData.html#ad01bccaa5d2701bfa925b771593b18ee", null ]
+];

@@ -1,0 +1,7 @@
+<map id="IG.Neural.AnalysisFileServerNeural" name="IG.Neural.AnalysisFileServerNeural">
+<area shape="rect" id="node1" title="Class containing direct analysis (in optimization) based on neural network optimization." alt="" coords="252,39,439,80"/>
+<area shape="rect" id="node4" href="$db/d90/classIG_1_1Neural_1_1AnalysisFileServerNeuralExtBase.html" title="Analysis server based on neural approximations for IJS, for Robert&#39;s data." alt="" coords="487,5,673,47"/>
+<area shape="rect" id="node5" href="$d5/d3d/classIG_1_1Neural_1_1AnalysisFileServerNeuralStoreBase.html" title="Analysis server based on neural approximations for IJS, for Robert&#39;s data." alt="" coords="487,71,673,112"/>
+<area shape="rect" id="node2" href="$d2/dba/classIG_1_1Neural_1_1ApproximationFileServerNeural.html" title="Class for approximation file server." alt="" coords="5,21,204,47"/>
+<area shape="rect" id="node3" href="$d5/d59/interfaceIG_1_1Num_1_1IAnalysis.html" title="Interface for direct analysis classes used in optimization problems." alt="" coords="67,71,142,98"/>
+</map>

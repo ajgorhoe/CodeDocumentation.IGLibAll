@@ -1,0 +1,4 @@
+<map id="IGLib.Core.FromStringTypeConverterViaParseReflection" name="IGLib.Core.FromStringTypeConverterViaParseReflection">
+<area shape="rect" id="node1" title="Converts from string to a specific type using TryParse or Parse methods via reflection...." alt="" coords="5,95,192,136"/>
+<area shape="rect" id="node2" href="$dd/d09/interfaceIGLib_1_1Core_1_1ISingleSourceTypeConverter.html" title=" " alt="" coords="7,5,191,47"/>
+</map>

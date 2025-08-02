@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.IgnoreException" name="NUnit.Framework.IgnoreException">
+<area shape="rect" id="node1" title="Thrown when an assertion failed." alt="" coords="5,155,224,181"/>
+<area shape="rect" id="node2" href="$dc/d3c/classNUnit_1_1Framework_1_1ResultStateException.html" title="Abstract base for Exceptions that terminate a test and provide a ResultState." alt="" coords="41,80,189,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="75,5,155,32"/>
+</map>

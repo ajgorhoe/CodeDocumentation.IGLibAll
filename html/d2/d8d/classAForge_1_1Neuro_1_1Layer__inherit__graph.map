@@ -1,0 +1,5 @@
+<map id="AForge.Neuro.Layer" name="AForge.Neuro.Layer">
+<area shape="rect" id="node1" title="Base neural layer class" alt="" coords="141,5,280,32"/>
+<area shape="rect" id="node2" href="$da/d83/classAForge_1_1Neuro_1_1ActivationLayer.html" title="Activation layer" alt="" coords="5,80,200,107"/>
+<area shape="rect" id="node3" href="$da/dca/classAForge_1_1Neuro_1_1DistanceLayer.html" title="Distance layer" alt="" coords="224,80,413,107"/>
+</map>

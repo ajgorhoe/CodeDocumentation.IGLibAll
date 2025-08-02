@@ -1,0 +1,5 @@
+<map id="NeuronDotNet.Core.Layer&lt; TNeuron &gt;" name="NeuronDotNet.Core.Layer&lt; TNeuron &gt;">
+<area shape="rect" id="node1" title="Layer is an abstract container for similar neurons. No two neurons within a layer can be connected to..." alt="" coords="5,155,176,196"/>
+<area shape="rect" id="node2" href="$d0/dea/interfaceNeuronDotNet_1_1Core_1_1ILayer.html" title="This interface represents a Layer in a neural network. A layer is a container for similar neurons...." alt="" coords="62,80,119,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="45,5,137,32"/>
+</map>

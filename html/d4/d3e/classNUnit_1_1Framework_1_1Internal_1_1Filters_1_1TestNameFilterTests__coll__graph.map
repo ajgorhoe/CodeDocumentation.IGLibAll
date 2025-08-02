@@ -1,0 +1,13 @@
+<map id="NUnit.Framework.Internal.Filters.TestNameFilterTests" name="NUnit.Framework.Internal.Filters.TestNameFilterTests">
+<area shape="rect" id="node1" title=" " alt="" coords="79,543,261,584"/>
+<area shape="rect" id="node2" href="$d6/dde/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1TestFilterTests.html" title=" " alt="" coords="191,467,299,493"/>
+<area shape="rect" id="node3" href="$d4/dec/classNUnit_1_1Framework_1_1Internal_1_1TestSuite.html" title="TestSuite represents a composite test, which contains other tests." alt="" coords="215,304,387,345"/>
+<area shape="rect" id="node4" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework." alt="" coords="424,200,471,227"/>
+<area shape="rect" id="node5" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields...." alt="" coords="422,81,473,108"/>
+<area shape="rect" id="node6" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="260,5,376,32"/>
+<area shape="rect" id="node11" href="$d2/df0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="76,81,155,108"/>
+<area shape="rect" id="node7" title=" " alt="" coords="303,81,397,108"/>
+<area shape="rect" id="node8" title=" " alt="" coords="209,81,264,108"/>
+<area shape="rect" id="node10" href="$da/dc4/classNUnit_1_1Framework_1_1Internal_1_1TestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="5,193,177,234"/>
+<area shape="rect" id="node9" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="201,185,400,241"/>
+</map>

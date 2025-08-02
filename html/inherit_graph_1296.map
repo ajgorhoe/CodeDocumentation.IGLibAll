@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$de/d63/interfaceIGLib_1_1Core_1_1ITypeConverter.html" title="Defines methods for converting objects to a specified type." alt="" coords="5,13,177,39"/>
+<area shape="rect" id="node2" href="$d9/d23/classIGLib_1_1Core_1_1BasicTypeConverter.html" title="Provides basic type conversion functionality using IConvertible and nullable handling." alt="" coords="225,13,428,39"/>
+<area shape="rect" id="node3" href="$d3/d3d/classIGLib_1_1Core_1_1CollectionTypeConverter.html" title="A type converter that supports conversion between basic types and a wide range of collection types,..." alt="" coords="476,5,648,47"/>
+<area shape="rect" id="node4" href="$d3/d28/classIGLib_1_1CoreExtended_1_1ReflectionTypeConverter.html" title="A type converter that supports implicit/explicit conversion operators via reflection,..." alt="" coords="696,5,895,47"/>
+</map>

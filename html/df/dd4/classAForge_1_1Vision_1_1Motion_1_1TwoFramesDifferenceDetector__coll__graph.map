@@ -1,0 +1,12 @@
+<map id="AForge.Vision.Motion.TwoFramesDifferenceDetector" name="AForge.Vision.Motion.TwoFramesDifferenceDetector">
+<area shape="rect" id="node1" title="Motion detector based on two continues frames difference." alt="" coords="748,62,923,103"/>
+<area shape="rect" id="node2" href="$d2/d43/interfaceAForge_1_1Vision_1_1Motion_1_1IMotionDetector.html" title="Interface of motion detector algorithm." alt="" coords="461,5,574,32"/>
+<area shape="rect" id="node3" href="$d0/d77/classAForge_1_1Imaging_1_1UnmanagedImage.html" title="Image in unmanaged memory." alt="" coords="424,59,611,101"/>
+<area shape="rect" id="node4" title=" " alt="" coords="235,67,325,93"/>
+<area shape="rect" id="node5" href="$dd/de9/classAForge_1_1Imaging_1_1Filters_1_1BinaryErosion3x3.html" title="Binary erosion operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="420,125,615,166"/>
+<area shape="rect" id="node6" href="$d8/ddf/classAForge_1_1Imaging_1_1Filters_1_1BaseUsingCopyPartialFilter.html" title="Base class for filters, which require source image backup to make them applicable to source image (or..." alt="" coords="189,132,371,159"/>
+<area shape="rect" id="node7" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="45,56,100,83"/>
+<area shape="rect" id="node8" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="24,107,121,133"/>
+<area shape="rect" id="node9" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="5,157,140,184"/>
+<area shape="rect" id="node10" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="14,208,131,235"/>
+</map>

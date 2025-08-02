@@ -1,0 +1,5 @@
+<map id="AForge.Fuzzy.PiecewiseLinearFunction" name="AForge.Fuzzy.PiecewiseLinearFunction">
+<area shape="rect" id="node1" title="Membership function composed by several connected linear functions." alt="" coords="51,95,253,136"/>
+<area shape="rect" id="node2" href="$d0/d72/interfaceAForge_1_1Fuzzy_1_1IMembershipFunction.html" title="Interface which specifies set of methods required to be implemented by all membership functions." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node3" href="$d2/d04/structAForge_1_1Point.html" title="Structure for representing a pair of coordinates of float type." alt="" coords="176,5,275,32"/>
+</map>

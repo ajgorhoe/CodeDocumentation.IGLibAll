@@ -1,0 +1,10 @@
+<map id="IG.Lib.NeuralApplicationInterpreter" name="IG.Lib.NeuralApplicationInterpreter">
+<area shape="rect" id="node1" title="Command line application interpreter that contains some neural networks &#45; related commands." alt="" coords="559,74,720,115"/>
+<area shape="rect" id="node5" href="$de/de7/classIG_1_1Lib_1_1AppExtendedShell.html" title=" " alt="" coords="768,5,935,32"/>
+<area shape="rect" id="node6" href="$d7/d4a/classIG_1_1Lib_1_1AppTestOpt.html" title=" " alt="" coords="787,56,916,83"/>
+<area shape="rect" id="node7" href="$da/dbd/classIG_1_1Lib_1_1MessyApplication.html" title=" " alt="" coords="770,107,933,133"/>
+<area shape="rect" id="node8" href="$d2/d0e/classIG_1_1Lib_1_1NeuralApplicationInterpreterNeuronDotNet.html" title=" " alt="" coords="771,158,932,199"/>
+<area shape="rect" id="node2" href="$de/dcf/classIG_1_1Lib_1_1CommandLineApplicationInterpreter.html" title="Simple command&#45;line application interpreters, holds a set of commands that can be executed by name...." alt="" coords="284,81,511,108"/>
+<area shape="rect" id="node3" href="$de/dfd/interfaceIG_1_1Lib_1_1ICommandLineApplicationInterpreter.html" title="Interface for simple command&#45;line applicatino interpreters." alt="" coords="5,56,236,83"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="82,107,159,133"/>
+</map>

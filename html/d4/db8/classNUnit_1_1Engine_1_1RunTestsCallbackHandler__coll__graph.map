@@ -1,0 +1,7 @@
+<map id="NUnit.Engine.RunTestsCallbackHandler" name="NUnit.Engine.RunTestsCallbackHandler">
+<area shape="rect" id="node1" title=" " alt="" coords="198,171,405,212"/>
+<area shape="rect" id="node2" href="$de/df7/classNUnit_1_1Engine_1_1CallbackHandler.html" title=" " alt="" coords="103,81,219,108"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="171,5,322,32"/>
+<area shape="rect" id="node5" href="$d1/d83/interfaceNUnit_1_1Engine_1_1ITestEventListener.html" title="The ITestListener interface is used to receive notices of significant events while a test is running...." alt="" coords="244,81,452,108"/>
+</map>

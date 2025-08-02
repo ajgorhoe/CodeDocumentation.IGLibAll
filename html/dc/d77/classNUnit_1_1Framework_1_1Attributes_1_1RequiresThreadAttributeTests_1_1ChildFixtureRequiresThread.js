@@ -1,0 +1,4 @@
+var classNUnit_1_1Framework_1_1Attributes_1_1RequiresThreadAttributeTests_1_1ChildFixtureRequiresThread =
+[
+    [ "RequiresThreadAttributeIsInheritable", "dc/d77/classNUnit_1_1Framework_1_1Attributes_1_1RequiresThreadAttributeTests_1_1ChildFixtureRequiresThread.html#afd55392add01d71577916e8ebee751e1", null ]
+];

@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.RandomAttribute" name="NUnit.Framework.RandomAttribute">
+<area shape="rect" id="node1" title="RandomAttribute is used to supply a set of random _values to a single parameter of a parameterized te..." alt="" coords="603,56,825,83"/>
+<area shape="rect" id="node2" href="$d3/db6/classNUnit_1_1Framework_1_1DataAttribute.html" title="The abstract base class for all data&#45;providing attributes defined by NUnit. Used to select all data s..." alt="" coords="341,5,440,32"/>
+<area shape="rect" id="node3" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="125,5,228,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,76,32"/>
+<area shape="rect" id="node5" href="$da/dd6/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IParameterDataSource.html" title="The IParameterDataSource interface is implemented by types that can provide data for a test method pa..." alt="" coords="314,56,467,83"/>
+<area shape="rect" id="node6" href="$d8/d93/classNUnit_1_1Framework_1_1RandomAttribute_1_1RandomDataSource.html" title=" " alt="" coords="277,107,504,149"/>
+</map>

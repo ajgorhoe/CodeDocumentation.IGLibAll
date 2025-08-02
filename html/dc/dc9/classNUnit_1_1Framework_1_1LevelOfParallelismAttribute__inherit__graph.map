@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.LevelOfParallelismAttribute" name="NUnit.Framework.LevelOfParallelismAttribute">
+<area shape="rect" id="node1" title="LevelOfParallelismAttribute is used to set the number of worker threads that may be allocated by the ..." alt="" coords="5,229,237,271"/>
+<area shape="rect" id="node2" href="$d6/d1b/classNUnit_1_1Framework_1_1PropertyAttribute.html" title="PropertyAttribute is used to attach information to a test as a name/value pair.." alt="" coords="61,155,181,181"/>
+<area shape="rect" id="node3" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="9,80,111,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="25,5,95,32"/>
+<area shape="rect" id="node5" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="135,80,233,107"/>
+</map>

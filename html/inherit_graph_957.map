@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="5,45,276,101"/>
+<area shape="rect" id="node2" href="$d2/d1f/classIG_1_1Num_1_1ResponseEvaluatorWithStorageAnalysisDtoBase.html" title="Base class for DTOs (Data Transfer Objects) for response evaluators with storage where response is ev..." alt="" coords="335,5,530,61"/>
+<area shape="rect" id="node3" href="$db/d9a/classIG_1_1NumExperimental_1_1ResponseEvaluatorWithStorageAnalysisDtoBase.html" title="Base class for DTOs (Data Transfer Objects) for response evaluators with storage where response is ev..." alt="" coords="324,85,541,141"/>
+<area shape="rect" id="node4" href="$df/d68/classIG_1_1NumExperimental_1_1ResponseEvaluatorWithStorageAnalysisDto.html" title="DTO (data transfer object) for response evaluators with storage where response is evaluated by an (op..." alt="" coords="589,93,807,134"/>
+</map>

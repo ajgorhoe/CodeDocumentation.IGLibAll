@@ -1,0 +1,14 @@
+<map id="IG.Web.IWSBase" name="IG.Web.IWSBase">
+<area shape="rect" id="node1" title="Interface for basic web service." alt="" coords="5,193,131,220"/>
+<area shape="rect" id="node2" href="$d3/d6b/interfaceIG_1_1Web_1_1IWsDevelop.html" title="Interface for development web services." alt="" coords="195,143,333,169"/>
+<area shape="rect" id="node3" href="$d3/d6d/interfaceIG_1_1Web_1_1IWsDevelop1.html" title="Interface for higher level development web services." alt="" coords="410,92,555,119"/>
+<area shape="rect" id="node4" href="$da/dbe/classIG_1_1Web_1_1WSDevelop1.html" title="Web service class." alt="" coords="633,41,777,68"/>
+<area shape="rect" id="node5" href="$d4/d76/classIG_1_1Web_1_1WSDevelop1Class.html" title="Web service class." alt="" coords="616,193,793,220"/>
+<area shape="rect" id="node7" href="$d6/d56/classIG_1_1Web_1_1WSDevelop.html" title="Web service class." alt="" coords="414,41,551,68"/>
+<area shape="rect" id="node8" href="$d0/ddd/classIG_1_1Web_1_1WSDevelopClass.html" title="Web service class." alt="" coords="397,193,568,220"/>
+<area shape="rect" id="node10" href="$d8/dbb/classIG_1_1Web_1_1WSBaseClass.html" title="Base class for IGLib webservices." alt="" coords="187,244,341,271"/>
+<area shape="rect" id="node11" href="$d9/db0/classIG_1_1Web_1_1WSBaseRef.html" title="Class for referencing a web service based on the WSBaseClass." alt="" coords="412,371,553,397"/>
+<area shape="rect" id="node12" href="$d8/d5a/classIG_1_1Web_1_1WSBaseRefBase.html" title="Intermediate proxy class to a web service based on the WSBaseClass." alt="" coords="179,345,349,372"/>
+<area shape="rect" id="node9" href="$da/d67/classIG_1_1Web_1_1WSDevelopRef.html" title="Class for referencing a web service based on the WSDevelopClass." alt="" coords="405,143,561,169"/>
+<area shape="rect" id="node6" href="$d6/d6f/classIG_1_1Web_1_1WSDevelop1Ref.html" title="Class for referencing a web service based on the WSDevelopClass." alt="" coords="623,92,786,119"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="CShell.Modules.Workspace.ViewModels.TreeViewModel" name="CShell.Modules.Workspace.ViewModels.TreeViewModel">
+<area shape="rect" id="node1" title=" " alt="" coords="205,104,392,145"/>
+<area shape="rect" id="node5" href="$d4/d81/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1AssemblyReferencesViewModel.html" title=" " alt="" coords="440,5,723,47"/>
+<area shape="rect" id="node6" href="$d3/d5f/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1AssemblyReferenceViewModel.html" title=" " alt="" coords="444,71,719,112"/>
+<area shape="rect" id="node7" href="$d1/d35/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1FileViewModel.html" title=" " alt="" coords="488,136,675,177"/>
+<area shape="rect" id="node9" href="$dd/d91/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1FolderViewModel.html" title=" " alt="" coords="484,201,679,243"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,61,157,87"/>
+<area shape="rect" id="node3" title=" " alt="" coords="16,111,147,138"/>
+<area shape="rect" id="node4" title=" " alt="" coords="37,162,126,189"/>
+<area shape="rect" id="node8" href="$d1/daa/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1CShellFileViewModel.html" title=" " alt="" coords="773,136,991,177"/>
+<area shape="rect" id="node10" href="$d1/d67/classCShell_1_1Modules_1_1Workspace_1_1ViewModels_1_1RootFolderViewModel.html" title=" " alt="" coords="771,201,993,243"/>
+</map>

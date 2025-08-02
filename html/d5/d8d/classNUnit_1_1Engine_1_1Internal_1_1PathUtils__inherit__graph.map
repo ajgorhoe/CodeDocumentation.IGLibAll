@@ -1,0 +1,6 @@
+<map id="NUnit.Engine.Internal.PathUtils" name="NUnit.Engine.Internal.PathUtils">
+<area shape="rect" id="node1" title="Static methods for manipulating project paths, including both directories and files...." alt="" coords="5,71,180,112"/>
+<area shape="rect" id="node2" href="$d5/d54/classNUnit_1_1Engine_1_1Internal_1_1Tests_1_1PathUtilTests.html" title=" " alt="" coords="228,5,412,47"/>
+<area shape="rect" id="node3" href="$dd/dc9/classNUnit_1_1Engine_1_1Internal_1_1Tests_1_1PathUtilTests__Unix.html" title=" " alt="" coords="228,71,412,112"/>
+<area shape="rect" id="node4" href="$de/d17/classNUnit_1_1Engine_1_1Internal_1_1Tests_1_1PathUtilTests__Windows.html" title=" " alt="" coords="228,136,412,177"/>
+</map>

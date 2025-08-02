@@ -1,0 +1,11 @@
+<map id="NUnit.Framework.CombiningStrategyAttribute" name="NUnit.Framework.CombiningStrategyAttribute">
+<area shape="rect" id="node1" title="Marks a test to use a particular CombiningStrategy to join any parameter data provided...." alt="" coords="275,104,461,145"/>
+<area shape="rect" id="node6" href="$d9/dfe/classNUnit_1_1Framework_1_1CombinatorialAttribute.html" title="Marks a test to use a combinatorial join of any argument data provided. Since this is the default,..." alt="" coords="514,5,719,47"/>
+<area shape="rect" id="node7" href="$d7/d46/classNUnit_1_1Framework_1_1PairwiseAttribute.html" title="Marks a test to use a pairwise join of any argument data provided. Arguments will be combined in such..." alt="" coords="529,71,704,112"/>
+<area shape="rect" id="node8" href="$de/d59/classNUnit_1_1Framework_1_1SequentialAttribute.html" title="Marks a test to use a Sequential join of any argument data provided. Arguments will be combined into ..." alt="" coords="523,136,710,177"/>
+<area shape="rect" id="node9" href="$d2/dbe/classNUnit_1_1Framework_1_1TheoryAttribute.html" title="Adding this attribute to a method within a TestFixtureAttributeclass makes the method callable from t..." alt="" coords="509,202,724,229"/>
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="124,61,227,87"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,61,76,87"/>
+<area shape="rect" id="node4" href="$d9/d9f/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestBuilder.html" title="The ITestBuilder interface is exposed by a class that knows how to build one or more TestMethods from..." alt="" coords="130,111,221,138"/>
+<area shape="rect" id="node5" href="$d8/d57/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToTest.html" title="The IApplyToTest interface is implemented by self&#45;applying attributes that modify the state of a test..." alt="" coords="127,162,224,189"/>
+</map>

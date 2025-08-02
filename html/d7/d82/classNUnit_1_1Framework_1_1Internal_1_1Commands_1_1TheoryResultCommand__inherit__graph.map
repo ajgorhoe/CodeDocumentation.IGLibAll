@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Internal.Commands.TheoryResultCommand" name="NUnit.Framework.Internal.Commands.TheoryResultCommand">
+<area shape="rect" id="node1" title="TheoryResultCommand adjusts the result of a Theory so that it fails if all the results were inconclus..." alt="" coords="5,155,232,196"/>
+<area shape="rect" id="node2" href="$d7/dcf/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1DelegatingTestCommand.html" title="TODO: Documentation needed for class" alt="" coords="35,80,202,107"/>
+<area shape="rect" id="node3" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="65,5,172,32"/>
+</map>

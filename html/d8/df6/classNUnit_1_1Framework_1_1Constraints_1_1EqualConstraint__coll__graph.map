@@ -1,0 +1,11 @@
+<map id="NUnit.Framework.Constraints.EqualConstraint" name="NUnit.Framework.Constraints.EqualConstraint">
+<area shape="rect" id="node1" title="EqualConstraint is able to compare an actual value with the expected value provided in its constructo..." alt="" coords="897,130,1093,171"/>
+<area shape="rect" id="node2" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="645,51,727,77"/>
+<area shape="rect" id="node3" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="263,5,347,32"/>
+<area shape="rect" id="node4" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="5,5,135,32"/>
+<area shape="rect" id="node5" href="$d9/d74/classNUnit_1_1Framework_1_1Constraints_1_1NUnitEqualityComparer.html" title="NUnitEqualityComparer encapsulates NUnit&#39;s handling of equality tests between objects." alt="" coords="588,130,784,171"/>
+<area shape="rect" id="node6" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="184,56,427,112"/>
+<area shape="rect" id="node7" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="201,136,409,192"/>
+<area shape="rect" id="node8" title=" " alt="" coords="278,216,333,243"/>
+<area shape="rect" id="node9" href="$d3/dec/classNUnit_1_1Framework_1_1Constraints_1_1Tolerance.html" title="The Tolerance class generalizes the notion of a tolerance within which an equality test succeeds...." alt="" coords="588,195,784,237"/>
+</map>

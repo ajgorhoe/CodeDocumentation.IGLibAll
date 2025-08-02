@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.Commands.TestActionItem" name="NUnit.Framework.Internal.Commands.TestActionItem">
+<area shape="rect" id="node1" title="TestActionItem represents a single execution of an ITestAction. It is used to track whether the Befor..." alt="" coords="11,95,190,136"/>
+<area shape="rect" id="node2" href="$d9/d1f/interfaceNUnit_1_1Framework_1_1ITestAction.html" title="When implemented by an attribute, this interface implemented to provide actions to execute before and..." alt="" coords="5,5,196,32"/>
+</map>

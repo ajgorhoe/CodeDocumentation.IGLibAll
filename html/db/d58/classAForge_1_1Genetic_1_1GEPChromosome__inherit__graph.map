@@ -1,0 +1,6 @@
+<map id="AForge.Genetic.GEPChromosome" name="AForge.Genetic.GEPChromosome">
+<area shape="rect" id="node1" title="The chromosome represents a Gene Expression, which is used for different tasks of Genetic Expression ..." alt="" coords="5,229,228,256"/>
+<area shape="rect" id="node2" href="$df/da8/classAForge_1_1Genetic_1_1ChromosomeBase.html" title="Chromosomes&#39; base class." alt="" coords="52,155,181,181"/>
+<area shape="rect" id="node3" href="$d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome.html" title="Chromosome interface." alt="" coords="65,80,168,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="69,5,164,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="AForge.Controls.Chart" name="AForge.Controls.Chart">
+<area shape="rect" id="node1" title="Chart control" alt="" coords="255,124,406,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,179,47"/>
+<area shape="rect" id="node3" href="$dd/de1/structAForge_1_1Range.html" title="Represents a range with minimum and maximum values, which are single precision numbers (floats)." alt="" coords="203,13,309,39"/>
+<area shape="rect" id="node4" href="$d8/dbc/classAForge_1_1DoubleRange.html" title="Represents a double range with minimum and maximum values" alt="" coords="333,13,478,39"/>
+<area shape="rect" id="node5" title=" " alt="" coords="503,13,569,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Meta.Numerics.Statistics.Distributions.IParameterizedDistribution" name="Meta.Numerics.Statistics.Distributions.IParameterizedDistribution">
+<area shape="rect" id="node1" title="Represents an parameterized likelihood distribution." alt="" coords="5,136,256,177"/>
+<area shape="rect" id="node2" href="$d0/d8e/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1ExponentialDistribution.html" title="Represents an exponential distribution." alt="" coords="304,5,535,47"/>
+<area shape="rect" id="node3" href="$d8/d95/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1LogisticDistribution.html" title="Represents a logistic distribution." alt="" coords="315,71,523,112"/>
+<area shape="rect" id="node4" href="$df/d29/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1LognormalDistribution.html" title="Represents a log&#45;normal distribution." alt="" coords="308,136,531,177"/>
+<area shape="rect" id="node5" href="$df/d92/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1NormalDistribution.html" title="Represents a normal (Gaussian) distribution." alt="" coords="317,201,521,243"/>
+<area shape="rect" id="node6" href="$d1/da4/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1WeibullDistribution.html" title="Represents a Weibull distribution." alt="" coords="316,267,523,308"/>
+</map>

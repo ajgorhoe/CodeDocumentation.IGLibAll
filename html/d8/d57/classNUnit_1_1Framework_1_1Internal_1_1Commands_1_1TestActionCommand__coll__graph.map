@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Internal.Commands.TestActionCommand" name="NUnit.Framework.Internal.Commands.TestActionCommand">
+<area shape="rect" id="node1" title="TestActionCommand runs the BeforeTest actions for a test, then runs the test and finally runs the Aft..." alt="" coords="35,185,248,227"/>
+<area shape="rect" id="node2" href="$d7/dcf/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1DelegatingTestCommand.html" title="TODO: Documentation needed for class" alt="" coords="58,109,225,136"/>
+<area shape="rect" id="node3" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="5,13,112,39"/>
+<area shape="rect" id="node4" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="136,5,312,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.Constraints.PropertyConstraint" name="NUnit.Framework.Constraints.PropertyConstraint">
+<area shape="rect" id="node1" title="PropertyConstraint extracts a named property and uses its value as the actual value for a chained con..." alt="" coords="15,349,211,391"/>
+<area shape="rect" id="node2" href="$d6/d7d/classNUnit_1_1Framework_1_1Constraints_1_1PrefixConstraint.html" title="Abstract base class used for prefixes" alt="" coords="55,273,170,300"/>
+<area shape="rect" id="node3" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="5,197,87,224"/>
+<area shape="rect" id="node4" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="16,81,100,108"/>
+<area shape="rect" id="node5" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="52,5,181,32"/>
+<area shape="rect" id="node6" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="60,132,256,173"/>
+</map>

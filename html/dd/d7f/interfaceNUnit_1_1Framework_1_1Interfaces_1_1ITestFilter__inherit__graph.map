@@ -1,0 +1,18 @@
+<map id="NUnit.Framework.Interfaces.ITestFilter" name="NUnit.Framework.Interfaces.ITestFilter">
+<area shape="rect" id="node1" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="169,268,356,309"/>
+<area shape="rect" id="node3" href="$da/dc4/classNUnit_1_1Framework_1_1Internal_1_1TestFilter.html" title="Interface to be implemented by filters applied to tests. The filter applies when running the test,..." alt="" coords="404,268,576,309"/>
+<area shape="rect" id="node2" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,275,121,302"/>
+<area shape="rect" id="node4" href="$d3/dde/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1CompositeFilter.html" title="A base class for multi&#45;part filters" alt="" coords="624,71,796,112"/>
+<area shape="rect" id="node7" href="$d5/d17/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1NotFilter.html" title="NotFilter negates the operation of another filter" alt="" coords="624,235,796,276"/>
+<area shape="rect" id="node8" href="$d5/d2b/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1ValueMatchFilter.html" title="ValueMatchFilter selects tests based on some value, which is expected to be contained in the test." alt="" coords="624,300,796,341"/>
+<area shape="rect" id="node16" href="$d2/d66/classNUnit_1_1Framework_1_1Internal_1_1TestFilter_1_1EmptyFilter.html" title="Nested class provides an empty filter &#45; one that always returns true when called. It never matches ex..." alt="" coords="624,365,796,407"/>
+<area shape="rect" id="node5" href="$df/dcc/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1AndFilter.html" title="Combines multiple filters so that a test must pass all of them in order to pass this filter." alt="" coords="844,5,1016,47"/>
+<area shape="rect" id="node6" href="$d1/dc1/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1OrFilter.html" title="Combines multiple filters so that a test must pass one of them in order to pass this filter." alt="" coords="844,71,1016,112"/>
+<area shape="rect" id="node9" href="$de/dda/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1CategoryFilter.html" title="CategoryFilter is able to select or exclude tests based on their categories." alt="" coords="844,136,1016,177"/>
+<area shape="rect" id="node10" href="$d5/da8/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1ClassNameFilter.html" title="ClassName filter selects tests based on the class FullName" alt="" coords="844,201,1016,243"/>
+<area shape="rect" id="node11" href="$d1/d93/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1FullNameFilter.html" title="FullName filter selects tests based on their FullName" alt="" coords="844,267,1016,308"/>
+<area shape="rect" id="node12" href="$db/d7c/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1IdFilter.html" title="IdFilter selects tests based on their id" alt="" coords="844,332,1016,373"/>
+<area shape="rect" id="node13" href="$d9/da9/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1MethodNameFilter.html" title="FullName filter selects tests based on their FullName" alt="" coords="844,397,1016,439"/>
+<area shape="rect" id="node14" href="$d4/d54/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1PropertyFilter.html" title="PropertyFilter is able to select or exclude tests based on their properties." alt="" coords="844,463,1016,504"/>
+<area shape="rect" id="node15" href="$d6/df5/classNUnit_1_1Framework_1_1Internal_1_1Filters_1_1TestNameFilter.html" title="TestName filter selects tests based on their Name" alt="" coords="844,528,1016,569"/>
+</map>

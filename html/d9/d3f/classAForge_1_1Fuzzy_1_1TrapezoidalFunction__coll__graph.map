@@ -1,0 +1,6 @@
+<map id="AForge.Fuzzy.TrapezoidalFunction" name="AForge.Fuzzy.TrapezoidalFunction">
+<area shape="rect" id="node1" title="Membership function in the shape of a trapezoid. Can be a half trapzoid if the left or the right side..." alt="" coords="65,171,239,212"/>
+<area shape="rect" id="node2" href="$d8/d8e/classAForge_1_1Fuzzy_1_1PiecewiseLinearFunction.html" title="Membership function composed by several connected linear functions." alt="" coords="69,95,235,121"/>
+<area shape="rect" id="node3" href="$d0/d72/interfaceAForge_1_1Fuzzy_1_1IMembershipFunction.html" title="Interface which specifies set of methods required to be implemented by all membership functions." alt="" coords="5,5,152,32"/>
+<area shape="rect" id="node4" href="$d2/d04/structAForge_1_1Point.html" title="Structure for representing a pair of coordinates of float type." alt="" coords="176,5,275,32"/>
+</map>

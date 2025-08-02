@@ -1,0 +1,4 @@
+<map id="IG.Num.ZeroFinderBase" name="IG.Num.ZeroFinderBase">
+<area shape="rect" id="node1" title="Base class for single variable nonlinear exuation solvers." alt="" coords="12,5,173,32"/>
+<area shape="rect" id="node2" href="$da/d52/classIG_1_1Num_1_1ZeroFinderNewton.html" title="Solver for single variable nonlinear exuations by the Newton method." alt="" coords="5,80,180,107"/>
+</map>

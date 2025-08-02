@@ -1,0 +1,5 @@
+<map id="AForge.Imaging.ComplexFilters.FrequencyFilter" name="AForge.Imaging.ComplexFilters.FrequencyFilter">
+<area shape="rect" id="node1" title="Filtering of frequencies outside of specified range in complex Fourier transformed image." alt="" coords="22,95,230,136"/>
+<area shape="rect" id="node2" href="$de/d04/interfaceAForge_1_1Imaging_1_1ComplexFilters_1_1IComplexFilter.html" title="Image processing filter, which operates with Fourier transformed complex image." alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node3" href="$d9/d09/classAForge_1_1IntRange.html" title="Represents an integer range with minimum and maximum values" alt="" coords="135,5,253,32"/>
+</map>

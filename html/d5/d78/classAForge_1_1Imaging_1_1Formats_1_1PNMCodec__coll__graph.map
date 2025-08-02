@@ -1,0 +1,7 @@
+<map id="AForge.Imaging.Formats.PNMCodec" name="AForge.Imaging.Formats.PNMCodec">
+<area shape="rect" id="node1" title="PNM image format decoder." alt="" coords="5,247,240,273"/>
+<area shape="rect" id="node2" href="$d5/d27/interfaceAForge_1_1Imaging_1_1Formats_1_1IImageDecoder.html" title="Image decoder interface, which specifies set of methods, which should be implemented by image decoder..." alt="" coords="7,157,115,184"/>
+<area shape="rect" id="node3" href="$de/d3a/classAForge_1_1Imaging_1_1Formats_1_1PNMImageInfo.html" title="Information about PNM image&#39;s frame." alt="" coords="140,157,393,184"/>
+<area shape="rect" id="node4" href="$d9/d2a/classAForge_1_1Imaging_1_1Formats_1_1ImageInfo.html" title="Information about image&#39;s frame." alt="" coords="228,81,305,108"/>
+<area shape="rect" id="node5" title=" " alt="" coords="225,5,308,32"/>
+</map>

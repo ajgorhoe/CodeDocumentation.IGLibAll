@@ -1,0 +1,7 @@
+<map id="NUnit.Engine.Services.TestFilterService" name="NUnit.Engine.Services.TestFilterService">
+<area shape="rect" id="node1" title=" " alt="" coords="58,155,238,196"/>
+<area shape="rect" id="node2" href="$df/d6e/classNUnit_1_1Engine_1_1Services_1_1Service.html" title="Abstract base class for services that can use it. Some Services already inherit from a different clas..." alt="" coords="57,80,121,107"/>
+<area shape="rect" id="node3" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="5,5,72,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="97,5,186,32"/>
+<area shape="rect" id="node5" href="$d1/d5d/interfaceNUnit_1_1Engine_1_1ITestFilterService.html" title="The TestFilterService provides builders that can create TestFilters" alt="" coords="146,80,267,107"/>
+</map>

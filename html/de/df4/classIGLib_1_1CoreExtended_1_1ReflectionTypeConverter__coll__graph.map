@@ -1,0 +1,7 @@
+<map id="IGLib.CoreExtended.ReflectionTypeConverter" name="IGLib.CoreExtended.ReflectionTypeConverter">
+<area shape="rect" id="node1" title="A type converter that supports implicit/explicit conversion operators via reflection,..." alt="" coords="85,247,284,288"/>
+<area shape="rect" id="node2" href="$d3/d3d/classIGLib_1_1Core_1_1CollectionTypeConverter.html" title="A type converter that supports conversion between basic types and a wide range of collection types,..." alt="" coords="5,157,167,184"/>
+<area shape="rect" id="node3" href="$d9/d23/classIGLib_1_1Core_1_1BasicTypeConverter.html" title="Provides basic type conversion functionality using IConvertible and nullable handling." alt="" coords="17,81,155,108"/>
+<area shape="rect" id="node4" href="$de/d63/interfaceIGLib_1_1Core_1_1ITypeConverter.html" title="Defines methods for converting objects to a specified type." alt="" coords="33,5,139,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="191,157,245,184"/>
+</map>

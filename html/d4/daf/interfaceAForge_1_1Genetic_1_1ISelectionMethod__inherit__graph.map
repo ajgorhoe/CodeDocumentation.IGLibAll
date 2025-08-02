@@ -1,0 +1,6 @@
+<map id="AForge.Genetic.ISelectionMethod" name="AForge.Genetic.ISelectionMethod">
+<area shape="rect" id="node1" title="Genetic selection method interface." alt="" coords="5,49,180,90"/>
+<area shape="rect" id="node2" href="$da/d5f/classAForge_1_1Genetic_1_1EliteSelection.html" title="Elite selection method." alt="" coords="231,5,428,32"/>
+<area shape="rect" id="node3" href="$d2/d5e/classAForge_1_1Genetic_1_1RankSelection.html" title="Rank selection method." alt="" coords="229,56,430,83"/>
+<area shape="rect" id="node4" href="$d1/d7d/classAForge_1_1Genetic_1_1RouletteWheelSelection.html" title="Roulette wheel selection method." alt="" coords="228,107,431,149"/>
+</map>

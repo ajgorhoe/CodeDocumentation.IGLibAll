@@ -1,0 +1,15 @@
+<map id="NUnit.Framework.Constraints.StringConstraint" name="NUnit.Framework.Constraints.StringConstraint">
+<area shape="rect" id="node1" title="StringConstraint is the abstract base for constraints that operate on strings. It supports the Ignore..." alt="" coords="444,169,640,211"/>
+<area shape="rect" id="node5" href="$d6/de8/classNUnit_1_1Framework_1_1Constraints_1_1EmptyStringConstraint.html" title="EmptyStringConstraint tests whether a string is empty." alt="" coords="688,5,884,47"/>
+<area shape="rect" id="node6" href="$dc/d45/classNUnit_1_1Framework_1_1Constraints_1_1EndsWithConstraint.html" title="EndsWithConstraint can test whether a string ends with an expected substring." alt="" coords="688,71,884,112"/>
+<area shape="rect" id="node7" href="$dc/d67/classNUnit_1_1Framework_1_1Constraints_1_1PathConstraint.html" title="PathConstraint serves as the abstract base of constraints that operate on paths and provides several ..." alt="" coords="688,136,884,177"/>
+<area shape="rect" id="node11" href="$da/d0b/classNUnit_1_1Framework_1_1Constraints_1_1RegexConstraint.html" title="RegexConstraint can test whether a string matches the pattern provided." alt="" coords="688,201,884,243"/>
+<area shape="rect" id="node12" href="$d7/d26/classNUnit_1_1Framework_1_1Constraints_1_1StartsWithConstraint.html" title="StartsWithConstraint can test whether a string starts with an expected substring." alt="" coords="688,267,884,308"/>
+<area shape="rect" id="node13" href="$d2/dc6/classNUnit_1_1Framework_1_1Constraints_1_1SubstringConstraint.html" title="SubstringConstraint can test whether a string contains the expected substring." alt="" coords="688,332,884,373"/>
+<area shape="rect" id="node2" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="315,177,396,203"/>
+<area shape="rect" id="node3" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="183,177,267,203"/>
+<area shape="rect" id="node4" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="5,177,135,203"/>
+<area shape="rect" id="node8" href="$d0/d6e/classNUnit_1_1Framework_1_1Constraints_1_1SamePathConstraint.html" title="Summary description for SamePathConstraint." alt="" coords="932,71,1128,112"/>
+<area shape="rect" id="node9" href="$dc/ddd/classNUnit_1_1Framework_1_1Constraints_1_1SamePathOrUnderConstraint.html" title="SamePathOrUnderConstraint tests that one path is under another" alt="" coords="932,136,1128,177"/>
+<area shape="rect" id="node10" href="$d9/d7f/classNUnit_1_1Framework_1_1Constraints_1_1SubPathConstraint.html" title="SubPathConstraint tests that the actual path is under the expected path" alt="" coords="932,201,1128,243"/>
+</map>

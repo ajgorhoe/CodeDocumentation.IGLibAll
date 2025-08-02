@@ -1,0 +1,6 @@
+<map id="IG.MPetekLib.Algorithms.PlottableModels.Oscillators.MagneticOscHardSpring" name="IG.MPetekLib.Algorithms.PlottableModels.Oscillators.MagneticOscHardSpring">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,191,285"/>
+<area shape="rect" id="node2" href="$df/d12/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1Oscillators_1_1DrivenOscillatorBase.html" title="A template class for the driven oscillators. Holds the values for: angular driving frequency,..." alt="" coords="27,155,169,181"/>
+<area shape="rect" id="node3" href="$db/db8/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableODEModelBase.html" title="A template class for physical models, which are described by ordinary differential equations (ODEs)...." alt="" coords="15,80,181,107"/>
+<area shape="rect" id="node4" href="$d2/d4f/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableModelBase.html" title="A template class for physical models. Each child should define its own plottable curves)." alt="" coords="29,5,167,32"/>
+</map>

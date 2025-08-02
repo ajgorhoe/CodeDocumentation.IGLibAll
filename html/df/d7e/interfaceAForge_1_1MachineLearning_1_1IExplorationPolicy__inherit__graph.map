@@ -1,0 +1,7 @@
+<map id="AForge.MachineLearning.IExplorationPolicy" name="AForge.MachineLearning.IExplorationPolicy">
+<area shape="rect" id="node1" title="Exploration policy interface." alt="" coords="5,104,244,145"/>
+<area shape="rect" id="node2" href="$d0/de6/classAForge_1_1MachineLearning_1_1BoltzmannExploration.html" title="Boltzmann distribution exploration policy." alt="" coords="292,5,524,47"/>
+<area shape="rect" id="node3" href="$da/d1b/classAForge_1_1MachineLearning_1_1EpsilonGreedyExploration.html" title="Epsilon greedy exploration policy." alt="" coords="301,71,515,112"/>
+<area shape="rect" id="node4" href="$d8/da8/classAForge_1_1MachineLearning_1_1RouletteWheelExploration.html" title="Roulette wheel exploration policy." alt="" coords="299,136,517,177"/>
+<area shape="rect" id="node5" href="$dc/d57/classAForge_1_1MachineLearning_1_1TabuSearchExploration.html" title="Tabu search exploration policy." alt="" coords="309,201,507,243"/>
+</map>

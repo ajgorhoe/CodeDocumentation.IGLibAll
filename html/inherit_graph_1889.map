@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/d7c/interfaceNUnit_1_1Samples_1_1Money_1_1IMoney.html" title="The common interface for simple Monies and MoneyBags." alt="" coords="5,31,204,57"/>
+<area shape="rect" id="node2" href="$df/d54/classNUnit_1_1Samples_1_1Money_1_1Money.html" title="A simple Money." alt="" coords="264,5,459,32"/>
+<area shape="rect" id="node3" href="$d5/dd9/classNUnit_1_1Samples_1_1Money_1_1MoneyBag.html" title="A MoneyBag defers exchange rate conversions." alt="" coords="252,56,471,83"/>
+</map>

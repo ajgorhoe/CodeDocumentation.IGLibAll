@@ -1,0 +1,9 @@
+<map id="NUnit.TestData.AttributeInheritanceData.ConcernAttribute" name="NUnit.TestData.AttributeInheritanceData.ConcernAttribute">
+<area shape="rect" id="node1" title=" " alt="" coords="78,229,291,271"/>
+<area shape="rect" id="node2" href="$d8/dee/classNUnit_1_1Framework_1_1TestFixtureAttribute.html" title="TestFixtureAttribute is used to mark a class that represents a TestFixture." alt="" coords="117,155,253,181"/>
+<area shape="rect" id="node3" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="21,5,92,32"/>
+<area shape="rect" id="node5" href="$d8/daf/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IFixtureBuilder.html" title="The IFixtureBuilder interface is exposed by a class that knows how to build a TestFixture from one or..." alt="" coords="132,80,237,107"/>
+<area shape="rect" id="node6" href="$d2/d9e/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestFixtureData.html" title="The ITestCaseData interface is implemented by a class that is able to return the data required to cre..." alt="" coords="262,80,379,107"/>
+<area shape="rect" id="node7" href="$dc/d63/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestData.html" title="The ITestData interface is implemented by a class that represents a single instance of a parameterize..." alt="" coords="282,5,359,32"/>
+</map>

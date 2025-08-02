@@ -1,0 +1,4 @@
+<map id="AForge.Imaging.ImageStatistics" name="AForge.Imaging.ImageStatistics">
+<area shape="rect" id="node1" title="Gather statistics about image in RGB color space." alt="" coords="5,197,212,224"/>
+<area shape="rect" id="node2" href="$d8/d62/classAForge_1_1Math_1_1Histogram.html" title="Histogram for discrete random values." alt="" coords="29,5,189,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d65/interfaceIGLib_1_1Core_1_1ISingleTargetTypeConverter.html" title=" " alt="" coords="5,71,168,112"/>
+<area shape="rect" id="node2" href="$d7/d01/classIGLib_1_1Core_1_1ToStringTypeConverterViaIConvertible.html" title="Converts a value to its string representation using IConvertible and invariant culture...." alt="" coords="216,5,433,47"/>
+<area shape="rect" id="node3" href="$df/d52/classIGLib_1_1Core_1_1ToStringTypeConverterViaJson.html" title="Converts an object of any type to its JSON string representation using System.Text...." alt="" coords="216,71,433,112"/>
+<area shape="rect" id="node4" href="$d4/dc4/classIGLib_1_1Core_1_1ToStringTypeConverterViaParseReflection.html" title="Converts a value to its string representation using invariant culture, only if it can be parsed back ..." alt="" coords="216,136,433,177"/>
+</map>

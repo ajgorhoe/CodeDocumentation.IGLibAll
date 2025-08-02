@@ -1,0 +1,24 @@
+<map id="IG.MPetekLib.Algorithms.PlottableModels.CompPhys.MolecularCatenary" name="IG.MPetekLib.Algorithms.PlottableModels.CompPhys.MolecularCatenary">
+<area shape="rect" id="node1" title="A case of simulated annealing." alt="" coords="1675,241,1917,297"/>
+<area shape="rect" id="node2" href="$d2/d4f/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableModelBase.html" title="A template class for physical models. Each child should define its own plottable curves)." alt="" coords="1419,131,1557,157"/>
+<area shape="rect" id="node3" href="$dd/d9b/classIG_1_1Gr_1_1PlotZedgraphCurve.html" title="Curve plots that is shown on a ZedGraphControl object." alt="" coords="1405,305,1571,332"/>
+<area shape="rect" id="node4" href="$d6/d16/classIG_1_1Gr_1_1PlotZedGraphBase.html" title="Base class for plots that are shown in a ZedGraphControl object." alt="" coords="1149,493,1279,520"/>
+<area shape="rect" id="node5" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="477,855,554,881"/>
+<area shape="rect" id="node7" href="$d9/dcf/classIG_1_1Gr_1_1PlotterZedGraph.html" title="Plotter class that uses a ZedGraphControl object for plotting ordinary 2D graphs." alt="" coords="797,417,948,444"/>
+<area shape="rect" id="node14" href="$de/de7/classIG_1_1Lib_1_1StopWatch1.html" title="Timer for measuring execution times and other intervals of time elapsed between successive events...." alt="" coords="807,895,939,921"/>
+<area shape="rect" id="node6" title=" " alt="" coords="471,389,560,416"/>
+<area shape="rect" id="node18" href="$d0/d9e/classIG_1_1MPetekLib_1_1Algorithms_1_1Plotting_1_1PlotHQ.html" title="A pack of 2 class object that are used for plotting: ZedGraphWindow and PlotterZedGraph...." alt="" coords="1403,182,1573,223"/>
+<area shape="rect" id="node8" href="$dd/d52/structIG_1_1Lib_1_1color.html" title="Extended color representation. Stores RGB components and opacity as double numbers ranging fom 0 to 1..." alt="" coords="471,288,559,315"/>
+<area shape="rect" id="node9" href="$dd/dcf/classIG_1_1Num_1_1BoundingBox2d.html" title="A 2D bounding box." alt="" coords="435,471,596,497"/>
+<area shape="rect" id="node10" href="$df/d61/classIG_1_1Num_1_1BoundingBoxBase.html" title="Base class for bounding boxes that define minimal and maximal co&#45;ordinates of objects,..." alt="" coords="256,504,385,531"/>
+<area shape="rect" id="node11" href="$db/d5e/interfaceIG_1_1Num_1_1IBoundingBox.html" title="Bounding box, defines minimum and maximum co&#45;ordinates of domains, geometric objects and their groups..." alt="" coords="25,469,128,496"/>
+<area shape="rect" id="node12" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="5,536,148,563"/>
+<area shape="rect" id="node13" title=" " alt="" coords="488,760,543,787"/>
+<area shape="rect" id="node15" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="472,949,559,976"/>
+<area shape="rect" id="node16" title=" " alt="" coords="839,172,906,199"/>
+<area shape="rect" id="node19" href="$d0/d64/classIG_1_1Gr_1_1ZedGraphWindow.html" title="Window form containing a Zedgraph control for plotting graphs." alt="" coords="1135,68,1293,95"/>
+<area shape="rect" id="node17" href="$db/d0e/interfaceIG_1_1Num_1_1IRealFunction.html" title="Interface for real functions." alt="" coords="1139,255,1289,281"/>
+<area shape="rect" id="node20" title=" " alt="" coords="847,56,899,83"/>
+<area shape="rect" id="node21" title=" " alt="" coords="833,5,912,32"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1453,356,1523,383"/>
+</map>

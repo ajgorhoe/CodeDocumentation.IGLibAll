@@ -1,0 +1,26 @@
+var classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests =
+[
+    [ "GetTypeArgumentsForMethodTests", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a1a479bd9e71ff3fb441807eea6c7dddf", null ],
+    [ "ArgList", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a5cce5ad99207a9d85cfe9659340eb8be", null ],
+    [ "TypeArgs< T >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#aeeaf572e901ff1311b7871a3a6616e91", null ],
+    [ "TypeArgs< T1, T2 >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a9f9ef0439febd44576cee9732e2af0f6", null ],
+    [ "TypeArgs< T1, T2, T3 >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a1ffa47816c9b199d14bfb4087be4d11d", null ],
+    [ "MethodWithOneTypeAndOneParameter< T >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#afed04efc6033bb13db34424e8ede844b", null ],
+    [ "MethodWithOneTypeAndTwoParameters< T >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#adcbe10193191ae1bb62b4b0dcc425d93", null ],
+    [ "MethodWithOneTypeAndThreeParameters< T >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#ace2f648e8c45a618f99d05bfe4a53d7d", null ],
+    [ "MethodWithTwoTypesAndTwoParameters< T, U >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a297794a0f1f67e89db74499fa53f4e0f", null ],
+    [ "MethodWithTwoTypesAndTwoParameters_Reversed< T, U >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#adfbfaeb8a13c554f905ca848d576ef4d", null ],
+    [ "MethodWithTwoTypesAndThreeParameters< T, U >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#afc61faa563857c3863ce303ff6fe7f9e", null ],
+    [ "MethodWithTwoTypesAndFourParameters< T, U >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#aff652f0ec8a2ebdf93b036ac5f321dac", null ],
+    [ "MethodWithThreeTypes_Order123< T, U, V >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#acb696d23501e06ba767cd57048ba655a", null ],
+    [ "MethodWithThreeTypes_Order132< T, U, V >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a0460811a3e9335bb6abb89989ace3a53", null ],
+    [ "MethodWithThreeTypes_Order321< T, U, V >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a95e0b292bb634accc80dcde32b424bfb", null ],
+    [ "MethodWithThreeTypes_Order213< T, U, V >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#aed2a653b0265aa21e682b5eca5f369a4", null ],
+    [ "MethodWithGenericListOfType< T >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a9b69e7f8056c9919113f0abdcbe3f12c", null ],
+    [ "MethodWithGenericListOfLists< T >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a6a2c28d9dc6e881a7e0fdc747d2047ce", null ],
+    [ "MethodWithGenericEnumerableOfType< T >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a2d3bf7de9730a6a059d988164e3e7313", null ],
+    [ "MethodWithGenericEnumerableOfTypeAsSecondArg< T, U >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#afcb4fa96f7ce682d53d904e53b88c166", null ],
+    [ "MethodTakingDictionary< T, U >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a4164cc9d99ba381d64b1766fa5df9916", null ],
+    [ "MethodWithNestedTypes< T, U, V >", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#a5501020977f87eac50f93bd8632e1cb8", null ],
+    [ "TypeArgData", "d8/d32/classNUnit_1_1Framework_1_1Internal_1_1GenericMethodHelperTests.html#ad2a7c9442ffb7a604b96f78abc84cba8", null ]
+];

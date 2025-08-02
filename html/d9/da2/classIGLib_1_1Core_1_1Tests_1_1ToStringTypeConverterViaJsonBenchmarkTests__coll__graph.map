@@ -1,0 +1,8 @@
+<map id="IGLib.Core.Tests.ToStringTypeConverterViaJsonBenchmarkTests" name="IGLib.Core.Tests.ToStringTypeConverterViaJsonBenchmarkTests">
+<area shape="rect" id="node1" title="Benchmark tests for ToStringTypeConverterViaJson (memory size and speed)." alt="" coords="561,86,809,127"/>
+<area shape="rect" id="node2" href="$d9/d0f/classIGLib_1_1Core_1_1Tests_1_1TypeConverterTestsBase.html" title=" " alt="" coords="242,5,453,61"/>
+<area shape="rect" id="node3" href="$d0/d04/classIGLib_1_1Core_1_1FromStringTypeConverterViaJson.html" title="Converts a JSON string to a strongly typed object using System.Text.Json." alt="" coords="258,86,437,127"/>
+<area shape="rect" id="node4" href="$dd/d09/interfaceIGLib_1_1Core_1_1ISingleSourceTypeConverter.html" title=" " alt="" coords="5,86,189,127"/>
+<area shape="rect" id="node5" href="$df/d52/classIGLib_1_1Core_1_1ToStringTypeConverterViaJson.html" title="Converts an object of any type to its JSON string representation using System.Text...." alt="" coords="239,151,456,193"/>
+<area shape="rect" id="node6" href="$d0/d65/interfaceIGLib_1_1Core_1_1ISingleTargetTypeConverter.html" title=" " alt="" coords="8,151,187,193"/>
+</map>

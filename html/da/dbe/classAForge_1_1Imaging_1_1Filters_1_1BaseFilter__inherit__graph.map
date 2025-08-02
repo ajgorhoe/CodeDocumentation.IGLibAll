@@ -1,0 +1,22 @@
+<map id="AForge.Imaging.Filters.BaseFilter" name="AForge.Imaging.Filters.BaseFilter">
+<area shape="rect" id="node1" title="Base class for filters, which produce new image of the same size as a result of image processing." alt="" coords="171,393,357,435"/>
+<area shape="rect" id="node4" href="$dd/d10/classAForge_1_1Imaging_1_1Filters_1_1BaseFilter2.html" title="Base class for filters, which operate with two images of the same size and format and produce new ima..." alt="" coords="424,37,611,79"/>
+<area shape="rect" id="node7" href="$dd/d27/classAForge_1_1Imaging_1_1Filters_1_1BayerFilter.html" title="Generic Bayer fileter image processing routine." alt="" coords="422,103,613,144"/>
+<area shape="rect" id="node8" href="$d5/d11/classAForge_1_1Imaging_1_1Filters_1_1BayerFilterOptimized.html" title="Optimized Bayer fileter image processing routine." alt="" coords="422,168,613,209"/>
+<area shape="rect" id="node9" href="$dc/d8d/classAForge_1_1Imaging_1_1Filters_1_1ConnectedComponentsLabeling.html" title="Connected components labeling." alt="" coords="408,233,627,275"/>
+<area shape="rect" id="node10" href="$d4/d7d/classAForge_1_1Imaging_1_1Filters_1_1ExtractChannel.html" title="Extract RGB channel from image." alt="" coords="418,299,617,340"/>
+<area shape="rect" id="node11" href="$d0/d8c/classAForge_1_1Imaging_1_1Filters_1_1ExtractNormalizedRGBChannel.html" title="Extract normalized RGB channel from color image." alt="" coords="418,364,617,405"/>
+<area shape="rect" id="node12" href="$d7/d89/classAForge_1_1Imaging_1_1Filters_1_1Grayscale.html" title="Base class for image grayscaling." alt="" coords="409,430,625,457"/>
+<area shape="rect" id="node16" href="$d0/de7/classAForge_1_1Imaging_1_1Filters_1_1GrayscaleToRGB.html" title="Convert grayscale image to RGB." alt="" coords="409,481,625,523"/>
+<area shape="rect" id="node17" href="$da/d24/classAForge_1_1Imaging_1_1Filters_1_1ImageWarp.html" title="Image warp effect filter." alt="" coords="406,547,629,574"/>
+<area shape="rect" id="node18" href="$dc/dbd/classAForge_1_1Imaging_1_1Filters_1_1TexturedFilter.html" title="Textured filter &#45; filter an image using texture." alt="" coords="414,599,621,640"/>
+<area shape="rect" id="node19" href="$dc/d0e/classAForge_1_1Imaging_1_1Filters_1_1WaterWave.html" title="Simple water wave effect filter." alt="" coords="405,665,629,691"/>
+<area shape="rect" id="node20" href="$da/d42/classAForge_1_1Imaging_1_1Filters_1_1YCbCrExtractChannel.html" title="Extract YCbCr channel from image." alt="" coords="426,716,609,757"/>
+<area shape="rect" id="node2" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="37,375,91,402"/>
+<area shape="rect" id="node3" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="5,426,123,453"/>
+<area shape="rect" id="node5" href="$d1/d53/classAForge_1_1Imaging_1_1Filters_1_1ThresholdedDifference.html" title="Calculate difference between two images and threshold it." alt="" coords="687,5,913,47"/>
+<area shape="rect" id="node6" href="$d4/d05/classAForge_1_1Imaging_1_1Filters_1_1ThresholdedEuclideanDifference.html" title="Calculate Euclidean difference between two images and threshold it." alt="" coords="687,71,913,112"/>
+<area shape="rect" id="node13" href="$d9/d34/classAForge_1_1Imaging_1_1Filters_1_1GrayscaleBT709.html" title="Grayscale image using BT709 algorithm." alt="" coords="692,364,908,405"/>
+<area shape="rect" id="node14" href="$d8/d2d/classAForge_1_1Imaging_1_1Filters_1_1GrayscaleRMY.html" title="Grayscale image using R&#45;Y algorithm." alt="" coords="677,430,923,457"/>
+<area shape="rect" id="node15" href="$d6/d1b/classAForge_1_1Imaging_1_1Filters_1_1GrayscaleY.html" title="Grayscale image using Y algorithm." alt="" coords="687,481,913,507"/>
+</map>

@@ -1,0 +1,27 @@
+var classNUnitLite_1_1Tests_1_1TextUITests =
+[
+    [ "CreateResult", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#ae339d5b314b80c7ddd0e9304a062f718", null ],
+    [ "CreateTextUI", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#ae3e4d6aeb3458ef41feb56c4552d9f90", null ],
+    [ "DisplayWarning", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#af580fc7dcc83669da4a831bab33123d6", null ],
+    [ "DisplayError", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a32b0934310388ff28dcae6217a00b034", null ],
+    [ "DisplayErrors", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a36899231455946c226023b5b652d9f62", null ],
+    [ "DisplayHeader", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a1ed3b6968114deb472c62630d71bec83", null ],
+    [ "DisplayTestFiles", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a782a74feb39a309b407171340b4cc740", null ],
+    [ "DisplayRuntimeEnvironment", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a64391b9aa421965e2e74ece71f4547d0", null ],
+    [ "TestFinished_NoOutput", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#aae267f9e3dcba44429b5ce651c1a36e2", null ],
+    [ "TestFinished_WithOutput", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a9d086251a5cbacce198c232b5f05143a", null ],
+    [ "MyFakeMethod", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a808cbd23a8bb0eacac2fdb34fad63967", null ],
+    [ "DisplayHelp", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a6c1b967907c269ddb03797bfe4502160", null ],
+    [ "DisplayRequestedOptions", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a2189ac0365b7002ea285dda53388fe91", null ],
+    [ "ReportSequenceTest", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a2f88001be827d8ca104df637bdd8aa12", null ],
+    [ "TestsNotRunTest", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a7bd7c54a1e7700f961fe141bae45eaef", null ],
+    [ "SummaryReportTest", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a215f765de444b396af0e4aaa420585b0", null ],
+    [ "ErrorsAndFailuresReportTest", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a3352784f2e7f5f6971f102cd7ed6af5c", null ],
+    [ "GetReportLines", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a0d7cc3c816e3b70875a0ac7fd568cc24", null ],
+    [ "NL", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a8fb01a7f42d306e8f5b828512bc4d8e1", null ],
+    [ "_textUI", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a3e33245f9db2d53becfce8f2a4961a8f", null ],
+    [ "_reportBuilder", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a224db674bf513a091060c1e843b2ba60", null ],
+    [ "_result", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#aaa2c5f374a228e0b99719cffae91d9bd", null ],
+    [ "REPORT_SEQUENCE", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#af33dc0857996e3a918f3602fa71f48d7", null ],
+    [ "Report", "d1/d31/classNUnitLite_1_1Tests_1_1TextUITests.html#a8e77f20a580923c122d20453406cbdd1", null ]
+];

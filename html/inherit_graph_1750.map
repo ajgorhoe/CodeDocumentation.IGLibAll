@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dd/d8f/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IParameterDataProvider.html" title="The IDataPointProvider interface is used by extensions that provide data for a single test parameter." alt="" coords="5,71,192,112"/>
+<area shape="rect" id="node2" href="$d1/ddc/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1DatapointProvider.html" title="Provides data from fields marked with the DatapointAttribute or the DatapointsAttribute." alt="" coords="276,5,451,47"/>
+<area shape="rect" id="node3" href="$dc/de3/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1ParameterDataProvider.html" title="The ParameterDataProvider class implements IParameterDataProvider and hosts one or more individual pr..." alt="" coords="260,71,467,112"/>
+<area shape="rect" id="node4" href="$de/da5/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1ParameterDataSourceProvider.html" title="ParameterDataSourceProvider supplies individual argument _values for single parameters using attribut..." alt="" coords="240,136,487,177"/>
+</map>

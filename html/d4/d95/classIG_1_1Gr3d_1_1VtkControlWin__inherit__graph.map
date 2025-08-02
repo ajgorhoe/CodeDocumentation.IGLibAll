@@ -1,0 +1,6 @@
+<map id="IG.Gr3d.VtkControlWin" name="IG.Gr3d.VtkControlWin">
+<area shape="rect" id="node1" title="Control for presenting VTK graphics, intended for use in stand&#45;alone windows." alt="" coords="40,169,195,196"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,96,121"/>
+<area shape="rect" id="node3" href="$dc/d11/interfaceIG_1_1Gr3d_1_1IVtkFormContainer.html" title="This interface is implemented by the forms that contain the VTK control that can render VTK graphics." alt="" coords="120,95,251,121"/>
+<area shape="rect" id="node4" href="$d3/d6e/interfaceIG_1_1Gr3d_1_1IVtkFormContainerGen.html" title=" " alt="" coords="60,5,311,47"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="NUnit.Framework.Constraints.PrefixConstraint" name="NUnit.Framework.Constraints.PrefixConstraint">
+<area shape="rect" id="node1" title="Abstract base class used for prefixes" alt="" coords="444,267,640,308"/>
+<area shape="rect" id="node5" href="$d4/d8d/classNUnit_1_1Framework_1_1Constraints_1_1AllItemsConstraint.html" title="AllItemsConstraint applies another constraint to each item in a collection, succeeding if they all su..." alt="" coords="688,5,884,47"/>
+<area shape="rect" id="node6" href="$d2/da2/classNUnit_1_1Framework_1_1Constraints_1_1AttributeConstraint.html" title="AttributeConstraint tests that a specified attribute is present on a Type or other provider and that ..." alt="" coords="688,71,884,112"/>
+<area shape="rect" id="node7" href="$d8/d2d/classNUnit_1_1Framework_1_1Constraints_1_1DelayedConstraint.html" title="Applies a delay to the match so that a match can be evaluated in the future. /summary&gt;" alt="" coords="688,136,884,177"/>
+<area shape="rect" id="node8" href="$d5/d90/classNUnit_1_1Framework_1_1Constraints_1_1ExactCountConstraint.html" title="ExactCountConstraint applies another constraint to each item in a collection, succeeding only if a sp..." alt="" coords="688,201,884,243"/>
+<area shape="rect" id="node9" href="$db/d8b/classNUnit_1_1Framework_1_1Constraints_1_1NoItemConstraint.html" title="NoItemConstraint applies another constraint to each item in a collection, failing if any of them succ..." alt="" coords="688,267,884,308"/>
+<area shape="rect" id="node10" href="$d9/d7a/classNUnit_1_1Framework_1_1Constraints_1_1NotConstraint.html" title="NotConstraint negates the effect of some other constraint" alt="" coords="688,332,884,373"/>
+<area shape="rect" id="node11" href="$da/d39/classNUnit_1_1Framework_1_1Constraints_1_1PropertyConstraint.html" title="PropertyConstraint extracts a named property and uses its value as the actual value for a chained con..." alt="" coords="688,397,884,439"/>
+<area shape="rect" id="node12" href="$d3/d48/classNUnit_1_1Framework_1_1Constraints_1_1SomeItemsConstraint.html" title="SomeItemsConstraint applies another constraint to each item in a collection, succeeding if any of the..." alt="" coords="688,463,884,504"/>
+<area shape="rect" id="node13" href="$df/de1/classNUnit_1_1Framework_1_1Constraints_1_1ThrowsConstraint.html" title="ThrowsConstraint is used to test the exception thrown by a delegate by applying a constraint to it." alt="" coords="688,528,884,569"/>
+<area shape="rect" id="node2" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="315,274,396,301"/>
+<area shape="rect" id="node3" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="183,274,267,301"/>
+<area shape="rect" id="node4" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="5,274,135,301"/>
+</map>

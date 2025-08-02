@@ -1,0 +1,21 @@
+var namespaceNUnit_1_1TestData_1_1OneTimeSetUpTearDownData =
+[
+    [ "DerivedSetUpAndTearDownFixture", "de/da8/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DerivedSetUpAndTearDownFixture.html", "de/da8/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DerivedSetUpAndTearDownFixture" ],
+    [ "DerivedStaticSetUpAndTearDownFixture", "dc/d34/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DerivedStaticSetUpAndTearDownFixture.html", "dc/d34/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DerivedStaticSetUpAndTearDownFixture" ],
+    [ "DisposableFixture", "d6/db4/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DisposableFixture.html", "d6/db4/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DisposableFixture" ],
+    [ "DisposableFixtureWithTestCases", "d9/d46/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DisposableFixtureWithTestCases.html", "d9/d46/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1DisposableFixtureWithTestCases" ],
+    [ "ExceptionInConstructor", "d3/dfc/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1ExceptionInConstructor.html", "d3/dfc/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1ExceptionInConstructor" ],
+    [ "ExplicitSetUpAndTearDownFixture", "de/d5d/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1ExplicitSetUpAndTearDownFixture.html", "de/d5d/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1ExplicitSetUpAndTearDownFixture" ],
+    [ "FixtureWithNoTests", "d9/d31/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1FixtureWithNoTests.html", "d9/d31/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1FixtureWithNoTests" ],
+    [ "IgnoredFixture", "d8/d21/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1IgnoredFixture.html", "d8/d21/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1IgnoredFixture" ],
+    [ "IgnoreInFixtureSetUp", "d4/d2c/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1IgnoreInFixtureSetUp.html", "d4/d2c/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1IgnoreInFixtureSetUp" ],
+    [ "InheritSetUpAndTearDown", "d0/df8/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1InheritSetUpAndTearDown.html", "d0/df8/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1InheritSetUpAndTearDown" ],
+    [ "MisbehavingFixture", "df/d0a/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1MisbehavingFixture.html", "df/d0a/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1MisbehavingFixture" ],
+    [ "OverrideSetUpAndTearDown", "df/d5e/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1OverrideSetUpAndTearDown.html", "df/d5e/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1OverrideSetUpAndTearDown" ],
+    [ "SetUpAndTearDownFixture", "d6/db1/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1SetUpAndTearDownFixture.html", "d6/db1/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1SetUpAndTearDownFixture" ],
+    [ "SetUpAndTearDownFixtureWithTestCases", "d2/d32/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1SetUpAndTearDownFixtureWithTestCases.html", "d2/d32/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1SetUpAndTearDownFixtureWithTestCases" ],
+    [ "SetUpAndTearDownFixtureWithTheories", "db/de2/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1SetUpAndTearDownFixtureWithTheories.html", "db/de2/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1SetUpAndTearDownFixtureWithTheories" ],
+    [ "SetUpAndTearDownWithTestInName", "db/d4a/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1SetUpAndTearDownWithTestInName.html", "db/d4a/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1SetUpAndTearDownWithTestInName" ],
+    [ "StaticClassSetUpAndTearDownFixture", "de/d8a/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1StaticClassSetUpAndTearDownFixture.html", "de/d8a/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1StaticClassSetUpAndTearDownFixture" ],
+    [ "StaticSetUpAndTearDownFixture", "d3/d5b/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1StaticSetUpAndTearDownFixture.html", "d3/d5b/classNUnit_1_1TestData_1_1OneTimeSetUpTearDownData_1_1StaticSetUpAndTearDownFixture" ]
+];

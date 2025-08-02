@@ -1,0 +1,5 @@
+<map id="IG.Forms.WindowPositionerForm" name="IG.Forms.WindowPositionerForm">
+<area shape="rect" id="node1" title="Windows form for testing window positioning./summary&gt; $A Igor xx Oct09;" alt="" coords="5,95,220,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="19,13,71,39"/>
+<area shape="rect" id="node3" href="$d3/d68/interfaceIG_1_1Forms_1_1IClosableFromContainedForm.html" title="Marker interface indicating that a form can be closed from the contained control." alt="" coords="95,5,266,47"/>
+</map>

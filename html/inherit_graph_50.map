@@ -1,0 +1,145 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="45,346,155,373"/>
+<area shape="rect" id="node2" href="$df/df8/classAForge_1_1Imaging_1_1Filters_1_1FiltersSequence.html" title="Filters&#39; collection to apply to an image in sequence." alt="" coords="249,371,442,412"/>
+<area shape="rect" id="node3" href="$d1/dc4/classAForge_1_1Video_1_1DirectShow_1_1FilterInfoCollection.html" title="Collection of filters&#39; information objects." alt="" coords="258,305,433,347"/>
+<area shape="rect" id="node4" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="5,1478,195,1505"/>
+<area shape="rect" id="node5" href="$d0/d25/classAForge_1_1Imaging_1_1Filters_1_1BaseFilter.html" title="Base class for filters, which produce new image of the same size as a result of image processing." alt="" coords="252,1227,439,1268"/>
+<area shape="rect" id="node23" href="$d6/d11/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlaceFilter.html" title="Base class for filters, which may be applied directly to the source image." alt="" coords="252,1773,439,1815"/>
+<area shape="rect" id="node45" href="$db/dc9/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlacePartialFilter.html" title="Base class for filters, which may be applied directly to the source image or its part." alt="" coords="252,4208,439,4249"/>
+<area shape="rect" id="node94" href="$dc/d45/classAForge_1_1Imaging_1_1Filters_1_1BaseTransformationFilter.html" title="Base class for filters, which may produce new image of different size as a result of image processing..." alt="" coords="252,436,439,477"/>
+<area shape="rect" id="node111" href="$d8/ddf/classAForge_1_1Imaging_1_1Filters_1_1BaseUsingCopyPartialFilter.html" title="Base class for filters, which require source image backup to make them applicable to source image (or..." alt="" coords="252,2651,439,2692"/>
+<area shape="rect" id="node137" href="$d4/dcd/classAForge_1_1Imaging_1_1Filters_1_1Closing.html" title="Closing operator from Mathematical Morphology." alt="" coords="245,4274,445,4301"/>
+<area shape="rect" id="node138" href="$d3/dc1/classAForge_1_1Imaging_1_1Filters_1_1ExtractBiggestBlob.html" title="Extract the biggest blob from image." alt="" coords="246,1096,445,1137"/>
+<area shape="rect" id="node139" href="$db/d8c/classAForge_1_1Imaging_1_1Filters_1_1FilterIterator.html" title="Filter iterator." alt="" coords="252,1161,439,1203"/>
+<area shape="rect" id="node140" href="$d2/d79/classAForge_1_1Imaging_1_1Filters_1_1Opening.html" title="Opening operator from Mathematical Morphology." alt="" coords="243,4325,448,4351"/>
+<area shape="rect" id="node6" href="$dd/d10/classAForge_1_1Imaging_1_1Filters_1_1BaseFilter2.html" title="Base class for filters, which operate with two images of the same size and format and produce new ima..." alt="" coords="520,997,707,1039"/>
+<area shape="rect" id="node9" href="$dd/d27/classAForge_1_1Imaging_1_1Filters_1_1BayerFilter.html" title="Generic Bayer fileter image processing routine." alt="" coords="518,1063,709,1104"/>
+<area shape="rect" id="node10" href="$d5/d11/classAForge_1_1Imaging_1_1Filters_1_1BayerFilterOptimized.html" title="Optimized Bayer fileter image processing routine." alt="" coords="518,1128,709,1169"/>
+<area shape="rect" id="node11" href="$dc/d8d/classAForge_1_1Imaging_1_1Filters_1_1ConnectedComponentsLabeling.html" title="Connected components labeling." alt="" coords="504,1193,723,1235"/>
+<area shape="rect" id="node12" href="$d4/d7d/classAForge_1_1Imaging_1_1Filters_1_1ExtractChannel.html" title="Extract RGB channel from image." alt="" coords="514,1259,713,1300"/>
+<area shape="rect" id="node13" href="$d0/d8c/classAForge_1_1Imaging_1_1Filters_1_1ExtractNormalizedRGBChannel.html" title="Extract normalized RGB channel from color image." alt="" coords="514,1324,713,1365"/>
+<area shape="rect" id="node14" href="$d7/d89/classAForge_1_1Imaging_1_1Filters_1_1Grayscale.html" title="Base class for image grayscaling." alt="" coords="505,1390,721,1417"/>
+<area shape="rect" id="node18" href="$d0/de7/classAForge_1_1Imaging_1_1Filters_1_1GrayscaleToRGB.html" title="Convert grayscale image to RGB." alt="" coords="505,697,721,739"/>
+<area shape="rect" id="node19" href="$da/d24/classAForge_1_1Imaging_1_1Filters_1_1ImageWarp.html" title="Image warp effect filter." alt="" coords="502,763,725,790"/>
+<area shape="rect" id="node20" href="$dc/dbd/classAForge_1_1Imaging_1_1Filters_1_1TexturedFilter.html" title="Textured filter &#45; filter an image using texture." alt="" coords="510,815,717,856"/>
+<area shape="rect" id="node21" href="$dc/d0e/classAForge_1_1Imaging_1_1Filters_1_1WaterWave.html" title="Simple water wave effect filter." alt="" coords="501,881,725,907"/>
+<area shape="rect" id="node22" href="$da/d42/classAForge_1_1Imaging_1_1Filters_1_1YCbCrExtractChannel.html" title="Extract YCbCr channel from image." alt="" coords="522,932,705,973"/>
+<area shape="rect" id="node7" href="$d1/d53/classAForge_1_1Imaging_1_1Filters_1_1ThresholdedDifference.html" title="Calculate difference between two images and threshold it." alt="" coords="788,964,1015,1005"/>
+<area shape="rect" id="node8" href="$d4/d05/classAForge_1_1Imaging_1_1Filters_1_1ThresholdedEuclideanDifference.html" title="Calculate Euclidean difference between two images and threshold it." alt="" coords="788,1029,1015,1071"/>
+<area shape="rect" id="node15" href="$d9/d34/classAForge_1_1Imaging_1_1Filters_1_1GrayscaleBT709.html" title="Grayscale image using BT709 algorithm." alt="" coords="793,1383,1009,1424"/>
+<area shape="rect" id="node16" href="$d8/d2d/classAForge_1_1Imaging_1_1Filters_1_1GrayscaleRMY.html" title="Grayscale image using R&#45;Y algorithm." alt="" coords="779,1449,1024,1475"/>
+<area shape="rect" id="node17" href="$d6/d1b/classAForge_1_1Imaging_1_1Filters_1_1GrayscaleY.html" title="Grayscale image using Y algorithm." alt="" coords="789,1331,1014,1358"/>
+<area shape="rect" id="node24" href="$dc/d44/classAForge_1_1Imaging_1_1Filters_1_1BackwardQuadrilateralTransformation.html" title="Performs backward quadrilateral transformation into an area in destination image." alt="" coords="506,1740,721,1781"/>
+<area shape="rect" id="node25" href="$dc/df2/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlaceFilter2.html" title="Base class for filters, which operate with two images of the same size and format and may be applied ..." alt="" coords="520,1805,707,1847"/>
+<area shape="rect" id="node35" href="$d0/d8c/classAForge_1_1Imaging_1_1Filters_1_1BlobsFiltering.html" title="Blobs filtering by size." alt="" coords="518,1871,709,1912"/>
+<area shape="rect" id="node36" href="$da/dce/classAForge_1_1Imaging_1_1Filters_1_1BottomHat.html" title="Bottop&#45;hat operator from Mathematical Morphology." alt="" coords="504,1937,723,1963"/>
+<area shape="rect" id="node37" href="$d2/d7b/classAForge_1_1Imaging_1_1Filters_1_1BradleyLocalThresholding.html" title="Adaptive thresholding using the internal image." alt="" coords="513,1988,714,2029"/>
+<area shape="rect" id="node38" href="$d0/d9b/classAForge_1_1Imaging_1_1Filters_1_1CanvasCrop.html" title="Fill areas outiside of specified region." alt="" coords="500,2054,727,2081"/>
+<area shape="rect" id="node39" href="$d2/d4f/classAForge_1_1Imaging_1_1Filters_1_1CanvasFill.html" title="Fill areas iniside of the specified region." alt="" coords="505,2105,721,2131"/>
+<area shape="rect" id="node40" href="$d8/d11/classAForge_1_1Imaging_1_1Filters_1_1CanvasMove.html" title="Move canvas to the specified point." alt="" coords="499,1441,728,1467"/>
+<area shape="rect" id="node41" href="$dc/dce/classAForge_1_1Imaging_1_1Filters_1_1CornersMarker.html" title="Filter to mark (highlight) corners of objects." alt="" coords="512,1492,715,1533"/>
+<area shape="rect" id="node42" href="$d5/d05/classAForge_1_1Imaging_1_1Filters_1_1FillHoles.html" title="Fill holes in objects in binary image." alt="" coords="526,1557,701,1599"/>
+<area shape="rect" id="node43" href="$de/db9/classAForge_1_1Imaging_1_1Filters_1_1FlatFieldCorrection.html" title="Flat field correction filter." alt="" coords="524,1623,703,1664"/>
+<area shape="rect" id="node44" href="$dc/d0f/classAForge_1_1Imaging_1_1Filters_1_1TopHat.html" title="Top&#45;hat operator from Mathematical Morphology." alt="" coords="514,1689,713,1715"/>
+<area shape="rect" id="node26" href="$d1/d63/classAForge_1_1Imaging_1_1Filters_1_1Add.html" title="Add fillter &#45; add pixel values of two images." alt="" coords="811,1551,991,1578"/>
+<area shape="rect" id="node27" href="$da/d44/classAForge_1_1Imaging_1_1Filters_1_1Difference.html" title="Difference filter &#45; get the difference between overlay and source images." alt="" coords="794,1602,1009,1629"/>
+<area shape="rect" id="node28" href="$d2/d21/classAForge_1_1Imaging_1_1Filters_1_1Intersect.html" title="Intersect filter &#45; get MIN of pixels in two images." alt="" coords="798,1653,1005,1679"/>
+<area shape="rect" id="node29" href="$dd/dd7/classAForge_1_1Imaging_1_1Filters_1_1Merge.html" title="Merge filter &#45; get MAX of pixels in two images." alt="" coords="805,1703,998,1730"/>
+<area shape="rect" id="node30" href="$dc/d62/classAForge_1_1Imaging_1_1Filters_1_1Morph.html" title="Morph filter." alt="" coords="805,1754,998,1781"/>
+<area shape="rect" id="node31" href="$da/d33/classAForge_1_1Imaging_1_1Filters_1_1MoveTowards.html" title="Move towards filter." alt="" coords="808,1805,995,1847"/>
+<area shape="rect" id="node32" href="$d1/d8d/classAForge_1_1Imaging_1_1Filters_1_1StereoAnaglyph.html" title="Stereo anaglyph filter." alt="" coords="804,1871,999,1912"/>
+<area shape="rect" id="node33" href="$de/df6/classAForge_1_1Imaging_1_1Filters_1_1Subtract.html" title="Subtract filter &#45; subtract pixel values of two images." alt="" coords="798,1937,1005,1963"/>
+<area shape="rect" id="node34" href="$d5/de6/classAForge_1_1Imaging_1_1Filters_1_1TexturedMerge.html" title="Merge two images using factors from texture." alt="" coords="798,1988,1005,2029"/>
+<area shape="rect" id="node46" href="$d0/dd7/classAForge_1_1Imaging_1_1Filters_1_1AdditiveNoise.html" title="Additive noise filter." alt="" coords="512,3895,715,3936"/>
+<area shape="rect" id="node47" href="$dd/d82/classAForge_1_1Imaging_1_1Filters_1_1ApplyMask.html" title="Apply mask to the specified image." alt="" coords="502,3961,725,3987"/>
+<area shape="rect" id="node48" href="$de/de3/classAForge_1_1Imaging_1_1Filters_1_1BrightnessCorrection.html" title="Brightness adjusting in RGB color space." alt="" coords="504,4012,723,4053"/>
+<area shape="rect" id="node49" href="$d2/d53/classAForge_1_1Imaging_1_1Filters_1_1ChannelFiltering.html" title="Channels filters." alt="" coords="511,4077,715,4119"/>
+<area shape="rect" id="node50" href="$da/d2b/classAForge_1_1Imaging_1_1Filters_1_1ColorFiltering.html" title="Color filtering." alt="" coords="520,4143,707,4184"/>
+<area shape="rect" id="node51" href="$d9/d13/classAForge_1_1Imaging_1_1Filters_1_1ColorRemapping.html" title="Color remapping." alt="" coords="520,4208,707,4249"/>
+<area shape="rect" id="node52" href="$de/db8/classAForge_1_1Imaging_1_1Filters_1_1ContrastCorrection.html" title="Contrast adjusting in RGB color space." alt="" coords="510,4273,717,4315"/>
+<area shape="rect" id="node53" href="$d9/def/classAForge_1_1Imaging_1_1Filters_1_1ContrastStretch.html" title="Contrast stretching filter." alt="" coords="510,4339,717,4380"/>
+<area shape="rect" id="node54" href="$d2/db9/classAForge_1_1Imaging_1_1Filters_1_1ErrorDiffusionDithering.html" title="Base class for error diffusion dithering." alt="" coords="521,4404,706,4445"/>
+<area shape="rect" id="node61" href="$d0/de5/classAForge_1_1Imaging_1_1Filters_1_1EuclideanColorFiltering.html" title="Euclidean color filtering." alt="" coords="506,4469,721,4511"/>
+<area shape="rect" id="node62" href="$df/d34/classAForge_1_1Imaging_1_1Filters_1_1GammaCorrection.html" title="Gamma correction filter." alt="" coords="512,4535,715,4576"/>
+<area shape="rect" id="node63" href="$df/ded/classAForge_1_1Imaging_1_1Filters_1_1HistogramEqualization.html" title="Histogram equalization filter." alt="" coords="505,4600,721,4641"/>
+<area shape="rect" id="node64" href="$d5/d0c/classAForge_1_1Imaging_1_1Filters_1_1HorizontalRunLengthSmoothing.html" title="Horizontal run length smoothing algorithm." alt="" coords="506,4665,721,4707"/>
+<area shape="rect" id="node65" href="$d6/d57/classAForge_1_1Imaging_1_1Filters_1_1HSLFiltering.html" title="Color filtering in HSL color space." alt="" coords="499,4731,727,4758"/>
+<area shape="rect" id="node66" href="$de/d0e/classAForge_1_1Imaging_1_1Filters_1_1HSLLinear.html" title="Luminance and saturation linear correction." alt="" coords="505,4782,722,4809"/>
+<area shape="rect" id="node67" href="$d5/dbc/classAForge_1_1Imaging_1_1Filters_1_1HueModifier.html" title="Hue modifier." alt="" coords="523,4833,703,4875"/>
+<area shape="rect" id="node68" href="$df/d32/classAForge_1_1Imaging_1_1Filters_1_1Invert.html" title="Invert image." alt="" coords="520,4899,707,4926"/>
+<area shape="rect" id="node69" href="$da/d12/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear.html" title="Linear correction of RGB channels." alt="" coords="517,4951,710,4992"/>
+<area shape="rect" id="node70" href="$d6/dfe/classAForge_1_1Imaging_1_1Filters_1_1LevelsLinear16bpp.html" title="Linear correction of RGB channels for images, which have 16 bpp planes (16 bit gray images or 48/64 b..." alt="" coords="517,5016,710,5057"/>
+<area shape="rect" id="node71" href="$d7/d5c/classAForge_1_1Imaging_1_1Filters_1_1MaskedFilter.html" title="Apply filter according to the specified mask." alt="" coords="512,5081,715,5123"/>
+<area shape="rect" id="node72" href="$df/d3c/classAForge_1_1Imaging_1_1Filters_1_1Mirror.html" title="Mirroring filter." alt="" coords="518,5147,709,5174"/>
+<area shape="rect" id="node73" href="$d2/d46/classAForge_1_1Imaging_1_1Filters_1_1OrderedDithering.html" title="Binarization with thresholds matrix." alt="" coords="512,5199,715,5240"/>
+<area shape="rect" id="node75" href="$d0/ded/classAForge_1_1Imaging_1_1Filters_1_1OtsuThreshold.html" title="Otsu thresholding." alt="" coords="521,5264,706,5305"/>
+<area shape="rect" id="node76" href="$dc/d76/classAForge_1_1Imaging_1_1Filters_1_1Pixellate.html" title="Pixellate filter." alt="" coords="510,5330,717,5357"/>
+<area shape="rect" id="node77" href="$dd/d84/classAForge_1_1Imaging_1_1Filters_1_1PointedColorFloodFill.html" title="Flood filling with specified color starting from specified point." alt="" coords="513,5381,714,5423"/>
+<area shape="rect" id="node78" href="$d7/de4/classAForge_1_1Imaging_1_1Filters_1_1PointedMeanFloodFill.html" title="Flood filling with mean color starting from specified point." alt="" coords="513,5447,714,5488"/>
+<area shape="rect" id="node79" href="$de/d0a/classAForge_1_1Imaging_1_1Filters_1_1ReplaceChannel.html" title="Replace RGB channel of color imgae." alt="" coords="511,5512,715,5553"/>
+<area shape="rect" id="node80" href="$d2/df7/classAForge_1_1Imaging_1_1Filters_1_1RotateChannels.html" title="Rotate RGB channels." alt="" coords="516,5577,711,5619"/>
+<area shape="rect" id="node81" href="$dc/d1b/classAForge_1_1Imaging_1_1Filters_1_1SaltAndPepperNoise.html" title="Salt and pepper noise." alt="" coords="523,5643,703,5684"/>
+<area shape="rect" id="node82" href="$d8/d9e/classAForge_1_1Imaging_1_1Filters_1_1SaturationCorrection.html" title="Saturation adjusting in HSL color space." alt="" coords="505,5708,721,5749"/>
+<area shape="rect" id="node83" href="$de/dba/classAForge_1_1Imaging_1_1Filters_1_1Sepia.html" title="Sepia filter &#45; old brown photo." alt="" coords="518,3298,709,3325"/>
+<area shape="rect" id="node84" href="$d4/d24/classAForge_1_1Imaging_1_1Filters_1_1SimplePosterization.html" title="Simple posterization of an image." alt="" coords="515,3349,712,3391"/>
+<area shape="rect" id="node85" href="$d2/dc1/classAForge_1_1Imaging_1_1Filters_1_1SISThreshold.html" title="Threshold using Simple Image Statistics (SIS)." alt="" coords="496,3415,731,3442"/>
+<area shape="rect" id="node86" href="$d7/d6c/classAForge_1_1Imaging_1_1Filters_1_1Texturer.html" title="Texturer filter." alt="" coords="511,3466,715,3493"/>
+<area shape="rect" id="node87" href="$d4/dff/classAForge_1_1Imaging_1_1Filters_1_1Threshold.html" title="Threshold binarization." alt="" coords="507,3517,720,3543"/>
+<area shape="rect" id="node89" href="$d8/d6b/classAForge_1_1Imaging_1_1Filters_1_1ThresholdWithCarry.html" title="Threshold binarization with error carry." alt="" coords="507,3568,720,3609"/>
+<area shape="rect" id="node90" href="$db/d99/classAForge_1_1Imaging_1_1Filters_1_1VerticalRunLengthSmoothing.html" title="Vertical run length smoothing algorithm." alt="" coords="513,3633,714,3675"/>
+<area shape="rect" id="node91" href="$d0/d94/classAForge_1_1Imaging_1_1Filters_1_1YCbCrFiltering.html" title="Color filtering in YCbCr color space." alt="" coords="522,3699,705,3740"/>
+<area shape="rect" id="node92" href="$d1/d9e/classAForge_1_1Imaging_1_1Filters_1_1YCbCrLinear.html" title="Linear correction of YCbCr channels." alt="" coords="522,3764,705,3805"/>
+<area shape="rect" id="node93" href="$d4/d32/classAForge_1_1Imaging_1_1Filters_1_1YCbCrReplaceChannel.html" title="Replace channel of YCbCr color space." alt="" coords="522,3829,705,3871"/>
+<area shape="rect" id="node55" href="$d6/d91/classAForge_1_1Imaging_1_1Filters_1_1ErrorDiffusionToAdjacentNeighbors.html" title="Base class for error diffusion dithering, where error is diffused to adjacent neighbor pixels." alt="" coords="804,4404,999,4445"/>
+<area shape="rect" id="node56" href="$d2/d1c/classAForge_1_1Imaging_1_1Filters_1_1BurkesDithering.html" title="Dithering using Burkes error diffusion." alt="" coords="1072,4273,1271,4315"/>
+<area shape="rect" id="node57" href="$d0/d91/classAForge_1_1Imaging_1_1Filters_1_1FloydSteinbergDithering.html" title="Dithering using Floyd&#45;Steinberg error diffusion." alt="" coords="1077,4339,1266,4380"/>
+<area shape="rect" id="node58" href="$da/dc9/classAForge_1_1Imaging_1_1Filters_1_1JarvisJudiceNinkeDithering.html" title="Dithering using Jarvis, Judice and Ninke error diffusion." alt="" coords="1077,4404,1266,4445"/>
+<area shape="rect" id="node59" href="$d8/dce/classAForge_1_1Imaging_1_1Filters_1_1SierraDithering.html" title="Dithering using Sierra error diffusion." alt="" coords="1076,4469,1267,4511"/>
+<area shape="rect" id="node60" href="$d6/dba/classAForge_1_1Imaging_1_1Filters_1_1StuckiDithering.html" title="Dithering using Stucki error diffusion." alt="" coords="1074,4535,1269,4576"/>
+<area shape="rect" id="node74" href="$d1/de1/classAForge_1_1Imaging_1_1Filters_1_1BayerDithering.html" title="Ordered dithering using Bayer matrix." alt="" coords="806,5199,997,5240"/>
+<area shape="rect" id="node88" href="$dc/da3/classAForge_1_1Imaging_1_1Filters_1_1IterativeThreshold.html" title="Iterative threshold search and binarization." alt="" coords="801,3509,1002,3551"/>
+<area shape="rect" id="node95" href="$df/d41/classAForge_1_1Imaging_1_1Filters_1_1BaseResizeFilter.html" title="Base class for image resizing filters." alt="" coords="520,632,707,673"/>
+<area shape="rect" id="node99" href="$dd/d74/classAForge_1_1Imaging_1_1Filters_1_1BaseRotateFilter.html" title="Base class for image rotation filters." alt="" coords="520,71,707,112"/>
+<area shape="rect" id="node103" href="$d6/d12/classAForge_1_1Imaging_1_1Filters_1_1Crop.html" title="Crop an image." alt="" coords="521,137,705,163"/>
+<area shape="rect" id="node104" href="$d0/d90/classAForge_1_1Imaging_1_1Filters_1_1QuadrilateralTransformation.html" title="Performs quadrilateral transformation of an area in a given source image." alt="" coords="498,188,729,229"/>
+<area shape="rect" id="node105" href="$d5/d51/classAForge_1_1Imaging_1_1Filters_1_1QuadrilateralTransformationBilinear.html" title="Performs quadrilateral transformation using bilinear algorithm for interpolation." alt="" coords="498,253,729,295"/>
+<area shape="rect" id="node106" href="$dc/dae/classAForge_1_1Imaging_1_1Filters_1_1QuadrilateralTransformationNearestNeighbor.html" title="Performs quadrilateral transformation using nearest neighbor algorithm for interpolation." alt="" coords="498,319,729,360"/>
+<area shape="rect" id="node107" href="$d6/d05/classAForge_1_1Imaging_1_1Filters_1_1Shrink.html" title="Shrink an image by removing specified color from its boundaries." alt="" coords="516,385,711,411"/>
+<area shape="rect" id="node108" href="$d0/dcd/classAForge_1_1Imaging_1_1Filters_1_1SimpleQuadrilateralTransformation.html" title="Performs quadrilateral transformation of an area in the source image." alt="" coords="515,436,712,477"/>
+<area shape="rect" id="node109" href="$d1/d01/classAForge_1_1Imaging_1_1Filters_1_1TransformFromPolar.html" title="Transform polar image into rectangle." alt="" coords="506,501,721,543"/>
+<area shape="rect" id="node110" href="$d2/d6b/classAForge_1_1Imaging_1_1Filters_1_1TransformToPolar.html" title="Transform rectangle image into circle (to polar coordinates)." alt="" coords="506,567,721,608"/>
+<area shape="rect" id="node96" href="$d2/d82/classAForge_1_1Imaging_1_1Filters_1_1ResizeBicubic.html" title="Resize image using bicubic interpolation algorithm." alt="" coords="803,567,1000,608"/>
+<area shape="rect" id="node97" href="$d5/d3b/classAForge_1_1Imaging_1_1Filters_1_1ResizeBilinear.html" title="Resize image using bilinear interpolation algorithm." alt="" coords="803,632,1000,673"/>
+<area shape="rect" id="node98" href="$db/d91/classAForge_1_1Imaging_1_1Filters_1_1ResizeNearestNeighbor.html" title="Resize image using nearest neighbor algorithm." alt="" coords="803,697,1000,739"/>
+<area shape="rect" id="node100" href="$d2/d15/classAForge_1_1Imaging_1_1Filters_1_1RotateBicubic.html" title="Rotate image using bicubic interpolation." alt="" coords="804,5,999,47"/>
+<area shape="rect" id="node101" href="$d7/df8/classAForge_1_1Imaging_1_1Filters_1_1RotateBilinear.html" title="Rotate image using bilinear interpolation." alt="" coords="804,71,999,112"/>
+<area shape="rect" id="node102" href="$da/d34/classAForge_1_1Imaging_1_1Filters_1_1RotateNearestNeighbor.html" title="Rotate image using nearest neighbor algorithm." alt="" coords="804,136,999,177"/>
+<area shape="rect" id="node112" href="$d9/dbf/classAForge_1_1Imaging_1_1Filters_1_1AdaptiveSmoothing.html" title="Adaptive Smoothing &#45; noise removal with edges preserving." alt="" coords="510,2905,717,2947"/>
+<area shape="rect" id="node113" href="$d5/d4d/classAForge_1_1Imaging_1_1Filters_1_1BilateralSmoothing.html" title="Bilateral filter implementation &#45; edge preserving smoothing and noise reduction that uses chromatic a..." alt="" coords="511,2971,715,3012"/>
+<area shape="rect" id="node114" href="$d1/d37/classAForge_1_1Imaging_1_1Filters_1_1BinaryDilatation3x3.html" title="Binary dilatation operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="516,3036,711,3077"/>
+<area shape="rect" id="node115" href="$dd/de9/classAForge_1_1Imaging_1_1Filters_1_1BinaryErosion3x3.html" title="Binary erosion operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="516,3101,711,3143"/>
+<area shape="rect" id="node116" href="$d0/d3c/classAForge_1_1Imaging_1_1Filters_1_1CannyEdgeDetector.html" title="Canny edge detector." alt="" coords="516,3167,711,3208"/>
+<area shape="rect" id="node117" href="$d8/dbe/classAForge_1_1Imaging_1_1Filters_1_1ConservativeSmoothing.html" title="Conservative smoothing." alt="" coords="499,3232,728,3273"/>
+<area shape="rect" id="node118" href="$d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html" title="Convolution filter." alt="" coords="502,2155,725,2182"/>
+<area shape="rect" id="node125" href="$d2/d2c/classAForge_1_1Imaging_1_1Filters_1_1DifferenceEdgeDetector.html" title="Difference edge detector." alt="" coords="506,2207,721,2248"/>
+<area shape="rect" id="node126" href="$db/de4/classAForge_1_1Imaging_1_1Filters_1_1Dilatation.html" title="Dilatation operator from Mathematical Morphology." alt="" coords="508,2273,719,2299"/>
+<area shape="rect" id="node127" href="$d8/dff/classAForge_1_1Imaging_1_1Filters_1_1Dilatation3x3.html" title="Dilatation operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="497,2323,729,2350"/>
+<area shape="rect" id="node128" href="$da/dce/classAForge_1_1Imaging_1_1Filters_1_1Erosion.html" title="Erosion operator from Mathematical Morphology." alt="" coords="513,2374,714,2401"/>
+<area shape="rect" id="node129" href="$de/dff/classAForge_1_1Imaging_1_1Filters_1_1Erosion3x3.html" title="Erosion operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="502,2425,725,2451"/>
+<area shape="rect" id="node130" href="$dd/dec/classAForge_1_1Imaging_1_1Filters_1_1HitAndMiss.html" title="Hit&#45;And&#45;Miss operator from Mathematical Morphology." alt="" coords="527,2476,700,2517"/>
+<area shape="rect" id="node131" href="$d5/dc7/classAForge_1_1Imaging_1_1Filters_1_1HomogenityEdgeDetector.html" title="Homogenity edge detector." alt="" coords="500,2541,727,2583"/>
+<area shape="rect" id="node132" href="$d7/dea/classAForge_1_1Imaging_1_1Filters_1_1Jitter.html" title="Jitter filter." alt="" coords="521,2607,706,2634"/>
+<area shape="rect" id="node133" href="$dd/d3f/classAForge_1_1Imaging_1_1Filters_1_1Median.html" title="Median filter." alt="" coords="514,2658,713,2685"/>
+<area shape="rect" id="node134" href="$d0/df3/classAForge_1_1Imaging_1_1Filters_1_1OilPainting.html" title="Oil painting filter." alt="" coords="527,2709,700,2751"/>
+<area shape="rect" id="node135" href="$d7/d57/classAForge_1_1Imaging_1_1Filters_1_1SimpleSkeletonization.html" title="Simple skeletonization filter." alt="" coords="515,2775,712,2816"/>
+<area shape="rect" id="node136" href="$de/d68/classAForge_1_1Imaging_1_1Filters_1_1SobelEdgeDetector.html" title="Sobel edge detector." alt="" coords="518,2840,709,2881"/>
+<area shape="rect" id="node119" href="$de/d07/classAForge_1_1Imaging_1_1Filters_1_1Blur.html" title="Blur filter." alt="" coords="811,2221,991,2247"/>
+<area shape="rect" id="node120" href="$d2/da1/classAForge_1_1Imaging_1_1Filters_1_1Edges.html" title="Simple edge detector." alt="" coords="804,2271,999,2298"/>
+<area shape="rect" id="node121" href="$d2/d3a/classAForge_1_1Imaging_1_1Filters_1_1GaussianBlur.html" title="Gaussian blur filter." alt="" coords="784,2322,1019,2349"/>
+<area shape="rect" id="node122" href="$d9/d00/classAForge_1_1Imaging_1_1Filters_1_1GaussianSharpen.html" title="Gaussian sharpen filter." alt="" coords="795,2053,1007,2095"/>
+<area shape="rect" id="node123" href="$d5/dc7/classAForge_1_1Imaging_1_1Filters_1_1Mean.html" title="Mean filter." alt="" coords="807,2119,996,2146"/>
+<area shape="rect" id="node124" href="$dc/d8f/classAForge_1_1Imaging_1_1Filters_1_1Sharpen.html" title="Sharpen filter" alt="" coords="799,2170,1004,2197"/>
+<area shape="rect" id="node141" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="5,1773,195,1815"/>
+<area shape="rect" id="node142" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="15,4201,185,4243"/>
+<area shape="rect" id="node143" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="15,4267,185,4308"/>
+</map>

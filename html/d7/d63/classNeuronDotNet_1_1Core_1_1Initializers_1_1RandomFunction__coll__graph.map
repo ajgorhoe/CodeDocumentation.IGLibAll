@@ -1,0 +1,5 @@
+<map id="NeuronDotNet.Core.Initializers.RandomFunction" name="NeuronDotNet.Core.Initializers.RandomFunction">
+<area shape="rect" id="node1" title="An IInitializer using random function" alt="" coords="5,155,205,196"/>
+<area shape="rect" id="node2" href="$dd/d78/interfaceNeuronDotNet_1_1Core_1_1IInitializer.html" title="Initializer interface. An initializer should define initialization methods for all concrete initializ..." alt="" coords="67,80,143,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="59,5,151,32"/>
+</map>

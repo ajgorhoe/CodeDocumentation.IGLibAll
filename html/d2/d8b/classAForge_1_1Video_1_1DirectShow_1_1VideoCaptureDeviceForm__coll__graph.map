@@ -1,0 +1,12 @@
+<map id="AForge.Video.DirectShow.VideoCaptureDeviceForm" name="AForge.Video.DirectShow.VideoCaptureDeviceForm">
+<area shape="rect" id="node1" title="Local video device selection form." alt="" coords="747,160,921,202"/>
+<area shape="rect" id="node2" title=" " alt="" coords="447,44,499,70"/>
+<area shape="rect" id="node3" href="$d1/dc4/classAForge_1_1Video_1_1DirectShow_1_1FilterInfoCollection.html" title="Collection of filters&#39; information objects." alt="" coords="385,95,560,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="38,8,147,34"/>
+<area shape="rect" id="node5" href="$d1/ddf/classAForge_1_1Video_1_1DirectShow_1_1VideoCaptureDevice.html" title="Video source for local video capture device (for example USB webcam)." alt="" coords="385,160,560,202"/>
+<area shape="rect" id="node6" href="$d3/d61/interfaceAForge_1_1Video_1_1IVideoSource.html" title="Video source interface." alt="" coords="43,118,142,145"/>
+<area shape="rect" id="node7" href="$d6/d57/classAForge_1_1Video_1_1DirectShow_1_1VideoCapabilities.html" title="Capabilities of video device such as frame size and frame rate." alt="" coords="5,170,180,211"/>
+<area shape="rect" id="node8" href="$d7/d99/classAForge_1_1Video_1_1DirectShow_1_1VideoInput.html" title="Video input of a capture board." alt="" coords="5,250,180,291"/>
+<area shape="rect" id="node9" title=" " alt="" coords="65,68,120,94"/>
+<area shape="rect" id="node10" title=" " alt="" coords="439,453,506,480"/>
+</map>

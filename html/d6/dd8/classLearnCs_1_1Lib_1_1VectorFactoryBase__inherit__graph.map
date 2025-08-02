@@ -1,0 +1,4 @@
+<map id="LearnCs.Lib.VectorFactoryBase" name="LearnCs.Lib.VectorFactoryBase">
+<area shape="rect" id="node1" title="A base class for a vector factory without having the precise type of the created vectors specified." alt="" coords="5,5,212,32"/>
+<area shape="rect" id="node2" href="$d9/d07/classLearnCs_1_1Lib_1_1VectorFactoryBase.html" title="Abstract base class for vector factories." alt="" coords="20,80,197,121"/>
+</map>

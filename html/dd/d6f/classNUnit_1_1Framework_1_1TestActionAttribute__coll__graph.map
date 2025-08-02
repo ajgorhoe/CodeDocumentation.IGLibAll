@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.TestActionAttribute" name="NUnit.Framework.TestActionAttribute">
+<area shape="rect" id="node1" title="Provide actions to execute before and after tests." alt="" coords="5,80,193,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="13,5,84,32"/>
+<area shape="rect" id="node3" href="$d9/d1f/interfaceNUnit_1_1Framework_1_1ITestAction.html" title="When implemented by an attribute, this interface implemented to provide actions to execute before and..." alt="" coords="108,5,195,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="AForge.Imaging.Filters.JarvisJudiceNinkeDithering" name="AForge.Imaging.Filters.JarvisJudiceNinkeDithering">
+<area shape="rect" id="node1" title="Dithering using Jarvis, Judice and Ninke error diffusion." alt="" coords="107,319,297,360"/>
+<area shape="rect" id="node2" href="$d6/d91/classAForge_1_1Imaging_1_1Filters_1_1ErrorDiffusionToAdjacentNeighbors.html" title="Base class for error diffusion dithering, where error is diffused to adjacent neighbor pixels." alt="" coords="120,229,284,271"/>
+<area shape="rect" id="node3" href="$d2/db9/classAForge_1_1Imaging_1_1Filters_1_1ErrorDiffusionDithering.html" title="Base class for error diffusion dithering." alt="" coords="127,155,277,181"/>
+<area shape="rect" id="node4" href="$db/dc9/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlacePartialFilter.html" title="Base class for filters, which may be applied directly to the source image or its part." alt="" coords="121,80,283,107"/>
+<area shape="rect" id="node5" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node6" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="84,5,181,32"/>
+<area shape="rect" id="node7" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="205,5,340,32"/>
+<area shape="rect" id="node8" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="365,5,482,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Internal.PropertyBagTests" name="NUnit.Framework.Internal.PropertyBagTests">
+<area shape="rect" id="node1" title=" " alt="" coords="5,261,177,303"/>
+<area shape="rect" id="node2" href="$db/d10/classNUnit_1_1Framework_1_1Internal_1_1PropertyBag.html" title="A PropertyBag represents a collection of name value pairs that allows duplicate entries with the same..." alt="" coords="5,157,177,199"/>
+<area shape="rect" id="node3" href="$dd/d90/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IPropertyBag.html" title="A PropertyBag represents a collection of name/value pairs that allows duplicate entries with the same..." alt="" coords="43,81,140,108"/>
+<area shape="rect" id="node4" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="33,5,149,32"/>
+</map>

@@ -1,0 +1,28 @@
+var classNUnit_1_1Framework_1_1TestCaseAttribute =
+[
+    [ "TestCaseAttribute", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a017043d0349c19a03b4db0c1103fbe61", null ],
+    [ "TestCaseAttribute", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a7b7e17aa8c1c42fabd109ff0c8cc4df6", null ],
+    [ "TestCaseAttribute", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#afb4f69db8015a8b86394d83aee813f71", null ],
+    [ "TestCaseAttribute", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#abfda1f46a5a50fe63841bff40e0cc075", null ],
+    [ "GetParametersForTestCase", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#ac833e8bf8f9d605f1ab70c95df91b23d", null ],
+    [ "PerformSpecialConversions", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#aed33804b540855ce35e523130a439920", null ],
+    [ "BuildFrom", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a7b33e86bbd90e0079d3f37a1d92a6772", null ],
+    [ "_expectedResult", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#acaaf21d23b4088e634c3b83531ee4c4d", null ],
+    [ "_testOf", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a8cd300c0e28a0f2652c3f3f9a5d4cb1b", null ],
+    [ "TestName", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a774626388150ecc5aa470524b067ed20", null ],
+    [ "RunState", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a123c3f4b15b221689d153493704ba054", null ],
+    [ "Arguments", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#af7aa780ec7f1d61110ad7515673fac0c", null ],
+    [ "Properties", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a3114b5e792c50794489ce4acb5af656d", null ],
+    [ "ExpectedResult", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a17a867df4de9bc11709776257d13f5af", null ],
+    [ "HasExpectedResult", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a0a5f6a2eb1564881bf989c59de3c5f14", null ],
+    [ "Description", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#accb41e1f207e76b01458303487a37f27", null ],
+    [ "Author", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a95b40244c698b4babf503de755c3d417", null ],
+    [ "TestOf", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#ae134b4e2c6c448607d31796888bdd167", null ],
+    [ "Ignore", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a1228b43bc2fca840b7f62960d49010b8", null ],
+    [ "Explicit", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a51fd05abc9f7a0a71675e4e2e5b4de9c", null ],
+    [ "Reason", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#ab54c59b799dec50f31a888660fa1cc9a", null ],
+    [ "IgnoreReason", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a98f3c2b97ea18d24689b9fce2c5dd100", null ],
+    [ "IncludePlatform", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a617e88e809b06ab71cfbc893b712b028", null ],
+    [ "ExcludePlatform", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#a2c0211ddf653dec9592f0e254a91de72", null ],
+    [ "Category", "d4/d3f/classNUnit_1_1Framework_1_1TestCaseAttribute.html#aa76f44872129be35efaaa291a11f638d", null ]
+];

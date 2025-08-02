@@ -1,0 +1,4 @@
+<map id="NUnit.Samples.Extensibility.Minimal" name="NUnit.Samples.Extensibility.Minimal">
+<area shape="rect" id="node1" title="This is the smallest possible Addin, which does nothing but is recognized by NUnit and listed in the ..." alt="" coords="5,80,193,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="70,5,129,32"/>
+</map>

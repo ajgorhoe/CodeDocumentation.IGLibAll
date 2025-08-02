@@ -1,0 +1,11 @@
+<map id="CShell.Modules.Workspace.Module" name="CShell.Modules.Workspace.Module">
+<area shape="rect" id="node1" title=" " alt="" coords="222,289,409,331"/>
+<area shape="rect" id="node2" href="$d2/df0/classCShell_1_1Framework_1_1ModuleBase.html" title=" " alt="" coords="172,193,267,219"/>
+<area shape="rect" id="node3" href="$d5/d7d/interfaceCShell_1_1Framework_1_1IModule.html" title=" " alt="" coords="43,89,110,115"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,5,148,32"/>
+<area shape="rect" id="node5" href="$d9/da1/interfaceCShell_1_1Framework_1_1Services_1_1IShell.html" title=" " alt="" coords="135,81,320,123"/>
+<area shape="rect" id="node6" title=" " alt="" coords="185,5,269,32"/>
+<area shape="rect" id="node7" href="$d0/d83/interfaceCShell_1_1Framework_1_1Services_1_1IWorkspaceActivator.html" title="Helper interface to activate and deactivate UI item depending if a workspace is open." alt="" coords="291,185,476,227"/>
+<area shape="rect" id="node8" title=" " alt="" coords="345,89,416,115"/>
+<area shape="rect" id="node9" title=" " alt="" coords="441,89,526,115"/>
+</map>

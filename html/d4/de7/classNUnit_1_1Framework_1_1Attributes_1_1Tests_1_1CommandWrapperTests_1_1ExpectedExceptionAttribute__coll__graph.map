@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Attributes.Tests.CommandWrapperTests.ExpectedExceptionAttribute" name="NUnit.Framework.Attributes.Tests.CommandWrapperTests.ExpectedExceptionAttribute">
+<area shape="rect" id="node1" title="Extremely simple ExpectedException implementation for use in the test" alt="" coords="5,155,263,211"/>
+<area shape="rect" id="node2" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="15,80,117,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="31,5,101,32"/>
+<area shape="rect" id="node4" href="$db/ddb/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IWrapTestMethod.html" title="Objects implementing this interface are used to wrap the TestMethodCommand itself...." alt="" coords="141,80,265,107"/>
+<area shape="rect" id="node5" href="$da/d8c/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ICommandWrapper.html" title="ICommandWrapper is implemented by attributes and other objects able to wrap a TestCommand with anothe..." alt="" coords="137,5,270,32"/>
+</map>

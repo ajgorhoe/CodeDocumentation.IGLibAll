@@ -1,0 +1,25 @@
+var classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter =
+[
+    [ "TextMessageWriter", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a456441d6bf0b6862f195872b9bfb87f7", null ],
+    [ "TextMessageWriter", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a26c6908a7338a80f4f998284fd55e403", null ],
+    [ "WriteMessageLine", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#afe4382cee210e0f5f33c35ffd408b611", null ],
+    [ "DisplayDifferences", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#ab0d0e7765ec2dd1aa777c21512b99efb", null ],
+    [ "DisplayDifferences", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a08f39999c1be92c8b20c6c34d390d9bd", null ],
+    [ "DisplayDifferences", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#ab00db5664990b8d1727936b2b0929854", null ],
+    [ "DisplayStringDifferences", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#ab0ed55ae712eaad305b2490df79b48b2", null ],
+    [ "WriteActualValue", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a40e019e7f346a521c45b92f41628b557", null ],
+    [ "WriteValue", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a99dd175728554b42bf2c1f433e1253cc", null ],
+    [ "WriteCollectionElements", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a28111eba7fd639cca224ce90a1209957", null ],
+    [ "WriteExpectedLine", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a3e3baf3ce98cc61facbed9c6019be8ac", null ],
+    [ "WriteExpectedLine", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a66e51e237f8e54969d1810a610ff8f81", null ],
+    [ "WriteExpectedLine", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a69ccf75bfb4f8563e8297e74e61d9929", null ],
+    [ "WriteActualLine", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a35896ae2b362b7734f7b0dfc3e39175c", null ],
+    [ "WriteActualLine", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#aa500d65e0ae301fb950ada5ec336957c", null ],
+    [ "WriteCaretLine", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#affb80bbfa6144be14f25e7789e2755f1", null ],
+    [ "DEFAULT_LINE_LENGTH", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a9aa5121e9c063bbf6e8e451636b43c46", null ],
+    [ "Pfx_Expected", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a5a4c474bfa9195a004623d657ec58e2c", null ],
+    [ "Pfx_Actual", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#acd1cb0fb2d9c266545f16da8b511b290", null ],
+    [ "PrefixLength", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a20c7ef541b73dd29549486009a3e5d1a", null ],
+    [ "maxLineLength", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a813d61b8cca7e0f00dcbd98e8306b39b", null ],
+    [ "MaxLineLength", "df/ddc/classNUnit_1_1Framework_1_1Internal_1_1TextMessageWriter.html#a2480ae290cffccbb48f914d3ddd2c130", null ]
+];

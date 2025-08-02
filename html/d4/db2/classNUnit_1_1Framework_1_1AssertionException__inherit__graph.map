@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.AssertionException" name="NUnit.Framework.AssertionException">
+<area shape="rect" id="node1" title="Thrown when an assertion failed." alt="" coords="5,155,187,196"/>
+<area shape="rect" id="node2" href="$dc/d3c/classNUnit_1_1Framework_1_1ResultStateException.html" title="Abstract base for Exceptions that terminate a test and provide a ResultState." alt="" coords="22,80,170,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="56,5,136,32"/>
+</map>

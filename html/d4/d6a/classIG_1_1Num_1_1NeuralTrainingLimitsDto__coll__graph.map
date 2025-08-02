@@ -1,0 +1,6 @@
+<map id="IG.Num.NeuralTrainingLimitsDto" name="IG.Num.NeuralTrainingLimitsDto">
+<area shape="rect" id="node1" title="Transfer Object (DTO) for neural network training limits." alt="" coords="39,273,246,300"/>
+<area shape="rect" id="node2" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title=" " alt="" coords="5,96,168,137"/>
+<area shape="rect" id="node3" href="$dc/dec/classIG_1_1Lib_1_1VectorDtoBase.html" title="Base class for various vector DTO (Data Transfer Objects) for vectors. Used to store a state of a vec..." alt="" coords="193,96,341,137"/>
+<area shape="rect" id="node4" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="186,5,347,47"/>
+</map>

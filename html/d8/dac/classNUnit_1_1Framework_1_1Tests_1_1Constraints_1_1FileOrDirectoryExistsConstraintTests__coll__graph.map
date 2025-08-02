@@ -1,0 +1,10 @@
+<map id="NUnit.Framework.Tests.Constraints.FileOrDirectoryExistsConstraintTests" name="NUnit.Framework.Tests.Constraints.FileOrDirectoryExistsConstraintTests">
+<area shape="rect" id="node1" title=" " alt="" coords="823,69,1060,111"/>
+<area shape="rect" id="node2" href="$dd/d74/classNUnit_1_1Framework_1_1Constraints_1_1FileOrDirectoryExistsConstraint.html" title="FileOrDirectoryExistsConstraint is used to determine if a file or directory exists" alt="" coords="456,5,661,47"/>
+<area shape="rect" id="node3" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="321,13,403,39"/>
+<area shape="rect" id="node4" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="184,13,268,39"/>
+<area shape="rect" id="node5" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="5,13,135,39"/>
+<area shape="rect" id="node6" href="$dd/d72/classNUnit_1_1TestUtilities_1_1TestDirectory.html" title="Creates a directory for testing purposes" alt="" coords="481,71,636,112"/>
+<area shape="rect" id="node7" title=" " alt="" coords="317,78,407,105"/>
+<area shape="rect" id="node8" title=" " alt="" coords="531,137,586,163"/>
+</map>

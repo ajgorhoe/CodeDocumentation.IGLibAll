@@ -1,0 +1,9 @@
+<map id="CShell.Framework.Menus.MenuItemBase" name="CShell.Framework.Menus.MenuItemBase">
+<area shape="rect" id="node1" title=" " alt="" coords="125,80,332,121"/>
+<area shape="rect" id="node4" href="$d5/dae/classCShell_1_1Framework_1_1Menus_1_1MenuItemSeparator.html" title=" " alt="" coords="5,169,212,211"/>
+<area shape="rect" id="node5" href="$d3/dde/classCShell_1_1Framework_1_1Menus_1_1StandardMenuItem.html" title=" " alt="" coords="237,169,463,211"/>
+<area shape="rect" id="node2" title=" " alt="" coords="51,5,203,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="227,5,433,32"/>
+<area shape="rect" id="node6" href="$d6/d80/classCShell_1_1Framework_1_1Menus_1_1CheckableMenuItem.html" title=" " alt="" coords="103,259,339,300"/>
+<area shape="rect" id="node7" href="$dc/dab/classCShell_1_1Framework_1_1Menus_1_1MenuItem.html" title=" " alt="" coords="363,266,595,293"/>
+</map>

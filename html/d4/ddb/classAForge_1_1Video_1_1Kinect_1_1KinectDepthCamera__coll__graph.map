@@ -1,0 +1,8 @@
+<map id="AForge.Video.Kinect.KinectDepthCamera" name="AForge.Video.Kinect.KinectDepthCamera">
+<area shape="rect" id="node1" title="Video source for Microsoft Kinect&#39;s depth sensor." alt="" coords="218,257,401,299"/>
+<area shape="rect" id="node2" href="$d3/d61/interfaceAForge_1_1Video_1_1IVideoSource.html" title="Video source interface." alt="" coords="5,146,104,173"/>
+<area shape="rect" id="node3" href="$d3/d6c/classAForge_1_1Video_1_1Kinect_1_1Kinect.html" title="The class provides access to Microsoft&#39;s Xbox Kinect controller." alt="" coords="129,146,311,173"/>
+<area shape="rect" id="node4" title=" " alt="" coords="134,5,223,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="333,5,387,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="483,139,666,180"/>
+</map>

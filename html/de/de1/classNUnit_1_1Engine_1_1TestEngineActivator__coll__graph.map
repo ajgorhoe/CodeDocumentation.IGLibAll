@@ -1,0 +1,4 @@
+<map id="NUnit.Engine.TestEngineActivator" name="NUnit.Engine.TestEngineActivator">
+<area shape="rect" id="node1" title="TestEngineActivator creates an instance of the test engine and returns an ITestEngine interface." alt="" coords="5,95,223,121"/>
+<area shape="rect" id="node2" title=" " alt="" coords="87,5,141,32"/>
+</map>

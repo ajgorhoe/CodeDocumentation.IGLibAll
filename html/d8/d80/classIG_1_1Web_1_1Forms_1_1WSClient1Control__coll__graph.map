@@ -1,0 +1,6 @@
+<map id="IG.Web.Forms.WSClient1Control" name="IG.Web.Forms.WSClient1Control">
+<area shape="rect" id="node1" title="Control for making predictions of output values based on ANN model." alt="" coords="75,241,290,268"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node3" href="$d3/d45/interfaceIG_1_1Web_1_1IWSBase.html" title="Interface for basic web service." alt="" coords="120,5,245,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="269,5,336,32"/>
+</map>

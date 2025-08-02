@@ -1,0 +1,21 @@
+<map id="NUnit.TestUtilities.FakeWorkItem" name="NUnit.TestUtilities.FakeWorkItem">
+<area shape="rect" id="node1" title="FakeWorkItem is used in tests to simulate an actual WorkItem" alt="" coords="1344,456,1503,497"/>
+<area shape="rect" id="node2" href="$d4/dab/classNUnit_1_1Framework_1_1Internal_1_1Execution_1_1WorkItem.html" title="A WorkItem may be an individual test case, a fixture or a higher level grouping of tests...." alt="" coords="1216,463,1295,490"/>
+<area shape="rect" id="node3" href="$dc/d67/classNUnit_1_1Framework_1_1Internal_1_1TestExecutionContext.html" title="Helper class used to save and restore certain static or singleton settings in the environment that af..." alt="" coords="920,197,1092,239"/>
+<area shape="rect" id="node4" href="$d8/d34/classNUnit_1_1Framework_1_1Compatibility_1_1LongLivedMarshalByRefObject.html" title="A MarshalByRefObject that lives forever" alt="" coords="537,137,735,163"/>
+<area shape="rect" id="node5" title=" " alt="" coords="171,129,312,155"/>
+<area shape="rect" id="node6" title=" " alt="" coords="558,187,714,214"/>
+<area shape="rect" id="node7" href="$d3/d0a/classNUnit_1_1Framework_1_1Internal_1_1Randomizer.html" title="Randomizer returns a set of random _values in a repeatable way, to allow re&#45;running of tests if neces..." alt="" coords="550,239,722,280"/>
+<area shape="rect" id="node8" title=" " alt="" coords="206,179,277,206"/>
+<area shape="rect" id="node9" title=" " alt="" coords="214,315,269,342"/>
+<area shape="rect" id="node10" href="$dd/dfe/classNUnit_1_1Framework_1_1Internal_1_1TestResult.html" title="The TestResult class represents the result of a test." alt="" coords="550,71,722,112"/>
+<area shape="rect" id="node17" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework." alt="" coords="537,530,735,557"/>
+<area shape="rect" id="node11" href="$d2/df9/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestResult.html" title="The ITestResult interface represents the result of a test." alt="" coords="198,27,285,54"/>
+<area shape="rect" id="node12" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,183,121,210"/>
+<area shape="rect" id="node18" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields...." alt="" coords="216,430,267,457"/>
+<area shape="rect" id="node13" title=" " alt="" coords="208,78,275,105"/>
+<area shape="rect" id="node14" href="$d0/d90/interfaceNUnit_1_1Framework_1_1Internal_1_1Execution_1_1IWorkItemDispatcher.html" title="An IWorkItemDispatcher handles execution of work items." alt="" coords="533,368,739,409"/>
+<area shape="rect" id="node15" href="$de/d53/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestListener.html" title="The ITestListener interface is used internally to receive notifications of significant events while a..." alt="" coords="543,5,729,47"/>
+<area shape="rect" id="node16" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="899,485,1113,527"/>
+<area shape="rect" id="node19" title=" " alt="" coords="194,546,289,573"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="IG.MPetekLib.Algorithms.Solvers.InitialProblemODE_RK4.InitialProblemSolverBase" name="IG.MPetekLib.Algorithms.Solvers.InitialProblemODE_RK4.InitialProblemSolverBase">
+<area shape="rect" id="node1" title="A template ODE solver without an actual implementation of the solving method (e.g...." alt="" coords="5,5,207,61"/>
+<area shape="rect" id="node2" href="$de/d6b/classIG_1_1MPetekLib_1_1Algorithms_1_1Solvers_1_1InitialProblemODE__RK4_1_1InitialProblemSolverRK4.html" title="A fourth order Runge&#45;Kutta ODE solver." alt="" coords="8,109,204,165"/>
+</map>

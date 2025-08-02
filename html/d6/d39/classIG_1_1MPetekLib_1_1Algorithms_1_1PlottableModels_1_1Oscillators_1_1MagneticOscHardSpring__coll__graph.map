@@ -1,0 +1,8 @@
+<map id="IG.MPetekLib.Algorithms.PlottableModels.Oscillators.MagneticOscHardSpring" name="IG.MPetekLib.Algorithms.PlottableModels.Oscillators.MagneticOscHardSpring">
+<area shape="rect" id="node1" title=" " alt="" coords="917,48,1103,104"/>
+<area shape="rect" id="node2" href="$df/d12/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1Oscillators_1_1DrivenOscillatorBase.html" title="A template class for the driven oscillators. Holds the values for: angular driving frequency,..." alt="" coords="725,63,868,89"/>
+<area shape="rect" id="node3" href="$db/db8/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableODEModelBase.html" title="A template class for physical models, which are described by ordinary differential equations (ODEs)...." alt="" coords="509,32,676,59"/>
+<area shape="rect" id="node4" href="$d2/d4f/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableModelBase.html" title="A template class for physical models. Each child should define its own plottable curves)." alt="" coords="249,5,387,32"/>
+<area shape="rect" id="node5" href="$de/d6b/classIG_1_1MPetekLib_1_1Algorithms_1_1Solvers_1_1InitialProblemODE__RK4_1_1InitialProblemSolverRK4.html" title="A fourth order Runge&#45;Kutta ODE solver." alt="" coords="220,63,416,119"/>
+<area shape="rect" id="node6" href="$d1/dfd/classIG_1_1MPetekLib_1_1Algorithms_1_1Solvers_1_1InitialProblemODE__RK4_1_1InitialProblemSolverBase.html" title="A template ODE solver without an actual implementation of the solving method (e.g...." alt="" coords="5,77,171,104"/>
+</map>

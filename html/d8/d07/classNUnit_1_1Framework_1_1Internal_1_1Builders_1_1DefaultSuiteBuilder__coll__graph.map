@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Internal.Builders.DefaultSuiteBuilder" name="NUnit.Framework.Internal.Builders.DefaultSuiteBuilder">
+<area shape="rect" id="node1" title="Built&#45;in SuiteBuilder for all types of test classes." alt="" coords="16,213,199,255"/>
+<area shape="rect" id="node2" href="$d0/d01/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ISuiteBuilder.html" title="The ISuiteBuilder interface is exposed by a class that knows how to build a suite from one or more Ty..." alt="" coords="5,117,100,143"/>
+<area shape="rect" id="node3" href="$d0/dbc/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1NUnitTestFixtureBuilder.html" title="NUnitTestFixtureBuilder is able to build a fixture given a class marked with a TestFixtureAttribute o..." alt="" coords="125,109,335,151"/>
+<area shape="rect" id="node4" href="$d2/dbb/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestCaseBuilder.html" title="The ITestCaseBuilder interface is exposed by a class that knows how to build a test case from certain..." alt="" coords="63,5,250,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="275,13,329,39"/>
+</map>

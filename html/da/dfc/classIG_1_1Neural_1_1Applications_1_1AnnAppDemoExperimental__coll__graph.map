@@ -1,0 +1,30 @@
+<map id="IG.Neural.Applications.AnnAppDemoExperimental" name="IG.Neural.Applications.AnnAppDemoExperimental">
+<area shape="rect" id="node1" title="Experimental class for neural parametric demos." alt="" coords="1909,2671,2088,2712"/>
+<area shape="rect" id="node2" href="$df/df0/classIG_1_1Neural_1_1Applications_1_1AnnAppDemo.html" title="Form for parametric tests and other viewing operations performed on ANN models." alt="" coords="1757,2678,1860,2705"/>
+<area shape="rect" id="node3" title=" " alt="" coords="981,30,1033,57"/>
+<area shape="rect" id="node5" href="$db/d52/classIG_1_1Neural_1_1Applications_1_1NeuralParametricDemoAboutWindow.html" title="Window that displays information about Demo application for performing parametric studies on ANN mode..." alt="" coords="1363,107,1561,148"/>
+<area shape="rect" id="node4" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="35,3022,187,3049"/>
+<area shape="rect" id="node8" href="$d0/d8e/classIG_1_1Neural_1_1Forms_1_1NeuralDataControl.html" title="Control for manipulating neural approximation data (import/export)." alt="" coords="455,2546,640,2587"/>
+<area shape="rect" id="node11" href="$dc/d6f/classIG_1_1Neural_1_1Forms_1_1NeuralParametricTest.html" title="Form for training artificial neural networks." alt="" coords="884,2678,1131,2705"/>
+<area shape="rect" id="node15" href="$d8/daf/classIG_1_1Neural_1_1Forms_1_1NeuralInputControl.html" title="Control for editing input parameter values." alt="" coords="454,2388,641,2430"/>
+<area shape="rect" id="node18" href="$de/d18/classIG_1_1Neural_1_1Forms_1_1NeuralParametricTest2d.html" title="Form for simple parametric tests (variation of selected parameter) performed on ANN models." alt="" coords="897,2830,1118,2871"/>
+<area shape="rect" id="node20" href="$df/dcb/classIG_1_1Neural_1_1Forms_1_1NeuralAboutControlToDelete.html" title="Control for making predictions of output values based on ANN model." alt="" coords="451,2791,643,2832"/>
+<area shape="rect" id="node21" href="$d0/d66/classIG_1_1Neural_1_1Forms_1_1NeuralSamplingControl.html" title="Control for defininng scalar functions and sampling them in order to create neural approximation data..." alt="" coords="1356,1656,1568,1698"/>
+<area shape="rect" id="node22" href="$da/d74/classIG_1_1Neural_1_1Forms_1_1NeuralSamplingInputControl.html" title="Control for editing input parameter data necessary for sampling scalar functions." alt="" coords="441,1656,653,1698"/>
+<area shape="rect" id="node26" href="$d1/d29/classIG_1_1Neural_1_1Forms_1_1NeuralTrainingControl.html" title="A 2D neural network approximation demo control." alt="" coords="446,2920,649,2962"/>
+<area shape="rect" id="node6" title=" " alt="" coords="961,140,1054,166"/>
+<area shape="rect" id="node7" title=" " alt="" coords="77,724,144,750"/>
+<area shape="rect" id="node13" href="$d1/d0d/classIG_1_1Neural_1_1Forms_1_1NeuralInputParameterSelectorMinMax.html" title="Selection of parameter to be varied, together with bounds &#45; for parametric tests." alt="" coords="454,2246,641,2287"/>
+<area shape="rect" id="node23" href="$de/de4/classIG_1_1Forms_1_1ScalarFunctionScriptControl.html" title="Control for definition of scalar functions by user defined expressions (through a script loader)." alt="" coords="907,724,1108,766"/>
+<area shape="rect" id="node24" href="$d6/d0b/classIG_1_1Forms_1_1FileSelector.html" title=" " alt="" coords="473,761,622,788"/>
+<area shape="rect" id="node25" href="$dc/d28/classIG_1_1Forms_1_1VectorFunctionScriptControl.html" title=" " alt="" coords="446,1148,649,1190"/>
+<area shape="rect" id="node27" href="$d9/dde/classIG_1_1Neural_1_1Forms_1_1NeuralParametricTestMultiple.html" title="Form for training artificial neural networks." alt="" coords="897,2291,1118,2332"/>
+<area shape="rect" id="node9" title=" " alt="" coords="65,1872,156,1898"/>
+<area shape="rect" id="node10" href="$d1/d98/interfaceIG_1_1Neural_1_1INeuralModelContainer.html" title="Interface for classes that contain the NeuralModel property that implements the INeuralModel interfac..." alt="" coords="5,2644,216,2670"/>
+<area shape="rect" id="node12" title=" " alt="" coords="518,2740,577,2766"/>
+<area shape="rect" id="node14" title=" " alt="" coords="71,3185,150,3212"/>
+<area shape="rect" id="node16" title=" " alt="" coords="62,2301,159,2328"/>
+<area shape="rect" id="node17" title=" " alt="" coords="91,1336,130,1362"/>
+<area shape="rect" id="node19" title=" " alt="" coords="520,3213,575,3240"/>
+<area shape="rect" id="node28" href="$d0/d98/interfaceIG_1_1Num_1_1INeuralModel.html" title="Interface for artificial neural network &#45;based models that we can operate on." alt="" coords="1389,3428,1535,3454"/>
+</map>

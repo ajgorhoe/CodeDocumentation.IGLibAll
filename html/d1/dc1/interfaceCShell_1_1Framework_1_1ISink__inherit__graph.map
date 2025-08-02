@@ -1,0 +1,12 @@
+<map id="CShell.Framework.ISink" name="CShell.Framework.ISink">
+<area shape="rect" id="node1" title=" " alt="" coords="252,147,413,174"/>
+<area shape="rect" id="node4" href="$d4/dba/classCShell_1_1Framework_1_1Sink.html" title=" " alt="" coords="463,97,622,123"/>
+<area shape="rect" id="node9" href="$d3/daf/interfaceCShell_1_1Sinks_1_1IPlotSink.html" title=" " alt="" coords="466,147,619,174"/>
+<area shape="rect" id="node10" href="$d3/df9/interfaceCShell_1_1Sinks_1_1IXhtmlSink.html" title=" " alt="" coords="461,205,624,231"/>
+<area shape="rect" id="node2" href="$dd/d21/interfaceCShell_1_1Framework_1_1IDocument.html" title=" " alt="" coords="120,147,204,174"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,147,72,174"/>
+<area shape="rect" id="node5" href="$d9/dc3/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1ControlSinkViewModel.html" title=" " alt="" coords="672,5,871,47"/>
+<area shape="rect" id="node6" href="$df/d73/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1GridSinkViewModel.html" title=" " alt="" coords="681,71,862,112"/>
+<area shape="rect" id="node7" href="$dd/dad/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1PlotSinkViewModel.html" title=" " alt="" coords="681,136,861,177"/>
+<area shape="rect" id="node8" href="$d9/d3b/classCShell_1_1Modules_1_1Sink_1_1ViewModels_1_1XhtmlSinkViewModel.html" title=" " alt="" coords="677,201,866,243"/>
+</map>

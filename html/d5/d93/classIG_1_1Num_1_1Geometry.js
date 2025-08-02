@@ -1,0 +1,27 @@
+var classIG_1_1Num_1_1Geometry =
+[
+    [ "m_sqr", "d5/d93/classIG_1_1Num_1_1Geometry.html#a08bd54430d2ec1c077e855919c4ebcda", null ],
+    [ "sqrt", "d5/d93/classIG_1_1Num_1_1Geometry.html#ad1ad58cede1b4dec4725ed74eddc8f54", null ],
+    [ "vecnorm3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a23bd041638cc3583646bf76a97de54be", null ],
+    [ "fabs", "d5/d93/classIG_1_1Num_1_1Geometry.html#aa69e62c9d7094185879f255f1081468c", null ],
+    [ "zerovec3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a312cf136bcb3691c64540d288223d3d6", null ],
+    [ "scalprod3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#aed14f691f8e194f05a44dc5eab5b0d4c", null ],
+    [ "vecprod3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#ad8d4cf8d837d019595bb13b3b336eea6", null ],
+    [ "vecdif3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a8cf2160202713602627f23f988d05687", null ],
+    [ "vecsum3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a1878cb7718081f8f80516eb31442fbe5", null ],
+    [ "multscalvec3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a56c112cd9c6ead04fa4300455f59b54f", null ],
+    [ "zeromat3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a64816ea859e6f1bd48db4efb88f68493", null ],
+    [ "solve2d", "d5/d93/classIG_1_1Num_1_1Geometry.html#ab8c904103f48525106750fcf5c2ba298", null ],
+    [ "distpt3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#af809b44b13b23effb5cb6f7c179f2493", null ],
+    [ "directioncos3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a6516bdf6ac21aa85721e7cdb0facb804", null ],
+    [ "ortprojptline3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a5a0e48d27feeb4606fd80f11202afd22", null ],
+    [ "distptline3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a1d89cc54b4d51cefe0c77ca4a7f89b02", null ],
+    [ "nearestptlines3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#afd6ce7359890d4a1675b70ad7f622914", null ],
+    [ "nearestptlinescoef3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#afe3ecdd9480cf5ecba7e29c53c0da9d2", null ],
+    [ "ortprojptplane3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a90b9504a634551c508858df526272668", null ],
+    [ "ortprojlineplane3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a1aa14640f91ab330262e640a47ba82cf", null ],
+    [ "signdistptplane3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a9bd01549f0796893fa1d353cf3b972ba", null ],
+    [ "distptplane3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a8db8c0b8ba0ada13543914e1f585be00", null ],
+    [ "intsectlineplane3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a43d66f12ae24efd25a25f2fa610540d6", null ],
+    [ "intsectplanes3d", "d5/d93/classIG_1_1Num_1_1Geometry.html#a4176725f8eda82554b185343537984b7", null ]
+];

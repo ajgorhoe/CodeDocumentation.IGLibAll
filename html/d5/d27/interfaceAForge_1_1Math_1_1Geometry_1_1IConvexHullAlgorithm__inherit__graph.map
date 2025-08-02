@@ -1,0 +1,4 @@
+<map id="AForge.Math.Geometry.IConvexHullAlgorithm" name="AForge.Math.Geometry.IConvexHullAlgorithm">
+<area shape="rect" id="node1" title="Interface defining methods for algorithms, which search for convex hull of the specified points&#39; set." alt="" coords="6,5,213,47"/>
+<area shape="rect" id="node2" href="$db/d95/classAForge_1_1Math_1_1Geometry_1_1GrahamConvexHull.html" title="Graham scan algorithm for finding convex hull." alt="" coords="5,95,213,136"/>
+</map>

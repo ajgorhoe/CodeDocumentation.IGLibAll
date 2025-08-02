@@ -1,0 +1,20 @@
+<map id="NUnit.Engine.IService" name="NUnit.Engine.IService">
+<area shape="rect" id="node1" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="5,535,152,562"/>
+<area shape="rect" id="node2" href="$df/d6e/classNUnit_1_1Engine_1_1Services_1_1Service.html" title="Abstract base class for services that can use it. Some Services already inherit from a different clas..." alt="" coords="203,307,400,334"/>
+<area shape="rect" id="node13" href="$dc/d00/classNUnit_1_1Engine_1_1Services_1_1SettingsService.html" title="Summary description for UserSettingsService." alt="" coords="200,463,403,504"/>
+<area shape="rect" id="node14" href="$db/d77/classNUnit_1_1Engine_1_1Services_1_1TestAgency.html" title="The TestAgency class provides RemoteTestAgents on request and tracks their status...." alt="" coords="211,528,391,569"/>
+<area shape="rect" id="node15" href="$d5/d01/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeService.html" title=" " alt="" coords="206,593,397,635"/>
+<area shape="rect" id="node18" href="$df/deb/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeSettingsService.html" title=" " alt="" coords="206,659,397,700"/>
+<area shape="rect" id="node3" href="$de/d4f/classNUnit_1_1Engine_1_1Services_1_1DomainManager.html" title="The DomainManager class handles the creation and unloading of domains as needed and keeps track of al..." alt="" coords="458,5,657,47"/>
+<area shape="rect" id="node4" href="$de/d00/classNUnit_1_1Engine_1_1Services_1_1DriverService.html" title="The DriverService provides drivers able to load and run tests using various frameworks." alt="" coords="464,71,651,112"/>
+<area shape="rect" id="node5" href="$df/d71/classNUnit_1_1Engine_1_1Services_1_1ExtensionService.html" title="The ExtensionService discovers ExtensionPoints and Extensions and maintains them in a database...." alt="" coords="451,136,664,177"/>
+<area shape="rect" id="node6" href="$db/df5/classNUnit_1_1Engine_1_1Services_1_1InProcessTestRunnerFactory.html" title="InProcessTestRunnerFactory handles creation of a suitable test runner for a given package to be loade..." alt="" coords="467,201,647,243"/>
+<area shape="rect" id="node8" href="$da/dfb/classNUnit_1_1Engine_1_1Services_1_1ProjectService.html" title="Summary description for ProjectService." alt="" coords="459,267,655,308"/>
+<area shape="rect" id="node9" href="$d1/df7/classNUnit_1_1Engine_1_1Services_1_1RecentFilesService.html" title="Summary description for RecentFilesService." alt="" coords="459,332,655,373"/>
+<area shape="rect" id="node10" href="$d5/d85/classNUnit_1_1Engine_1_1Services_1_1ResultService.html" title=" " alt="" coords="461,397,653,439"/>
+<area shape="rect" id="node11" href="$da/d5b/classNUnit_1_1Engine_1_1Services_1_1RuntimeFrameworkService.html" title=" " alt="" coords="456,463,659,504"/>
+<area shape="rect" id="node12" href="$d8/da5/classNUnit_1_1Engine_1_1Services_1_1TestFilterService.html" title=" " alt="" coords="467,528,647,569"/>
+<area shape="rect" id="node7" href="$d1/d7b/classNUnit_1_1Engine_1_1Services_1_1DefaultTestRunnerFactory.html" title="DefaultTestRunnerFactory handles creation of a suitable test runner for a given package to be loaded ..." alt="" coords="712,201,907,243"/>
+<area shape="rect" id="node16" href="$de/d66/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeProjectService.html" title=" " alt="" coords="462,593,653,635"/>
+<area shape="rect" id="node17" href="$df/df4/classNUnit_1_1Engine_1_1Services_1_1Tests_1_1Fakes_1_1FakeRuntimeService.html" title=" " alt="" coords="462,659,653,700"/>
+</map>

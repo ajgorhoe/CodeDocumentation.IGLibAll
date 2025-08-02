@@ -1,0 +1,25 @@
+var namespaceAForge_1_1Genetic =
+[
+    [ "BinaryChromosome", "dd/db5/classAForge_1_1Genetic_1_1BinaryChromosome.html", "dd/db5/classAForge_1_1Genetic_1_1BinaryChromosome" ],
+    [ "ChromosomeBase", "df/da8/classAForge_1_1Genetic_1_1ChromosomeBase.html", "df/da8/classAForge_1_1Genetic_1_1ChromosomeBase" ],
+    [ "DoubleArrayChromosome", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome" ],
+    [ "EliteSelection", "da/d5f/classAForge_1_1Genetic_1_1EliteSelection.html", "da/d5f/classAForge_1_1Genetic_1_1EliteSelection" ],
+    [ "ExtendedGeneFunction", "da/d88/classAForge_1_1Genetic_1_1ExtendedGeneFunction.html", "da/d88/classAForge_1_1Genetic_1_1ExtendedGeneFunction" ],
+    [ "GEPChromosome", "d8/d7a/classAForge_1_1Genetic_1_1GEPChromosome.html", "d8/d7a/classAForge_1_1Genetic_1_1GEPChromosome" ],
+    [ "GPTreeChromosome", "da/dcb/classAForge_1_1Genetic_1_1GPTreeChromosome.html", "da/dcb/classAForge_1_1Genetic_1_1GPTreeChromosome" ],
+    [ "GPTreeNode", "d0/dab/classAForge_1_1Genetic_1_1GPTreeNode.html", "d0/dab/classAForge_1_1Genetic_1_1GPTreeNode" ],
+    [ "IChromosome", "d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome.html", "d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome" ],
+    [ "IFitnessFunction", "d3/d4c/interfaceAForge_1_1Genetic_1_1IFitnessFunction.html", "d3/d4c/interfaceAForge_1_1Genetic_1_1IFitnessFunction" ],
+    [ "IGPGene", "d1/dca/interfaceAForge_1_1Genetic_1_1IGPGene.html", "d1/dca/interfaceAForge_1_1Genetic_1_1IGPGene" ],
+    [ "ISelectionMethod", "d8/df7/interfaceAForge_1_1Genetic_1_1ISelectionMethod.html", "d8/df7/interfaceAForge_1_1Genetic_1_1ISelectionMethod" ],
+    [ "OptimizationFunction1D", "d6/d82/classAForge_1_1Genetic_1_1OptimizationFunction1D.html", "d6/d82/classAForge_1_1Genetic_1_1OptimizationFunction1D" ],
+    [ "OptimizationFunction2D", "de/d53/classAForge_1_1Genetic_1_1OptimizationFunction2D.html", "de/d53/classAForge_1_1Genetic_1_1OptimizationFunction2D" ],
+    [ "PermutationChromosome", "d9/dc4/classAForge_1_1Genetic_1_1PermutationChromosome.html", "d9/dc4/classAForge_1_1Genetic_1_1PermutationChromosome" ],
+    [ "Population", "db/df4/classAForge_1_1Genetic_1_1Population.html", "db/df4/classAForge_1_1Genetic_1_1Population" ],
+    [ "RankSelection", "d2/d5e/classAForge_1_1Genetic_1_1RankSelection.html", "d2/d5e/classAForge_1_1Genetic_1_1RankSelection" ],
+    [ "RouletteWheelSelection", "d1/d7d/classAForge_1_1Genetic_1_1RouletteWheelSelection.html", "d1/d7d/classAForge_1_1Genetic_1_1RouletteWheelSelection" ],
+    [ "ShortArrayChromosome", "df/d47/classAForge_1_1Genetic_1_1ShortArrayChromosome.html", "df/d47/classAForge_1_1Genetic_1_1ShortArrayChromosome" ],
+    [ "SimpleGeneFunction", "df/d26/classAForge_1_1Genetic_1_1SimpleGeneFunction.html", "df/d26/classAForge_1_1Genetic_1_1SimpleGeneFunction" ],
+    [ "SymbolicRegressionFitness", "d4/db1/classAForge_1_1Genetic_1_1SymbolicRegressionFitness.html", "d4/db1/classAForge_1_1Genetic_1_1SymbolicRegressionFitness" ],
+    [ "TimeSeriesPredictionFitness", "d3/d73/classAForge_1_1Genetic_1_1TimeSeriesPredictionFitness.html", "d3/d73/classAForge_1_1Genetic_1_1TimeSeriesPredictionFitness" ]
+];

@@ -1,0 +1,10 @@
+<map id="IG.Num.NeuralTrainingTableDto" name="IG.Num.NeuralTrainingTableDto">
+<area shape="rect" id="node1" title="Transfer Object (DTO) for neural network training results." alt="" coords="988,121,1191,147"/>
+<area shape="rect" id="node2" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title=" " alt="" coords="622,55,785,96"/>
+<area shape="rect" id="node3" href="$d6/d52/classIG_1_1Num_1_1NeuralTrainingLimitsDto.html" title="Transfer Object (DTO) for neural network training limits." alt="" coords="600,121,807,147"/>
+<area shape="rect" id="node4" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title=" " alt="" coords="216,5,379,47"/>
+<area shape="rect" id="node5" href="$dc/dec/classIG_1_1Lib_1_1VectorDtoBase.html" title="Base class for various vector DTO (Data Transfer Objects) for vectors. Used to store a state of a vec..." alt="" coords="223,199,371,240"/>
+<area shape="rect" id="node7" href="$df/d34/classIG_1_1Num_1_1NeuralTrainingParametersDto.html" title="Transfer Object (DTO) for neural network training set." alt="" coords="584,313,823,339"/>
+<area shape="rect" id="node6" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="5,199,167,240"/>
+<area shape="rect" id="node8" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title=" " alt="" coords="216,349,379,391"/>
+</map>

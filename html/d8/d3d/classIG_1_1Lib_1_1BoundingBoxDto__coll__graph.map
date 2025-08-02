@@ -1,0 +1,4 @@
+<map id="IG.Lib.BoundingBoxDto" name="IG.Lib.BoundingBoxDto">
+<area shape="rect" id="node1" title="Data Transfer Object (DTO) for bounding boxes of type IG.Num.BoundingBox. Used to store,..." alt="" coords="5,95,163,121"/>
+<area shape="rect" id="node2" href="$db/dcd/classIG_1_1Lib_1_1BoundingBoxDtoBase.html" title=" " alt="" coords="9,5,159,47"/>
+</map>

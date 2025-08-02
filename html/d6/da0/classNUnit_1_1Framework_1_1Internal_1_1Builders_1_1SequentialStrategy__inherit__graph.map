@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Internal.Builders.SequentialStrategy" name="NUnit.Framework.Internal.Builders.SequentialStrategy">
+<area shape="rect" id="node1" title="SequentialStrategy creates test cases by using all of the parameter data sources in parallel,..." alt="" coords="5,80,188,121"/>
+<area shape="rect" id="node2" href="$d1/d8b/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ICombiningStrategy.html" title="CombiningStrategy is the abstract base for classes that know how to combine values provided for indiv..." alt="" coords="29,5,164,32"/>
+</map>

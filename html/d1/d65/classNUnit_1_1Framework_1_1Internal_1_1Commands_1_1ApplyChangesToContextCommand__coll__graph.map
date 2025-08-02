@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Internal.Commands.ApplyChangesToContextCommand" name="NUnit.Framework.Internal.Commands.ApplyChangesToContextCommand">
+<area shape="rect" id="node1" title="ContextSettingsCommand applies specified changes to the TestExecutionContext prior to running a test...." alt="" coords="175,213,409,269"/>
+<area shape="rect" id="node2" href="$d7/dcf/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1DelegatingTestCommand.html" title="TODO: Documentation needed for class" alt="" coords="58,117,225,143"/>
+<area shape="rect" id="node3" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="5,13,112,39"/>
+<area shape="rect" id="node4" href="$d9/d0b/classNUnit_1_1Framework_1_1Internal_1_1Commands_1_1TestCommand.html" title="TestCommand is the abstract base class for all test commands in the framework. A TestCommand represen..." alt="" coords="136,5,312,47"/>
+<area shape="rect" id="node5" href="$d9/df2/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IApplyToContext.html" title="The IApplyToContext interface is implemented by attributes that want to make changes to the execution..." alt="" coords="249,109,436,151"/>
+</map>

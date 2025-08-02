@@ -1,0 +1,9 @@
+<map id="AForge.Video.DirectShow.VideoCaptureDevice.Grabber" name="AForge.Video.DirectShow.VideoCaptureDevice.Grabber">
+<area shape="rect" id="node1" title=" " alt="" coords="649,54,837,95"/>
+<area shape="rect" id="node2" title="The interface provides callback methods for the ISampleGrabber.SetCallback method." alt="" coords="406,37,539,64"/>
+<area shape="rect" id="node3" href="$d1/ddf/classAForge_1_1Video_1_1DirectShow_1_1VideoCaptureDevice.html" title="Video source for local video capture device (for example USB webcam)." alt="" coords="385,89,560,130"/>
+<area shape="rect" id="node4" href="$d3/d61/interfaceAForge_1_1Video_1_1IVideoSource.html" title="Video source interface." alt="" coords="43,5,142,32"/>
+<area shape="rect" id="node5" href="$d6/d57/classAForge_1_1Video_1_1DirectShow_1_1VideoCapabilities.html" title="Capabilities of video device such as frame size and frame rate." alt="" coords="5,57,180,98"/>
+<area shape="rect" id="node6" href="$d7/d99/classAForge_1_1Video_1_1DirectShow_1_1VideoInput.html" title="Video input of a capture board." alt="" coords="5,122,180,163"/>
+<area shape="rect" id="node7" title=" " alt="" coords="65,201,120,228"/>
+</map>

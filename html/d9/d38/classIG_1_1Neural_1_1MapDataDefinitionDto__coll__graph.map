@@ -1,0 +1,8 @@
+<map id="IG.Neural.MapDataDefinitionDto" name="IG.Neural.MapDataDefinitionDto">
+<area shape="rect" id="node1" title=" " alt="" coords="587,78,792,105"/>
+<area shape="rect" id="node2" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title=" " alt="" coords="311,5,486,47"/>
+<area shape="rect" id="node3" href="$da/d0a/classIG_1_1Neural_1_1MapImputElementDefinitionDto.html" title="DTO (data transfer object) for neural data input element mapping definition." alt="" coords="306,71,491,112"/>
+<area shape="rect" id="node4" href="$da/db9/classIG_1_1Neural_1_1MapNeuralImputOutputElementDefinitionDto.html" title=" " alt="" coords="11,59,248,115"/>
+<area shape="rect" id="node5" href="$de/de5/classIG_1_1Neural_1_1MapOutputElementDefinitionDto.html" title="DTO (data transfer object) for neural data output element mapping definition." alt="" coords="303,140,495,181"/>
+<area shape="rect" id="node6" href="$da/db9/classIG_1_1Neural_1_1MapNeuralImputOutputElementDefinitionDto.html" title=" " alt="" coords="5,139,253,195"/>
+</map>

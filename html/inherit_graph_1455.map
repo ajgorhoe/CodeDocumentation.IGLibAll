@@ -1,0 +1,34 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d1/d58/interfaceMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1IParameterizedDistribution.html" title="Represents an parameterized likelihood distribution." alt="" coords="272,596,523,637"/>
+<area shape="rect" id="node2" href="$d0/d8e/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1ExponentialDistribution.html" title="Represents an exponential distribution." alt="" coords="583,727,813,768"/>
+<area shape="rect" id="node3" href="$d8/d95/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1LogisticDistribution.html" title="Represents a logistic distribution." alt="" coords="594,465,802,507"/>
+<area shape="rect" id="node4" href="$df/d29/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1LognormalDistribution.html" title="Represents a log&#45;normal distribution." alt="" coords="587,531,809,572"/>
+<area shape="rect" id="node5" href="$df/d92/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1NormalDistribution.html" title="Represents a normal (Gaussian) distribution." alt="" coords="596,596,800,637"/>
+<area shape="rect" id="node6" href="$d1/da4/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1WeibullDistribution.html" title="Represents a Weibull distribution." alt="" coords="595,661,801,703"/>
+<area shape="rect" id="node7" href="$da/d1a/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1UnivariateDistribution.html" title="Represents a probability distribution over a single variable." alt="" coords="5,677,224,719"/>
+<area shape="rect" id="node8" href="$db/d83/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1DiscreteDistribution.html" title="Represents all discrete, univariate probability distrubtions." alt="" coords="292,240,503,281"/>
+<area shape="rect" id="node16" href="$dc/d69/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1Distribution.html" title="Represents all continuous, univariate probability distribution." alt="" coords="311,1085,484,1127"/>
+<area shape="rect" id="node9" href="$de/d24/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1BernoulliDistribution.html" title="Represents a Bernoulli distribution." alt="" coords="591,269,805,311"/>
+<area shape="rect" id="node10" href="$d5/dd8/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1BinomialDistribution.html" title="Represents a discrete binomial distribution." alt="" coords="591,335,805,376"/>
+<area shape="rect" id="node11" href="$dd/dd6/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1DiscreteUniformDistribution.html" title="Describes a discrete uniform distribution." alt="" coords="571,400,825,441"/>
+<area shape="rect" id="node12" href="$d1/dde/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GeometricDistribution.html" title="Represents a geometric distribution." alt="" coords="587,5,809,47"/>
+<area shape="rect" id="node13" href="$d3/d20/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1KolmogorovTwoSampleExactDistribution.html" title=" " alt="" coords="582,71,814,127"/>
+<area shape="rect" id="node14" href="$d4/d92/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1PoissonDistribution.html" title="Represented a Poisson distribution." alt="" coords="593,152,803,193"/>
+<area shape="rect" id="node15" href="$d3/dd6/classTest_1_1DiscreteTestDistribution.html" title=" " alt="" coords="603,218,793,245"/>
+<area shape="rect" id="node17" href="$df/d40/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1BetaDistribution.html" title="Represents a beta distribution." alt="" coords="603,844,793,885"/>
+<area shape="rect" id="node18" href="$dc/d4e/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1CauchyDistribution.html" title="Represents a Cauchy distribution." alt="" coords="595,909,801,951"/>
+<area shape="rect" id="node19" href="$d3/d2a/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1ChiSquaredDistribution.html" title="Represents a &#x3C7;2 distribution." alt="" coords="583,975,813,1016"/>
+<area shape="rect" id="node20" href="$d9/d3d/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1DiscreteAsContinuousDistribution.html" title="Represents a discrete distribution as a continous distribution." alt="" coords="585,1041,811,1097"/>
+<area shape="rect" id="node21" href="$d2/de9/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1FisherDistribution.html" title="Represents the distribution of Fisher&#39;s F&#45;statistic." alt="" coords="599,1121,797,1163"/>
+<area shape="rect" id="node22" href="$d3/dda/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GammaDistribution.html" title="Represents a Gamma distribution." alt="" coords="593,1187,803,1228"/>
+<area shape="rect" id="node23" href="$d0/d08/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1GumbelDistribution.html" title="Represents a Gumbel distribution." alt="" coords="594,1252,802,1293"/>
+<area shape="rect" id="node24" href="$d9/de3/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1KolmogorovDistribution.html" title="Represents the distribution of the Kolmogorov&#45;Smirnov D statistic." alt="" coords="583,1317,813,1359"/>
+<area shape="rect" id="node25" href="$d4/d9b/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1KuiperDistribution.html" title="Represents the asymptotic distribution of Kuiper&#39;s V statistic." alt="" coords="598,1383,798,1424"/>
+<area shape="rect" id="node26" href="$dd/d2f/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1ParetoDistribution.html" title="Represents a Pareto or power law distribution." alt="" coords="597,1448,799,1489"/>
+<area shape="rect" id="node27" href="$da/d77/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1PearsonRDistribution.html" title="Represents the distribution of Pearsons&#39;s r statistic." alt="" coords="588,1513,808,1555"/>
+<area shape="rect" id="node28" href="$d3/d86/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1StudentDistribution.html" title="Represents the distribution of Student&#39;t t statistic." alt="" coords="594,1579,802,1620"/>
+<area shape="rect" id="node29" href="$d2/dab/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1TriangularDistribution.html" title="Represents a triangular distribution." alt="" coords="589,1644,807,1685"/>
+<area shape="rect" id="node30" href="$d7/d9e/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1UniformDistribution.html" title="Represents a uniform distribution over an interval." alt="" coords="595,1709,801,1751"/>
+<area shape="rect" id="node31" href="$d3/d55/classMeta_1_1Numerics_1_1Statistics_1_1Distributions_1_1WaldDistribution.html" title="Represents a Wald distribution." alt="" coords="601,1775,795,1816"/>
+<area shape="rect" id="node32" href="$d6/d2f/classTest_1_1TestDistribution.html" title=" " alt="" coords="627,793,769,819"/>
+</map>

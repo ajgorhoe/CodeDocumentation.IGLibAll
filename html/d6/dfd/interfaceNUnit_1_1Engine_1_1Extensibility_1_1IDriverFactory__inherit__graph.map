@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.Extensibility.IDriverFactory" name="NUnit.Engine.Extensibility.IDriverFactory">
+<area shape="rect" id="node1" title="Interface implemented by a Type that knows how to create a driver for a test assembly." alt="" coords="113,5,290,47"/>
+<area shape="rect" id="node2" href="$dc/dde/classNUnit_1_1Engine_1_1Drivers_1_1NUnit2DriverFactory.html" title=" " alt="" coords="5,95,189,136"/>
+<area shape="rect" id="node3" href="$db/de2/classNUnit_1_1Engine_1_1Drivers_1_1NUnit3DriverFactory.html" title=" " alt="" coords="213,95,397,136"/>
+</map>

@@ -1,0 +1,37 @@
+var classAForge_1_1Controls_1_1ColorSlider =
+[
+    [ "ColorSliderType", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ae1b66de276cb665292b80d8d68de0b78", [
+      [ "Gradient", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ae1b66de276cb665292b80d8d68de0b78a5e59525cb7d1d1cd93be0b9f36e9d09a", null ],
+      [ "InnerGradient", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ae1b66de276cb665292b80d8d68de0b78a710f5f3062f4cd3e653de42483137f06", null ],
+      [ "OuterGradient", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ae1b66de276cb665292b80d8d68de0b78a92b9c33b4761aaf182bf83fa7e685f2d", null ],
+      [ "Threshold", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ae1b66de276cb665292b80d8d68de0b78a2a63f555989152ba866b43a1faacd680", null ]
+    ] ],
+    [ "ColorSlider", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a1762d3e23f69eb49f85374670861856e", null ],
+    [ "Dispose", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a7b05e21115bd0cd10357b028807aaec5", null ],
+    [ "InitializeComponent", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a24c16066cdd5472726a3280205b5879d", null ],
+    [ "ColorSlider_Paint", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a128b162e9bfcb13a954b52691d887d30", null ],
+    [ "ColorSlider_MouseDown", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a84e1c307453f7291833c5b00ae628e01", null ],
+    [ "ColorSlider_MouseUp", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a8da6f2bfc6bce0150d888d4a2c1eb34d", null ],
+    [ "ColorSlider_MouseMove", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ab723cc533605f89b8fd169614be549f9", null ],
+    [ "blackPen", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a0dd92867fce9041e47ee4d5b3d7d968c", null ],
+    [ "startColor", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#af25809ecf82d1aa63cd9a6c1114407b2", null ],
+    [ "endColor", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#aad7c3a79321a4d70c8a9e38808152c3a", null ],
+    [ "fillColor", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a9462a8fb2d74c6e9fc3fc2533874b118", null ],
+    [ "type", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#aa661f5101bd207a9355e4c6f7c5188cb", null ],
+    [ "doubleArrow", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ac971846fea1e161bf9c9f5ba1477cc71", null ],
+    [ "arrow", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#aa77d1b64373b19956af6a32a88975d8c", null ],
+    [ "min", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a02be223ac9a49cfe08039947aba8e674", null ],
+    [ "max", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#af90b9e84a501e7aa54e616b9479a412a", null ],
+    [ "width", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#af80e51f8f434ba0f3677f754566a99aa", null ],
+    [ "height", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#adb135eb2514a90fa8db6a44bdd5d8864", null ],
+    [ "trackMode", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ada7159aa09302fd5f4d282469a4098f3", null ],
+    [ "dx", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#aaf14e8da597abdaab2a6daa8970657c6", null ],
+    [ "StartColor", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a6a347d2981da69b98acef45dd3327113", null ],
+    [ "EndColor", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#aa77ea1025e0227dac8b0faa5dd4e0745", null ],
+    [ "FillColor", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a8d5087ca76a48fd6ccf8c3639dad76e0", null ],
+    [ "Type", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#aaf07016a0bc207764f6958e000344867", null ],
+    [ "Min", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ac90c28add17e3703990123c5dade2326", null ],
+    [ "Max", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#ae565c993fd34cf9e1d3f70549d45946d", null ],
+    [ "DoubleArrow", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a93ee972f10dda082a7f6a6af83935a68", null ],
+    [ "ValuesChanged", "d0/d18/classAForge_1_1Controls_1_1ColorSlider.html#a4df3a258669651f7bd4f2ac2a18e4bcd", null ]
+];

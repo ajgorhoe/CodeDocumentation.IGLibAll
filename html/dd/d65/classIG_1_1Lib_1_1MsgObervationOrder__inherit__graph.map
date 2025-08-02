@@ -1,0 +1,5 @@
+<map id="IG.Lib.MsgObervationOrder" name="IG.Lib.MsgObervationOrder">
+<area shape="rect" id="node1" title="Class for holding and manipulating the data about observation order. Includes parsing an XML file,..." alt="" coords="5,155,184,181"/>
+<area shape="rect" id="node2" href="$d8/d6e/classIG_1_1Lib_1_1MsgBase.html" title="Base class for all messages." alt="" coords="56,80,133,107"/>
+<area shape="rect" id="node3" href="$da/dac/classIG_1_1Lib_1_1ParsableXmlObject.html" title="Base class for data classes that support writing data to / reading from custom XML files,..." alt="" coords="29,5,161,32"/>
+</map>

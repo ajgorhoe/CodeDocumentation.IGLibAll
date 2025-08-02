@@ -1,0 +1,6 @@
+<map id="AForge.Neuro.ActivationNeuron" name="AForge.Neuro.ActivationNeuron">
+<area shape="rect" id="node1" title="Activation neuron" alt="" coords="39,213,242,240"/>
+<area shape="rect" id="node2" href="$d9/d64/classAForge_1_1Neuro_1_1Neuron.html" title="Base neuron class" alt="" coords="5,117,68,143"/>
+<area shape="rect" id="node3" title=" " alt="" coords="9,5,64,32"/>
+<area shape="rect" id="node4" href="$df/d86/interfaceAForge_1_1Neuro_1_1IActivationFunction.html" title="Activation function interface" alt="" coords="93,109,258,151"/>
+</map>

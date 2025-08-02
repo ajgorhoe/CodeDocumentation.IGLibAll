@@ -1,0 +1,7 @@
+<map id="NUnit.Framework.Constraints.EqualityAdapter.GenericEqualityAdapter&lt; T &gt;" name="NUnit.Framework.Constraints.EqualityAdapter.GenericEqualityAdapter&lt; T &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="168,63,379,119"/>
+<area shape="rect" id="node3" href="$d0/d81/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter_1_1ComparerAdapter.html" title="EqualityAdapter that wraps an IComparer." alt="" coords="433,5,695,47"/>
+<area shape="rect" id="node4" href="$db/d9e/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter_1_1ComparisonAdapter.html" title=" " alt="" coords="427,71,701,112"/>
+<area shape="rect" id="node5" href="$d2/dda/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter_1_1EqualityComparerAdapter.html" title=" " alt="" coords="447,137,681,193"/>
+<area shape="rect" id="node2" href="$da/d28/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter.html" title="EqualityAdapter class handles all equality comparisons that use an IEqualityComparer,..." alt="" coords="5,78,120,105"/>
+</map>

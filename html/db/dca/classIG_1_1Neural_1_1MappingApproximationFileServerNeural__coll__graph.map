@@ -1,0 +1,10 @@
+<map id="IG.Neural.MappingApproximationFileServerNeural" name="IG.Neural.MappingApproximationFileServerNeural">
+<area shape="rect" id="node1" title="Class for mapping file server." alt="" coords="900,61,1112,103"/>
+<area shape="rect" id="node2" href="$d2/dba/classIG_1_1Neural_1_1ApproximationFileServerNeural.html" title="Class for approximation file server." alt="" coords="515,35,713,62"/>
+<area shape="rect" id="node3" href="$d5/de7/classIG_1_1Neural_1_1NeuraApproximationFileManager.html" title="File manager for neural network approximation file client and server." alt="" coords="139,5,336,47"/>
+<area shape="rect" id="node4" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="5,39,83,66"/>
+<area shape="rect" id="node6" href="$d5/de7/classIG_1_1Neural_1_1NeuraApproximationFileManager.html" title="File manager for neural network approximation file client and server." alt="" coords="132,71,343,98"/>
+<area shape="rect" id="node5" href="$de/d55/classIG_1_1Neural_1_1MappingApproximationFileManager.html" title="File manager for mapping file client and server." alt="" coords="508,105,720,147"/>
+<area shape="rect" id="node7" href="$d0/d0b/interfaceIG_1_1Neural_1_1IDataMapper.html" title=" " alt="" coords="161,122,314,149"/>
+<area shape="rect" id="node8" title=" " alt="" coords="210,173,265,199"/>
+</map>

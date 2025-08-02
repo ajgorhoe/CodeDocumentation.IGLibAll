@@ -1,0 +1,5 @@
+<map id="AForge.Imaging.ImageStatisticsYCbCr" name="AForge.Imaging.ImageStatisticsYCbCr">
+<area shape="rect" id="node1" title="Gather statistics about image in YCbCr color space." alt="" coords="15,257,221,299"/>
+<area shape="rect" id="node2" href="$d9/d5d/classAForge_1_1Math_1_1ContinuousHistogram.html" title="Histogram for continuous random values." alt="" coords="5,95,231,121"/>
+<area shape="rect" id="node3" href="$dd/de1/structAForge_1_1Range.html" title="Represents a range with minimum and maximum values, which are single precision numbers (floats)." alt="" coords="65,5,171,32"/>
+</map>

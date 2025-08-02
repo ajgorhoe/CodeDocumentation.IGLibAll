@@ -1,0 +1,5 @@
+<map id="IG.Lib.ThreadPerformanceTest" name="IG.Lib.ThreadPerformanceTest">
+<area shape="rect" id="node1" title="Used to measure performance of the currend thread. A standard unit operation is provided for which nu..." alt="" coords="81,109,278,136"/>
+<area shape="rect" id="node2" href="$d9/d2b/structIG_1_1Lib_1_1ThreadPerformanceData.html" title="Stores results of performance test." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="228,5,283,32"/>
+</map>

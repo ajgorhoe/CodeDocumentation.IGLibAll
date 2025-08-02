@@ -1,0 +1,14 @@
+<map id="AForge.Imaging.Filters.ErrorDiffusionDithering" name="AForge.Imaging.Filters.ErrorDiffusionDithering">
+<area shape="rect" id="node1" title="Base class for error diffusion dithering." alt="" coords="397,136,583,177"/>
+<area shape="rect" id="node7" href="$d6/d91/classAForge_1_1Imaging_1_1Filters_1_1ErrorDiffusionToAdjacentNeighbors.html" title="Base class for error diffusion dithering, where error is diffused to adjacent neighbor pixels." alt="" coords="631,136,825,177"/>
+<area shape="rect" id="node2" href="$db/dc9/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlacePartialFilter.html" title="Base class for filters, which may be applied directly to the source image or its part." alt="" coords="188,143,349,170"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="45,67,100,94"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="24,118,121,145"/>
+<area shape="rect" id="node5" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="5,169,140,195"/>
+<area shape="rect" id="node6" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="14,219,131,246"/>
+<area shape="rect" id="node8" href="$d2/d1c/classAForge_1_1Imaging_1_1Filters_1_1BurkesDithering.html" title="Dithering using Burkes error diffusion." alt="" coords="873,5,1072,47"/>
+<area shape="rect" id="node9" href="$d0/d91/classAForge_1_1Imaging_1_1Filters_1_1FloydSteinbergDithering.html" title="Dithering using Floyd&#45;Steinberg error diffusion." alt="" coords="878,71,1067,112"/>
+<area shape="rect" id="node10" href="$da/dc9/classAForge_1_1Imaging_1_1Filters_1_1JarvisJudiceNinkeDithering.html" title="Dithering using Jarvis, Judice and Ninke error diffusion." alt="" coords="878,136,1067,177"/>
+<area shape="rect" id="node11" href="$d8/dce/classAForge_1_1Imaging_1_1Filters_1_1SierraDithering.html" title="Dithering using Sierra error diffusion." alt="" coords="877,201,1068,243"/>
+<area shape="rect" id="node12" href="$d6/dba/classAForge_1_1Imaging_1_1Filters_1_1StuckiDithering.html" title="Dithering using Stucki error diffusion." alt="" coords="875,267,1070,308"/>
+</map>

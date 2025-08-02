@@ -1,0 +1,32 @@
+<map id="AForge.Imaging.Filters.BaseUsingCopyPartialFilter" name="AForge.Imaging.Filters.BaseUsingCopyPartialFilter">
+<area shape="rect" id="node1" title="Base class for filters, which require source image backup to make them applicable to source image (or..." alt="" coords="188,559,375,600"/>
+<area shape="rect" id="node6" href="$d9/dbf/classAForge_1_1Imaging_1_1Filters_1_1AdaptiveSmoothing.html" title="Adaptive Smoothing &#45; noise removal with edges preserving." alt="" coords="435,5,642,47"/>
+<area shape="rect" id="node7" href="$d5/d4d/classAForge_1_1Imaging_1_1Filters_1_1BilateralSmoothing.html" title="Bilateral filter implementation &#45; edge preserving smoothing and noise reduction that uses chromatic a..." alt="" coords="437,71,641,112"/>
+<area shape="rect" id="node8" href="$d1/d37/classAForge_1_1Imaging_1_1Filters_1_1BinaryDilatation3x3.html" title="Binary dilatation operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="441,136,636,177"/>
+<area shape="rect" id="node9" href="$dd/de9/classAForge_1_1Imaging_1_1Filters_1_1BinaryErosion3x3.html" title="Binary erosion operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="441,201,636,243"/>
+<area shape="rect" id="node10" href="$d0/d3c/classAForge_1_1Imaging_1_1Filters_1_1CannyEdgeDetector.html" title="Canny edge detector." alt="" coords="441,267,636,308"/>
+<area shape="rect" id="node11" href="$d8/dbe/classAForge_1_1Imaging_1_1Filters_1_1ConservativeSmoothing.html" title="Conservative smoothing." alt="" coords="424,332,653,373"/>
+<area shape="rect" id="node12" href="$d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html" title="Convolution filter." alt="" coords="427,398,650,425"/>
+<area shape="rect" id="node19" href="$d2/d2c/classAForge_1_1Imaging_1_1Filters_1_1DifferenceEdgeDetector.html" title="Difference edge detector." alt="" coords="431,449,646,491"/>
+<area shape="rect" id="node20" href="$db/de4/classAForge_1_1Imaging_1_1Filters_1_1Dilatation.html" title="Dilatation operator from Mathematical Morphology." alt="" coords="433,515,644,542"/>
+<area shape="rect" id="node21" href="$d8/dff/classAForge_1_1Imaging_1_1Filters_1_1Dilatation3x3.html" title="Dilatation operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="423,566,655,593"/>
+<area shape="rect" id="node22" href="$da/dce/classAForge_1_1Imaging_1_1Filters_1_1Erosion.html" title="Erosion operator from Mathematical Morphology." alt="" coords="438,617,639,643"/>
+<area shape="rect" id="node23" href="$de/dff/classAForge_1_1Imaging_1_1Filters_1_1Erosion3x3.html" title="Erosion operator from Mathematical Morphology with 3x3 structuring element." alt="" coords="427,667,650,694"/>
+<area shape="rect" id="node24" href="$dd/dec/classAForge_1_1Imaging_1_1Filters_1_1HitAndMiss.html" title="Hit&#45;And&#45;Miss operator from Mathematical Morphology." alt="" coords="452,719,625,760"/>
+<area shape="rect" id="node25" href="$d5/dc7/classAForge_1_1Imaging_1_1Filters_1_1HomogenityEdgeDetector.html" title="Homogenity edge detector." alt="" coords="425,784,652,825"/>
+<area shape="rect" id="node26" href="$d7/dea/classAForge_1_1Imaging_1_1Filters_1_1Jitter.html" title="Jitter filter." alt="" coords="446,850,631,877"/>
+<area shape="rect" id="node27" href="$dd/d3f/classAForge_1_1Imaging_1_1Filters_1_1Median.html" title="Median filter." alt="" coords="439,901,638,927"/>
+<area shape="rect" id="node28" href="$d0/df3/classAForge_1_1Imaging_1_1Filters_1_1OilPainting.html" title="Oil painting filter." alt="" coords="452,952,625,993"/>
+<area shape="rect" id="node29" href="$d7/d57/classAForge_1_1Imaging_1_1Filters_1_1SimpleSkeletonization.html" title="Simple skeletonization filter." alt="" coords="440,1017,637,1059"/>
+<area shape="rect" id="node30" href="$de/d68/classAForge_1_1Imaging_1_1Filters_1_1SobelEdgeDetector.html" title="Sobel edge detector." alt="" coords="443,1083,634,1124"/>
+<area shape="rect" id="node2" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="45,490,100,517"/>
+<area shape="rect" id="node3" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="24,541,121,567"/>
+<area shape="rect" id="node4" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="5,591,140,618"/>
+<area shape="rect" id="node5" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="14,642,131,669"/>
+<area shape="rect" id="node13" href="$de/d07/classAForge_1_1Imaging_1_1Filters_1_1Blur.html" title="Blur filter." alt="" coords="730,267,910,294"/>
+<area shape="rect" id="node14" href="$d2/da1/classAForge_1_1Imaging_1_1Filters_1_1Edges.html" title="Simple edge detector." alt="" coords="723,318,917,345"/>
+<area shape="rect" id="node15" href="$d2/d3a/classAForge_1_1Imaging_1_1Filters_1_1GaussianBlur.html" title="Gaussian blur filter." alt="" coords="703,369,937,395"/>
+<area shape="rect" id="node16" href="$d9/d00/classAForge_1_1Imaging_1_1Filters_1_1GaussianSharpen.html" title="Gaussian sharpen filter." alt="" coords="714,420,926,461"/>
+<area shape="rect" id="node17" href="$d5/dc7/classAForge_1_1Imaging_1_1Filters_1_1Mean.html" title="Mean filter." alt="" coords="725,486,915,513"/>
+<area shape="rect" id="node18" href="$dc/d8f/classAForge_1_1Imaging_1_1Filters_1_1Sharpen.html" title="Sharpen filter" alt="" coords="717,537,923,563"/>
+</map>

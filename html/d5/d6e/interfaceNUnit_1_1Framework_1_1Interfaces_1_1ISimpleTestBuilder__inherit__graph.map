@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Interfaces.ISimpleTestBuilder" name="NUnit.Framework.Interfaces.ISimpleTestBuilder">
+<area shape="rect" id="node1" title="The ISimpleTestBuilder interface is exposed by a class that knows how to build a single TestMethod fr..." alt="" coords="12,5,199,47"/>
+<area shape="rect" id="node2" href="$dd/d34/classNUnit_1_1Framework_1_1TestAttribute.html" title="Adding this attribute to a method within a TestFixtureAttributeclass makes the method callable from t..." alt="" coords="5,95,205,121"/>
+<area shape="rect" id="node3" href="$d4/dd4/classNUnit_1_1TestData_1_1AttributeInheritanceData_1_1SpecAttribute.html" title=" " alt="" coords="8,169,203,211"/>
+</map>

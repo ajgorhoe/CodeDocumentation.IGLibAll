@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/d27/interfaceAForge_1_1Imaging_1_1Formats_1_1IImageDecoder.html" title="Image decoder interface, which specifies set of methods, which should be implemented by image decoder..." alt="" coords="5,23,212,65"/>
+<area shape="rect" id="node2" href="$df/df6/classAForge_1_1Imaging_1_1Formats_1_1FITSCodec.html" title="FITS image format decoder." alt="" coords="261,5,494,32"/>
+<area shape="rect" id="node3" href="$d7/dbe/classAForge_1_1Imaging_1_1Formats_1_1PNMCodec.html" title="PNM image format decoder." alt="" coords="260,56,495,83"/>
+</map>

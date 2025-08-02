@@ -1,0 +1,6 @@
+<map id="IG.Num.VectorStore&lt; T &gt;" name="IG.Num.VectorStore&lt; T &gt;">
+<area shape="rect" id="node1" title="Vector store." alt="" coords="5,155,176,181"/>
+<area shape="rect" id="node2" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="52,5,129,32"/>
+<area shape="rect" id="node3" href="$d7/d24/classIG_1_1Lib_1_1ObjectStore.html" title="Object store. Objects of the specified type can be stored here for later reuse (efficiency improvemen..." alt="" coords="140,80,263,107"/>
+<area shape="rect" id="node4" href="$d5/dd6/interfaceIG_1_1Lib_1_1IObjectStore.html" title="Object store. Objects of the specified type can be stored here for later reuse (efficiency improvemen..." alt="" coords="153,5,279,32"/>
+</map>

@@ -1,0 +1,4 @@
+var classNUnit_1_1Framework_1_1Constraints_1_1CollectionSupersetConstraintTests_1_1IgnoreCaseDataProvider =
+[
+    [ "TestCases", "d3/de5/classNUnit_1_1Framework_1_1Constraints_1_1CollectionSupersetConstraintTests_1_1IgnoreCaseDataProvider.html#a393e9ae170a025fd9c1a640c7890950d", null ]
+];

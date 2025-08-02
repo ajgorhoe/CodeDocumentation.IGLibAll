@@ -1,0 +1,7 @@
+<map id="AForge.Vision.Motion.MotionDetector" name="AForge.Vision.Motion.MotionDetector">
+<area shape="rect" id="node1" title="Motion detection wrapper class, which performs motion detection and processing." alt="" coords="463,71,653,112"/>
+<area shape="rect" id="node2" href="$d0/d77/classAForge_1_1Imaging_1_1UnmanagedImage.html" title="Image in unmanaged memory." alt="" coords="147,5,334,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,13,95,39"/>
+<area shape="rect" id="node4" href="$d2/d43/interfaceAForge_1_1Vision_1_1Motion_1_1IMotionDetector.html" title="Interface of motion detector algorithm." alt="" coords="144,71,337,112"/>
+<area shape="rect" id="node5" href="$d2/d4b/interfaceAForge_1_1Vision_1_1Motion_1_1IMotionProcessing.html" title="Interface of motion processing algorithm." alt="" coords="144,136,337,177"/>
+</map>

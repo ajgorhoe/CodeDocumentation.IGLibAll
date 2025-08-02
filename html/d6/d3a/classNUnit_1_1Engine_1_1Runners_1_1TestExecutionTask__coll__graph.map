@@ -1,0 +1,10 @@
+<map id="NUnit.Engine.Runners.TestExecutionTask" name="NUnit.Engine.Runners.TestExecutionTask">
+<area shape="rect" id="node1" title=" " alt="" coords="495,99,673,141"/>
+<area shape="rect" id="node2" href="$d6/de0/interfaceNUnit_1_1Engine_1_1Runners_1_1ITestExecutionTask.html" title=" " alt="" coords="221,5,357,32"/>
+<area shape="rect" id="node3" href="$d1/d83/interfaceNUnit_1_1Engine_1_1ITestEventListener.html" title="The ITestListener interface is used to receive notices of significant events while a test is running...." alt="" coords="185,56,393,83"/>
+<area shape="rect" id="node4" href="$d7/d8e/classNUnit_1_1Engine_1_1TestFilter.html" title="Abstract base for all test filters. A filter is represented by an XmlNode with &lt;filter&gt; as it&#39;s topmo..." alt="" coords="211,107,367,133"/>
+<area shape="rect" id="node5" title=" " alt="" coords="23,107,77,133"/>
+<area shape="rect" id="node6" href="$dc/df0/classNUnit_1_1Engine_1_1TestEngineResult.html" title="Wrapper class for the xml&#45;formatted results produced by the test engine for most operations...." alt="" coords="187,157,391,184"/>
+<area shape="rect" id="node7" href="$d3/df0/interfaceNUnit_1_1Engine_1_1ITestEngineRunner.html" title="Interface implemented by all internal test runners in the engine, allowing them to pass back TestEngi..." alt="" coords="204,209,375,250"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,216,95,243"/>
+</map>

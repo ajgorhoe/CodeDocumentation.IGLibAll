@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.Internal.TestFixture" name="NUnit.Framework.Internal.TestFixture">
+<area shape="rect" id="node1" title="TestFixture is a surrogate for a user test fixture class, containing one or more tests." alt="" coords="89,304,261,345"/>
+<area shape="rect" id="node2" href="$d4/dec/classNUnit_1_1Framework_1_1Internal_1_1TestSuite.html" title="TestSuite represents a composite test, which contains other tests." alt="" coords="73,229,150,256"/>
+<area shape="rect" id="node3" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework." alt="" coords="88,155,135,181"/>
+<area shape="rect" id="node4" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields...." alt="" coords="38,80,89,107"/>
+<area shape="rect" id="node5" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="113,80,208,107"/>
+<area shape="rect" id="node7" title="Any ITest that implements this interface is at a level that the implementing class should be disposed..." alt="" coords="175,229,304,256"/>
+</map>

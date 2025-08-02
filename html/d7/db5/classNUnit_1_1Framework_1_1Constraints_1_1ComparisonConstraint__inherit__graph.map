@@ -1,0 +1,10 @@
+<map id="NUnit.Framework.Constraints.ComparisonConstraint" name="NUnit.Framework.Constraints.ComparisonConstraint">
+<area shape="rect" id="node1" title="Abstract base class for constraints that compare _values to determine if one is greater than,..." alt="" coords="444,104,640,145"/>
+<area shape="rect" id="node5" href="$d1/dd0/classNUnit_1_1Framework_1_1Constraints_1_1GreaterThanConstraint.html" title="Tests whether a value is greater than the value supplied to its constructor" alt="" coords="689,5,885,47"/>
+<area shape="rect" id="node6" href="$d3/d81/classNUnit_1_1Framework_1_1Constraints_1_1GreaterThanOrEqualConstraint.html" title="Tests whether a value is greater than or equal to the value supplied to its constructor" alt="" coords="688,71,887,112"/>
+<area shape="rect" id="node7" href="$df/d48/classNUnit_1_1Framework_1_1Constraints_1_1LessThanConstraint.html" title="Tests whether a value is less than the value supplied to its constructor" alt="" coords="689,136,885,177"/>
+<area shape="rect" id="node8" href="$d2/d5a/classNUnit_1_1Framework_1_1Constraints_1_1LessThanOrEqualConstraint.html" title="Tests whether a value is less than or equal to the value supplied to its constructor" alt="" coords="689,201,885,243"/>
+<area shape="rect" id="node2" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="315,111,396,138"/>
+<area shape="rect" id="node3" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="183,111,267,138"/>
+<area shape="rect" id="node4" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="5,111,135,138"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="NUnitLite.OutputWriter" name="NUnitLite.OutputWriter">
+<area shape="rect" id="node1" title="OutputWriter is an abstract class used to write test results to a file in various formats...." alt="" coords="5,78,159,105"/>
+<area shape="rect" id="node2" href="$d8/d92/classNUnitLite_1_1NUnit2XmlOutputWriter.html" title="NUnit2XmlOutputWriter is able to create an xml file representing the result of a test run in NUnit 2...." alt="" coords="207,5,385,47"/>
+<area shape="rect" id="node3" href="$de/df0/classNUnitLite_1_1NUnit3XmlOutputWriter.html" title="NUnit3XmlOutputWriter is responsible for writing the results of a test to a file in NUnit 3...." alt="" coords="207,71,385,112"/>
+<area shape="rect" id="node4" href="$d4/de3/classNUnitLite_1_1TestCaseOutputWriter.html" title="TestCaseOutputWriter lists test cases" alt="" coords="209,136,383,177"/>
+</map>

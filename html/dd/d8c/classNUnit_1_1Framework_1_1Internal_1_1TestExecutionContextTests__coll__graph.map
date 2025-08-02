@@ -1,0 +1,16 @@
+<map id="NUnit.Framework.Internal.TestExecutionContextTests" name="NUnit.Framework.Internal.TestExecutionContextTests">
+<area shape="rect" id="node1" title="Summary description for TestExecutionContextTests." alt="" coords="1204,167,1387,209"/>
+<area shape="rect" id="node2" href="$dc/d67/classNUnit_1_1Framework_1_1Internal_1_1TestExecutionContext.html" title="Helper class used to save and restore certain static or singleton settings in the environment that af..." alt="" coords="899,167,1071,209"/>
+<area shape="rect" id="node3" href="$d8/d34/classNUnit_1_1Framework_1_1Compatibility_1_1LongLivedMarshalByRefObject.html" title="A MarshalByRefObject that lives forever" alt="" coords="537,5,735,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="171,5,312,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="558,56,714,83"/>
+<area shape="rect" id="node6" href="$d3/d0a/classNUnit_1_1Framework_1_1Internal_1_1Randomizer.html" title="Randomizer returns a set of random _values in a repeatable way, to allow re&#45;running of tests if neces..." alt="" coords="550,107,722,149"/>
+<area shape="rect" id="node7" title=" " alt="" coords="206,81,277,108"/>
+<area shape="rect" id="node8" title=" " alt="" coords="214,175,269,201"/>
+<area shape="rect" id="node9" href="$dd/dfe/classNUnit_1_1Framework_1_1Internal_1_1TestResult.html" title="The TestResult class represents the result of a test." alt="" coords="550,237,722,278"/>
+<area shape="rect" id="node10" href="$d2/df9/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestResult.html" title="The ITestResult interface represents the result of a test." alt="" coords="198,260,285,287"/>
+<area shape="rect" id="node11" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,260,121,287"/>
+<area shape="rect" id="node12" title=" " alt="" coords="208,311,275,337"/>
+<area shape="rect" id="node13" href="$d0/d90/interfaceNUnit_1_1Framework_1_1Internal_1_1Execution_1_1IWorkItemDispatcher.html" title="An IWorkItemDispatcher handles execution of work items." alt="" coords="533,302,739,343"/>
+<area shape="rect" id="node14" href="$de/d53/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestListener.html" title="The ITestListener interface is used internally to receive notifications of significant events while a..." alt="" coords="543,367,729,409"/>
+</map>

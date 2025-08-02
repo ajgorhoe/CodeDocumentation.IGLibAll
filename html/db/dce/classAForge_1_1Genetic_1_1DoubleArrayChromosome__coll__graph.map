@@ -1,0 +1,8 @@
+<map id="AForge.Genetic.DoubleArrayChromosome" name="AForge.Genetic.DoubleArrayChromosome">
+<area shape="rect" id="node1" title="Double array chromosome." alt="" coords="167,291,355,332"/>
+<area shape="rect" id="node2" href="$df/da8/classAForge_1_1Genetic_1_1ChromosomeBase.html" title="Chromosomes&#39; base class." alt="" coords="5,165,135,191"/>
+<area shape="rect" id="node3" href="$d4/d66/interfaceAForge_1_1Genetic_1_1IChromosome.html" title="Chromosome interface." alt="" coords="19,81,121,108"/>
+<area shape="rect" id="node4" title=" " alt="" coords="23,5,117,32"/>
+<area shape="rect" id="node5" href="$db/d07/interfaceAForge_1_1Math_1_1Random_1_1IRandomNumberGenerator.html" title="Interface for random numbers generators." alt="" coords="159,157,363,199"/>
+<area shape="rect" id="node6" title=" " alt="" coords="424,165,479,191"/>
+</map>

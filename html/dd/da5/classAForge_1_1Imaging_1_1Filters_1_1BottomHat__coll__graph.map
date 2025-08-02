@@ -1,0 +1,16 @@
+<map id="AForge.Imaging.Filters.BottomHat" name="AForge.Imaging.Filters.BottomHat">
+<area shape="rect" id="node1" title="Bottop&#45;hat operator from Mathematical Morphology." alt="" coords="1196,90,1415,117"/>
+<area shape="rect" id="node2" href="$d6/d11/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlaceFilter.html" title="Base class for filters, which may be applied directly to the source image." alt="" coords="221,90,345,117"/>
+<area shape="rect" id="node7" href="$dc/df2/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlaceFilter2.html" title="Base class for filters, which operate with two images of the same size and format and may be applied ..." alt="" coords="613,39,744,66"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="45,257,100,283"/>
+<area shape="rect" id="node10" href="$d4/dcd/classAForge_1_1Imaging_1_1Filters_1_1Closing.html" title="Closing operator from Mathematical Morphology." alt="" coords="893,267,1093,294"/>
+<area shape="rect" id="node13" href="$d8/ddf/classAForge_1_1Imaging_1_1Filters_1_1BaseUsingCopyPartialFilter.html" title="Base class for filters, which require source image backup to make them applicable to source image (or..." alt="" coords="192,310,373,337"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="24,323,121,350"/>
+<area shape="rect" id="node5" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="14,123,131,150"/>
+<area shape="rect" id="node6" href="$de/df6/classAForge_1_1Imaging_1_1Filters_1_1Subtract.html" title="Subtract filter &#45; subtract pixel values of two images." alt="" coords="889,39,1096,66"/>
+<area shape="rect" id="node8" href="$d0/d77/classAForge_1_1Imaging_1_1UnmanagedImage.html" title="Image in unmanaged memory." alt="" coords="189,5,376,47"/>
+<area shape="rect" id="node9" title=" " alt="" coords="28,13,117,39"/>
+<area shape="rect" id="node11" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="5,418,140,445"/>
+<area shape="rect" id="node12" href="$da/dce/classAForge_1_1Imaging_1_1Filters_1_1Erosion.html" title="Erosion operator from Mathematical Morphology." alt="" coords="578,267,779,294"/>
+<area shape="rect" id="node14" href="$db/de4/classAForge_1_1Imaging_1_1Filters_1_1Dilatation.html" title="Dilatation operator from Mathematical Morphology." alt="" coords="573,318,784,345"/>
+</map>

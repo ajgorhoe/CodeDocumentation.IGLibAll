@@ -1,0 +1,27 @@
+var classNUnit_1_1Framework_1_1Interfaces_1_1TNode =
+[
+    [ "NodeFilter", "d5/db2/classNUnit_1_1Framework_1_1Interfaces_1_1TNode_1_1NodeFilter.html", "d5/db2/classNUnit_1_1Framework_1_1Interfaces_1_1TNode_1_1NodeFilter" ],
+    [ "TNode", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a3fa981c4a7bab391bf9edcfe68ba60a7", null ],
+    [ "TNode", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#aa1052f4c19e5a2a6adfa07845b07c251", null ],
+    [ "TNode", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a239c81dd524485878a7678ce676f699c", null ],
+    [ "FromXml", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a2b250e351ea95cb232f53b3d5a454eea", null ],
+    [ "AddElement", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a36c19e154b2906fa96df34dce794989b", null ],
+    [ "AddElement", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a488e74cabd7a161ab636fc6044340f33", null ],
+    [ "AddElementWithCDATA", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a8eff0ee02e185cf3ea871e95c5556122", null ],
+    [ "AddAttribute", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a5f09becb5d9deae2b5f54bcb2d001966", null ],
+    [ "SelectSingleNode", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#ac6997d77ce86d4b1b2173b68792e94d1", null ],
+    [ "SelectNodes", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a068758594b8793571d26f12a4a2857bf", null ],
+    [ "WriteTo", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a4e13b32f9aafd76ddbd25396c1195dd9", null ],
+    [ "FromXml", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a9d1b9f21fb5dc676689898703d5a9c11", null ],
+    [ "ApplySelection", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a8871e56477d63fe95bd2b3075f586c7d", null ],
+    [ "EscapeInvalidXmlCharacters", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#aeb6abdf7a5b185d854cca1b2c4999a5c", null ],
+    [ "CharToUnicodeSequence", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#ae451256fc31fbe3fb608d60accaf7444", null ],
+    [ "WriteCDataTo", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a2d0695df7fbb9565acf820ba67adc1e6", null ],
+    [ "Name", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a7ca04d25afa55a8e9c0637c78a634516", null ],
+    [ "Value", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a1ed2090532e954a53df1ed554fc22cc1", null ],
+    [ "ValueIsCDATA", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a96d3896e13be1ebf16580d392ba29e34", null ],
+    [ "Attributes", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a91041c9624fa5ad638092d144c82ffa2", null ],
+    [ "ChildNodes", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#a8f2683b146c835394e68de37e61c0dde", null ],
+    [ "FirstChild", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#ad07881ae104791490eb4bb422cde50ec", null ],
+    [ "OuterXml", "d1/d42/classNUnit_1_1Framework_1_1Interfaces_1_1TNode.html#aa52787caf60198c49bea71fb0e1e5fc9", null ]
+];

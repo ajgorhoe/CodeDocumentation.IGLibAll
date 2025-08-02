@@ -1,0 +1,9 @@
+<map id="AForge.Imaging.Filters.Edges" name="AForge.Imaging.Filters.Edges">
+<area shape="rect" id="node1" title="Simple edge detector." alt="" coords="105,229,299,256"/>
+<area shape="rect" id="node2" href="$d7/d01/classAForge_1_1Imaging_1_1Filters_1_1Convolution.html" title="Convolution filter." alt="" coords="158,155,246,181"/>
+<area shape="rect" id="node3" href="$d8/ddf/classAForge_1_1Imaging_1_1Filters_1_1BaseUsingCopyPartialFilter.html" title="Base class for filters, which require source image backup to make them applicable to source image (or..." alt="" coords="111,80,293,107"/>
+<area shape="rect" id="node4" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node5" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="84,5,181,32"/>
+<area shape="rect" id="node6" href="$d2/d66/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlacePartialFilter.html" title="In&#45;place partial filter interface." alt="" coords="205,5,340,32"/>
+<area shape="rect" id="node7" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="365,5,482,32"/>
+</map>

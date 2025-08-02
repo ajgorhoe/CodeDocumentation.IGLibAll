@@ -1,0 +1,17 @@
+<map id="IG.Gr3d.Graph3dManipulatorExtended" name="IG.Gr3d.Graph3dManipulatorExtended">
+<area shape="rect" id="node1" title="Extended control for manipulation of 3D VTK graphics. Contains the standard control plus additional b..." alt="" coords="2085,389,2272,430"/>
+<area shape="rect" id="node2" title=" " alt="" coords="326,595,417,621"/>
+<area shape="rect" id="node5" href="$d5/daf/classIG_1_1Gr3d_1_1Graph3dManipulatorBasic.html" title="Basic manipulation of VTK&#45;based 3D hraphs." alt="" coords="1693,431,1880,473"/>
+<area shape="rect" id="node10" href="$d1/db7/classIG_1_1Gr3d_1_1VtkControlBase.html" title="Basic control encapsulating the VTK&#39;s render control of type Kitware.VTK.RenderWindowControl." alt="" coords="671,777,833,804"/>
+<area shape="rect" id="node15" href="$d8/d45/classIG_1_1Gr3d_1_1Graph3dManipulator.html" title="Basic control for manipulating 3D graphics." alt="" coords="972,388,1159,415"/>
+<area shape="rect" id="node3" href="$dc/d11/interfaceIG_1_1Gr3d_1_1IVtkFormContainer.html" title="This interface is implemented by the forms that contain the VTK control that can render VTK graphics." alt="" coords="663,109,841,136"/>
+<area shape="rect" id="node6" href="$d9/d71/classIG_1_1Gr3d_1_1Graph3dManipulatorWindow.html" title="A form for manipulation of 3D graphics." alt="" coords="1333,441,1520,482"/>
+<area shape="rect" id="node4" href="$d3/d6e/interfaceIG_1_1Gr3d_1_1IVtkFormContainerGen.html" title=" " alt="" coords="5,186,256,227"/>
+<area shape="rect" id="node11" href="$dc/d11/interfaceIG_1_1Gr3d_1_1IVtkFormContainer.html" title="This interface is implemented by the forms that contain the VTK control that can render VTK graphics." alt="" coords="306,819,437,845"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1039,489,1091,516"/>
+<area shape="rect" id="node8" href="$d3/d68/interfaceIG_1_1Forms_1_1IClosableFromContainedForm.html" title="Marker interface indicating that a form can be closed from the contained control." alt="" coords="980,541,1151,582"/>
+<area shape="rect" id="node9" title=" " alt="" coords="338,388,405,415"/>
+<area shape="rect" id="node12" href="$d5/def/interfaceIG_1_1Gr3d_1_1I3dGraphicsControl.html" title="Interface for 3D graphics controls that can be manipulated via a standard set of commands for rotatio..." alt="" coords="305,869,437,896"/>
+<area shape="rect" id="node13" title=" " alt="" coords="348,920,395,947"/>
+<area shape="rect" id="node14" title=" " alt="" coords="344,768,399,795"/>
+</map>

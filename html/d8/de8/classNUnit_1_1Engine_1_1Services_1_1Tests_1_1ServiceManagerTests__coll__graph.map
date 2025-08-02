@@ -1,0 +1,7 @@
+<map id="NUnit.Engine.Services.Tests.ServiceManagerTests" name="NUnit.Engine.Services.Tests.ServiceManagerTests">
+<area shape="rect" id="node1" title=" " alt="" coords="138,213,329,255"/>
+<area shape="rect" id="node2" href="$dd/d89/classNUnit_1_1Engine_1_1Services_1_1ServiceManager.html" title="ServiceManager handles access to all services &#45; global facilities shared by all instances of TestEngi..." alt="" coords="5,95,203,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="11,5,101,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="125,5,179,32"/>
+<area shape="rect" id="node5" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="227,102,373,129"/>
+</map>

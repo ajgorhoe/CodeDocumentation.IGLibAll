@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Interfaces.ITestCaseBuilder" name="NUnit.Framework.Interfaces.ITestCaseBuilder">
+<area shape="rect" id="node1" title="The ITestCaseBuilder interface is exposed by a class that knows how to build a test case from certain..." alt="" coords="16,5,203,47"/>
+<area shape="rect" id="node2" href="$d4/d86/classNUnit_1_1Framework_1_1Internal_1_1Builders_1_1DefaultTestCaseBuilder.html" title="Class to build ether a parameterized or a normal NUnitTestMethod. There are four cases that the build..." alt="" coords="5,95,213,136"/>
+</map>

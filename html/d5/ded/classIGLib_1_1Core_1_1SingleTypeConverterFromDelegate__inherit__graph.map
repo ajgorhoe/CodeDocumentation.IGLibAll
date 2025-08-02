@@ -1,0 +1,6 @@
+<map id="IGLib.Core.SingleTypeConverterFromDelegate&lt; TSource, TTarget &gt;" name="IGLib.Core.SingleTypeConverterFromDelegate&lt; TSource, TTarget &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="608,5,835,47"/>
+<area shape="rect" id="node2" href="$df/d21/classIGLib_1_1Core_1_1SingleTypeConverterBase.html" title="Abstract base implementation of ISingleTypeConverter&lt;TSource, TTarget&gt;. Sets SourceType and TargetTyp..." alt="" coords="389,35,560,76"/>
+<area shape="rect" id="node3" href="$d6/d04/interfaceIGLib_1_1Core_1_1ISingleTypeConverter.html" title="Converts values from a single specific source type (SourceType ) to a single specific target type (Ta..." alt="" coords="196,5,341,47"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,13,148,39"/>
+</map>

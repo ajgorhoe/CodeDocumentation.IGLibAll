@@ -1,0 +1,5 @@
+<map id="IG.Neural.INeuralApproximatorContainer" name="IG.Neural.INeuralApproximatorContainer">
+<area shape="rect" id="node1" title="Classes that contain neural approximator." alt="" coords="131,5,329,47"/>
+<area shape="rect" id="node2" href="$d8/dc3/classIG_1_1Neural_1_1Forms_1_1NeuralControl2D.html" title="A 2D neural network approximation demo control." alt="" coords="5,95,220,121"/>
+<area shape="rect" id="node3" href="$d0/d10/classIG_1_1Neural_1_1Forms_1_1NeuralDemo1D.html" title="A 1D neural network approximation demo control." alt="" coords="245,95,453,121"/>
+</map>

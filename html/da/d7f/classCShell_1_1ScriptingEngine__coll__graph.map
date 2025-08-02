@@ -1,0 +1,6 @@
+<map id="CShell.ScriptingEngine" name="CShell.ScriptingEngine">
+<area shape="rect" id="node1" title=" " alt="" coords="115,109,270,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,13,95,39"/>
+<area shape="rect" id="node3" href="$d0/dc3/interfaceCShellCore_1_1CodeCompletion_1_1ICSharpScriptProvider.html" title="This interface allows to provide more information for scripts such as using statements,..." alt="" coords="119,13,267,39"/>
+<area shape="rect" id="node4" href="$da/dc3/classCShellCore_1_1CodeCompletion_1_1CSharpCompletion.html" title=" " alt="" coords="291,5,481,47"/>
+</map>

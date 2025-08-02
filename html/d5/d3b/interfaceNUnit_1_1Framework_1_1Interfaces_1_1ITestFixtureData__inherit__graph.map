@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.Interfaces.ITestFixtureData" name="NUnit.Framework.Interfaces.ITestFixtureData">
+<area shape="rect" id="node1" title="The ITestCaseData interface is implemented by a class that is able to return the data required to cre..." alt="" coords="131,39,317,80"/>
+<area shape="rect" id="node3" href="$d4/d1a/classNUnit_1_1Framework_1_1Internal_1_1TestFixtureParameters.html" title="The TestCaseParameters class encapsulates method arguments and other selected parameters needed for c..." alt="" coords="375,5,547,47"/>
+<area shape="rect" id="node5" href="$d8/dee/classNUnit_1_1Framework_1_1TestFixtureAttribute.html" title="TestFixtureAttribute is used to mark a class that represents a TestFixture." alt="" coords="365,71,556,112"/>
+<area shape="rect" id="node2" href="$dc/d63/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestData.html" title="The ITestData interface is implemented by a class that represents a single instance of a parameterize..." alt="" coords="5,46,83,73"/>
+<area shape="rect" id="node4" href="$df/d73/classNUnit_1_1Framework_1_1TestFixtureData.html" title="The TestFixtureData class represents a set of arguments and other parameter info to be used for a par..." alt="" coords="604,13,823,39"/>
+<area shape="rect" id="node6" href="$dc/d20/classNUnit_1_1TestData_1_1AttributeInheritanceData_1_1ConcernAttribute.html" title=" " alt="" coords="607,71,820,112"/>
+</map>

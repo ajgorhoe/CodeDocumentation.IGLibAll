@@ -1,0 +1,25 @@
+var classalglib_1_1testlsfitunit =
+[
+    [ "testlsfit", "d0/d34/classalglib_1_1testlsfitunit.html#a7729ae896b6f54e071a6b51a2aa2800b", null ],
+    [ "testpolynomialfitting", "d0/d34/classalglib_1_1testlsfitunit.html#a80c0c3c11687a4cce948ddd99dc459bc", null ],
+    [ "testrationalfitting", "d0/d34/classalglib_1_1testlsfitunit.html#a7f3af4d21f47568ae3a8358169edb154", null ],
+    [ "testsplinefitting", "d0/d34/classalglib_1_1testlsfitunit.html#ac99d9b3ae523b5899c9c36be90bd53aa", null ],
+    [ "testgeneralfitting", "d0/d34/classalglib_1_1testlsfitunit.html#a78addf41239936ce51c003e40db4fd3d", null ],
+    [ "isglssolution", "d0/d34/classalglib_1_1testlsfitunit.html#a273f5199593ffbb92a77feac40cd8a61", null ],
+    [ "getglserror", "d0/d34/classalglib_1_1testlsfitunit.html#ae97df75d2782019308d781c413a8ee9a", null ],
+    [ "fitlinearnonlinear", "d0/d34/classalglib_1_1testlsfitunit.html#a4dce753fcfe65334b41c559f17a73e9c", null ],
+    [ "testgradientcheck", "d0/d34/classalglib_1_1testlsfitunit.html#aa00cbc6574ab7c849141788bd1fc98f7", null ],
+    [ "funcderiv", "d0/d34/classalglib_1_1testlsfitunit.html#a210ce246cb50573b028dd168aa00d1f6", null ],
+    [ "testlsfit", "d0/d34/classalglib_1_1testlsfitunit.html#a7729ae896b6f54e071a6b51a2aa2800b", null ],
+    [ "_pexec_testlsfit", "d0/d34/classalglib_1_1testlsfitunit.html#ab89849dc03134d52b1cad23087bbb187", null ],
+    [ "testpolynomialfitting", "d0/d34/classalglib_1_1testlsfitunit.html#a80c0c3c11687a4cce948ddd99dc459bc", null ],
+    [ "testrationalfitting", "d0/d34/classalglib_1_1testlsfitunit.html#a7f3af4d21f47568ae3a8358169edb154", null ],
+    [ "testsplinefitting", "d0/d34/classalglib_1_1testlsfitunit.html#ac99d9b3ae523b5899c9c36be90bd53aa", null ],
+    [ "testgeneralfitting", "d0/d34/classalglib_1_1testlsfitunit.html#a78addf41239936ce51c003e40db4fd3d", null ],
+    [ "isglssolution", "d0/d34/classalglib_1_1testlsfitunit.html#a273f5199593ffbb92a77feac40cd8a61", null ],
+    [ "getglserror", "d0/d34/classalglib_1_1testlsfitunit.html#ae97df75d2782019308d781c413a8ee9a", null ],
+    [ "fitlinearnonlinear", "d0/d34/classalglib_1_1testlsfitunit.html#a4dce753fcfe65334b41c559f17a73e9c", null ],
+    [ "testgradientcheck", "d0/d34/classalglib_1_1testlsfitunit.html#aa00cbc6574ab7c849141788bd1fc98f7", null ],
+    [ "funcderiv", "d0/d34/classalglib_1_1testlsfitunit.html#a210ce246cb50573b028dd168aa00d1f6", null ],
+    [ "checkerrorsinparameters", "d0/d34/classalglib_1_1testlsfitunit.html#ac5cfd110e94376b96544f5391c0b9985", null ]
+];

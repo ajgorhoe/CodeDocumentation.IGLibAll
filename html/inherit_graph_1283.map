@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,13,103,39"/>
+<area shape="rect" id="node2" href="$d2/d00/interfaceIGLib_1_1Core_1_1ICapturedVar.html" title="Interface for the CapturedVar&lt;DeclaredType&gt; and its derived types. See documetation for that type for..." alt="" coords="151,5,313,47"/>
+<area shape="rect" id="node3" href="$d6/d7e/classIGLib_1_1Core_1_1CapturedVar.html" title="Captures the declared type of the specified entity, its value at the time of capture,..." alt="" coords="361,5,520,47"/>
+</map>

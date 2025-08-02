@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/d7a/interfaceAForge_1_1Imaging_1_1ColorReduction_1_1IColorQuantizer.html" title="Interface which is implemented by different color quantization algorithms." alt="" coords="5,5,215,47"/>
+<area shape="rect" id="node2" href="$d7/d27/classAForge_1_1Imaging_1_1ColorReduction_1_1MedianCutQuantizer.html" title="Median cut color quantization algorithm." alt="" coords="263,5,472,47"/>
+</map>

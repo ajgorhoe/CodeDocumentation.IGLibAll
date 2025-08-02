@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/de1/classIG_1_1Lib_1_1MsgConstCommon.html" title="Common Constants related to messages sent with BIS. Remark: class MsgConst is composed of different p..." alt="" coords="5,13,176,39"/>
+<area shape="rect" id="node2" href="$db/db8/classIG_1_1Lib_1_1MsgConstObservationOrder.html" title="Constants related to the ObservationOrder msg. Remark: class MsgConst was composed of different parts..." alt="" coords="224,5,411,47"/>
+<area shape="rect" id="node3" href="$da/da0/classIG_1_1Lib_1_1MsgConstObservationEvent.html" title="Constants related to the ObservationEvent msg. Remark: class MsgConst was composed of different parts..." alt="" coords="459,5,645,47"/>
+<area shape="rect" id="node4" href="$de/da7/classIG_1_1Lib_1_1MsgConstFinancialTransaction.html" title="Constants related to the ObservationEvent msg. Remark: class MsgConst was composed of different parts..." alt="" coords="693,5,864,47"/>
+<area shape="rect" id="node5" href="$df/dd1/classIG_1_1Lib_1_1MsgConst.html" title="Constants related to msg for communication with BIS, conversion utilities from and to formats used in..." alt="" coords="912,13,1031,39"/>
+<area shape="rect" id="node6" href="$de/dda/classIG_1_1Lib_1_1MsgConstGolnik.html" title="Here one can handle specifics with respect to different versions of the program for different custome..." alt="" coords="1079,13,1235,39"/>
+</map>

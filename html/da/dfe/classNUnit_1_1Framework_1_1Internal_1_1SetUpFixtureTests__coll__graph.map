@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Internal.SetUpFixtureTests" name="NUnit.Framework.Internal.SetUpFixtureTests">
+<area shape="rect" id="node1" title=" " alt="" coords="316,64,488,105"/>
+<area shape="rect" id="node2" href="$dd/d84/interfaceNUnit_1_1Framework_1_1Api_1_1ITestAssemblyBuilder.html" title="The ITestAssemblyBuilder interface is implemented by a class that is able to build a suite of tests g..." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="67,71,121,98"/>
+<area shape="rect" id="node4" href="$df/d48/interfaceNUnit_1_1Framework_1_1Api_1_1ITestAssemblyRunner.html" title="The ITestAssemblyRunner interface is implemented by classes that are able to execute a suite of tests..." alt="" coords="5,123,183,164"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="IG.Num.IVectorApproximator" name="IG.Num.IVectorApproximator">
+<area shape="rect" id="node1" title="Interface for vector function approximators." alt="" coords="5,139,193,166"/>
+<area shape="rect" id="node2" href="$d7/db4/interfaceIG_1_1Num_1_1INeuralApproximator.html" title="Approximator of response by using neural networks. $A Igor Mar11;" alt="" coords="255,89,442,115"/>
+<area shape="rect" id="node6" href="$dc/db5/classIG_1_1Num_1_1NeuralApproximatorBase.html" title="Base class for neural network approximators." alt="" coords="504,165,719,191"/>
+<area shape="rect" id="node8" href="$db/d03/classIG_1_1Num_1_1VectorApproximatorBase.html" title="Base class for vector function approximators." alt="" coords="241,139,456,166"/>
+<area shape="rect" id="node3" href="$da/d91/classIG_1_1Neural_1_1NeuralApproximatorAforge.html" title="Approximator of response by using neural networks, based on the AforgeDotNet library...." alt="" coords="767,5,961,47"/>
+<area shape="rect" id="node4" href="$df/d4d/classIG_1_1Neural_1_1NeuralApproximatorBaseExt.html" title="Base class for neural network approximators." alt="" coords="767,71,961,112"/>
+<area shape="rect" id="node5" href="$db/d11/classIG_1_1Neural_1_1NeuralApproximatorNeuron.html" title="Approximator of response by using neural networks, based on the NeuronDotNet library...." alt="" coords="767,136,961,177"/>
+<area shape="rect" id="node7" href="$dd/d0e/classIG_1_1Num_1_1NeuralApproximatorAforgeFake.html" title=" " alt="" coords="772,201,956,243"/>
+</map>

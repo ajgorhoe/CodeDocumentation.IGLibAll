@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Api.ITestAssemblyBuilder" name="NUnit.Framework.Api.ITestAssemblyBuilder">
+<area shape="rect" id="node1" title="The ITestAssemblyBuilder interface is implemented by a class that is able to build a suite of tests g..." alt="" coords="11,5,189,47"/>
+<area shape="rect" id="node2" href="$d8/d47/classNUnit_1_1Framework_1_1Api_1_1DefaultTestAssemblyBuilder.html" title="DefaultTestAssemblyBuilder loads a single assembly and builds a TestSuite containing test fixtures pr..." alt="" coords="5,95,195,136"/>
+</map>

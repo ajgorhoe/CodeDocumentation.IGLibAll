@@ -1,0 +1,6 @@
+<map id="NUnit.Framework.Syntax.ArbitraryConstraintMatching.CustomConstraint" name="NUnit.Framework.Syntax.ArbitraryConstraintMatching.CustomConstraint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,248,271"/>
+<area shape="rect" id="node2" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="86,155,167,181"/>
+<area shape="rect" id="node3" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="85,80,169,107"/>
+<area shape="rect" id="node4" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="62,5,191,32"/>
+</map>

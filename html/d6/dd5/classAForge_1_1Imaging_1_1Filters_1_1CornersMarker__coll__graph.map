@@ -1,0 +1,9 @@
+<map id="AForge.Imaging.Filters.CornersMarker" name="AForge.Imaging.Filters.CornersMarker">
+<area shape="rect" id="node1" title="Filter to mark (highlight) corners of objects." alt="" coords="225,171,427,212"/>
+<area shape="rect" id="node2" href="$d6/d11/classAForge_1_1Imaging_1_1Filters_1_1BaseInPlaceFilter.html" title="Base class for filters, which may be applied directly to the source image." alt="" coords="71,81,195,108"/>
+<area shape="rect" id="node3" href="$dd/d51/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilter.html" title="Image processing filter interface." alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node4" href="$de/d9b/interfaceAForge_1_1Imaging_1_1Filters_1_1IInPlaceFilter.html" title="In&#45;place filter interface." alt="" coords="84,5,181,32"/>
+<area shape="rect" id="node5" href="$d7/dec/interfaceAForge_1_1Imaging_1_1Filters_1_1IFilterInformation.html" title="Interface which provides information about image processing filter." alt="" coords="206,5,323,32"/>
+<area shape="rect" id="node6" href="$d3/d5d/interfaceAForge_1_1Imaging_1_1ICornersDetector.html" title="Corners detector&#39;s interface." alt="" coords="219,81,433,108"/>
+<area shape="rect" id="node7" title=" " alt="" coords="458,81,525,108"/>
+</map>

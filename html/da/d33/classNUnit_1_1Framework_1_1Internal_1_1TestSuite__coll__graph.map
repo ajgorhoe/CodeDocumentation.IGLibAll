@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.Internal.TestSuite" name="NUnit.Framework.Internal.TestSuite">
+<area shape="rect" id="node1" title="TestSuite represents a composite test, which contains other tests." alt="" coords="184,289,356,331"/>
+<area shape="rect" id="node2" href="$d6/d59/classNUnit_1_1Framework_1_1Internal_1_1Test.html" title="The Test abstract class represents a test within the framework." alt="" coords="137,185,184,212"/>
+<area shape="rect" id="node3" href="$d6/dd5/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITest.html" title="Common interface supported by all representations of a test. Only includes informational fields...." alt="" coords="38,81,89,108"/>
+<area shape="rect" id="node4" href="$d9/dc0/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IXmlNodeBuilder.html" title="An object implementing IXmlNodeBuilder is able to build an XML representation of itself and any child..." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="113,81,208,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="232,81,287,108"/>
+<area shape="rect" id="node7" href="$d7/d49/classNUnit_1_1Framework_1_1List.html" title=" " alt="" coords="208,171,407,227"/>
+</map>

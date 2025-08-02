@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d4/d68/interfaceIGLib_1_1Core_1_1IReadonlyArrayAccessor.html" title="Provides read only access to elements of an underlying onedimensional array&#45;like structure." alt="" coords="5,39,183,80"/>
+<area shape="rect" id="node2" href="$d7/df3/interfaceIGLib_1_1Core_1_1IArrayAccessor.html" title=" " alt="" coords="231,71,407,112"/>
+<area shape="rect" id="node5" href="$db/df7/classIGLib_1_1Core_1_1ReadonlyArrayAccessor.html" title="Provides readonly access to elements of a fixed array. This is typically used to access array&#45;like in..." alt="" coords="231,5,408,47"/>
+<area shape="rect" id="node3" href="$d3/daf/classIGLib_1_1Core_1_1ArrayAccessor.html" title="Provides read/write access to elements of a fixed array. This is typically used to access array&#45;like ..." alt="" coords="459,5,632,47"/>
+<area shape="rect" id="node4" href="$d2/ded/interfaceIGLib_1_1Core_1_1IResizableArrayAccessor.html" title=" " alt="" coords="456,71,635,112"/>
+</map>

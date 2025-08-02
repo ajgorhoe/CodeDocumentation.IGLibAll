@@ -1,0 +1,4 @@
+<map id="AForge.Fuzzy.IDefuzzifier" name="AForge.Fuzzy.IDefuzzifier">
+<area shape="rect" id="node1" title="Interface which specifies set of methods required to be implemented by all defuzzification methods th..." alt="" coords="28,5,199,32"/>
+<area shape="rect" id="node2" href="$d9/d69/classAForge_1_1Fuzzy_1_1CentroidDefuzzifier.html" title="This class implements the centroid defuzzification method." alt="" coords="5,80,221,107"/>
+</map>

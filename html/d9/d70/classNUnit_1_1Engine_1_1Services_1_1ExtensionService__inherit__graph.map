@@ -1,0 +1,6 @@
+<map id="NUnit.Engine.Services.ExtensionService" name="NUnit.Engine.Services.ExtensionService">
+<area shape="rect" id="node1" title="The ExtensionService discovers ExtensionPoints and Extensions and maintains them in a database...." alt="" coords="5,155,219,196"/>
+<area shape="rect" id="node2" href="$df/d6e/classNUnit_1_1Engine_1_1Services_1_1Service.html" title="Abstract base class for services that can use it. Some Services already inherit from a different clas..." alt="" coords="80,80,144,107"/>
+<area shape="rect" id="node3" href="$df/da1/interfaceNUnit_1_1Engine_1_1IService.html" title="The IService interface is implemented by all Services. Although it is extensible, it does not reside ..." alt="" coords="28,5,95,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="119,5,209,32"/>
+</map>

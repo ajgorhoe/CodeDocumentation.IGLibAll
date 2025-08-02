@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.Constraints.EqualityAdapter" name="NUnit.Framework.Constraints.EqualityAdapter">
+<area shape="rect" id="node1" title="EqualityAdapter class handles all equality comparisons that use an IEqualityComparer,..." alt="" coords="5,79,201,120"/>
+<area shape="rect" id="node2" href="$d0/d81/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter_1_1ComparerAdapter.html" title="EqualityAdapter that wraps an IComparer." alt="" coords="249,5,500,47"/>
+<area shape="rect" id="node3" href="$d2/dda/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter_1_1EqualityComparerAdapter.html" title=" " alt="" coords="264,71,485,127"/>
+<area shape="rect" id="node4" href="$d1/d7f/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter_1_1GenericEqualityAdapter.html" title=" " alt="" coords="269,151,480,207"/>
+<area shape="rect" id="node5" href="$d0/d81/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter_1_1ComparerAdapter.html" title="EqualityAdapter that wraps an IComparer." alt="" coords="554,93,817,135"/>
+<area shape="rect" id="node6" href="$db/d9e/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter_1_1ComparisonAdapter.html" title=" " alt="" coords="548,159,823,200"/>
+<area shape="rect" id="node7" href="$d2/dda/classNUnit_1_1Framework_1_1Constraints_1_1EqualityAdapter_1_1EqualityComparerAdapter.html" title=" " alt="" coords="569,225,802,281"/>
+</map>

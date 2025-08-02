@@ -1,0 +1,8 @@
+<map id="NUnit.Framework.RangeAttribute" name="NUnit.Framework.RangeAttribute">
+<area shape="rect" id="node1" title="RangeAttribute is used to supply a range of _values to an individual parameter of a parameterized tes..." alt="" coords="25,304,237,331"/>
+<area shape="rect" id="node2" href="$da/db5/classNUnit_1_1Framework_1_1ValuesAttribute.html" title="ValuesAttribute is used to provide literal arguments for an individual parameter of a test." alt="" coords="76,229,187,256"/>
+<area shape="rect" id="node3" href="$d3/db6/classNUnit_1_1Framework_1_1DataAttribute.html" title="The abstract base class for all data&#45;providing attributes defined by NUnit. Used to select all data s..." alt="" coords="7,155,106,181"/>
+<area shape="rect" id="node4" href="$d3/dee/classNUnit_1_1Framework_1_1NUnitAttribute.html" title="The abstract base class for all custom attributes defined by NUnit." alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="21,5,92,32"/>
+<area shape="rect" id="node6" href="$da/dd6/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IParameterDataSource.html" title="The IParameterDataSource interface is implemented by types that can provide data for a test method pa..." alt="" coords="131,155,284,181"/>
+</map>

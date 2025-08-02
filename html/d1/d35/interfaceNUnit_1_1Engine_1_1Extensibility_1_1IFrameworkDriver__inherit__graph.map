@@ -1,0 +1,6 @@
+<map id="NUnit.Engine.Extensibility.IFrameworkDriver" name="NUnit.Engine.Extensibility.IFrameworkDriver">
+<area shape="rect" id="node1" title="The IFrameworkDriver interface is implemented by a class that is able to use an external framework to..." alt="" coords="5,71,183,112"/>
+<area shape="rect" id="node2" href="$d8/d3a/classNUnit_1_1Engine_1_1Drivers_1_1NotRunnableFrameworkDriver.html" title=" " alt="" coords="237,5,409,47"/>
+<area shape="rect" id="node3" href="$d8/d3a/classNUnit_1_1Engine_1_1Drivers_1_1NUnit2FrameworkDriver.html" title=" " alt="" coords="231,71,415,112"/>
+<area shape="rect" id="node4" href="$d9/d49/classNUnit_1_1Engine_1_1Drivers_1_1NUnit3FrameworkDriver.html" title="NUnitFrameworkDriver is used by the test&#45;runner to load and run tests using the NUnit framework assem..." alt="" coords="231,136,415,177"/>
+</map>

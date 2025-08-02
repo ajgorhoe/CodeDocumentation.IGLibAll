@@ -1,0 +1,5 @@
+<map id="AForge.Video.Ximea.XimeaVideoSource" name="AForge.Video.Ximea.XimeaVideoSource">
+<area shape="rect" id="node1" title="The class provides continues access to XIMEA cameras." alt="" coords="47,109,225,151"/>
+<area shape="rect" id="node2" href="$d3/d61/interfaceAForge_1_1Video_1_1IVideoSource.html" title="Video source interface." alt="" coords="5,13,104,39"/>
+<area shape="rect" id="node3" href="$d5/db1/classAForge_1_1Video_1_1Ximea_1_1XimeaCamera.html" title="The class provides access to XIMEA cameras." alt="" coords="128,5,307,47"/>
+</map>

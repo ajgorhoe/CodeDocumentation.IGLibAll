@@ -1,0 +1,27 @@
+var namespaceIGLib_1_1Core_1_1Tests =
+[
+    [ "BaseWrapper", "d0/d87/classIGLib_1_1Core_1_1Tests_1_1BaseWrapper.html", "d0/d87/classIGLib_1_1Core_1_1Tests_1_1BaseWrapper" ],
+    [ "BasicTypeConverterTests", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests.html", "d9/d24/classIGLib_1_1Core_1_1Tests_1_1BasicTypeConverterTests" ],
+    [ "CapturedVarTests", "df/dcf/classIGLib_1_1Core_1_1Tests_1_1CapturedVarTests.html", "df/dcf/classIGLib_1_1Core_1_1Tests_1_1CapturedVarTests" ],
+    [ "Celsius", "da/d66/classIGLib_1_1Core_1_1Tests_1_1Celsius.html", "da/d66/classIGLib_1_1Core_1_1Tests_1_1Celsius" ],
+    [ "CollectionTypeConverterTests", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests.html", "d3/dd9/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests" ],
+    [ "CollectionTypeConverterTests_DifferentElementTests", "dd/d47/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests__DifferentElementTests.html", "dd/d47/classIGLib_1_1Core_1_1Tests_1_1CollectionTypeConverterTests__DifferentElementTests" ],
+    [ "DerivedWrapper", "db/dd1/classIGLib_1_1Core_1_1Tests_1_1DerivedWrapper.html", "db/dd1/classIGLib_1_1Core_1_1Tests_1_1DerivedWrapper" ],
+    [ "Fahrenheit", "d7/d0c/classIGLib_1_1Core_1_1Tests_1_1Fahrenheit.html", "d7/d0c/classIGLib_1_1Core_1_1Tests_1_1Fahrenheit" ],
+    [ "IConvertibleThing", "d4/d28/interfaceIGLib_1_1Core_1_1Tests_1_1IConvertibleThing.html", "d4/d28/interfaceIGLib_1_1Core_1_1Tests_1_1IConvertibleThing" ],
+    [ "IntArrayToStringConverter_Testing", "d0/dec/classIGLib_1_1Core_1_1Tests_1_1IntArrayToStringConverter__Testing.html", "d0/dec/classIGLib_1_1Core_1_1Tests_1_1IntArrayToStringConverter__Testing" ],
+    [ "InterfaceImpl", "d9/db9/classIGLib_1_1Core_1_1Tests_1_1InterfaceImpl.html", "d9/db9/classIGLib_1_1Core_1_1Tests_1_1InterfaceImpl" ],
+    [ "ModelParameterTests", "d8/dbd/classIGLib_1_1Core_1_1Tests_1_1ModelParameterTests.html", "d8/dbd/classIGLib_1_1Core_1_1Tests_1_1ModelParameterTests" ],
+    [ "MyClass", "d9/d04/classIGLib_1_1Core_1_1Tests_1_1MyClass.html", "d9/d04/classIGLib_1_1Core_1_1Tests_1_1MyClass" ],
+    [ "ReflectionTypeConverterTests", "d2/deb/classIGLib_1_1Core_1_1Tests_1_1ReflectionTypeConverterTests.html", "d2/deb/classIGLib_1_1Core_1_1Tests_1_1ReflectionTypeConverterTests" ],
+    [ "SandboxTypeconversionTests", "d0/d03/classIGLib_1_1Core_1_1Tests_1_1SandboxTypeconversionTests.html", "d0/d03/classIGLib_1_1Core_1_1Tests_1_1SandboxTypeconversionTests" ],
+    [ "SpecificTypeConvrterTests", "d5/d49/classIGLib_1_1Core_1_1Tests_1_1SpecificTypeConvrterTests.html", "d5/d49/classIGLib_1_1Core_1_1Tests_1_1SpecificTypeConvrterTests" ],
+    [ "StringToIntArrayConverter_Testing", "d3/d1d/classIGLib_1_1Core_1_1Tests_1_1StringToIntArrayConverter__Testing.html", "d3/d1d/classIGLib_1_1Core_1_1Tests_1_1StringToIntArrayConverter__Testing" ],
+    [ "ToStringTypeConverterViaIConvertibleTests", "d5/db3/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaIConvertibleTests.html", "d5/db3/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaIConvertibleTests" ],
+    [ "ToStringTypeConverterViaJsonBenchmarkTests", "d6/d22/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonBenchmarkTests.html", "d6/d22/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonBenchmarkTests" ],
+    [ "ToStringTypeConverterViaJsonEdgeTests", "d4/d50/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonEdgeTests.html", "d4/d50/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonEdgeTests" ],
+    [ "ToStringTypeConverterViaJsonTests", "da/de7/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonTests.html", "da/de7/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonTests" ],
+    [ "ToStringTypeConverterViaParseReflectionTests", "d7/da4/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaParseReflectionTests.html", "d7/da4/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaParseReflectionTests" ],
+    [ "TypeConversionHelperTestsObsolete", "d9/d9d/classIGLib_1_1Core_1_1Tests_1_1TypeConversionHelperTestsObsolete.html", "d9/d9d/classIGLib_1_1Core_1_1Tests_1_1TypeConversionHelperTestsObsolete" ],
+    [ "TypeConverterTestsBase", "d9/d0f/classIGLib_1_1Core_1_1Tests_1_1TypeConverterTestsBase.html", "d9/d0f/classIGLib_1_1Core_1_1Tests_1_1TypeConverterTestsBase" ]
+];

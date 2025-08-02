@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Internal.TypeWrapper" name="NUnit.Framework.Internal.TypeWrapper">
+<area shape="rect" id="node1" title="The TypeWrapper class wraps a Type so it may be used in a platform&#45;independent manner." alt="" coords="5,155,177,196"/>
+<area shape="rect" id="node2" href="$d5/dff/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITypeInfo.html" title="The ITypeInfo interface is an abstraction of a .NET Type" alt="" coords="55,80,128,107"/>
+<area shape="rect" id="node3" href="$d5/dfa/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IReflectionInfo.html" title="The IReflectionInfo interface is implemented by NUnit wrapper objects that perform reflection." alt="" coords="40,5,143,32"/>
+</map>

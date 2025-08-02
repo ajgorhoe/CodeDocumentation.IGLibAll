@@ -1,0 +1,7 @@
+var classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonEdgeTests_1_1NonSerializableWithPrivateFieldsSetByConstructor =
+[
+    [ "NonSerializableWithPrivateFieldsSetByConstructor", "d7/d64/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonEdgeTests_1_1NonSerializableWithPrivateFieldsSetByConstructor.html#ab3224619e753e3291699886cc1978558", null ],
+    [ "ToString", "d7/d64/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonEdgeTests_1_1NonSerializableWithPrivateFieldsSetByConstructor.html#a1932b60bbb17e7854d8832ee6df64668", null ],
+    [ "hidden", "d7/d64/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonEdgeTests_1_1NonSerializableWithPrivateFieldsSetByConstructor.html#ac32e5a7a2495e29f29d83b023a7652a2", null ],
+    [ "Visible", "d7/d64/classIGLib_1_1Core_1_1Tests_1_1ToStringTypeConverterViaJsonEdgeTests_1_1NonSerializableWithPrivateFieldsSetByConstructor.html#a532e44df876bfca04b1308ea15f80b2e", null ]
+];

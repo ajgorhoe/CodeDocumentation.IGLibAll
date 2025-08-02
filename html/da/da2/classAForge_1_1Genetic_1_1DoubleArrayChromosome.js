@@ -1,0 +1,25 @@
+var classAForge_1_1Genetic_1_1DoubleArrayChromosome =
+[
+    [ "DoubleArrayChromosome", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a173219a82c0fe6115b6bf76a60db499c", null ],
+    [ "DoubleArrayChromosome", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a26546db261f0aa98617ccd550a6ae9ab", null ],
+    [ "DoubleArrayChromosome", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#ad92afbd37b176cf59fdbc82cddce636c", null ],
+    [ "ToString", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a1140bf71b40d38e8da549afa8cc66101", null ],
+    [ "Generate", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a9dea82ff7abeaa2918a64d293adcbdd4", null ],
+    [ "CreateNew", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#aada1878f2aa01edacbdf1f5c4dcbf5bf", null ],
+    [ "Clone", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a47f73323c7c1d5103d6c42f85b01ba34", null ],
+    [ "Mutate", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a1a0735cdeb1805fb4477c8e15ae8a114", null ],
+    [ "Crossover", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a0aa59fa52edafe00a2d86f1fd4caf5f1", null ],
+    [ "chromosomeGenerator", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a7bc3c326186fdda11a12568e67113b41", null ],
+    [ "mutationMultiplierGenerator", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a9960d1be37ab279d9298c4e1c44c9ae6", null ],
+    [ "mutationAdditionGenerator", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a57c8744cd714d2a62a4188ed8de38ce1", null ],
+    [ "rand", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a23c5d55f6bfac9ca8b62d30f72ac8ad0", null ],
+    [ "MaxLength", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a7aa833dbd959c5bb8dbedb05fb72b63d", null ],
+    [ "length", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a5e79965be3e2a9d6288a953858367277", null ],
+    [ "val", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a0ae53e21045c84815d7dd84da3607a15", null ],
+    [ "mutationBalancer", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a6df69e3a220faf03f0934ab4b6f73ddc", null ],
+    [ "crossoverBalancer", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a253c5710f5676c1013d2e32bd9160a02", null ],
+    [ "Length", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a0b63f02f3cad5c8e719ff761a4a70dd4", null ],
+    [ "Value", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a78929109013acba0fde2b3d9e3d52e4c", null ],
+    [ "MutationBalancer", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a3945eaa70b05d034c19294e151e97918", null ],
+    [ "CrossoverBalancer", "da/da2/classAForge_1_1Genetic_1_1DoubleArrayChromosome.html#a62fc3847405908f889f642dda68a5661", null ]
+];

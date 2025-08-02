@@ -1,0 +1,6 @@
+<map id="AForge.Math.Geometry.Tests.SimpleShapeCheckerTest" name="AForge.Math.Geometry.Tests.SimpleShapeCheckerTest">
+<area shape="rect" id="node1" title=" " alt="" coords="7,289,206,331"/>
+<area shape="rect" id="node2" href="$d7/df1/classAForge_1_1Math_1_1Geometry_1_1SimpleShapeChecker.html" title="A class for checking simple geometrical shapes." alt="" coords="5,185,208,227"/>
+<area shape="rect" id="node3" href="$d4/d30/classAForge_1_1Math_1_1Geometry_1_1FlatAnglesOptimizer.html" title="Shape optimizer, which removes obtuse angles (close to flat) from a shape." alt="" coords="15,81,199,123"/>
+<area shape="rect" id="node4" href="$d5/d34/interfaceAForge_1_1Math_1_1Geometry_1_1IShapeOptimizer.html" title="Interface for shape optimizing algorithms." alt="" coords="47,5,166,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="TSP.TSPFitnessFunction" name="TSP.TSPFitnessFunction">
+<area shape="rect" id="node1" title="Fitness function for TSP task (Travaling Salasman Problem)" alt="" coords="5,80,175,107"/>
+<area shape="rect" id="node2" href="$d3/d4c/interfaceAForge_1_1Genetic_1_1IFitnessFunction.html" title="Fitness function interface." alt="" coords="31,5,149,32"/>
+</map>

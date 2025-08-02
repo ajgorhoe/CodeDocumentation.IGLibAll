@@ -1,0 +1,6 @@
+<map id="IG.Script.AppIgorForFerdo" name="IG.Script.AppIgorForFerdo">
+<area shape="rect" id="node1" title="Internal script for running embedded applications." alt="" coords="71,155,244,181"/>
+<area shape="rect" id="node2" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="83,80,157,107"/>
+<area shape="rect" id="node3" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities." alt="" coords="5,5,115,32"/>
+<area shape="rect" id="node4" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="139,5,250,32"/>
+</map>

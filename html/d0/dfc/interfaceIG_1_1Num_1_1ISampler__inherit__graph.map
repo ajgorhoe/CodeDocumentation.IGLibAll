@@ -1,0 +1,8 @@
+<map id="IG.Num.ISampler" name="IG.Num.ISampler">
+<area shape="rect" id="node1" title="Interface representing sampling objects that produce a desired number of sampling points with a parti..." alt="" coords="5,101,127,128"/>
+<area shape="rect" id="node2" href="$db/d96/classIG_1_1Num_1_1SamplerBase.html" title="Base class for sampling classes that produce a desired number of sampling points with a particular ar..." alt="" coords="175,50,323,77"/>
+<area shape="rect" id="node3" href="$d8/d19/classIG_1_1Num_1_1SamplerBaseRandom.html" title="Base class for sampling classes that produce a desired number of sampling points with a particular ar..." alt="" coords="371,101,567,128"/>
+<area shape="rect" id="node4" href="$dc/d0f/classIG_1_1Num_1_1SamplerBoxRandomUniform.html" title="Uniformly distributed random sampling within the coordinate origin&#45;centered cube." alt="" coords="615,26,848,53"/>
+<area shape="rect" id="node5" href="$da/d18/classIG_1_1Num_1_1SamplerCubeRandomUniform.html" title="Uniformly distributed random sampling within the coordinate origin&#45;centered cube." alt="" coords="633,103,829,144"/>
+<area shape="rect" id="node6" href="$d4/d28/classIG_1_1Num_1_1SamplerUnitBallRandomFromCube.html" title="Random sampling within the coordinate origin&#45;centered hyper ball with radius one; derived from unifor..." alt="" coords="626,178,837,219"/>
+</map>

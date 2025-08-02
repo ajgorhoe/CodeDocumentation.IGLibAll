@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/daa/classNUnit_1_1Framework_1_1Internal_1_1TestResultTests.html" title="Summary description for TestResultTests." alt="" coords="5,235,177,276"/>
+<area shape="rect" id="node2" href="$d2/d40/classNUnit_1_1Framework_1_1Internal_1_1DefaultResultTests.html" title=" " alt="" coords="235,5,407,47"/>
+<area shape="rect" id="node3" href="$d0/db7/classNUnit_1_1Framework_1_1Internal_1_1FailedResultTests.html" title=" " alt="" coords="235,71,407,112"/>
+<area shape="rect" id="node4" href="$d4/d6c/classNUnit_1_1Framework_1_1Internal_1_1IgnoredResultTests.html" title=" " alt="" coords="235,136,407,177"/>
+<area shape="rect" id="node5" href="$d8/d04/classNUnit_1_1Framework_1_1Internal_1_1InconclusiveResultTests.html" title=" " alt="" coords="235,201,407,243"/>
+<area shape="rect" id="node6" href="$d5/d6b/classNUnit_1_1Framework_1_1Internal_1_1MinimumDurationResultTests.html" title=" " alt="" coords="225,267,417,308"/>
+<area shape="rect" id="node7" href="$da/d72/classNUnit_1_1Framework_1_1Internal_1_1MixedResultTests.html" title=" " alt="" coords="235,332,407,373"/>
+<area shape="rect" id="node8" href="$d1/dbe/classNUnit_1_1Framework_1_1Internal_1_1NotRunnableResultTests.html" title=" " alt="" coords="235,397,407,439"/>
+<area shape="rect" id="node9" href="$d2/d75/classNUnit_1_1Framework_1_1Internal_1_1SuccessResultTests.html" title=" " alt="" coords="235,463,407,504"/>
+</map>

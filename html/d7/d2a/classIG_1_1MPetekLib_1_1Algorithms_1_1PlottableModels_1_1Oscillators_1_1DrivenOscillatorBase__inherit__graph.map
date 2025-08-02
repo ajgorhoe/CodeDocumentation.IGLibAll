@@ -1,0 +1,9 @@
+<map id="IG.MPetekLib.Algorithms.PlottableModels.Oscillators.DrivenOscillatorBase" name="IG.MPetekLib.Algorithms.PlottableModels.Oscillators.DrivenOscillatorBase">
+<area shape="rect" id="node1" title="A template class for the driven oscillators. Holds the values for: angular driving frequency,..." alt="" coords="407,125,592,181"/>
+<area shape="rect" id="node4" href="$da/dff/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1Oscillators_1_1DrivenHarmonicOscillator.html" title="Specifični solver, ki zastopa vsiljeno nihanje." alt="" coords="640,5,825,61"/>
+<area shape="rect" id="node5" href="$d0/dca/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1Oscillators_1_1DrivenNonlinearOscillator.html" title=" " alt="" coords="640,85,825,141"/>
+<area shape="rect" id="node6" href="$d6/dad/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1Oscillators_1_1DrivenNonlinOscNondim.html" title=" " alt="" coords="640,165,825,221"/>
+<area shape="rect" id="node7" href="$d8/d6c/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1Oscillators_1_1MagneticOscHardSpring.html" title=" " alt="" coords="640,245,825,301"/>
+<area shape="rect" id="node2" href="$db/db8/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableODEModelBase.html" title="A template class for physical models, which are described by ordinary differential equations (ODEs)...." alt="" coords="192,140,359,167"/>
+<area shape="rect" id="node3" href="$d2/d4f/classIG_1_1MPetekLib_1_1Algorithms_1_1PlottableModels_1_1PlottableModelBase.html" title="A template class for physical models. Each child should define its own plottable curves)." alt="" coords="5,140,144,167"/>
+</map>

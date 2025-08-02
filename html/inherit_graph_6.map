@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,187,68,213"/>
+<area shape="rect" id="node2" href="$df/d2d/classAForge_1_1Controls_1_1Chart.html" title="Chart control" alt="" coords="138,5,289,32"/>
+<area shape="rect" id="node3" href="$d0/d18/classAForge_1_1Controls_1_1ColorSlider.html" title="Color slider control." alt="" coords="122,56,305,83"/>
+<area shape="rect" id="node4" href="$d4/ddf/classAForge_1_1Controls_1_1Histogram.html" title="Histogram control." alt="" coords="124,107,303,133"/>
+<area shape="rect" id="node5" href="$d4/d25/classAForge_1_1Controls_1_1HuePicker.html" title="Hue picker control." alt="" coords="123,157,303,184"/>
+<area shape="rect" id="node6" href="$d5/d73/classAForge_1_1Controls_1_1ManipulatorControl.html" title="Manipulator control." alt="" coords="120,209,307,250"/>
+<area shape="rect" id="node7" href="$d6/d37/classAForge_1_1Controls_1_1SliderControl.html" title="Slider control." alt="" coords="116,275,311,301"/>
+<area shape="rect" id="node8" href="$da/da0/classAForge_1_1Controls_1_1VideoSourcePlayer.html" title="Video source player control." alt="" coords="116,326,311,367"/>
+<area shape="rect" id="node9" href="$dc/d20/classMotionDetectorSample_1_1DefineRegionsControl.html" title=" " alt="" coords="116,391,311,433"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="NUnit.Framework.Interfaces.IWrapSetUpTearDown" name="NUnit.Framework.Interfaces.IWrapSetUpTearDown">
+<area shape="rect" id="node1" title="Objects implementing this interface are used to wrap the entire test, including SetUp and TearDown." alt="" coords="5,80,192,121"/>
+<area shape="rect" id="node2" href="$da/d8c/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ICommandWrapper.html" title="ICommandWrapper is implemented by attributes and other objects able to wrap a TestCommand with anothe..." alt="" coords="32,5,165,32"/>
+</map>

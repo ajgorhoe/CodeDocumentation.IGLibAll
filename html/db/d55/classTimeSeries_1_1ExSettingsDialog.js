@@ -1,0 +1,25 @@
+var classTimeSeries_1_1ExSettingsDialog =
+[
+    [ "ExSettingsDialog", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a1c7d6177bf1da0cc1137e2c95dbcf68f", null ],
+    [ "Dispose", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a60529c964e8e9a34d03d4a9bede89911", null ],
+    [ "InitializeComponent", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a1732a46415683f82ce6cca1ade1778c0", null ],
+    [ "ExSettingsDialog_Load", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a783b05780418c9034cabf67ea5fed01f", null ],
+    [ "okButton_Click", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a88fe16e1ca75adb3043f067f116027a5", null ],
+    [ "groupBox1", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a804df9b53ef1d048eac1c92d8a1e85c5", null ],
+    [ "label1", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a4fad12eed7cd507909a21cb863486014", null ],
+    [ "maxInitialLevelBox", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#ab1ff73e30796410d0e30bc12a1a3e6b6", null ],
+    [ "label2", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a0d2d9334562c14d3a6c8407db3e69a03", null ],
+    [ "maxLevelBox", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#ab97d1366528dd5e9bf7f23f9c1fcd1c5", null ],
+    [ "groupBox2", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#aaedc304a14bdd074b58c2e6cc8611576", null ],
+    [ "label3", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a4574027f2b631e66505d27230395bda6", null ],
+    [ "headLengthBox", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#af8bf79a60ed629a3cb766cc4e5e5cd65", null ],
+    [ "okButton", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#ad1a41367b8288c0def1ce09cc85c72cf", null ],
+    [ "cancelButton", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#a5cd78e679fdf5cfefbc445b663a89012", null ],
+    [ "components", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#aa960f374e9a90aa83c92eb4978c1b5bb", null ],
+    [ "maxInitialTreeLevel", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#af8949defc1cbfb8210031c0a98af753b", null ],
+    [ "maxTreeLevel", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#ae9a8a1d38224ad363e0b5cc0ff43bb31", null ],
+    [ "headLength", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#ad637f423f7cbbc77d448575c62a0d725", null ],
+    [ "MaxInitialTreeLevel", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#adbd45348516e4062f1f610ec3cf1f4fd", null ],
+    [ "MaxTreeLevel", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#ac4d209246cc5c5dddc73ecbfa8ffd3fd", null ],
+    [ "HeadLength", "db/d55/classTimeSeries_1_1ExSettingsDialog.html#ae03b8456db4569686bcd36f085acf216", null ]
+];

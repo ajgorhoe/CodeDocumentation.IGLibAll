@@ -1,0 +1,11 @@
+<map id="NUnit.Framework.Constraints.TypeConstraint" name="NUnit.Framework.Constraints.TypeConstraint">
+<area shape="rect" id="node1" title="TypeConstraint is the abstract base for constraints that take a Type as their expected value." alt="" coords="444,104,640,145"/>
+<area shape="rect" id="node5" href="$d0/d1f/classNUnit_1_1Framework_1_1Constraints_1_1AssignableFromConstraint.html" title="AssignableFromConstraint is used to test that an object can be assigned from a given Type." alt="" coords="688,5,884,47"/>
+<area shape="rect" id="node6" href="$d0/ddc/classNUnit_1_1Framework_1_1Constraints_1_1AssignableToConstraint.html" title="AssignableToConstraint is used to test that an object can be assigned to a given Type." alt="" coords="688,71,884,112"/>
+<area shape="rect" id="node7" href="$de/df2/classNUnit_1_1Framework_1_1Constraints_1_1ExactTypeConstraint.html" title="ExactTypeConstraint is used to test that an object is of the exact type provided in the constructor" alt="" coords="688,136,884,177"/>
+<area shape="rect" id="node9" href="$df/d1c/classNUnit_1_1Framework_1_1Constraints_1_1InstanceOfTypeConstraint.html" title="InstanceOfTypeConstraint is used to test that an object is of the same type provided or derived from ..." alt="" coords="688,201,884,243"/>
+<area shape="rect" id="node2" href="$d9/da9/classNUnit_1_1Framework_1_1Constraints_1_1Constraint.html" title="The Constraint class is the base of all built&#45;in constraints within NUnit. It provides the operator o..." alt="" coords="315,111,396,138"/>
+<area shape="rect" id="node3" href="$d1/d94/interfaceNUnit_1_1Framework_1_1Constraints_1_1IConstraint.html" title="Interface for all constraints" alt="" coords="183,111,267,138"/>
+<area shape="rect" id="node4" href="$d7/d29/interfaceNUnit_1_1Framework_1_1Constraints_1_1IResolveConstraint.html" title="The IResolveConstraint interface is implemented by all complete and resolvable constraints and expres..." alt="" coords="5,111,135,138"/>
+<area shape="rect" id="node8" href="$dd/ded/classNUnit_1_1Framework_1_1Constraints_1_1ExceptionTypeConstraint.html" title="ExceptionTypeConstraint is a special version of ExactTypeConstraint used to provided detailed info ab..." alt="" coords="932,136,1128,177"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Interfaces.IWrapTestMethod" name="NUnit.Framework.Interfaces.IWrapTestMethod">
+<area shape="rect" id="node1" title="Objects implementing this interface are used to wrap the TestMethodCommand itself...." alt="" coords="41,80,227,121"/>
+<area shape="rect" id="node3" href="$df/d09/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute.html" title="Extremely simple ExpectedException implementation for use in the test" alt="" coords="5,169,263,225"/>
+<area shape="rect" id="node2" href="$da/d8c/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ICommandWrapper.html" title="ICommandWrapper is implemented by attributes and other objects able to wrap a TestCommand with anothe..." alt="" coords="67,5,201,32"/>
+</map>

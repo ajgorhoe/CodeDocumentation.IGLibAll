@@ -1,0 +1,6 @@
+<map id="IG.Num.AnalysisRequestDto" name="IG.Num.AnalysisRequestDto">
+<area shape="rect" id="node1" title="DTO (Data Transfer Objects) for storing contents of direct analysis request (in optimization problems..." alt="" coords="528,47,716,73"/>
+<area shape="rect" id="node2" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="216,5,403,61"/>
+<area shape="rect" id="node3" href="$dc/dec/classIG_1_1Lib_1_1VectorDtoBase.html" title="Base class for various vector DTO (Data Transfer Objects) for vectors. Used to store a state of a vec..." alt="" coords="235,86,383,127"/>
+<area shape="rect" id="node4" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title=" " alt="" coords="5,86,167,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="NUnit.Framework.Internal.Builders.NUnitTestFixtureBuilder" name="NUnit.Framework.Internal.Builders.NUnitTestFixtureBuilder">
+<area shape="rect" id="node1" title="NUnitTestFixtureBuilder is able to build a fixture given a class marked with a TestFixtureAttribute o..." alt="" coords="65,109,276,151"/>
+<area shape="rect" id="node2" href="$d2/dbb/interfaceNUnit_1_1Framework_1_1Interfaces_1_1ITestCaseBuilder.html" title="The ITestCaseBuilder interface is exposed by a class that knows how to build a test case from certain..." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="217,13,271,39"/>
+</map>

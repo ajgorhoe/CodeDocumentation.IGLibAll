@@ -1,0 +1,4 @@
+var classNUnit_1_1Framework_1_1Attributes_1_1ApartmentAttributeTests_1_1ChildFixtureRequiresSTA =
+[
+    [ "RequiresSTAAtributeIsInheritable", "de/d97/classNUnit_1_1Framework_1_1Attributes_1_1ApartmentAttributeTests_1_1ChildFixtureRequiresSTA.html#a306d087dffaf9dd47e86cc414fbb6146", null ]
+];

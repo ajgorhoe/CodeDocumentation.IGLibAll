@@ -1,0 +1,4 @@
+var classJsonPrettyPrinterPlus_1_1JsonPrettyPrinterInternals_1_1JsonPPStrategies_1_1DoubleQuoteStrategy =
+[
+    [ "ExecutePrintyPrint", "d1/dad/classJsonPrettyPrinterPlus_1_1JsonPrettyPrinterInternals_1_1JsonPPStrategies_1_1DoubleQuoteStrategy.html#a03bc86ebe6559d37d16ed8186f320247", null ]
+];

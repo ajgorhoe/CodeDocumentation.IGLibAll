@@ -1,0 +1,5 @@
+<map id="NUnit.Engine.Services.ServiceManager" name="NUnit.Engine.Services.ServiceManager">
+<area shape="rect" id="node1" title="ServiceManager handles access to all services &#45; global facilities shared by all instances of TestEngi..." alt="" coords="5,95,203,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="11,5,101,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="125,5,179,32"/>
+</map>

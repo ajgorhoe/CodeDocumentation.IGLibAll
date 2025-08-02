@@ -1,0 +1,9 @@
+<map id="NUnit.Framework.Interfaces.ICommandWrapper" name="NUnit.Framework.Interfaces.ICommandWrapper">
+<area shape="rect" id="node1" title="ICommandWrapper is implemented by attributes and other objects able to wrap a TestCommand with anothe..." alt="" coords="5,101,192,142"/>
+<area shape="rect" id="node2" href="$d0/dd3/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IWrapSetUpTearDown.html" title="Objects implementing this interface are used to wrap the entire test, including SetUp and TearDown." alt="" coords="240,62,427,103"/>
+<area shape="rect" id="node6" href="$db/ddb/interfaceNUnit_1_1Framework_1_1Interfaces_1_1IWrapTestMethod.html" title="Objects implementing this interface are used to wrap the TestMethodCommand itself...." alt="" coords="240,139,427,181"/>
+<area shape="rect" id="node3" href="$dc/d1e/classNUnit_1_1Framework_1_1MaxTimeAttribute.html" title="Summary description for MaxTimeAttribute." alt="" coords="489,5,717,32"/>
+<area shape="rect" id="node4" href="$dc/d63/classNUnit_1_1Framework_1_1RepeatAttribute.html" title="RepeatAttribute may be applied to test case in order to run it multiple times." alt="" coords="495,56,711,83"/>
+<area shape="rect" id="node5" href="$d2/d57/classNUnit_1_1Framework_1_1RetryAttribute.html" title="RepeatAttribute may be applied to test case in order to run it multiple times." alt="" coords="500,107,707,133"/>
+<area shape="rect" id="node7" href="$df/d09/classNUnit_1_1Framework_1_1Attributes_1_1Tests_1_1CommandWrapperTests_1_1ExpectedExceptionAttribute.html" title="Extremely simple ExpectedException implementation for use in the test" alt="" coords="475,157,732,213"/>
+</map>
