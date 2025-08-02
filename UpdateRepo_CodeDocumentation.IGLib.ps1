@@ -29,7 +29,7 @@ $UpdatingScriptPath = "./UpdateOrCloneRepository.ps1"
 # Define parameter variables for UpdateOrCloneRepository.ps1
 #    in the same order as that script's parameters:
 
-$global:CurrentRepo_Directory = "CodeDocumentation/"
+$global:CurrentRepo_Directory = "Doc/CodeDocumentation.IGLib"
 $global:CurrentRepo_Ref = "main"
 $global:CurrentRepo_Address = "https://github.com/ajgorhoe/CodeDocumentation.IGLib"
 $global:CurrentRepo_Remote = "origin"
