@@ -24,14 +24,14 @@ Write-Host "Updating/cloning a specific repository..."
 # Custom section (USER DEFINED):
 
 # Path to UpdateOrCloneRepository.ps1
-$UpdatingScriptPath = "./_scripts/UpdateOrCloneRepository.ps1"
+$UpdatingScriptPath = "./UpdateOrCloneRepository.ps1"
 
 # Define parameter variables for UpdateOrCloneRepository.ps1
 #    in the same order as that script's parameters:
 
-$global:CurrentRepo_Directory = "DocWithSourcrs/CodeDocumentation.IGLibWithSources"
+$global:CurrentRepo_Directory = "DocWithSources/CodeDocumentation.IGLibWithSources.git"
 $global:CurrentRepo_Ref = "main"
-$global:CurrentRepo_Address = "https://github.com/ajgorhoe/CodeDocumentation.IGLibWithSources"
+$global:CurrentRepo_Address = "https://github.com/ajgorhoe/CodeDocumentation.IGLibWithSources.git"
 $global:CurrentRepo_Remote = "origin"
 $global:CurrentRepo_AddressSecondary = $null
 $global:CurrentRepo_RemoteSecondary = "remodeSecondary"

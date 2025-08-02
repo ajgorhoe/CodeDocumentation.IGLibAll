@@ -31,7 +31,7 @@ $UpdatingScriptPath = "./UpdateOrCloneRepository.ps1"
 
 $global:CurrentRepo_Directory = "Doc/CodeDocumentation.IGLibAll/"
 $global:CurrentRepo_Ref = "main"
-$global:CurrentRepo_Address = "https://github.com/ajgorhoe/CodeDocumentation.IGLibAll"
+$global:CurrentRepo_Address = "https://github.com/ajgorhoe/CodeDocumentation.IGLibAll.git"
 $global:CurrentRepo_Remote = "origin"
 $global:CurrentRepo_AddressSecondary = $null
 $global:CurrentRepo_RemoteSecondary = "remodeSecondary"
