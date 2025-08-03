@@ -8,6 +8,8 @@ See [LICENSE.md](LICENSE.md) at https://github.com/ajgorhoe/CodeDocumentation.IG
 
 This repository is part of the [Investigative Generic Library (IGLib)](https://github.com/ajgorhoe/IGLib.modules.IGLibCore/blob/main/README.md). It contains a **part of IGLib code documentation**. For more information, see the ***[README.md](https://github.com/ajgorhoe/CodeDocumentation/blob/main/README.md)*** of the [container repository](https://github.com/ajgorhoe/CodeDocumentation) for IGLib code documentation.
 
+The documentation below can be **viewed locally after cloning this repository** (open this readme in a HTML / markdown viewer such as browser with markdown plugin).
+
 **[Documentation](html/index.html)**:
 
 * [index](html/index.html)
